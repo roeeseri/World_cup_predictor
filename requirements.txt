@@ -7,3 +7,6 @@ plotly
 streamlit
 joblib
 python-dotenv
+playwright
+beautifulsoup4
+requests

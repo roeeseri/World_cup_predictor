@@ -1,0 +1,1152 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2019-01-02,Oman,Thailand,2,0,Friendly,the United Arab Emirates,9,-9,1537,1375,0,-4,74,113
+2019-01-05,United Arab Emirates,Bahrain,1,1,Asian Cup,the United Arab Emirates,-10,10,1474,1442,0,2,85,97
+2019-01-06,India,Thailand,4,1,Asian Cup,the United Arab Emirates,62,-62,1283,1313,11,-19,141,132
+2019-01-06,Jordan,Australia,1,0,Asian Cup,the United Arab Emirates,42,-42,1490,1694,10,-8,85,43
+2019-01-06,Palestine,Syria,0,0,Asian Cup,the United Arab Emirates,14,-14,1396,1586,3,-4,107,61
+2019-01-07,China,Kyrgyzstan,2,1,Asian Cup,the United Arab Emirates,11,-11,1525,1280,3,-1,76,141
+2019-01-07,Iran,Yemen,5,0,Asian Cup,the United Arab Emirates,3,-3,1826,1188,0,0,19,164
+2019-01-07,South Korea,Philippines,1,0,Asian Cup,the United Arab Emirates,2,-2,1780,1174,1,0,22,168
+2019-01-08,Finland,Sweden,1,0,Friendly,Qatar,16,-16,1636,1834,3,0,49,18
+2019-01-08,Iraq,Vietnam,3,2,Asian Cup,the United Arab Emirates,10,-10,1592,1328,4,-7,59,126
+2019-01-08,Saudi Arabia,North Korea,4,0,Asian Cup,the United Arab Emirates,28,-28,1611,1403,7,-3,55,103
+2019-01-09,Japan,Turkmenistan,3,2,Asian Cup,the United Arab Emirates,3,-3,1733,1250,0,-1,35,150
+2019-01-09,Qatar,Lebanon,2,0,Asian Cup,the United Arab Emirates,30,-30,1552,1425,10,-6,68,99
+2019-01-09,Uzbekistan,Oman,2,1,Asian Cup,the United Arab Emirates,21,-21,1612,1516,6,-5,54,79
+2019-01-10,Jordan,Syria,2,0,Asian Cup,the United Arab Emirates,48,-48,1538,1538,12,-10,73,73
+2019-01-10,Thailand,Bahrain,1,0,Asian Cup,the United Arab Emirates,34,-34,1347,1408,14,-6,118,102
+2019-01-10,United Arab Emirates,India,2,0,Asian Cup,the United Arab Emirates,12,-12,1486,1271,0,-3,86,143
+2019-01-11,Australia,Palestine,3,0,Asian Cup,the United Arab Emirates,13,-13,1707,1383,1,-3,42,110
+2019-01-11,China,Philippines,3,0,Asian Cup,the United Arab Emirates,10,-10,1535,1164,1,-1,76,169
+2019-01-11,Estonia,Finland,2,1,Friendly,Qatar,15,-15,1482,1621,2,-3,87,52
+2019-01-11,Iceland,Sweden,2,2,Friendly,Qatar,4,-4,1672,1830,0,0,46,18
+2019-01-11,South Korea,Kyrgyzstan,1,0,Asian Cup,the United Arab Emirates,3,-3,1783,1277,0,-1,22,141
+2019-01-12,Iran,Vietnam,2,0,Asian Cup,the United Arab Emirates,4,-4,1830,1324,1,0,18,127
+2019-01-12,Iraq,Yemen,3,0,Asian Cup,the United Arab Emirates,8,-8,1600,1180,1,-2,59,166
+2019-01-12,Saudi Arabia,Lebanon,2,0,Asian Cup,the United Arab Emirates,19,-19,1630,1406,7,-4,49,102
+2019-01-13,Japan,Oman,1,0,Asian Cup,the United Arab Emirates,11,-11,1744,1505,1,-2,34,82
+2019-01-13,Qatar,North Korea,6,0,Asian Cup,the United Arab Emirates,32,-32,1584,1371,4,-9,63,112
+2019-01-13,Uzbekistan,Turkmenistan,4,0,Asian Cup,the United Arab Emirates,10,-10,1622,1240,4,-2,51,152
+2019-01-14,Bahrain,India,1,0,Asian Cup,the United Arab Emirates,16,-16,1424,1255,3,-4,98,147
+2019-01-14,United Arab Emirates,Thailand,1,1,Asian Cup,the United Arab Emirates,-15,15,1471,1362,-3,4,89,114
+2019-01-15,Australia,Syria,3,2,Asian Cup,the United Arab Emirates,14,-14,1721,1524,2,-4,40,77
+2019-01-15,Estonia,Iceland,0,0,Friendly,Qatar,5,-5,1487,1667,0,0,86,46
+2019-01-15,Jordan,Palestine,0,0,Asian Cup,the United Arab Emirates,-10,10,1528,1393,-2,3,75,106
+2019-01-16,Iran,Iraq,0,0,Asian Cup,the United Arab Emirates,-14,14,1816,1614,-1,4,19,55
+2019-01-16,Kyrgyzstan,Philippines,3,1,Asian Cup,the United Arab Emirates,26,-26,1303,1138,6,-2,135,171
+2019-01-16,South Korea,China,2,0,Asian Cup,the United Arab Emirates,15,-15,1798,1520,1,-4,21,78
+2019-01-16,Vietnam,Yemen,2,0,Asian Cup,the United Arab Emirates,23,-23,1347,1157,8,-2,119,168
+2019-01-17,Japan,Uzbekistan,2,1,Asian Cup,the United Arab Emirates,17,-17,1761,1605,7,-7,27,58
+2019-01-17,Lebanon,North Korea,4,1,Asian Cup,the United Arab Emirates,39,-39,1445,1332,6,-12,96,124
+2019-01-17,Oman,Turkmenistan,3,1,Asian Cup,the United Arab Emirates,13,-13,1518,1227,3,0,79,152
+2019-01-17,Qatar,Saudi Arabia,2,0,Asian Cup,the United Arab Emirates,42,-42,1626,1588,13,-13,50,62
+2019-01-20,China,Thailand,2,1,Asian Cup,the United Arab Emirates,14,-14,1534,1348,4,-5,74,118
+2019-01-20,Iran,Oman,2,0,Asian Cup,the United Arab Emirates,11,-11,1827,1507,0,-3,19,82
+2019-01-20,Jordan,Vietnam,1,1,Asian Cup,the United Arab Emirates,-12,12,1516,1359,-5,5,79,113
+2019-01-21,Australia,Uzbekistan,0,0,Asian Cup,the United Arab Emirates,-8,8,1713,1613,-1,3,41,55
+2019-01-21,Japan,Saudi Arabia,1,0,Asian Cup,the United Arab Emirates,13,-13,1774,1575,3,-1,24,63
+2019-01-21,United Arab Emirates,Kyrgyzstan,3,2,Asian Cup,the United Arab Emirates,9,-9,1480,1294,2,-4,87,139
+2019-01-22,Qatar,Iraq,1,0,Asian Cup,the United Arab Emirates,24,-24,1650,1590,2,-7,48,61
+2019-01-22,South Korea,Bahrain,2,1,Asian Cup,the United Arab Emirates,5,-5,1803,1419,0,-1,21,100
+2019-01-24,Iran,China,3,0,Asian Cup,the United Arab Emirates,14,-14,1841,1520,1,-3,18,77
+2019-01-24,Japan,Vietnam,1,0,Asian Cup,the United Arab Emirates,4,-4,1778,1355,0,-2,24,115
+2019-01-25,Qatar,South Korea,1,0,Asian Cup,the United Arab Emirates,35,-35,1685,1768,4,-5,44,26
+2019-01-25,United Arab Emirates,Australia,1,0,Asian Cup,the United Arab Emirates,34,-34,1514,1679,7,-4,80,45
+2019-01-27,United States,Panama,3,0,Friendly,the United States,6,-6,1748,1560,1,-2,34,67
+2019-01-28,Japan,Iran,3,0,Asian Cup,the United Arab Emirates,52,-52,1830,1789,5,-4,18,22
+2019-01-29,United Arab Emirates,Qatar,0,4,Asian Cup,the United Arab Emirates,-37,37,1477,1722,-7,4,87,40
+2019-02-01,Qatar,Japan,3,1,Asian Cup,the United Arab Emirates,49,-49,1771,1781,14,-4,26,22
+2019-02-02,United States,Costa Rica,2,0,Friendly,the United States,10,-10,1758,1714,5,-2,30,41
+2019-02-16,Dominican Republic,Guadeloupe,1,0,Friendly,the Dominican Republic,6,-6,1270,1197,1,-3,143,163
+2019-02-21,Kazakhstan,Moldova,1,0,Friendly,Turkey,10,-10,1340,1313,6,-4,120,132
+2019-02-23,Sint Maarten,Saint Barthelemy,1,1,Friendly,Sint Maarten,-5,5,805,703,0,1,206,219
+2019-02-25,Cuba,Bermuda,2,2,Friendly,Cuba,-6,6,1332,1187,-3,1,124,164
+2019-02-27,Cuba,Bermuda,5,0,Friendly,Cuba,8,-8,1340,1179,4,-1,120,165
+2019-02-28,Grenada,Saint Lucia,1,0,Windward Islands Tournament,Saint Vincent and the Grenadines,18,-18,1087,1117,5,-1,180,174
+2019-02-28,Saint Vincent and the Grenadines,Barbados,2,0,Windward Islands Tournament,Saint Vincent and the Grenadines,20,-20,1098,1113,4,-1,177,175
+2019-03-02,Dominica,Grenada,1,0,Windward Islands Tournament,Saint Vincent and the Grenadines,17,-17,1060,1070,1,-5,186,185
+2019-03-02,Saint Vincent and the Grenadines,Saint Lucia,2,1,Windward Islands Tournament,Saint Vincent and the Grenadines,12,-12,1110,1105,2,-2,175,176
+2019-03-03,Bolivia,Nicaragua,2,2,Friendly,Bolivia,-9,9,1646,1288,0,0,48,141
+2019-03-04,Barbados,Grenada,0,0,Windward Islands Tournament,Saint Vincent and the Grenadines,-2,2,1111,1072,0,2,174,183
+2019-03-04,Dominica,Saint Lucia,1,1,Windward Islands Tournament,Saint Vincent and the Grenadines,2,-2,1062,1103,0,0,186,176
+2019-03-06,Barbados,Saint Lucia,2,0,Windward Islands Tournament,Saint Vincent and the Grenadines,22,-22,1133,1081,1,-4,173,180
+2019-03-06,El Salvador,Guatemala,3,1,Friendly,the United States,17,-17,1470,1478,3,-1,90,86
+2019-03-06,Saint Vincent and the Grenadines,Dominica,2,1,Windward Islands Tournament,Saint Vincent and the Grenadines,9,-9,1119,1053,0,-1,175,187
+2019-03-08,Barbados,Dominica,2,0,Windward Islands Tournament,Saint Vincent and the Grenadines,17,-17,1150,1036,2,0,171,187
+2019-03-08,Saint Vincent and the Grenadines,Grenada,1,1,Windward Islands Tournament,Saint Vincent and the Grenadines,-6,6,1113,1078,0,1,175,182
+2019-03-09,Cambodia,Bangladesh,0,1,Friendly,Cambodia,-13,13,782,811,-2,1,210,206
+2019-03-10,Anguilla,Saint Martin,2,1,Friendly,Anguilla,14,-14,592,813,1,0,232,205
+2019-03-10,Mozambique,Eswatini,1,1,Friendly,South Africa,-3,3,1292,1202,-1,2,139,160
+2019-03-16,Bahamas,Turks and Caicos Islands,6,1,Friendly,the Bahamas,11,-11,862,766,0,-1,202,213
+2019-03-16,Suriname,Guyana,3,1,Friendly,Suriname,8,-8,1265,1175,0,-2,145,166
+2019-03-17,Saint Barthelemy,Saint Martin,4,3,Friendly,Saint Barthelemy,10,-10,713,803,2,-2,217,207
+2019-03-18,Fiji,New Caledonia,3,0,Friendly tournament,Fiji,20,-20,1227,1198,6,-7,152,161
+2019-03-18,Solomon Islands,Vanuatu,3,1,Friendly,the Solomon Islands,11,-11,1213,1195,2,-4,158,163
+2019-03-19,Myanmar,Taiwan,0,0,Friendly,Myanmar,-5,5,1055,980,0,0,186,193
+2019-03-20,Germany,Serbia,1,1,Friendly,Germany,-6,6,1931,1819,0,0,9,19
+2019-03-20,Iraq,Syria,1,0,Friendship Tournament,Iraq,8,-8,1598,1516,2,-3,59,78
+2019-03-20,Malaysia,Singapore,0,1,Airmarine Cup,Malaysia,-21,21,1110,1101,-1,4,175,177
+2019-03-20,Oman,Afghanistan,5,0,Airmarine Cup,Malaysia,7,-7,1514,1146,2,-1,80,171
+2019-03-20,Wales,Trinidad and Tobago,1,0,Friendly,Wales,2,-2,1763,1431,0,0,29,98
+2019-03-21,Austria,Poland,0,1,European Championship qualifier,Austria,-26,26,1739,1777,-8,11,36,24
+2019-03-21,Belgium,Russia,3,1,European Championship qualifier,Belgium,6,-6,2040,1746,0,-2,3,35
+2019-03-21,British Virgin Islands,Turks and Caicos Islands,2,2,CONCACAF Nations League qualifier,Anguilla,7,-7,649,759,1,0,228,213
+2019-03-21,China,Thailand,0,1,China Cup,China,-25,25,1495,1373,-8,5,84,113
+2019-03-21,Croatia,Azerbaijan,2,1,European Championship qualifier,Croatia,1,-1,1925,1402,0,-1,10,104
+2019-03-21,Cyprus,San Marino,5,0,European Championship qualifier,Cyprus,2,-2,1415,833,0,0,101,204
+2019-03-21,Israel,Slovenia,1,1,European Championship qualifier,Israel,-6,6,1555,1567,-2,1,67,64
+2019-03-21,Kazakhstan,Scotland,3,0,European Championship qualifier,Kazakhstan,58,-58,1398,1662,14,-7,106,47
+2019-03-21,Kosovo,Denmark,2,2,Friendly,Kosovo,7,-7,1503,1890,2,0,82,14
+2019-03-21,Kuwait,Nepal,0,0,Friendly,Kuwait,-10,10,1429,893,-1,0,98,201
+2019-03-21,Mauritius,New Caledonia,3,1,Friendly tournament,Fiji,30,-30,1101,1168,8,-6,177,167
+2019-03-21,Netherlands,Belarus,4,0,European Championship qualifier,the Netherlands,3,-3,1988,1535,0,0,5,73
+2019-03-21,North Macedonia,Latvia,3,1,European Championship qualifier,North Macedonia,8,-8,1526,1290,2,-4,75,140
+2019-03-21,Northern Ireland,Estonia,2,0,European Championship qualifier,Northern Ireland,12,-12,1634,1475,1,-2,50,87
+2019-03-21,Slovakia,Hungary,2,0,European Championship qualifier,Slovakia,12,-12,1759,1598,5,-1,31,58
+2019-03-21,Saint Vincent and the Grenadines,Bonaire,2,1,CONCACAF Nations League qualifier,Saint Vincent and the Grenadines,8,-8,1121,965,0,-1,174,195
+2019-03-21,United Arab Emirates,Saudi Arabia,2,1,Friendly,the United Arab Emirates,10,-10,1487,1565,2,-2,85,65
+2019-03-21,United States,Ecuador,1,0,Friendly,the United States,8,-8,1766,1764,2,-5,28,29
+2019-03-22,Albania,Turkey,0,2,European Championship qualifier,Albania,-24,24,1490,1714,-6,4,85,39
+2019-03-22,Algeria,Gambia,1,1,African Nations Cup qualifier,Algeria,-15,15,1526,1318,-3,3,75,132
+2019-03-22,Andorra,Iceland,0,2,European Championship qualifier,Andorra,-4,4,1080,1671,-1,0,182,46
+2019-03-22,Anguilla,US Virgin Islands,0,3,CONCACAF Nations League qualifier,Anguilla,-33,33,559,748,-4,0,236,216
+2019-03-22,Botswana,Angola,0,1,African Nations Cup qualifier,Botswana,-25,25,1292,1347,-7,8,138,120
+2019-03-22,Bulgaria,Montenegro,1,1,European Championship qualifier,Bulgaria,-8,8,1620,1596,-2,1,53,61
+2019-03-22,Burkina Faso,Mauritania,1,0,African Nations Cup qualifier,Burkina Faso,7,-7,1531,1345,3,-2,73,121
+2019-03-22,Cayman Islands,Montserrat,1,2,CONCACAF Nations League qualifier,the Cayman Islands,-34,34,909,765,-2,2,199,213
+2019-03-22,England,Czechia,5,0,European Championship qualifier,England,10,-10,1969,1718,1,0,6,37
+2019-03-22,Guatemala,Costa Rica,1,0,Friendly,Guatemala,14,-14,1492,1700,2,-3,84,43
+2019-03-22,Japan,Colombia,0,1,Friendly,Japan,-8,8,1773,1968,-4,-1,26,7
+2019-03-22,Luxembourg,Lithuania,2,1,European Championship qualifier,Luxembourg,14,-14,1361,1324,5,-7,115,129
+2019-03-22,Malawi,Morocco,0,0,African Nations Cup qualifier,Malawi,16,-16,1266,1712,6,-3,144,40
+2019-03-22,Mexico,Chile,3,1,Friendly,the United States,18,-18,1797,1833,3,0,20,17
+2019-03-22,Moldova,France,1,4,European Championship qualifier,Moldova,-1,1,1312,2093,-1,0,133,2
+2019-03-22,Nigeria,Seychelles,3,1,African Nations Cup qualifier,Nigeria,0,0,1712,967,1,0,40,194
+2019-03-22,Peru,Paraguay,1,0,Friendly,the United States,6,-6,1861,1717,0,1,16,38
+2019-03-22,Portugal,Ukraine,0,0,European Championship qualifier,Portugal,-14,14,1944,1786,0,2,8,23
+2019-03-22,South Korea,Bolivia,1,0,Friendly,South Korea,4,-4,1772,1642,0,-1,27,49
+2019-03-22,Saint Lucia,Aruba,3,2,CONCACAF Nations League qualifier,Antigua and Barbuda,12,-12,1093,919,3,1,179,198
+2019-03-22,Sudan,Equatorial Guinea,1,4,African Nations Cup qualifier,Sudan,-43,43,1232,1335,-9,13,151,125
+2019-03-22,Tunisia,Eswatini,4,0,African Nations Cup qualifier,Tunisia,3,-3,1649,1199,0,-1,48,160
+2019-03-22,Uruguay,Uzbekistan,3,0,China Cup,China,8,-8,1929,1605,1,-2,10,56
+2019-03-22,Venezuela,Argentina,3,1,Friendly,Spain,22,-22,1778,1899,8,-2,24,13
+2019-03-23,Antigua and Barbuda,Curaçao,2,1,CONCACAF Nations League qualifier,Antigua and Barbuda,24,-24,1193,1308,3,-8,163,134
+2019-03-23,Bosnia and Herzegovina,Armenia,2,1,European Championship qualifier,Bosnia and Herzegovina,3,-3,1798,1444,1,-1,20,96
+2019-03-23,Brazil,Panama,1,1,Friendly,Portugal,-9,9,2127,1569,0,3,1,63
+2019-03-23,Burundi,Gabon,1,1,African Nations Cup qualifier,Burundi,-3,3,1356,1406,0,0,116,103
+2019-03-23,Cameroon,Comoros,3,0,African Nations Cup qualifier,Cameroon,2,-2,1600,1087,0,0,58,181
+2019-03-23,Dominica,Bahamas,4,0,CONCACAF Nations League qualifier,Dominica,13,-13,1049,849,0,0,187,202
+2019-03-23,El Salvador,Jamaica,2,0,CONCACAF Nations League qualifier,El Salvador,30,-30,1500,1539,7,-7,83,70
+2019-03-23,Georgia,Switzerland,0,2,European Championship qualifier,Georgia,-10,10,1535,1931,-1,3,71,9
+2019-03-23,Ghana,Kenya,1,0,African Nations Cup qualifier,Ghana,5,-5,1627,1379,0,-1,51,111
+2019-03-23,Gibraltar,Ireland,0,1,European Championship qualifier,Gibraltar,-2,2,1100,1707,-2,0,178,42
+2019-03-23,Guadeloupe,Martinique,0,1,CONCACAF Nations League qualifier,Guadeloupe,-12,12,1185,1464,-4,2,165,92
+2019-03-23,Guinea-Bissau,Mozambique,2,2,African Nations Cup qualifier,Guinea-Bissau,-7,7,1303,1299,-1,2,135,136
+2019-03-23,Guyana,Belize,2,1,CONCACAF Nations League qualifier,Guyana,13,-13,1188,1142,1,-1,164,170
+2019-03-23,Italy,Finland,2,0,European Championship qualifier,Italy,6,-6,1894,1615,1,-2,14,54
+2019-03-23,Ivory Coast,Rwanda,3,0,African Nations Cup qualifier,Ivory Coast,5,-5,1608,1262,2,-2,55,145
+2019-03-23,Liechtenstein,Greece,0,2,European Championship qualifier,Liechtenstein,-6,6,1131,1618,0,2,173,53
+2019-03-23,Malaysia,Afghanistan,2,1,Airmarine Cup,Malaysia,12,-12,1122,1134,1,-1,174,172
+2019-03-23,Mali,South Sudan,3,0,African Nations Cup qualifier,Mali,2,-2,1529,1018,-1,0,75,188
+2019-03-23,Malta,Faroe Islands,2,1,European Championship qualifier,Malta,19,-19,1196,1235,3,-1,161,149
+2019-03-23,Niger,Egypt,1,1,African Nations Cup qualifier,Niger,11,-11,1320,1602,5,-3,130,57
+2019-03-23,Oman,Singapore,1,1,Airmarine Cup,Malaysia,-12,12,1502,1113,-1,1,80,176
+2019-03-23,Senegal,Madagascar,2,0,African Nations Cup qualifier,Senegal,3,-3,1758,1335,0,-1,33,124
+2019-03-23,Spain,Norway,2,1,European Championship qualifier,Spain,3,-3,2013,1675,0,0,4,45
+2019-03-23,Sint Maarten,Saint Martin,4,3,CONCACAF Nations League qualifier,Anguilla,20,-20,825,783,1,-2,205,209
+2019-03-23,Suriname,Saint Kitts and Nevis,2,0,CONCACAF Nations League qualifier,Suriname,20,-20,1285,1225,3,-3,142,153
+2019-03-23,Sweden,Romania,2,1,European Championship qualifier,Sweden,11,-11,1841,1741,1,-1,17,35
+2019-03-23,Syria,Jordan,1,0,Friendship Tournament,Iraq,15,-15,1531,1501,4,-5,73,82
+2019-03-23,Zambia,Namibia,4,1,African Nations Cup qualifier,Zambia,22,-22,1435,1354,5,-7,97,119
+2019-03-24,Barbados,Nicaragua,0,1,CONCACAF Nations League qualifier,Barbados,-18,18,1132,1306,-3,5,172,136
+2019-03-24,Benin,Togo,2,1,African Nations Cup qualifier,Benin,13,-13,1399,1344,3,-7,105,122
+2019-03-24,Bonaire,British Virgin Islands,2,1,CONCACAF Nations League qualifier,Anguilla,6,-6,971,643,1,-1,194,229
+2019-03-24,Canada,French Guiana,4,1,CONCACAF Nations League qualifier,Canada,9,-9,1555,1310,0,-2,68,133
+2019-03-24,Cape Verde,Lesotho,0,0,African Nations Cup qualifier,Cape Verde,-11,11,1388,1307,-2,2,107,135
+2019-03-24,Central African Republic,Guinea,0,0,African Nations Cup qualifier,Central African Republic,2,-2,1331,1462,-1,1,128,91
+2019-03-24,Cyprus,Belgium,0,2,European Championship qualifier,Cyprus,-3,3,1412,2043,0,0,102,3
+2019-03-24,Dominican Republic,Bermuda,1,3,CONCACAF Nations League qualifier,the Dominican Republic,-45,45,1225,1224,-9,12,152,154
+2019-03-24,DR Congo,Liberia,1,0,African Nations Cup qualifier,DR Congo,6,-6,1548,1332,0,-3,69,126
+2019-03-24,Fiji,Mauritius,1,0,Friendly tournament,Fiji,6,-6,1233,1095,2,-2,149,179
+2019-03-24,Haiti,Cuba,2,1,CONCACAF Nations League qualifier,Haiti,7,-7,1519,1333,0,-3,78,125
+2019-03-24,Hungary,Croatia,2,1,European Championship qualifier,Hungary,31,-31,1629,1894,8,-1,51,13
+2019-03-24,Israel,Austria,4,2,European Championship qualifier,Israel,37,-37,1592,1702,4,-6,62,42
+2019-03-24,Kazakhstan,Russia,0,4,European Championship qualifier,Kazakhstan,-15,15,1383,1761,-2,2,108,32
+2019-03-24,Netherlands,Germany,2,3,European Championship qualifier,the Netherlands,-28,28,1960,1959,-2,1,7,8
+2019-03-24,Northern Ireland,Belarus,2,1,European Championship qualifier,Northern Ireland,10,-10,1644,1525,1,-6,49,77
+2019-03-24,Poland,Latvia,2,0,European Championship qualifier,Poland,2,-2,1779,1288,1,-1,24,141
+2019-03-24,Puerto Rico,Grenada,0,2,CONCACAF Nations League qualifier,Puerto Rico,-32,32,975,1110,-3,6,192,177
+2019-03-24,San Marino,Scotland,0,2,European Championship qualifier,San Marino,-1,1,832,1663,0,0,204,47
+2019-03-24,Slovenia,North Macedonia,1,1,European Championship qualifier,Slovenia,-8,8,1559,1534,-3,4,67,72
+2019-03-24,South Africa,Libya,2,1,African Nations Cup qualifier,Tunisia,16,-16,1564,1458,1,-3,66,92
+2019-03-24,Taiwan,Solomon Islands,0,1,Friendly,Taiwan,-6,6,974,1219,0,3,193,155
+2019-03-24,Tanzania,Uganda,3,0,African Nations Cup qualifier,Tanzania,40,-40,1361,1432,15,-7,114,97
+2019-03-24,Wales,Slovakia,1,0,European Championship qualifier,Wales,14,-14,1777,1745,5,-2,26,34
+2019-03-24,Zimbabwe,Congo,2,0,African Nations Cup qualifier,Zimbabwe,16,-16,1482,1370,3,-4,88,112
+2019-03-25,Andorra,Albania,0,3,European Championship qualifier,Andorra,-10,10,1070,1500,-2,3,185,83
+2019-03-25,Azerbaijan,Lithuania,0,0,Friendly,Azerbaijan,-5,5,1397,1329,-1,0,105,129
+2019-03-25,China,Uzbekistan,0,1,China Cup,China,-15,15,1480,1620,-4,4,88,53
+2019-03-25,France,Iceland,4,0,European Championship qualifier,France,4,-4,2097,1667,0,0,2,46
+2019-03-25,Kosovo,Bulgaria,1,1,European Championship qualifier,Kosovo,1,-1,1504,1619,0,-1,79,54
+2019-03-25,Kuwait,Nepal,1,0,Friendly,Kuwait,1,-1,1430,892,0,0,99,201
+2019-03-25,Luxembourg,Ukraine,1,2,European Championship qualifier,Luxembourg,-5,5,1356,1791,-1,1,115,22
+2019-03-25,Montenegro,England,1,5,European Championship qualifier,Montenegro,-13,13,1583,1982,-2,0,63,5
+2019-03-25,Myanmar,Indonesia,0,2,Friendly,Myanmar,-13,13,1042,1215,-1,2,187,158
+2019-03-25,Portugal,Serbia,1,1,European Championship qualifier,Portugal,-11,11,1933,1830,0,0,9,19
+2019-03-25,Saudi Arabia,Equatorial Guinea,3,2,Friendly,Saudi Arabia,3,-3,1568,1332,0,-2,65,125
+2019-03-25,Turkey,Moldova,4,0,European Championship qualifier,Turkey,4,-4,1718,1308,2,-1,36,133
+2019-03-25,Uruguay,Thailand,4,0,China Cup,China,2,-2,1931,1371,1,0,10,111
+2019-03-26,Algeria,Tunisia,1,0,Friendly,Algeria,11,-11,1537,1638,6,-2,70,50
+2019-03-26,Armenia,Finland,0,2,European Championship qualifier,Armenia,-24,24,1420,1639,-5,7,100,49
+2019-03-26,Bosnia and Herzegovina,Greece,2,2,European Championship qualifier,Bosnia and Herzegovina,-13,13,1785,1631,-3,3,23,52
+2019-03-26,Costa Rica,Jamaica,1,0,Friendly,Costa Rica,4,-4,1704,1535,2,-1,41,71
+2019-03-26,Czechia,Brazil,1,3,Friendly,Czechia,-4,4,1714,2131,-2,0,38,1
+2019-03-26,Ecuador,Honduras,0,0,Friendly,the United States,-5,5,1759,1596,-2,1,33,61
+2019-03-26,El Salvador,Peru,2,0,Friendly,the United States,27,-27,1527,1834,7,-1,76,17
+2019-03-26,Ghana,Mauritania,3,1,Friendly,Ghana,3,-3,1630,1342,-1,-1,53,122
+2019-03-26,Gibraltar,Estonia,0,1,Friendly,Gibraltar,-3,3,1097,1478,0,0,178,89
+2019-03-26,Iraq,Jordan,3,2,Friendship Tournament,Iraq,7,-7,1605,1494,2,-3,58,85
+2019-03-26,Ireland,Georgia,1,0,European Championship qualifier,Ireland,7,-7,1714,1528,3,-4,38,75
+2019-03-26,Italy,Liechtenstein,6,0,European Championship qualifier,Italy,1,-1,1895,1130,-1,0,14,173
+2019-03-26,Ivory Coast,Liberia,1,0,Friendly,Ivory Coast,2,-2,1610,1330,0,-3,57,128
+2019-03-26,Japan,Bolivia,1,0,Friendly,Japan,4,-4,1777,1638,0,0,27,50
+2019-03-26,Malta,Spain,0,2,European Championship qualifier,Malta,-1,1,1195,2014,0,0,162,4
+2019-03-26,Mexico,Paraguay,4,2,Friendly,the United States,12,-12,1809,1705,1,-2,20,40
+2019-03-26,Morocco,Argentina,0,1,Friendly,Morocco,-8,8,1704,1907,-2,0,41,12
+2019-03-26,Nicaragua,Guatemala,0,1,Friendly,Nicaragua,-8,8,1298,1500,-2,2,138,83
+2019-03-26,Nigeria,Egypt,1,0,Friendly,Nigeria,5,-5,1717,1597,2,-2,37,60
+2019-03-26,Norway,Sweden,3,3,European Championship qualifier,Norway,4,-4,1679,1837,1,1,44,16
+2019-03-26,Romania,Faroe Islands,4,1,European Championship qualifier,Romania,2,-2,1743,1233,0,0,35,148
+2019-03-26,Senegal,Mali,2,1,Friendly,Senegal,3,-3,1761,1526,2,-2,31,77
+2019-03-26,South Korea,Colombia,2,1,Friendly,South Korea,13,-13,1785,1955,5,-2,23,8
+2019-03-26,Switzerland,Denmark,3,3,European Championship qualifier,Switzerland,-8,8,1923,1898,-1,2,11,13
+2019-03-26,United Arab Emirates,Syria,0,0,Friendly,the United Arab Emirates,-2,2,1485,1533,0,0,86,73
+2019-03-26,United States,Chile,1,1,Friendly,the United States,-1,1,1765,1834,0,1,30,17
+2019-05-25,Mauritius,Eswatini,2,2,COSAFA Cup,South Africa,6,-6,1101,1193,1,-2,178,163
+2019-05-26,Malawi,Seychelles,3,0,COSAFA Cup,South Africa,11,-11,1277,956,0,-1,143,196
+2019-05-26,Namibia,Mozambique,2,1,COSAFA Cup,South Africa,17,-17,1371,1282,8,-5,111,142
+2019-05-27,Comoros,Eswatini,2,2,COSAFA Cup,South Africa,6,-6,1093,1187,2,-2,180,165
+2019-05-28,Laos,Sri Lanka,2,1,Friendly,Laos,8,-8,703,704,1,-1,220,219
+2019-05-28,Malawi,Namibia,2,1,COSAFA Cup,South Africa,25,-25,1302,1346,6,-9,137,120
+2019-05-28,Mozambique,Seychelles,0,0,COSAFA Cup,South Africa,-15,15,1267,971,-1,2,143,194
+2019-05-29,Cayman Islands,Cuba,0,0,Friendly,the Cayman Islands,7,-7,916,1326,0,-5,199,129
+2019-05-29,Comoros,Mauritius,2,1,COSAFA Cup,South Africa,20,-20,1113,1081,4,-4,176,182
+2019-05-30,Malawi,Mozambique,1,1,COSAFA Cup,South Africa,-2,2,1300,1269,0,0,137,143
+2019-05-30,Namibia,Seychelles,3,0,COSAFA Cup,South Africa,7,-7,1353,964,1,-1,119,195
+2019-05-30,Turkey,Greece,2,1,Friendly,Turkey,5,-5,1723,1626,0,-2,36,54
+2019-05-31,Cayman Islands,Cuba,0,1,Friendly,the Cayman Islands,-3,3,913,1329,0,1,199,128
+2019-05-31,Laos,Sri Lanka,2,2,Friendly,Laos,-3,3,700,707,0,0,220,219
+2019-06-01,Ecuador,Venezuela,1,1,Friendly,the United States,1,-1,1760,1777,0,0,33,26
+2019-06-01,Lesotho,Uganda,0,0,COSAFA Cup,South Africa,7,-7,1314,1425,3,-2,132,98
+2019-06-01,Zimbabwe,Comoros,2,0,COSAFA Cup,South Africa,6,-6,1488,1107,1,-2,86,178
+2019-06-02,El Salvador,Haiti,1,0,Friendly,the United States,10,-10,1537,1509,6,0,70,79
+2019-06-02,France,Bolivia,2,0,Friendly,France,1,-1,2098,1637,0,-1,2,51
+2019-06-02,Luxembourg,Madagascar,3,3,Friendly,Luxembourg,-3,3,1353,1338,-3,0,118,123
+2019-06-02,Malawi,Zambia,2,2,COSAFA Cup,South Africa,7,-7,1307,1428,0,-2,137,97
+2019-06-02,Malaysia,Nepal,2,0,Friendly,Malaysia,4,-4,1126,888,0,0,174,201
+2019-06-02,South Africa,Botswana,2,2,COSAFA Cup,South Africa,-16,16,1548,1308,-2,6,68,134
+2019-06-02,Turkey,Uzbekistan,2,0,Friendly,Turkey,7,-7,1730,1613,0,-1,36,56
+2019-06-03,Colombia,Panama,3,0,Friendly,Colombia,2,-2,1957,1567,0,-1,8,65
+2019-06-04,Malawi,Comoros,2,1,COSAFA Cup,South Africa,10,-10,1317,1097,5,0,132,178
+2019-06-04,South Africa,Uganda,1,1,COSAFA Cup,South Africa,-11,11,1537,1436,-1,3,69,95
+2019-06-04,Vanuatu,Tahiti,2,0,Friendly tournament,Vanuatu,18,-18,1213,1201,1,-6,160,161
+2019-06-05,Botswana,Lesotho,2,1,COSAFA Cup,South Africa,20,-20,1328,1294,5,-6,130,139
+2019-06-05,Brazil,Qatar,2,0,Friendly,Brazil,2,-2,2133,1769,0,2,1,27
+2019-06-05,Curaçao,India,3,1,King's Cup,Thailand,19,-19,1327,1236,4,-1,131,147
+2019-06-05,Japan,Trinidad and Tobago,0,0,Friendly,Japan,-9,9,1768,1440,-2,1,28,95
+2019-06-05,Mexico,Venezuela,3,1,Friendly,the United States,14,-14,1823,1763,0,-3,20,29
+2019-06-05,Paraguay,Honduras,1,1,Friendly,Paraguay,-5,5,1700,1601,-2,2,42,59
+2019-06-05,Peru,Costa Rica,1,0,Friendly,Peru,4,-4,1838,1700,1,-1,16,42
+2019-06-05,Portugal,Switzerland,3,1,European Nations League,Portugal,26,-26,1959,1897,2,-2,7,13
+2019-06-05,Thailand,Vietnam,0,1,King's Cup,Thailand,-20,20,1351,1375,-8,5,119,111
+2019-06-05,United States,Jamaica,0,1,Friendly,the United States,-17,17,1748,1552,-3,4,33,68
+2019-06-05,Zambia,Zimbabwe,0,0,COSAFA Cup,South Africa,3,-3,1431,1485,1,0,97,86
+2019-06-06,Bermuda,Guyana,1,0,Friendly,Bermuda,6,-6,1230,1182,3,-2,151,166
+2019-06-06,Bhutan,Guam,1,0,World Cup and Asian Cup qualifier,Bhutan,27,-27,588,767,3,-5,232,212
+2019-06-06,Cambodia,Pakistan,2,0,World Cup and Asian Cup qualifier,Cambodia,35,-35,817,904,3,-2,207,199
+2019-06-06,Chile,Haiti,2,1,Friendly,Chile,2,-2,1836,1507,0,0,18,79
+2019-06-06,Iran,Syria,5,0,Friendly,Iran,5,-5,1794,1528,1,-1,21,75
+2019-06-06,Laos,Bangladesh,0,1,World Cup and Asian Cup qualifier,Laos,-19,19,681,830,-5,1,225,205
+2019-06-06,Macao,Sri Lanka,1,0,World Cup and Asian Cup qualifier,China,22,-22,698,685,6,-5,220,224
+2019-06-06,Mongolia,Brunei,2,0,World Cup and Asian Cup qualifier,Mongolia,15,-15,724,603,1,0,217,231
+2019-06-06,Netherlands,England,3,1,European Nations League,Portugal,40,-40,2000,1942,1,-4,5,9
+2019-06-06,Taiwan,Nepal,1,1,Friendly,Taiwan,-5,5,969,893,-1,0,194,201
+2019-06-07,Argentina,Nicaragua,5,1,Friendly,Argentina,1,-1,1908,1297,0,-1,11,139
+2019-06-07,Austria,Slovenia,1,0,European Championship qualifier,Austria,8,-8,1710,1551,1,-2,40,68
+2019-06-07,China,Philippines,2,0,Friendly,China,2,-2,1482,1136,1,-1,87,171
+2019-06-07,Czechia,Bulgaria,2,1,European Championship qualifier,Czechia,10,-10,1724,1609,0,-2,38,57
+2019-06-07,Denmark,Ireland,1,1,European Championship qualifier,Denmark,-13,13,1885,1727,-3,1,15,37
+2019-06-07,Faroe Islands,Spain,1,4,European Championship qualifier,the Faroe Islands,-1,1,1232,2015,0,0,148,4
+2019-06-07,Fiji,Tahiti,1,1,Friendly tournament,Vanuatu,-1,1,1232,1202,0,0,148,161
+2019-06-07,Gambia,Guinea,1,0,Friendly,Morocco,14,-14,1332,1448,10,-2,123,93
+2019-06-07,Georgia,Gibraltar,3,0,European Championship qualifier,Georgia,3,-3,1531,1094,3,-1,72,179
+2019-06-07,Ivory Coast,Comoros,3,1,Friendly,France,1,-1,1611,1096,1,0,56,178
+2019-06-07,Kenya,Madagascar,1,0,Friendly,France,9,-9,1388,1329,3,-5,107,128
+2019-06-07,Latvia,Israel,0,3,European Championship qualifier,Latvia,-17,17,1271,1609,-1,5,142,57
+2019-06-07,Lesotho,Zimbabwe,2,2,COSAFA Cup,South Africa,10,-10,1304,1475,2,-3,137,89
+2019-06-07,Lithuania,Luxembourg,1,1,European Championship qualifier,Lithuania,-4,4,1325,1357,-5,2,133,115
+2019-06-07,Malaysia,East Timor,7,1,World Cup qualifier,Malaysia,3,-3,1129,645,0,0,174,228
+2019-06-07,Montenegro,Kosovo,1,1,European Championship qualifier,Montenegro,-9,9,1574,1513,0,1,63,79
+2019-06-07,North Macedonia,Poland,0,1,European Championship qualifier,North Macedonia,-12,12,1522,1791,-4,2,77,23
+2019-06-07,Norway,Romania,2,2,European Championship qualifier,Norway,-2,2,1677,1745,0,0,44,35
+2019-06-07,Slovakia,Jordan,5,1,Friendly,Slovakia,4,-4,1749,1490,1,0,33,85
+2019-06-07,South Africa,Malawi,0,0,COSAFA Cup,South Africa,-15,15,1522,1332,-7,11,77,123
+2019-06-07,South Korea,Australia,1,0,Friendly,South Korea,5,-5,1790,1674,-1,-1,24,45
+2019-06-07,Sweden,Malta,3,0,European Championship qualifier,Sweden,1,-1,1838,1194,1,0,16,162
+2019-06-07,Tajikistan,Afghanistan,1,1,Friendly,Tajikistan,-5,5,1209,1139,-2,1,160,170
+2019-06-07,Tunisia,Iraq,2,0,Friendly,Tunisia,10,-10,1648,1595,2,-4,48,62
+2019-06-07,Ukraine,Serbia,5,0,European Championship qualifier,Ukraine,33,-33,1824,1797,3,-2,19,21
+2019-06-07,Uruguay,Panama,3,0,Friendly,Uruguay,2,-2,1933,1565,0,0,10,65
+2019-06-07,Uzbekistan,North Korea,4,0,Friendly,Uzbekistan,4,-4,1617,1328,1,-6,55,130
+2019-06-08,Angola,Guinea-Bissau,2,0,Friendly,Portugal,13,-13,1360,1290,5,-2,115,140
+2019-06-08,Armenia,Liechtenstein,3,0,European Championship qualifier,Armenia,7,-7,1427,1123,1,-1,99,174
+2019-06-08,Azerbaijan,Hungary,1,3,European Championship qualifier,Azerbaijan,-19,19,1378,1648,-5,3,110,50
+2019-06-08,Belarus,Germany,0,2,European Championship qualifier,Belarus,-8,8,1517,1967,-2,0,78,6
+2019-06-08,Belgium,Kazakhstan,3,0,European Championship qualifier,Belgium,1,-1,2044,1382,0,1,3,108
+2019-06-08,Croatia,Wales,2,1,European Championship qualifier,Croatia,9,-9,1903,1768,1,-1,13,27
+2019-06-08,Curaçao,Vietnam,1,1,King's Cup,Thailand,2,-2,1329,1373,5,0,127,111
+2019-06-08,Estonia,Northern Ireland,1,2,European Championship qualifier,Estonia,-16,16,1462,1660,-2,0,90,49
+2019-06-08,Finland,Bosnia and Herzegovina,2,0,European Championship qualifier,Finland,34,-34,1673,1751,3,-8,47,33
+2019-06-08,Greece,Italy,0,3,European Championship qualifier,Greece,-19,19,1607,1914,-4,2,58,11
+2019-06-08,Iceland,Albania,1,0,European Championship qualifier,Iceland,7,-7,1674,1493,1,-1,45,84
+2019-06-08,Moldova,Andorra,1,0,European Championship qualifier,Moldova,5,-5,1313,1065,1,0,135,185
+2019-06-08,Nigeria,Zimbabwe,0,0,Friendly,Nigeria,-8,8,1709,1483,-1,2,40,87
+2019-06-08,Russia,San Marino,9,0,European Championship qualifier,Russia,0,0,1761,832,0,0,30,204
+2019-06-08,Scotland,Cyprus,2,1,European Championship qualifier,Scotland,5,-5,1668,1407,-1,0,48,102
+2019-06-08,Singapore,Solomon Islands,4,3,Friendly,Singapore,10,-10,1123,1209,2,-4,174,159
+2019-06-08,Thailand,India,0,1,King's Cup,Thailand,-23,23,1328,1259,-11,2,130,145
+2019-06-08,Turkey,France,2,0,European Championship qualifier,Turkey,49,-49,1779,2049,11,0,25,2
+2019-06-08,Zambia,Botswana,1,0,COSAFA Cup,South Africa,14,-14,1445,1314,3,-4,94,134
+2019-06-09,Brazil,Honduras,7,0,Friendly,Brazil,1,-1,2134,1600,0,-1,1,60
+2019-06-09,Burkina Faso,DR Congo,0,0,Friendly,Spain,0,0,1531,1548,0,0,72,69
+2019-06-09,Cameroon,Zambia,2,1,Friendly,Spain,6,-6,1606,1439,1,-2,59,96
+2019-06-09,England,Switzerland,0,0,European Nations League,Portugal,-3,3,1939,1900,0,0,9,14
+2019-06-09,Japan,El Salvador,2,0,Friendly,Japan,4,-4,1772,1533,0,-1,27,71
+2019-06-09,Mexico,Ecuador,3,2,Friendly,the United States,8,-8,1831,1752,2,0,18,32
+2019-06-09,Namibia,Ghana,1,0,Friendly,the United Arab Emirates,17,-17,1370,1613,7,-1,112,54
+2019-06-09,Paraguay,Guatemala,2,0,Friendly,Paraguay,5,-5,1705,1495,1,0,41,83
+2019-06-09,Peru,Colombia,0,3,Friendly,Peru,-17,17,1821,1974,-4,1,20,7
+2019-06-09,Portugal,Netherlands,1,0,European Nations League,Portugal,21,-21,1980,1979,2,-1,5,6
+2019-06-09,Turkmenistan,Uganda,0,0,Friendly,the United Arab Emirates,5,-5,1232,1431,4,0,148,97
+2019-06-09,United States,Venezuela,0,3,Friendly,the United States,-22,22,1726,1785,-2,4,37,25
+2019-06-10,Bulgaria,Kosovo,2,3,European Championship qualifier,Bulgaria,-30,30,1579,1543,-6,9,62,70
+2019-06-10,Canada,Trinidad and Tobago,2,0,Friendly,the United States,10,-10,1565,1430,1,-2,65,97
+2019-06-10,Czechia,Montenegro,3,0,European Championship qualifier,Czechia,13,-13,1737,1561,2,-4,36,67
+2019-06-10,Denmark,Georgia,5,1,European Championship qualifier,Denmark,5,-5,1890,1526,0,-3,15,75
+2019-06-10,Faroe Islands,Norway,0,2,European Championship qualifier,the Faroe Islands,-7,7,1225,1684,-4,0,152,44
+2019-06-10,Ireland,Gibraltar,2,0,European Championship qualifier,Ireland,1,-1,1728,1093,-2,0,38,179
+2019-06-10,Latvia,Slovenia,0,5,European Championship qualifier,Latvia,-21,21,1250,1572,-5,5,147,63
+2019-06-10,Malta,Romania,0,4,European Championship qualifier,Malta,-5,5,1189,1750,-1,1,163,34
+2019-06-10,North Macedonia,Austria,1,4,European Championship qualifier,North Macedonia,-26,26,1496,1736,-6,2,82,37
+2019-06-10,Poland,Israel,4,0,European Championship qualifier,Poland,12,-12,1803,1597,2,-3,21,59
+2019-06-10,Serbia,Lithuania,4,1,European Championship qualifier,Serbia,3,-3,1800,1322,-1,0,22,132
+2019-06-10,Spain,Sweden,3,0,European Championship qualifier,Spain,12,-12,2027,1826,0,-2,4,18
+2019-06-10,Ukraine,Luxembourg,1,0,European Championship qualifier,Ukraine,1,-1,1825,1356,0,0,19,117
+2019-06-10,Vanuatu,Fiji,0,0,Friendly tournament,Vanuatu,-3,3,1210,1235,0,0,158,148
+2019-06-11,Albania,Moldova,2,0,European Championship qualifier,Albania,10,-10,1503,1303,5,-2,79,137
+2019-06-11,Algeria,Burundi,1,1,Friendly,Qatar,-5,5,1532,1361,-1,2,72,115
+2019-06-11,Andorra,France,0,4,European Championship qualifier,Andorra,0,0,1065,2049,0,0,185,2
+2019-06-11,Azerbaijan,Slovakia,1,5,European Championship qualifier,Azerbaijan,-13,13,1365,1762,-4,6,114,29
+2019-06-11,Bangladesh,Laos,0,0,World Cup and Asian Cup qualifier,Bangladesh,-12,12,818,693,-2,4,207,221
+2019-06-11,Belarus,Northern Ireland,0,1,European Championship qualifier,Belarus,-18,18,1499,1678,-4,3,82,46
+2019-06-11,Belgium,Scotland,3,0,European Championship qualifier,Belgium,4,-4,2048,1664,0,-3,3,51
+2019-06-11,Benin,Guinea,1,0,Friendly,Morocco,11,-11,1410,1437,2,-3,102,96
+2019-06-11,Brunei,Mongolia,2,1,World Cup and Asian Cup qualifier,Brunei,21,-21,624,703,0,-1,231,218
+2019-06-11,Cambodia,Pakistan,2,1,World Cup and Asian Cup qualifier,Qatar,25,-25,842,879,3,-2,204,201
+2019-06-11,China,Tajikistan,1,0,Friendly,China,2,-2,1484,1207,1,0,87,159
+2019-06-11,Croatia,Tunisia,1,2,Friendly,Croatia,-18,18,1885,1666,-2,0,15,50
+2019-06-11,Germany,Estonia,8,0,European Championship qualifier,Germany,3,-3,1970,1459,0,-1,8,91
+2019-06-11,Greece,Armenia,2,3,European Championship qualifier,Greece,-33,33,1574,1460,-6,9,62,90
+2019-06-11,Guam,Bhutan,5,0,World Cup and Asian Cup qualifier,Guam,13,-13,780,575,2,-2,210,234
+2019-06-11,Haiti,Guyana,3,1,Friendly,Costa Rica,4,-4,1511,1178,1,0,78,166
+2019-06-11,Hong Kong,Taiwan,0,2,Friendly,Hong Kong,-26,26,1188,995,-6,3,163,191
+2019-06-11,Hungary,Wales,1,0,European Championship qualifier,Hungary,21,-21,1669,1747,1,-5,49,34
+2019-06-11,Iceland,Turkey,2,1,European Championship qualifier,Iceland,20,-20,1694,1759,1,-5,44,31
+2019-06-11,Italy,Bosnia and Herzegovina,2,1,European Championship qualifier,Italy,7,-7,1921,1744,0,-2,11,35
+2019-06-11,Jordan,Indonesia,4,1,Friendly,Jordan,4,-4,1494,1211,0,0,85,156
+2019-06-11,Kazakhstan,San Marino,4,0,European Championship qualifier,Kazakhstan,2,-2,1384,830,0,-1,108,205
+2019-06-11,Kyrgyzstan,Palestine,2,2,Friendly,Kyrgyzstan,0,0,1294,1393,0,0,139,105
+2019-06-11,Liechtenstein,Finland,0,2,European Championship qualifier,Liechtenstein,-4,4,1119,1677,-1,0,175,47
+2019-06-11,Malaysia,East Timor,5,1,World Cup qualifier,Malaysia,3,-3,1132,642,1,-1,172,229
+2019-06-11,Russia,Cyprus,1,0,European Championship qualifier,Russia,3,-3,1764,1404,2,-2,28,104
+2019-06-11,Singapore,Myanmar,1,2,Friendly,Singapore,-15,15,1108,1057,-3,1,177,186
+2019-06-11,South Korea,Iran,1,1,Friendly,South Korea,-3,3,1787,1797,0,0,24,23
+2019-06-11,Uzbekistan,Syria,2,0,Friendly,Uzbekistan,8,-8,1625,1520,0,-3,53,77
+2019-06-12,Morocco,Gambia,0,1,Friendly,Morocco,-19,19,1685,1351,-2,2,44,120
+2019-06-13,Egypt,Tanzania,1,0,Friendly,Egypt,3,-3,1600,1358,1,-2,57,117
+2019-06-14,Brazil,Bolivia,3,0,Copa America,Brazil,3,-3,2137,1634,0,0,1,52
+2019-06-14,Cameroon,Mali,1,1,Friendly,Qatar,-2,2,1604,1528,0,0,56,74
+2019-06-14,Mauritania,Madagascar,3,1,Friendly,Morocco,14,-14,1356,1315,4,-6,118,133
+2019-06-15,Canada,Martinique,4,0,CONCACAF Championship,the United States,34,-34,1599,1430,7,-8,58,97
+2019-06-15,Colombia,Argentina,2,0,Copa America,Brazil,30,-30,2004,1878,2,-3,5,15
+2019-06-15,DR Congo,Kenya,1,1,Friendly,Spain,-4,4,1544,1392,0,0,69,106
+2019-06-15,Ghana,South Africa,0,0,Friendly,the United Arab Emirates,-3,3,1610,1525,0,0,54,76
+2019-06-15,Indonesia,Vanuatu,6,0,Friendly,Indonesia,15,-15,1226,1195,4,-3,152,160
+2019-06-15,Mexico,Cuba,7,0,CONCACAF Championship,the United States,6,-6,1837,1323,1,-3,16,130
+2019-06-15,Peru,Venezuela,0,0,Copa America,Brazil,-3,3,1818,1788,0,1,20,24
+2019-06-15,Uganda,Ivory Coast,1,0,Friendly,the United Arab Emirates,15,-15,1446,1596,4,-5,93,60
+2019-06-16,Algeria,Mali,3,2,Friendly,Qatar,10,-10,1542,1518,1,-4,71,78
+2019-06-16,Costa Rica,Nicaragua,4,0,CONCACAF Championship,Costa Rica,5,-5,1705,1292,1,-1,41,139
+2019-06-16,Egypt,Guinea,3,1,Friendly,Egypt,5,-5,1605,1432,1,0,55,96
+2019-06-16,Haiti,Bermuda,2,1,CONCACAF Championship,Costa Rica,8,-8,1519,1222,1,-4,77,155
+2019-06-16,Morocco,Zambia,2,3,Friendly,Morocco,-18,18,1667,1457,-5,3,49,92
+2019-06-16,Paraguay,Qatar,2,2,Copa America,Brazil,5,-5,1710,1764,1,-1,40,28
+2019-06-16,Senegal,Nigeria,1,0,Friendly,Egypt,9,-9,1770,1700,3,-2,27,42
+2019-06-16,Tanzania,Zimbabwe,1,1,Friendly,Egypt,3,-3,1361,1480,2,0,115,88
+2019-06-16,Uruguay,Ecuador,4,0,Copa America,Brazil,24,-24,1957,1728,1,-5,9,37
+2019-06-17,Chile,Japan,4,0,Copa America,Brazil,38,-38,1874,1734,1,-10,16,36
+2019-06-17,El Salvador,Curaçao,1,0,CONCACAF Championship,Jamaica,12,-12,1545,1317,3,-5,69,132
+2019-06-17,Jamaica,Honduras,3,2,CONCACAF Championship,Jamaica,21,-21,1573,1579,4,-4,64,61
+2019-06-17,Tunisia,Burundi,2,1,Friendly,Tunisia,2,-2,1668,1359,1,-2,49,117
+2019-06-18,Benin,Mauritania,3,1,Friendly,Morocco,13,-13,1423,1343,2,-4,100,122
+2019-06-18,Brazil,Venezuela,0,0,Copa America,Brazil,-21,21,2116,1809,0,3,1,21
+2019-06-18,Panama,Trinidad and Tobago,2,0,CONCACAF Championship,the United States,24,-24,1589,1406,6,-5,61,102
+2019-06-18,Peru,Bolivia,3,1,Copa America,Brazil,19,-19,1837,1615,3,-1,17,53
+2019-06-18,United States,Guyana,4,0,CONCACAF Championship,the United States,2,-2,1728,1176,2,0,37,166
+2019-06-19,Argentina,Paraguay,1,1,Copa America,Brazil,-11,11,1867,1721,-1,0,16,40
+2019-06-19,Colombia,Qatar,1,0,Copa America,Brazil,10,-10,2014,1754,0,-3,5,30
+2019-06-19,Ivory Coast,Zambia,4,1,Friendly,the United Arab Emirates,11,-11,1607,1446,4,-2,55,94
+2019-06-19,Martinique,Cuba,3,0,CONCACAF Championship,the United States,31,-31,1461,1292,8,-9,89,138
+2019-06-19,Mexico,Canada,3,1,CONCACAF Championship,the United States,15,-15,1852,1584,0,-4,17,61
+2019-06-20,Costa Rica,Bermuda,2,1,CONCACAF Championship,the United States,3,-3,1708,1219,0,0,41,155
+2019-06-20,Haiti,Nicaragua,2,0,CONCACAF Championship,the United States,16,-16,1535,1276,4,-3,73,141
+2019-06-20,Japan,Uruguay,2,2,Copa America,Brazil,14,-14,1748,1943,4,0,32,9
+2019-06-21,Chile,Ecuador,2,1,Copa America,Brazil,15,-15,1889,1713,1,-3,14,40
+2019-06-21,Curaçao,Honduras,1,0,CONCACAF Championship,the United States,41,-41,1358,1538,13,-10,118,72
+2019-06-21,Egypt,Zimbabwe,1,0,African Nations Cup,Egypt,11,-11,1616,1469,3,0,53,88
+2019-06-21,El Salvador,Jamaica,0,0,CONCACAF Championship,the United States,2,-2,1547,1571,1,0,68,65
+2019-06-22,Brazil,Peru,5,0,Copa America,Brazil,10,-10,2126,1827,0,0,1,18
+2019-06-22,Guinea,Madagascar,2,2,African Nations Cup,Egypt,-8,8,1424,1323,-1,2,98,130
+2019-06-22,Nigeria,Burundi,1,0,African Nations Cup,Egypt,6,-6,1706,1353,0,-3,42,120
+2019-06-22,Panama,Guyana,4,2,CONCACAF Championship,the United States,6,-6,1595,1170,1,0,59,166
+2019-06-22,Uganda,DR Congo,2,0,African Nations Cup,Egypt,48,-48,1494,1496,9,-13,85,82
+2019-06-22,United States,Trinidad and Tobago,6,0,CONCACAF Championship,the United States,9,-9,1737,1397,2,-2,35,104
+2019-06-22,Venezuela,Bolivia,3,1,Copa America,Brazil,18,-18,1827,1597,3,-3,18,57
+2019-06-23,Algeria,Kenya,2,0,African Nations Cup,Egypt,22,-22,1564,1370,3,-4,67,110
+2019-06-23,Argentina,Qatar,2,0,Copa America,Brazil,26,-26,1893,1728,3,-7,13,37
+2019-06-23,Canada,Cuba,7,0,CONCACAF Championship,the United States,18,-18,1602,1274,4,-3,57,141
+2019-06-23,Colombia,Paraguay,1,0,Copa America,Brazil,8,-8,2022,1713,0,0,5,39
+2019-06-23,Mexico,Martinique,3,2,CONCACAF Championship,the United States,5,-5,1857,1456,0,-4,17,94
+2019-06-23,Morocco,Namibia,1,0,African Nations Cup,Egypt,8,-8,1675,1362,3,-3,47,114
+2019-06-23,Senegal,Tanzania,2,0,African Nations Cup,Egypt,7,-7,1777,1354,0,-4,26,119
+2019-06-24,Angola,Tunisia,1,1,African Nations Cup,Egypt,18,-18,1378,1650,6,-1,109,51
+2019-06-24,Bermuda,Nicaragua,2,0,CONCACAF Championship,the United States,44,-44,1263,1232,13,-9,142,149
+2019-06-24,Ecuador,Japan,1,1,Copa America,Brazil,3,-3,1716,1745,0,-1,39,32
+2019-06-24,Haiti,Costa Rica,2,1,CONCACAF Championship,the United States,37,-37,1572,1671,8,-7,64,48
+2019-06-24,Ivory Coast,South Africa,1,0,African Nations Cup,Egypt,19,-19,1626,1506,3,-2,52,77
+2019-06-24,Mali,Mauritania,4,1,African Nations Cup,Egypt,23,-23,1541,1320,5,-8,72,131
+2019-06-24,Uruguay,Chile,1,0,Copa America,Brazil,21,-21,1964,1868,0,-1,9,16
+2019-06-25,Benin,Ghana,2,2,African Nations Cup,Egypt,12,-12,1435,1598,3,-2,97,57
+2019-06-25,Cameroon,Guinea-Bissau,2,0,African Nations Cup,Egypt,11,-11,1615,1279,1,-1,55,139
+2019-06-25,Curaçao,Jamaica,1,1,CONCACAF Championship,the United States,14,-14,1372,1557,5,-4,111,70
+2019-06-25,Honduras,El Salvador,4,0,CONCACAF Championship,the United States,48,-48,1586,1499,11,-10,62,80
+2019-06-26,Egypt,DR Congo,2,0,African Nations Cup,Egypt,16,-16,1632,1480,2,-6,52,88
+2019-06-26,Guyana,Trinidad and Tobago,1,1,CONCACAF Championship,the United States,14,-14,1184,1383,0,-3,166,107
+2019-06-26,Nigeria,Guinea,1,0,African Nations Cup,Egypt,8,-8,1714,1416,1,-2,40,101
+2019-06-26,Uganda,Zimbabwe,1,1,African Nations Cup,Egypt,-2,2,1492,1471,0,0,85,89
+2019-06-26,United States,Panama,1,0,CONCACAF Championship,the United States,10,-10,1747,1585,3,-2,31,62
+2019-06-27,Algeria,Senegal,1,0,African Nations Cup,Egypt,39,-39,1603,1738,12,-8,56,34
+2019-06-27,Brazil,Paraguay,0,0,Copa America,Brazil,-23,23,2103,1736,0,5,1,36
+2019-06-27,Kenya,Tanzania,3,2,African Nations Cup,Egypt,24,-24,1394,1330,8,-6,104,125
+2019-06-27,Madagascar,Burundi,1,0,African Nations Cup,Egypt,27,-27,1350,1326,9,-9,120,129
+2019-06-28,Argentina,Venezuela,2,0,Copa America,Brazil,30,-30,1923,1797,2,-5,11,23
+2019-06-28,Chile,Colombia,0,0,Copa America,Brazil,10,-10,1878,2012,0,0,16,5
+2019-06-28,Mali,Tunisia,1,1,African Nations Cup,Egypt,8,-8,1549,1642,1,0,71,51
+2019-06-28,Morocco,Ivory Coast,1,0,African Nations Cup,Egypt,21,-21,1696,1605,4,-2,42,55
+2019-06-28,South Africa,Namibia,1,0,African Nations Cup,Egypt,15,-15,1521,1347,1,-4,75,120
+2019-06-29,Angola,Mauritania,0,0,African Nations Cup,Egypt,-4,4,1374,1324,0,1,110,130
+2019-06-29,Benin,Guinea-Bissau,0,0,African Nations Cup,Egypt,-11,11,1424,1290,-1,1,98,138
+2019-06-29,Cameroon,Ghana,0,0,African Nations Cup,Egypt,-1,1,1614,1599,0,1,54,57
+2019-06-29,Costa Rica,Mexico,1,1,CONCACAF Championship,the United States,12,-12,1683,1845,3,0,45,17
+2019-06-29,Haiti,Canada,3,2,CONCACAF Championship,the United States,27,-27,1599,1575,9,-8,57,65
+2019-06-29,Peru,Uruguay,0,0,Copa America,Brazil,9,-9,1836,1955,0,0,18,9
+2019-06-30,DR Congo,Zimbabwe,4,0,African Nations Cup,Egypt,46,-46,1526,1425,14,-9,74,98
+2019-06-30,Egypt,Uganda,2,0,African Nations Cup,Egypt,15,-15,1647,1477,2,-3,50,88
+2019-06-30,Guinea,Burundi,2,0,African Nations Cup,Egypt,28,-28,1444,1298,5,-7,96,136
+2019-06-30,Jamaica,Panama,1,0,CONCACAF Championship,the United States,27,-27,1584,1558,7,-7,63,70
+2019-06-30,Madagascar,Nigeria,2,0,African Nations Cup,Egypt,67,-67,1417,1647,17,-9,102,50
+2019-06-30,United States,Curaçao,1,0,CONCACAF Championship,the United States,3,-3,1750,1369,1,-2,29,114
+2019-07-01,Algeria,Tanzania,3,0,African Nations Cup,Egypt,15,-15,1618,1315,1,-6,55,131
+2019-07-01,Ivory Coast,Namibia,4,1,African Nations Cup,Egypt,16,-16,1621,1331,1,-3,54,123
+2019-07-01,Morocco,South Africa,1,0,African Nations Cup,Egypt,13,-13,1709,1508,0,-1,41,77
+2019-07-01,Senegal,Kenya,3,0,African Nations Cup,Egypt,11,-11,1749,1383,3,-3,31,108
+2019-07-02,Benin,Cameroon,0,0,African Nations Cup,Egypt,12,-12,1436,1602,2,-1,97,57
+2019-07-02,Brazil,Argentina,2,0,Copa America,Brazil,12,-12,2115,1911,0,-1,1,12
+2019-07-02,Ghana,Guinea-Bissau,2,0,African Nations Cup,Egypt,11,-11,1610,1279,1,-1,56,139
+2019-07-02,Mali,Angola,1,0,African Nations Cup,Egypt,13,-13,1562,1361,2,-5,69,116
+2019-07-02,Mauritania,Tunisia,0,0,African Nations Cup,Egypt,18,-18,1342,1624,7,-1,121,53
+2019-07-02,Mexico,Haiti,1,0,CONCACAF Championship,the United States,10,-10,1855,1589,0,-4,17,61
+2019-07-03,Peru,Chile,3,0,Copa America,Brazil,49,-49,1885,1829,3,-2,15,18
+2019-07-03,United States,Jamaica,3,1,CONCACAF Championship,the United States,13,-13,1763,1571,2,-4,27,67
+2019-07-05,Benin,Morocco,1,1,African Nations Cup,Egypt,16,-16,1452,1693,3,-1,94,42
+2019-07-05,Senegal,Uganda,1,0,African Nations Cup,Egypt,9,-9,1758,1468,1,0,30,88
+2019-07-06,Argentina,Chile,2,1,Copa America,Brazil,19,-19,1930,1810,1,-2,11,20
+2019-07-06,Egypt,South Africa,0,1,African Nations Cup,Egypt,-40,40,1607,1548,-6,5,56,72
+2019-07-06,Nigeria,Cameroon,3,2,African Nations Cup,Egypt,22,-22,1669,1580,2,-5,48,62
+2019-07-07,Algeria,Guinea,3,0,African Nations Cup,Egypt,24,-24,1642,1420,3,-4,51,101
+2019-07-07,Brazil,Peru,3,1,Copa America,Brazil,10,-10,2125,1875,0,-2,1,17
+2019-07-07,DR Congo,Madagascar,2,2,African Nations Cup,Egypt,-8,8,1518,1425,-2,4,77,98
+2019-07-07,India,Tajikistan,2,4,Intercontinental Cup,India,-32,32,1227,1239,-8,11,152,147
+2019-07-07,United States,Mexico,0,1,CONCACAF Championship,the United States,-26,26,1737,1881,-7,1,34,16
+2019-07-08,Fiji,Tahiti,2,1,Pacific Games,Samoa,18,-18,1253,1184,3,-6,145,165
+2019-07-08,Ghana,Tunisia,1,1,African Nations Cup,Egypt,1,-1,1611,1623,0,-1,55,54
+2019-07-08,Ivory Coast,Mali,1,0,African Nations Cup,Egypt,21,-21,1642,1541,3,-4,51,73
+2019-07-08,New Caledonia,Eastern Samoa,5,0,Pacific Games,Samoa,1,-1,1169,461,0,0,167,240
+2019-07-08,Samoa,Papua New Guinea,0,6,Pacific Games,Samoa,-13,13,677,1104,-2,3,225,178
+2019-07-08,Solomon Islands,Tuvalu,13,0,Pacific Games,Samoa,9,-9,1218,770,1,-1,157,212
+2019-07-08,Syria,North Korea,5,2,Intercontinental Cup,India,13,-13,1533,1315,2,-3,74,130
+2019-07-10,Fiji,Eastern Samoa,9,0,Pacific Games,Samoa,1,-1,1254,460,-1,0,146,240
+2019-07-10,New Caledonia,Solomon Islands,2,0,Pacific Games,Samoa,34,-34,1203,1184,9,-8,158,165
+2019-07-10,Nigeria,South Africa,2,1,African Nations Cup,Egypt,17,-17,1686,1531,5,-2,43,73
+2019-07-10,Papua New Guinea,Vanuatu,2,0,Pacific Games,Samoa,38,-38,1142,1157,9,-8,169,167
+2019-07-10,Senegal,Benin,1,0,African Nations Cup,Egypt,7,-7,1765,1445,3,-1,26,95
+2019-07-10,Tahiti,Tuvalu,7,0,Pacific Games,Samoa,8,-8,1192,762,5,-1,160,213
+2019-07-10,Tajikistan,Syria,2,0,Intercontinental Cup,India,38,-38,1277,1495,8,-9,140,83
+2019-07-11,Algeria,Ivory Coast,1,1,African Nations Cup,Egypt,0,0,1642,1642,-1,-1,52,52
+2019-07-11,Tunisia,Madagascar,3,0,African Nations Cup,Egypt,21,-21,1644,1404,3,-5,51,103
+2019-07-12,Eastern Samoa,Tuvalu,1,1,Pacific Games,Samoa,14,-14,474,748,0,-2,240,215
+2019-07-12,New Caledonia,Fiji,1,0,Pacific Games,Samoa,23,-23,1226,1231,5,-5,153,151
+2019-07-12,Samoa,Tonga,2,0,Pacific Games,Samoa,12,-12,689,533,2,-1,223,238
+2019-07-12,Tahiti,Solomon Islands,3,0,Pacific Games,Samoa,34,-34,1226,1150,7,-3,153,168
+2019-07-13,India,North Korea,2,5,Intercontinental Cup,India,-27,27,1200,1342,-7,9,159,121
+2019-07-14,Algeria,Nigeria,2,1,African Nations Cup,Egypt,28,-28,1670,1658,4,-8,48,51
+2019-07-14,Senegal,Tunisia,1,0,African Nations Cup,Egypt,17,-17,1782,1627,0,-2,26,53
+2019-07-15,Fiji,Tuvalu,10,1,Pacific Games,Samoa,6,-6,1237,742,2,-1,149,216
+2019-07-15,New Caledonia,Tahiti,3,0,Pacific Games,Samoa,35,-35,1261,1191,7,-8,145,160
+2019-07-15,North Korea,Tajikistan,1,0,Intercontinental Cup,India,12,-12,1354,1265,2,-2,119,142
+2019-07-15,Solomon Islands,Eastern Samoa,13,0,Pacific Games,Samoa,2,-2,1152,472,0,0,168,240
+2019-07-15,Vanuatu,Tonga,14,0,Pacific Games,Samoa,3,-3,1160,530,0,0,166,238
+2019-07-16,India,Syria,1,1,Intercontinental Cup,India,8,-8,1208,1487,0,-2,158,85
+2019-07-17,Nigeria,Tunisia,1,0,African Nations Cup,Egypt,23,-23,1681,1604,6,-3,45,56
+2019-07-18,Fiji,Solomon Islands,4,4,Pacific Games,Samoa,-5,5,1232,1157,-1,1,150,167
+2019-07-18,Mauritius,Seychelles,1,1,Indian Ocean Games,Mauritius,-8,8,1073,972,-1,1,183,194
+2019-07-18,Mayotte,Comoros,2,0,Indian Ocean Games,Mauritius,15,-15,1233,1081,8,-2,149,181
+2019-07-18,New Caledonia,Tuvalu,11,0,Pacific Games,Samoa,5,-5,1266,737,3,0,142,216
+2019-07-18,Papua New Guinea,Tonga,8,0,Pacific Games,Samoa,3,-3,1145,527,0,0,169,238
+2019-07-18,Reunion,Maldives,4,0,Indian Ocean Games,Mauritius,5,-5,1386,977,3,0,107,192
+2019-07-18,Samoa,Vanuatu,0,11,Pacific Games,Samoa,-12,12,677,1172,-2,0,225,166
+2019-07-18,Tahiti,Eastern Samoa,8,1,Pacific Games,Samoa,1,-1,1192,471,0,0,160,240
+2019-07-19,Algeria,Senegal,1,0,African Nations Cup,Egypt,33,-33,1703,1749,8,-4,41,30
+2019-07-19,North Korea,Tajikistan,1,0,Intercontinental Cup,India,11,-11,1365,1254,4,-3,115,146
+2019-07-20,Comoros,Maldives,3,0,Indian Ocean Games,Mauritius,19,-19,1100,958,2,-4,179,196
+2019-07-20,Fiji,Papua New Guinea,1,1,Pacific Games,Samoa,-5,5,1227,1150,-2,0,152,169
+2019-07-20,Madagascar,Seychelles,0,0,Indian Ocean Games,Mauritius,-13,13,1391,985,-3,2,106,192
+2019-07-20,Reunion,Mayotte,1,0,Indian Ocean Games,Mauritius,9,-9,1395,1224,3,-8,104,157
+2019-07-22,Comoros,Reunion,1,0,Indian Ocean Games,Mauritius,25,-25,1125,1370,4,-7,175,111
+2019-07-22,Djibouti,Somalia,1,0,Friendly,Djibouti,9,-9,797,835,0,-1,208,204
+2019-07-22,Mauritius,Madagascar,1,1,Indian Ocean Games,Mauritius,8,-8,1081,1383,1,-1,182,107
+2019-07-22,Mayotte,Maldives,3,1,Indian Ocean Games,Mauritius,8,-8,1232,950,8,0,149,196
+2019-07-24,Mauritius,Mayotte,1,0,Indian Ocean Games,Mauritius,17,-17,1098,1215,2,-8,180,157
+2019-07-24,Reunion,Seychelles,4,0,Indian Ocean Games,Mauritius,6,-6,1376,979,1,0,110,192
+2019-07-26,Mayotte,Seychelles,3,1,Indian Ocean Games,Mauritius,9,-9,1224,970,0,-2,157,194
+2019-07-28,Mauritius,Reunion,1,1,Indian Ocean Games,Mauritius,7,-7,1105,1369,0,-2,180,112
+2019-07-30,Iraq,Lebanon,1,0,West Asian Championship,Iraq,8,-8,1603,1437,2,-1,57,96
+2019-07-30,Palestine,Yemen,1,0,West Asian Championship,Iraq,8,-8,1401,1149,0,-2,104,169
+2019-08-02,Iraq,Palestine,2,1,West Asian Championship,Iraq,6,-6,1609,1395,2,0,55,104
+2019-08-02,Lebanon,Syria,2,1,West Asian Championship,Iraq,23,-23,1460,1464,7,-3,89,88
+2019-08-04,Bahrain,Jordan,1,0,West Asian Championship,Iraq,24,-24,1443,1470,3,-2,98,86
+2019-08-04,Kuwait,Saudi Arabia,2,1,West Asian Championship,Iraq,28,-28,1458,1540,5,-4,92,72
+2019-08-05,Lebanon,Palestine,0,0,West Asian Championship,Iraq,-4,4,1456,1399,-4,0,93,104
+2019-08-05,Syria,Yemen,1,1,West Asian Championship,Iraq,-14,14,1450,1163,-7,2,95,167
+2019-08-07,Bahrain,Saudi Arabia,0,0,West Asian Championship,Iraq,5,-5,1448,1535,2,0,96,72
+2019-08-07,Jordan,Kuwait,1,1,West Asian Championship,Iraq,-1,1,1469,1459,0,1,86,89
+2019-08-08,Iraq,Syria,0,0,West Asian Championship,Iraq,-13,13,1596,1463,-4,7,59,88
+2019-08-08,Yemen,Lebanon,2,1,West Asian Championship,Iraq,34,-34,1197,1422,8,-7,159,100
+2019-08-10,Bahrain,Kuwait,1,0,West Asian Championship,Iraq,21,-21,1469,1438,8,-7,87,97
+2019-08-10,Jordan,Saudi Arabia,3,0,West Asian Championship,Iraq,42,-42,1511,1493,10,-12,76,84
+2019-08-11,Iraq,Yemen,2,1,West Asian Championship,Iraq,2,-2,1598,1195,2,0,57,159
+2019-08-11,Palestine,Syria,4,3,West Asian Championship,Iraq,24,-24,1423,1439,4,-7,100,96
+2019-08-11,Saint Vincent and the Grenadines,Trinidad and Tobago,1,0,Friendly,Saint Vincent and the Grenadines,14,-14,1135,1369,3,-4,173,111
+2019-08-14,Dominican Republic,Guatemala,0,0,Friendly,the Dominican Republic,5,-5,1230,1490,2,-2,152,85
+2019-08-14,Iraq,Bahrain,0,1,West Asian Championship,Iraq,-32,32,1566,1501,-10,7,67,80
+2019-08-18,Sint Maarten,Anguilla,2,0,Friendly,Sint Maarten,3,-3,828,556,0,0,206,236
+2019-08-25,Saint Kitts and Nevis,Antigua and Barbuda,3,0,Friendly,Saint Kitts and Nevis,11,-11,1236,1182,6,-6,149,166
+2019-08-27,Saint Kitts and Nevis,Antigua and Barbuda,4,3,Friendly,Saint Kitts and Nevis,6,-6,1242,1176,0,0,149,166
+2019-08-28,Oman,Yemen,1,0,Friendly,Oman,2,-2,1504,1193,1,0,77,159
+2019-08-29,Taiwan,Guam,3,0,Friendly,Taiwan,5,-5,1000,775,1,0,190,210
+2019-08-30,Belize,Saint Vincent and the Grenadines,1,1,Friendly,Belize,-3,3,1139,1138,0,1,170,172
+2019-08-30,China,Myanmar,4,1,Friendly,China,2,-2,1486,1055,0,0,87,186
+2019-08-30,Malaysia,Jordan,0,1,Friendly,Malaysia,-3,3,1129,1514,-1,0,175,76
+2019-08-30,United Arab Emirates,Dominican Republic,4,0,Friendly,Bahrain,7,-7,1492,1223,1,-4,85,157
+2019-08-31,United Arab Emirates,Sri Lanka,5,1,Friendly,Bahrain,0,0,1492,685,0,0,85,224
+2019-09-01,Belize,Saint Vincent and the Grenadines,1,0,Friendly,Belize,7,-7,1146,1131,0,-2,170,174
+2019-09-04,Burkina Faso,Libya,1,0,Friendly,Morocco,8,-8,1539,1450,0,-2,72,93
+2019-09-04,Burundi,Tanzania,1,1,World Cup qualifier,Burundi,-5,5,1293,1320,-1,2,137,129
+2019-09-04,Djibouti,Eswatini,2,1,World Cup qualifier,Djibouti,34,-34,831,1153,3,-5,205,168
+2019-09-04,Equatorial Guinea,South Sudan,1,1,World Cup qualifier,Sudan,-14,14,1318,1032,-8,0,131,188
+2019-09-04,Eritrea,Namibia,1,2,World Cup qualifier,Eritrea,-12,12,1062,1343,-1,3,184,122
+2019-09-04,Ethiopia,Lesotho,0,0,World Cup qualifier,Ethiopia,-3,3,1253,1307,-1,0,146,134
+2019-09-04,Liberia,Sierra Leone,3,1,World Cup qualifier,Liberia,24,-24,1354,1331,8,-6,119,125
+2019-09-04,Mauritius,Mozambique,0,1,World Cup qualifier,Mauritius,-16,16,1089,1285,-2,2,182,139
+2019-09-04,Sao Tome and Principe,Guinea-Bissau,0,1,World Cup qualifier,Sao Tome and Principe,-14,14,1058,1293,-1,2,185,137
+2019-09-05,Argentina,Chile,0,0,Friendly,the United States,-3,3,1927,1813,-1,0,12,20
+2019-09-05,Armenia,Italy,1,3,European Championship qualifier,Armenia,-7,7,1453,1928,-5,1,94,11
+2019-09-05,Bahrain,Iraq,1,1,World Cup and Asian Cup qualifier,Bahrain,-2,2,1499,1568,-1,-1,81,68
+2019-09-05,Barbados,Saint Martin,4,0,CONCACAF Nations League C,Barbados,5,-5,1137,778,0,0,173,209
+2019-09-05,Bermuda,Panama,1,4,CONCACAF Nations League A,Bermuda,-17,17,1246,1575,-5,6,148,63
+2019-09-05,Bosnia and Herzegovina,Liechtenstein,5,0,European Championship qualifier,Bosnia and Herzegovina,1,-1,1745,1118,1,-1,32,178
+2019-09-05,Cambodia,Hong Kong,1,1,World Cup and Asian Cup qualifier,Cambodia,12,-12,854,1176,0,-2,203,164
+2019-09-05,Chad,Sudan,1,3,World Cup qualifier,Chad,-40,40,1213,1272,-10,7,156,143
+2019-09-05,Dominica,Suriname,1,2,CONCACAF Nations League B,Dominica,-13,13,1036,1298,1,3,186,136
+2019-09-05,Ecuador,Peru,1,0,Friendly,the United States,14,-14,1730,1861,2,0,38,17
+2019-09-05,Faroe Islands,Sweden,0,4,European Championship qualifier,the Faroe Islands,-4,4,1221,1830,1,0,154,18
+2019-09-05,Finland,Greece,1,0,European Championship qualifier,Finland,9,-9,1686,1565,4,-5,44,69
+2019-09-05,Georgia,South Korea,2,2,Friendly,Turkey,6,-6,1532,1781,1,0,73,25
+2019-09-05,Gibraltar,Denmark,0,6,European Championship qualifier,Gibraltar,-2,2,1091,1892,-1,0,181,14
+2019-09-05,Grenada,Saint Kitts and Nevis,2,1,CONCACAF Nations League B,Grenada,22,-22,1132,1220,3,-6,175,155
+2019-09-05,Guam,Maldives,0,1,World Cup and Asian Cup qualifier,Guam,-16,16,759,966,-2,2,212,194
+2019-09-05,Guatemala,Anguilla,10,0,CONCACAF Nations League C,Guatemala,0,0,1490,556,0,0,86,236
+2019-09-05,Honduras,Puerto Rico,4,0,Friendly,Honduras,1,-1,1587,974,2,0,58,192
+2019-09-05,India,Oman,1,2,World Cup and Asian Cup qualifier,India,-10,10,1198,1514,1,0,157,77
+2019-09-05,Indonesia,Malaysia,2,3,World Cup and Asian Cup qualifier,Indonesia,-30,30,1196,1159,-4,8,158,167
+2019-09-05,Ireland,Switzerland,1,1,European Championship qualifier,Ireland,4,-4,1732,1896,1,0,37,13
+2019-09-05,Israel,North Macedonia,1,1,European Championship qualifier,Israel,-10,10,1587,1506,-1,5,58,78
+2019-09-05,Japan,Paraguay,2,0,Friendly,Japan,10,-10,1755,1726,3,-4,29,40
+2019-09-05,Kuwait,Nepal,7,0,World Cup and Asian Cup qualifier,Kuwait,2,-2,1440,891,-1,0,98,200
+2019-09-05,Mongolia,Myanmar,1,0,World Cup and Asian Cup qualifier,Mongolia,32,-32,735,1023,2,-2,216,188
+2019-09-05,Montenegro,Hungary,2,1,Friendly,Montenegro,10,-10,1571,1659,2,-1,66,51
+2019-09-05,Nicaragua,Saint Vincent and the Grenadines,1,1,CONCACAF Nations League B,Nicaragua,-10,10,1222,1141,-3,2,153,172
+2019-09-05,North Korea,Lebanon,2,0,World Cup and Asian Cup qualifier,North Korea,26,-26,1391,1396,11,-2,104,103
+2019-09-05,Norway,Malta,2,0,European Championship qualifier,Norway,2,-2,1686,1187,0,0,44,161
+2019-09-05,Northern Ireland,Luxembourg,1,0,Friendly,Northern Ireland,2,-2,1680,1354,-1,0,48,118
+2019-09-05,Palestine,Uzbekistan,2,0,World Cup and Asian Cup qualifier,Palestine,39,-39,1462,1586,11,-7,89,60
+2019-09-05,Philippines,Syria,2,5,World Cup and Asian Cup qualifier,the Philippines,-17,17,1119,1456,-5,4,177,92
+2019-09-05,Qatar,Afghanistan,6,0,World Cup and Asian Cup qualifier,Qatar,2,-2,1730,1137,0,-2,38,173
+2019-09-05,Romania,Spain,1,2,European Championship qualifier,Romania,-11,11,1739,2038,-4,0,33,4
+2019-09-05,Saudi Arabia,Mali,1,1,Friendly,Saudi Arabia,-1,1,1492,1542,0,0,84,71
+2019-09-05,Seychelles,Rwanda,0,3,World Cup qualifier,the Seychelles,-17,17,953,1279,-2,4,196,140
+2019-09-05,Singapore,Yemen,2,2,World Cup and Asian Cup qualifier,Singapore,-1,1,1107,1194,0,0,179,159
+2019-09-05,Somalia,Zimbabwe,1,0,World Cup qualifier,Djibouti,39,-39,874,1386,2,-8,202,106
+2019-09-05,Sri Lanka,Turkmenistan,0,2,World Cup and Asian Cup qualifier,Sri Lanka,-4,4,681,1236,0,1,224,149
+2019-09-05,Taiwan,Jordan,1,2,World Cup and Asian Cup qualifier,Taiwan,-3,3,997,1517,0,0,190,76
+2019-09-05,Tajikistan,Kyrgyzstan,1,0,World Cup and Asian Cup qualifier,Tajikistan,17,-17,1271,1277,1,-5,144,141
+2019-09-05,Thailand,Vietnam,0,0,World Cup and Asian Cup qualifier,Thailand,-3,3,1325,1376,0,-1,127,110
+2019-09-05,US Virgin Islands,Cayman Islands,0,2,CONCACAF Nations League C,the US VirgIslands,-24,24,724,937,-2,1,217,197
+2019-09-06,Austria,Latvia,6,0,European Championship qualifier,Austria,3,-3,1739,1247,4,0,32,147
+2019-09-06,Benin,Ivory Coast,2,1,Friendly,France,15,-15,1460,1627,7,0,90,52
+2019-09-06,Bonaire,British Virgin Islands,4,2,CONCACAF Nations League C,Curaçao,8,-8,979,635,1,-1,192,229
+2019-09-06,Brazil,Colombia,2,2,Friendly,the United States,-3,3,2122,2015,0,-1,1,6
+2019-09-06,Comoros,Togo,1,1,World Cup qualifier,the Comoros,7,-7,1132,1337,1,-1,175,122
+2019-09-06,Costa Rica,Uruguay,1,2,Friendly,Costa Rica,-5,5,1678,1960,-2,1,48,8
+2019-09-06,Cyprus,Kazakhstan,1,1,European Championship qualifier,Cyprus,-7,7,1397,1391,0,3,102,104
+2019-09-06,Estonia,Belarus,1,2,European Championship qualifier,Estonia,-23,23,1436,1522,-8,6,98,75
+2019-09-06,Gambia,Angola,0,1,World Cup qualifier,The Gambia,-25,25,1326,1386,-6,10,126,107
+2019-09-06,Germany,Netherlands,2,4,European Championship qualifier,Germany,-38,38,1932,2017,-2,2,10,5
+2019-09-06,Guyana,Aruba,1,0,CONCACAF Nations League B,Curaçao,7,-7,1191,912,2,0,161,198
+2019-09-06,Jamaica,Antigua and Barbuda,6,0,CONCACAF Nations League B,Jamaica,5,-5,1576,1171,2,-2,64,166
+2019-09-06,Martinique,Trinidad and Tobago,1,1,CONCACAF Nations League A,Martinique,-10,10,1446,1379,-3,1,95,111
+2019-09-06,Morocco,Burkina Faso,1,1,Friendly,Morocco,-6,6,1687,1545,0,2,43,70
+2019-09-06,San Marino,Belgium,0,4,European Championship qualifier,San Marino,0,0,830,2048,0,0,206,3
+2019-09-06,Scotland,Russia,1,2,European Championship qualifier,Scotland,-20,20,1644,1784,-1,2,51,24
+2019-09-06,Slovakia,Croatia,0,4,European Championship qualifier,Slovakia,-35,35,1727,1920,-11,2,38,13
+2019-09-06,Slovenia,Poland,2,0,European Championship qualifier,Slovenia,41,-41,1613,1762,12,-5,53,26
+2019-09-06,Tunisia,Mauritania,1,0,Friendly,Tunisia,2,-2,1606,1340,-1,2,56,121
+2019-09-06,United States,Mexico,0,3,Friendly,the United States,-15,15,1722,1896,-6,2,40,14
+2019-09-06,Wales,Azerbaijan,2,1,European Championship qualifier,Wales,2,-2,1749,1363,2,-1,29,117
+2019-09-07,Botswana,Malawi,0,0,World Cup qualifier,Botswana,-5,5,1309,1337,-1,1,133,122
+2019-09-07,Canada,Cuba,6,0,CONCACAF Nations League A,Canada,8,-8,1583,1266,4,-2,61,144
+2019-09-07,Curaçao,Haiti,1,0,CONCACAF Nations League A,Curaçao,27,-27,1396,1562,11,-12,103,70
+2019-09-07,El Salvador,Saint Lucia,3,0,CONCACAF Nations League B,El Salvador,4,-4,1503,1089,2,-1,80,181
+2019-09-07,England,Bulgaria,4,0,European Championship qualifier,England,5,-5,1944,1574,0,-2,9,65
+2019-09-07,France,Albania,4,1,European Championship qualifier,France,2,-2,2051,1501,0,-2,2,82
+2019-09-07,Guadeloupe,Sint Maarten,5,1,CONCACAF Nations League C,Guadeloupe,5,-5,1190,823,2,0,161,207
+2019-09-07,Iceland,Moldova,3,0,European Championship qualifier,Iceland,4,-4,1698,1299,0,0,42,135
+2019-09-07,Kosovo,Czechia,2,1,European Championship qualifier,Kosovo,25,-25,1568,1712,4,-6,67,40
+2019-09-07,Libya,Niger,2,0,Friendly,Morocco,10,-10,1460,1310,4,-2,90,131
+2019-09-07,Lithuania,Ukraine,0,3,European Championship qualifier,Lithuania,-6,6,1316,1831,-2,1,130,18
+2019-09-07,Montserrat,Dominican Republic,2,1,CONCACAF Nations League B,Montserrat,35,-35,800,1188,2,-10,209,162
+2019-09-07,Serbia,Portugal,2,4,European Championship qualifier,Serbia,-23,23,1777,2003,-4,0,25,7
+2019-09-07,Turkey,Andorra,1,0,European Championship qualifier,Turkey,0,0,1759,1065,0,0,27,183
+2019-09-08,Armenia,Bosnia and Herzegovina,4,2,European Championship qualifier,Armenia,45,-45,1498,1700,10,-10,84,41
+2019-09-08,Belize,Grenada,1,2,CONCACAF Nations League B,Belize,-26,26,1120,1158,-5,7,176,168
+2019-09-08,Cayman Islands,Barbados,3,2,CONCACAF Nations League C,the Cayman Islands,26,-26,963,1111,2,-5,195,178
+2019-09-08,Equatorial Guinea,South Sudan,1,0,World Cup qualifier,Equatorial Guinea,4,-4,1322,1028,1,1,128,186
+2019-09-08,Finland,Italy,1,2,European Championship qualifier,Finland,-12,12,1674,1940,-4,1,48,10
+2019-09-08,Georgia,Denmark,0,0,European Championship qualifier,Georgia,13,-13,1545,1879,3,0,70,16
+2019-09-08,Greece,Liechtenstein,1,1,European Championship qualifier,Greece,-18,18,1547,1136,0,4,69,174
+2019-09-08,Kenya,Uganda,1,1,Friendly,Kenya,0,0,1383,1468,0,-1,110,89
+2019-09-08,Lesotho,Ethiopia,1,1,World Cup qualifier,Lesotho,-8,8,1299,1261,-3,-1,137,147
+2019-09-08,Panama,Bermuda,0,2,CONCACAF Nations League A,Panama,-55,55,1520,1301,-11,13,75,135
+2019-09-08,Romania,Malta,1,0,European Championship qualifier,Romania,1,-1,1740,1186,1,0,31,163
+2019-09-08,Sierra Leone,Liberia,1,0,World Cup qualifier,Sierra Leone,16,-16,1347,1338,5,-4,119,122
+2019-09-08,Spain,Faroe Islands,4,0,European Championship qualifier,Spain,0,0,2038,1221,0,1,4,152
+2019-09-08,Saint Kitts and Nevis,French Guiana,2,2,CONCACAF Nations League B,Saint Kitts and Nevis,-1,1,1219,1311,1,-1,153,132
+2019-09-08,Saint Vincent and the Grenadines,Dominica,1,0,CONCACAF Nations League B,Saint Vincent and the Grenadines,9,-9,1150,1027,1,-1,171,187
+2019-09-08,Suriname,Nicaragua,6,0,CONCACAF Nations League B,Suriname,23,-23,1321,1199,7,-3,129,155
+2019-09-08,Sweden,Norway,1,1,European Championship qualifier,Sweden,-12,12,1818,1698,0,2,19,42
+2019-09-08,Switzerland,Gibraltar,4,0,European Championship qualifier,Switzerland,0,0,1896,1091,0,0,14,180
+2019-09-08,Tanzania,Burundi,1,1,World Cup qualifier,Tanzania,-7,7,1313,1300,-3,1,131,136
+2019-09-08,US Virgin Islands,Saint Martin,2,1,CONCACAF Nations League C,Anguilla,23,-23,747,755,2,-4,215,214
+2019-09-09,Algeria,Benin,1,0,Friendly,Algeria,2,-2,1705,1458,0,-1,40,92
+2019-09-09,Antigua and Barbuda,Aruba,2,1,CONCACAF Nations League B,Antigua and Barbuda,4,-4,1175,908,1,0,165,198
+2019-09-09,Azerbaijan,Croatia,1,1,European Championship qualifier,Azerbaijan,17,-17,1380,1903,5,0,112,13
+2019-09-09,Bahamas,Bonaire,2,1,CONCACAF Nations League C,the Bahamas,22,-22,871,957,1,-4,203,196
+2019-09-09,Estonia,Netherlands,0,4,European Championship qualifier,Estonia,-4,4,1432,2021,0,0,98,5
+2019-09-09,Guyana,Jamaica,0,4,CONCACAF Nations League B,Guyana,-12,12,1179,1588,-3,5,163,58
+2019-09-09,Hungary,Slovakia,1,2,European Championship qualifier,Hungary,-22,22,1637,1749,0,6,50,30
+2019-09-09,Iraq,Uzbekistan,0,0,Friendly,Jordan,1,-1,1569,1585,0,0,66,60
+2019-09-09,Latvia,North Macedonia,0,2,European Championship qualifier,Latvia,-17,17,1230,1523,-1,5,149,74
+2019-09-09,Northern Ireland,Germany,0,2,European Championship qualifier,Northern Ireland,-18,18,1662,1950,-3,2,49,9
+2019-09-09,Poland,Austria,0,0,European Championship qualifier,Poland,-7,7,1755,1746,-1,0,27,32
+2019-09-09,Russia,Kazakhstan,1,0,European Championship qualifier,Russia,2,-2,1786,1389,0,-1,23,106
+2019-09-09,San Marino,Cyprus,0,4,European Championship qualifier,San Marino,-5,5,825,1402,0,0,206,102
+2019-09-09,Scotland,Belgium,0,4,European Championship qualifier,Scotland,-11,11,1633,2059,0,1,51,2
+2019-09-09,Slovenia,Israel,3,2,European Championship qualifier,Slovenia,13,-13,1626,1574,0,-5,53,63
+2019-09-09,Trinidad and Tobago,Martinique,2,2,CONCACAF Nations League A,Trinidad and Tobago,-2,2,1377,1448,-1,0,113,95
+2019-09-09,Wales,Belarus,1,0,Friendly,Wales,3,-3,1752,1519,0,-2,29,76
+2019-09-10,Afghanistan,Bangladesh,1,0,World Cup and Asian Cup qualifier,Tajikistan,5,-5,1142,813,1,0,172,208
+2019-09-10,Albania,Iceland,4,2,European Championship qualifier,Albania,38,-38,1539,1660,9,-7,73,49
+2019-09-10,Angola,Gambia,2,1,World Cup qualifier,Angola,11,-11,1397,1315,4,-3,104,129
+2019-09-10,Argentina,Mexico,4,0,Friendly,the United States,17,-17,1944,1879,1,-1,11,15
+2019-09-10,Cambodia,Bahrain,0,1,World Cup and Asian Cup qualifier,Cambodia,-2,2,852,1501,0,1,204,82
+2019-09-10,Canada,Cuba,1,0,CONCACAF Nations League A,the Cayman Islands,6,-6,1589,1260,2,-2,59,147
+2019-09-10,Colombia,Venezuela,0,0,Friendly,the United States,-6,6,2009,1803,0,1,6,20
+2019-09-10,Dominican Republic,El Salvador,1,0,CONCACAF Nations League B,the Dominican Republic,31,-31,1219,1472,7,-8,154,88
+2019-09-10,Ecuador,Bolivia,3,0,Friendly,Ecuador,7,-7,1737,1590,-1,-1,36,58
+2019-09-10,England,Kosovo,5,3,European Championship qualifier,England,4,-4,1948,1564,0,1,10,66
+2019-09-10,Eswatini,Djibouti,0,0,World Cup qualifier,Eswatini,-17,17,1136,848,-4,0,174,205
+2019-09-10,France,Andorra,3,0,European Championship qualifier,France,0,0,2051,1065,0,0,3,183
+2019-09-10,Guam,Philippines,1,4,World Cup and Asian Cup qualifier,Guam,-13,13,746,1132,-4,1,215,176
+2019-09-10,Guinea-Bissau,Sao Tome and Principe,2,1,World Cup qualifier,Guinea-Bissau,5,-5,1298,1053,2,0,137,185
+2019-09-10,Haiti,Curaçao,1,1,CONCACAF Nations League A,Haiti,-13,13,1549,1409,1,2,67,101
+2019-09-10,Honduras,Chile,2,1,Friendly,Honduras,13,-13,1600,1800,3,-1,56,21
+2019-09-10,Hong Kong,Iran,0,2,World Cup and Asian Cup qualifier,Hong Kong,-3,3,1173,1800,0,0,164,21
+2019-09-10,Indonesia,Thailand,0,3,World Cup and Asian Cup qualifier,Indonesia,-32,32,1164,1357,-9,9,166,118
+2019-09-10,Ireland,Bulgaria,3,1,Friendly,Ireland,6,-6,1738,1568,-1,-2,35,65
+2019-09-10,Ivory Coast,Tunisia,2,1,Friendly,France,9,-9,1636,1597,1,-1,51,57
+2019-09-10,Jordan,Paraguay,2,4,Friendly,Jordan,-10,10,1507,1736,-2,0,80,37
+2019-09-10,Kuwait,Australia,0,3,World Cup and Asian Cup qualifier,Kuwait,-22,22,1418,1696,-3,4,100,43
+2019-09-10,Lithuania,Portugal,1,5,European Championship qualifier,Lithuania,-2,2,1314,2005,0,0,130,7
+2019-09-10,Luxembourg,Serbia,1,3,European Championship qualifier,Luxembourg,-8,8,1346,1785,-4,1,122,24
+2019-09-10,Malawi,Botswana,1,0,World Cup qualifier,Malawi,13,-13,1350,1296,4,-4,119,138
+2019-09-10,Malaysia,United Arab Emirates,1,2,World Cup and Asian Cup qualifier,Malaysia,-8,8,1151,1500,-2,2,169,83
+2019-09-10,Maldives,China,0,5,World Cup and Asian Cup qualifier,the Maldives,-7,7,959,1493,-1,2,194,86
+2019-09-10,Moldova,Turkey,0,4,European Championship qualifier,Moldova,-8,8,1291,1767,-3,0,140,26
+2019-09-10,Mongolia,Tajikistan,0,1,World Cup and Asian Cup qualifier,Mongolia,-3,3,732,1274,0,1,217,143
+2019-09-10,Montenegro,Czechia,0,3,European Championship qualifier,Montenegro,-31,31,1540,1743,-7,6,72,33
+2019-09-10,Montserrat,Saint Lucia,1,1,CONCACAF Nations League B,Montserrat,10,-10,810,1079,0,-1,209,182
+2019-09-10,Morocco,Niger,1,0,Friendly,Morocco,1,-1,1688,1309,0,0,44,133
+2019-09-10,Mozambique,Mauritius,2,0,World Cup qualifier,Mozambique,9,-9,1294,1080,1,0,139,181
+2019-09-10,Myanmar,Japan,0,2,World Cup and Asian Cup qualifier,Myanmar,-2,2,1021,1757,0,0,188,27
+2019-09-10,Namibia,Eritrea,2,0,World Cup qualifier,Namibia,6,-6,1349,1056,0,0,120,184
+2019-09-10,Oman,Lebanon,1,0,Friendly,Oman,4,-4,1518,1392,1,-2,78,105
+2019-09-10,Peru,Brazil,1,0,Friendly,the United States,16,-16,1877,2106,0,0,17,1
+2019-09-10,Puerto Rico,Guatemala,0,5,CONCACAF Nations League C,Puerto Rico,-7,7,967,1497,1,2,191,85
+2019-09-10,Qatar,India,0,0,World Cup and Asian Cup qualifier,Qatar,-19,19,1711,1217,-4,0,39,156
+2019-09-10,Rwanda,Seychelles,7,0,World Cup qualifier,Rwanda,7,-7,1286,946,0,0,141,197
+2019-09-10,Saudi Arabia,Yemen,2,2,World Cup and Asian Cup qualifier,Bahrain,-14,14,1478,1208,-2,1,87,157
+2019-09-10,Singapore,Palestine,2,1,World Cup and Asian Cup qualifier,Singapore,33,-33,1140,1429,6,-7,173,97
+2019-09-10,Sri Lanka,North Korea,0,1,World Cup and Asian Cup qualifier,Sri Lanka,-1,1,680,1392,0,0,224,105
+2019-09-10,Sudan,Chad,0,0,World Cup qualifier,Sudan,-9,9,1263,1222,-2,2,145,152
+2019-09-10,Taiwan,Nepal,0,2,World Cup and Asian Cup qualifier,Taiwan,-46,46,951,937,-6,2,196,198
+2019-09-10,Togo,Comoros,2,0,World Cup qualifier,Togo,9,-9,1346,1123,1,-2,122,177
+2019-09-10,Turkmenistan,South Korea,0,2,World Cup and Asian Cup qualifier,Turkmenistan,-4,4,1232,1785,0,0,148,24
+2019-09-10,Turks and Caicos Islands,Guadeloupe,0,3,CONCACAF Nations League C,Turks and Caicos Islands,-9,9,750,1199,-2,2,213,158
+2019-09-10,Ukraine,Nigeria,2,2,Friendly,Ukraine,-6,6,1825,1687,0,0,18,45
+2019-09-10,United States,Uruguay,1,1,Friendly,the United States,4,-4,1726,1956,0,0,38,8
+2019-09-10,Zimbabwe,Somalia,3,1,World Cup qualifier,Zimbabwe,2,-2,1388,872,0,0,108,202
+2019-09-29,Bangladesh,Bhutan,4,1,Friendly,Bangladesh,4,-4,817,571,0,0,208,234
+2019-09-30,Botswana,Liberia,0,0,Independence Tournament,Botswana,-2,2,1294,1340,0,1,138,124
+2019-10-02,Dominican Republic,Cuba,0,0,Friendly,the Dominican Republic,-2,2,1217,1262,-1,1,155,146
+2019-10-02,Mexico,Trinidad and Tobago,2,0,Friendly,Mexico,1,-1,1880,1376,0,0,15,113
+2019-10-03,Bangladesh,Bhutan,2,0,Friendly,Bangladesh,4,-4,821,567,0,0,208,234
+2019-10-04,Saint Lucia,Dominica,3,1,Friendly,Saint Lucia,9,-9,1088,1018,1,-1,181,188
+2019-10-05,Jordan,Singapore,0,0,Friendly,Jordan,-9,9,1498,1149,-3,1,83,172
+2019-10-05,Malaysia,Sri Lanka,6,0,Friendly,Malaysia,2,-2,1153,678,0,0,169,224
+2019-10-06,Saint Lucia,Dominica,1,4,Friendly,Saint Lucia,-25,25,1063,1043,-2,2,183,186
+2019-10-09,Bahrain,Azerbaijan,2,3,Friendly,Bahrain,-16,16,1485,1396,-5,7,86,105
+2019-10-09,Djibouti,Gambia,1,1,African Nations Cup qualifier,Djibouti,16,-16,864,1299,1,-6,204,135
+2019-10-09,Germany,Argentina,2,2,Friendly,Germany,-3,3,1947,1947,-1,1,10,10
+2019-10-09,Liberia,Chad,1,0,African Nations Cup qualifier,Liberia,9,-9,1349,1213,4,-4,120,156
+2019-10-09,Mauritius,Sao Tome and Principe,1,3,African Nations Cup qualifier,Mauritius,-41,41,1039,1094,-6,5,187,180
+2019-10-09,South Sudan,Seychelles,2,1,African Nations Cup qualifier,Sudan,15,-15,1043,931,2,-1,185,198
+2019-10-10,Algeria,DR Congo,1,1,Friendly,Algeria,-7,7,1698,1525,-1,2,41,76
+2019-10-10,Australia,Nepal,5,0,World Cup and Asian Cup qualifier,Australia,1,-1,1697,936,0,0,43,197
+2019-10-10,Austria,Israel,3,1,European Championship qualifier,Austria,10,-10,1756,1564,1,-3,31,66
+2019-10-10,Bahamas,British Virgin Islands,4,0,CONCACAF Nations League C,Saint Kitts and Nevis,15,-15,886,620,2,-2,201,231
+2019-10-10,Bangladesh,Qatar,0,2,World Cup and Asian Cup qualifier,Bangladesh,-1,1,820,1712,1,0,207,39
+2019-10-10,Belarus,Estonia,0,0,European Championship qualifier,Belarus,-10,10,1509,1442,-2,0,79,96
+2019-10-10,Belgium,San Marino,9,0,European Championship qualifier,Belgium,0,0,2059,825,0,0,2,206
+2019-10-10,Belize,Saint Kitts and Nevis,0,4,CONCACAF Nations League B,Belize,-38,38,1082,1257,-3,5,181,148
+2019-10-10,Brazil,Senegal,1,1,Friendly,Singapore,-8,8,2098,1757,0,2,1,28
+2019-10-10,Cape Verde,Togo,2,1,Friendly,France,9,-9,1397,1337,4,-2,105,125
+2019-10-10,China,Guam,7,0,World Cup and Asian Cup qualifier,China,1,-1,1494,745,1,0,84,215
+2019-10-10,Costa Rica,Haiti,1,1,CONCACAF Nations League A,the Bahamas,-7,7,1671,1556,-1,0,47,67
+2019-10-10,Croatia,Hungary,3,0,European Championship qualifier,Croatia,8,-8,1911,1629,0,-1,13,51
+2019-10-10,French Guiana,Grenada,0,0,CONCACAF Nations League B,French Guiana,-12,12,1299,1170,-3,2,134,165
+2019-10-10,Gabon,Burkina Faso,1,0,Friendly,France,14,-14,1420,1531,1,-5,101,74
+2019-10-10,Iran,Cambodia,14,0,World Cup and Asian Cup qualifier,Iran,0,0,1800,852,0,0,21,205
+2019-10-10,Iraq,Hong Kong,2,0,World Cup and Asian Cup qualifier,Iraq,3,-3,1572,1170,1,-1,63,165
+2019-10-10,Japan,Mongolia,6,0,World Cup and Asian Cup qualifier,Japan,0,0,1757,732,-1,0,28,217
+2019-10-10,Jordan,Kuwait,0,0,World Cup and Asian Cup qualifier,Jordan,-10,10,1488,1428,-3,2,85,98
+2019-10-10,Kazakhstan,Cyprus,1,2,European Championship qualifier,Kazakhstan,-25,25,1364,1427,-8,4,116,99
+2019-10-10,Kosovo,Gibraltar,1,0,Friendly,Kosovo,1,-1,1565,1090,1,1,65,180
+2019-10-10,Kyrgyzstan,Myanmar,7,0,World Cup and Asian Cup qualifier,Kyrgyzstan,10,-10,1287,1011,1,0,141,188
+2019-10-10,Latvia,Poland,0,3,European Championship qualifier,Latvia,-6,6,1224,1761,-2,1,151,27
+2019-10-10,Lebanon,Turkmenistan,2,1,World Cup and Asian Cup qualifier,Lebanon,7,-7,1399,1225,2,-2,104,150
+2019-10-10,Netherlands,Northern Ireland,3,1,European Championship qualifier,the Netherlands,4,-4,2025,1658,0,-1,5,49
+2019-10-10,Niger,Zambia,1,1,Friendly,Niger,1,-1,1310,1445,1,0,131,95
+2019-10-10,North Macedonia,Slovenia,2,1,European Championship qualifier,North Macedonia,20,-20,1543,1606,5,-3,70,56
+2019-10-10,Oman,Afghanistan,3,0,World Cup and Asian Cup qualifier,Oman,4,-4,1522,1138,1,0,77,173
+2019-10-10,Russia,Scotland,4,0,European Championship qualifier,Russia,14,-14,1800,1619,2,-1,21,53
+2019-10-10,Saudi Arabia,Singapore,3,0,World Cup and Asian Cup qualifier,Saudi Arabia,5,-5,1483,1144,0,0,87,172
+2019-10-10,Serbia,Paraguay,1,0,Friendly,Serbia,6,-6,1791,1730,0,0,24,37
+2019-10-10,Slovakia,Wales,1,1,European Championship qualifier,Slovakia,-5,5,1744,1757,-2,1,32,28
+2019-10-10,South Korea,Sri Lanka,8,0,World Cup and Asian Cup qualifier,South Korea,0,0,1785,678,-1,0,25,224
+2019-10-10,Syria,Maldives,2,1,World Cup and Asian Cup qualifier,the United Arab Emirates,2,-2,1458,957,2,0,91,194
+2019-10-10,Thailand,Congo,1,1,Friendly,Thailand,-2,2,1355,1372,0,2,118,113
+2019-10-10,Trinidad and Tobago,Honduras,0,2,CONCACAF Nations League A,Trinidad and Tobago,-20,20,1356,1620,-4,4,117,52
+2019-10-10,Turks and Caicos Islands,Sint Maarten,5,2,CONCACAF Nations League C,Curaçao,42,-42,792,781,4,-3,209,210
+2019-10-10,United Arab Emirates,Indonesia,5,0,World Cup and Asian Cup qualifier,the United Arab Emirates,6,-6,1506,1158,1,-1,80,167
+2019-10-10,Uzbekistan,Yemen,5,0,World Cup and Asian Cup qualifier,Uzbekistan,5,-5,1590,1203,3,0,58,157
+2019-10-10,Venezuela,Bolivia,4,1,Friendly,Venezuela,5,-5,1808,1585,0,-3,20,61
+2019-10-10,Vietnam,Malaysia,1,0,World Cup and Asian Cup qualifier,Vietnam,5,-5,1381,1148,1,-2,112,171
+2019-10-11,Andorra,Moldova,1,0,European Championship qualifier,Andorra,27,-27,1092,1264,2,-4,180,144
+2019-10-11,Antigua and Barbuda,Guyana,2,1,CONCACAF Nations League B,Antigua and Barbuda,15,-15,1190,1164,2,-4,161,166
+2019-10-11,Bermuda,Mexico,1,5,CONCACAF Nations League A,Bermuda,-4,4,1297,1884,-5,0,137,15
+2019-10-11,Czechia,England,2,1,European Championship qualifier,Czechia,26,-26,1769,1922,6,-3,27,12
+2019-10-11,Iceland,France,0,1,European Championship qualifier,Iceland,-6,6,1654,2057,-1,0,49,3
+2019-10-11,Montenegro,Bulgaria,0,0,European Championship qualifier,Montenegro,-4,4,1536,1572,0,1,72,63
+2019-10-11,Morocco,Libya,1,1,Friendly,Morocco,-7,7,1681,1467,-1,0,45,90
+2019-10-11,Nicaragua,Dominica,3,1,CONCACAF Nations League B,Nicaragua,11,-11,1210,1032,1,-2,157,187
+2019-10-11,Portugal,Luxembourg,3,0,European Championship qualifier,Portugal,1,-1,2006,1345,0,0,7,123
+2019-10-11,Saint Vincent and the Grenadines,Suriname,2,2,CONCACAF Nations League B,Saint Vincent and the Grenadines,4,-4,1154,1317,0,0,169,128
+2019-10-11,Turkey,Albania,1,0,European Championship qualifier,Turkey,5,-5,1772,1534,0,0,26,73
+2019-10-11,Ukraine,Lithuania,2,0,European Championship qualifier,Ukraine,2,-2,1827,1312,0,-1,18,130
+2019-10-11,Uruguay,Peru,1,0,Friendly,Uruguay,5,-5,1961,1872,0,0,8,17
+2019-10-11,United States,Cuba,7,0,CONCACAF Nations League A,the United States,3,-3,1729,1259,0,-1,38,147
+2019-10-12,Anguilla,Guatemala,0,5,CONCACAF Nations League C,Anguilla,-1,1,555,1498,0,1,236,82
+2019-10-12,Barbados,US Virgin Islands,1,0,CONCACAF Nations League C,Barbados,3,-3,1114,744,0,-1,178,215
+2019-10-12,Bosnia and Herzegovina,Finland,4,1,European Championship qualifier,Bosnia and Herzegovina,23,-23,1723,1651,1,-3,39,49
+2019-10-12,Chile,Colombia,0,0,Friendly,Spain,5,-5,1805,2004,0,-1,21,7
+2019-10-12,Comoros,Guinea,1,0,Friendly,France,17,-17,1140,1403,3,-2,174,103
+2019-10-12,Denmark,Switzerland,1,0,European Championship qualifier,Denmark,15,-15,1894,1881,2,-2,14,16
+2019-10-12,Dominican Republic,Saint Lucia,3,0,CONCACAF Nations League B,the Dominican Republic,13,-13,1230,1050,5,-1,149,184
+2019-10-12,Faroe Islands,Romania,0,3,European Championship qualifier,the Faroe Islands,-6,6,1215,1746,-2,1,155,33
+2019-10-12,Georgia,Ireland,0,0,European Championship qualifier,Georgia,5,-5,1550,1733,1,-1,68,36
+2019-10-12,Italy,Greece,2,0,European Championship qualifier,Italy,3,-3,1943,1544,0,-1,11,69
+2019-10-12,Jamaica,Aruba,2,0,CONCACAF Nations League B,Jamaica,1,-1,1589,907,1,0,59,199
+2019-10-12,Liechtenstein,Armenia,1,1,European Championship qualifier,Liechtenstein,13,-13,1149,1485,3,-3,171,85
+2019-10-12,Malta,Sweden,0,4,European Championship qualifier,Malta,-3,3,1183,1821,0,0,162,19
+2019-10-12,Montserrat,El Salvador,0,2,CONCACAF Nations League B,Montserrat,-2,2,808,1474,-1,0,209,88
+2019-10-12,Norway,Spain,1,1,European Championship qualifier,Norway,12,-12,1710,2026,0,0,41,4
+2019-10-12,Saint Martin,Cayman Islands,3,0,CONCACAF Nations League C,Anguilla,54,-54,809,909,5,-6,208,198
+2019-10-12,Tunisia,Cameroon,0,0,Friendly,Tunisia,-3,3,1594,1583,0,0,57,62
+2019-10-13,Argentina,Ecuador,6,1,Friendly,Spain,9,-9,1956,1728,0,-3,9,38
+2019-10-13,Belarus,Netherlands,1,2,European Championship qualifier,Belarus,-3,3,1506,2028,0,1,79,4
+2019-10-13,Benin,Zambia,2,2,Friendly,Benin,-3,3,1455,1448,-2,1,93,94
+2019-10-13,Bonaire,British Virgin Islands,4,3,CONCACAF Nations League C,Saint Kitts and Nevis,5,-5,962,615,0,0,193,231
+2019-10-13,Brazil,Nigeria,1,1,Friendly,Singapore,-8,8,2090,1695,0,0,1,44
+2019-10-13,Chad,Liberia,1,0,African Nations Cup qualifier,Chad,22,-22,1235,1327,8,-6,148,126
+2019-10-13,Costa Rica,Curaçao,0,0,CONCACAF Nations League A,Costa Rica,-16,16,1655,1425,-1,3,47,99
+2019-10-13,Cyprus,Russia,0,5,European Championship qualifier,Cyprus,-14,14,1413,1814,-3,2,102,20
+2019-10-13,Equatorial Guinea,Togo,1,1,Friendly,France,0,0,1322,1337,0,0,127,125
+2019-10-13,Estonia,Germany,0,3,European Championship qualifier,Estonia,-6,6,1436,1953,0,-1,96,10
+2019-10-13,Ethiopia,Uganda,0,1,Friendly,Ethiopia,-7,7,1254,1475,-1,1,147,88
+2019-10-13,Gambia,Djibouti,1,1,African Nations Cup qualifier,The Gambia,-18,18,1281,882,-7,2,140,202
+2019-10-13,Grenada,French Guiana,1,0,CONCACAF Nations League B,Grenada,22,-22,1192,1277,4,-8,160,141
+2019-10-13,Honduras,Martinique,1,0,CONCACAF Nations League A,Honduras,7,-7,1627,1441,0,-1,52,95
+2019-10-13,Hungary,Azerbaijan,1,0,European Championship qualifier,Hungary,5,-5,1634,1391,0,-1,51,108
+2019-10-13,Ivory Coast,DR Congo,3,1,Friendly,France,10,-10,1646,1515,0,-2,50,78
+2019-10-13,Kazakhstan,Belgium,0,2,European Championship qualifier,Kazakhstan,-2,2,1362,2061,0,0,116,2
+2019-10-13,Kenya,Mozambique,0,1,Friendly,Kenya,-15,15,1368,1309,-4,7,114,131
+2019-10-13,Lesotho,Malawi,1,1,Friendly,Lesotho,-1,1,1298,1351,0,0,133,119
+2019-10-13,Niger,Central African Republic,0,2,Friendly,Niger,-18,18,1292,1349,-6,6,137,120
+2019-10-13,Poland,North Macedonia,2,0,European Championship qualifier,Poland,8,-8,1769,1535,0,-2,28,72
+2019-10-13,Sao Tome and Principe,Mauritius,2,1,African Nations Cup qualifier,Sao Tome and Principe,12,-12,1106,1027,-1,-1,180,187
+2019-10-13,Scotland,San Marino,6,0,European Championship qualifier,Scotland,0,0,1619,825,0,0,53,206
+2019-10-13,Seychelles,South Sudan,0,1,African Nations Cup qualifier,the Seychelles,-19,19,912,1062,0,2,197,183
+2019-10-13,Slovakia,Paraguay,1,1,Friendly,Slovakia,-3,3,1741,1733,0,2,34,35
+2019-10-13,Slovenia,Austria,0,1,European Championship qualifier,Slovenia,-17,17,1589,1773,-2,6,58,26
+2019-10-13,South Africa,Mali,2,1,Nelson Mandela Challenge Cup,South Africa,11,-11,1542,1531,4,-3,70,74
+2019-10-13,Saint Kitts and Nevis,Belize,0,1,CONCACAF Nations League B,Saint Kitts and Nevis,-33,33,1224,1115,-4,4,152,178
+2019-10-13,Wales,Croatia,1,1,European Championship qualifier,Wales,3,-3,1760,1908,-1,0,30,13
+2019-10-14,Bulgaria,England,0,6,European Championship qualifier,Bulgaria,-16,16,1556,1938,-3,0,66,12
+2019-10-14,Czechia,Northern Ireland,2,3,Friendly,Czechia,-15,15,1754,1673,-4,0,32,46
+2019-10-14,Dominica,Nicaragua,0,4,CONCACAF Nations League B,Dominica,-29,29,1003,1239,-3,9,189,148
+2019-10-14,Egypt,Botswana,1,0,Friendly,Egypt,2,-2,1609,1292,0,1,55,135
+2019-10-14,France,Turkey,1,1,European Championship qualifier,France,-16,16,2041,1788,0,2,3,25
+2019-10-14,Guadeloupe,Sint Maarten,2,1,CONCACAF Nations League C,Curaçao,3,-3,1202,778,0,0,159,211
+2019-10-14,Guyana,Antigua and Barbuda,5,1,CONCACAF Nations League B,Guyana,30,-30,1194,1160,6,-5,160,167
+2019-10-14,Iceland,Andorra,2,0,European Championship qualifier,Iceland,1,-1,1655,1091,1,0,47,181
+2019-10-14,Kosovo,Montenegro,2,0,European Championship qualifier,Kosovo,19,-19,1584,1517,3,-6,62,77
+2019-10-14,Lithuania,Serbia,1,2,European Championship qualifier,Lithuania,-4,4,1308,1795,0,0,130,24
+2019-10-14,Moldova,Albania,0,4,European Championship qualifier,Moldova,-20,20,1244,1554,-3,5,147,68
+2019-10-14,Rwanda,Tanzania,0,0,Friendly,Rwanda,-2,2,1284,1315,1,1,138,128
+2019-10-14,Suriname,Saint Vincent and the Grenadines,0,1,CONCACAF Nations League B,Suriname,-33,33,1284,1187,-10,6,138,163
+2019-10-14,Ukraine,Portugal,2,1,European Championship qualifier,Ukraine,24,-24,1851,1982,0,-1,18,7
+2019-10-14,Venezuela,Trinidad and Tobago,2,0,Friendly,Venezuela,1,-1,1809,1355,0,0,21,117
+2019-10-15,Algeria,Colombia,3,0,Friendly,France,30,-30,1728,1974,6,-1,36,7
+2019-10-15,Anguilla,Puerto Rico,2,3,CONCACAF Nations League C,Anguilla,-6,6,549,973,0,0,236,191
+2019-10-15,Bahrain,Iran,1,0,World Cup and Asian Cup qualifier,Bahrain,31,-31,1516,1769,9,-4,76,27
+2019-10-15,Bermuda,Guatemala,0,0,Friendly,Bermuda,3,-3,1300,1495,3,0,131,82
+2019-10-15,Bolivia,Haiti,3,1,Friendly,Bolivia,10,-10,1595,1546,3,-4,58,70
+2019-10-15,Cambodia,Iraq,0,4,World Cup and Asian Cup qualifier,Cambodia,-2,2,850,1574,0,0,205,64
+2019-10-15,Canada,United States,2,0,CONCACAF Nations League A,Canada,33,-33,1622,1696,5,-6,53,43
+2019-10-15,Cayman Islands,Saint Martin,1,0,CONCACAF Nations League C,the Cayman Islands,10,-10,919,799,1,-1,197,209
+2019-10-15,Chile,Guinea,3,2,Friendly,Spain,2,-2,1807,1401,0,-1,22,104
+2019-10-15,Denmark,Luxembourg,4,0,Friendly,Denmark,1,-1,1895,1344,0,0,14,123
+2019-10-15,Dominican Republic,Montserrat,0,0,CONCACAF Nations League B,the Dominican Republic,-18,18,1212,826,-6,2,156,207
+2019-10-15,Faroe Islands,Malta,1,0,European Championship qualifier,the Faroe Islands,13,-13,1228,1170,6,-1,151,165
+2019-10-15,Finland,Armenia,3,0,European Championship qualifier,Finland,12,-12,1663,1473,3,-4,46,89
+2019-10-15,Gibraltar,Georgia,2,3,European Championship qualifier,Gibraltar,-4,4,1086,1554,0,1,182,68
+2019-10-15,Greece,Bosnia and Herzegovina,2,1,European Championship qualifier,Greece,24,-24,1568,1699,5,-2,65,41
+2019-10-15,India,Bangladesh,1,1,World Cup and Asian Cup qualifier,India,-18,18,1199,838,-3,1,159,206
+2019-10-15,Indonesia,Vietnam,1,3,World Cup and Asian Cup qualifier,Indonesia,-20,20,1138,1401,-6,7,174,104
+2019-10-15,Israel,Latvia,3,1,European Championship qualifier,Israel,4,-4,1568,1220,0,-2,65,155
+2019-10-15,Jamaica,Aruba,6,0,CONCACAF Nations League B,Curaçao,2,-2,1591,905,-2,0,60,199
+2019-10-15,Jordan,Nepal,3,0,World Cup and Asian Cup qualifier,Jordan,2,-2,1490,934,1,0,83,196
+2019-10-15,Kuwait,Turkmenistan,1,1,Friendly,Kuwait,-7,7,1421,1232,-3,2,101,150
+2019-10-15,Liechtenstein,Italy,0,5,European Championship qualifier,Liechtenstein,-1,1,1148,1944,1,0,170,11
+2019-10-15,Mauritania,Libya,0,0,Friendly,Mauritania,1,-1,1341,1466,0,0,124,90
+2019-10-15,Mexico,Panama,3,1,CONCACAF Nations League A,Mexico,4,-4,1888,1516,-1,0,16,76
+2019-10-15,Mongolia,Kyrgyzstan,1,2,World Cup and Asian Cup qualifier,Mongolia,-3,3,729,1290,0,0,217,137
+2019-10-15,Morocco,Gabon,2,3,Friendly,Morocco,-18,18,1663,1438,-1,5,46,96
+2019-10-15,North Korea,South Korea,0,0,World Cup and Asian Cup qualifier,North Korea,14,-14,1406,1771,4,0,103,26
+2019-10-15,Palestine,Saudi Arabia,0,0,World Cup and Asian Cup qualifier,Palestine,-3,3,1426,1486,-1,3,98,84
+2019-10-15,Peru,Uruguay,1,1,Friendly,Peru,0,0,1872,1961,0,0,17,8
+2019-10-15,Philippines,China,0,0,World Cup and Asian Cup qualifier,the Philippines,13,-13,1145,1481,5,-4,172,87
+2019-10-15,Qatar,Oman,2,1,World Cup and Asian Cup qualifier,Qatar,6,-6,1718,1516,1,-1,39,76
+2019-10-15,Romania,Norway,1,1,European Championship qualifier,Romania,-7,7,1739,1717,-1,1,34,40
+2019-10-15,Singapore,Uzbekistan,1,3,World Cup and Asian Cup qualifier,Singapore,-7,7,1137,1597,-3,0,176,57
+2019-10-15,Sri Lanka,Lebanon,0,3,World Cup and Asian Cup qualifier,Sri Lanka,-2,2,676,1401,-2,0,226,104
+2019-10-15,Saint Lucia,El Salvador,0,2,CONCACAF Nations League B,Saint Lucia,-8,8,1042,1482,0,3,185,86
+2019-10-15,Sweden,Spain,1,1,European Championship qualifier,Sweden,6,-6,1827,2020,0,0,19,5
+2019-10-15,Switzerland,Ireland,2,0,European Championship qualifier,Switzerland,12,-12,1893,1721,1,-3,15,38
+2019-10-15,Syria,Guam,4,0,World Cup and Asian Cup qualifier,the United Arab Emirates,1,-1,1459,744,0,0,91,214
+2019-10-15,Taiwan,Australia,1,7,World Cup and Asian Cup qualifier,Taiwan,-2,2,949,1699,0,2,195,41
+2019-10-15,Tajikistan,Japan,0,3,World Cup and Asian Cup qualifier,Tajikistan,-7,7,1267,1764,0,1,142,29
+2019-10-15,Thailand,United Arab Emirates,2,1,World Cup and Asian Cup qualifier,Thailand,23,-23,1378,1483,5,-6,112,85
+2019-10-15,US Virgin Islands,Barbados,0,4,CONCACAF Nations League C,the US VirgIslands,-13,13,731,1127,-1,1,216,178
+2019-11-05,Malaysia,Maldives,2,1,Friendly,Malaysia,3,-3,1151,954,1,0,169,194
+2019-11-07,Egypt,Liberia,1,0,Friendly,Egypt,2,-2,1611,1325,1,0,55,126
+2019-11-07,Myanmar,Nepal,3,0,Friendly,Myanmar,9,-9,1020,925,0,0,187,196
+2019-11-07,Nicaragua,Cuba,0,0,Friendly,Nicaragua,-2,2,1237,1261,0,0,148,145
+2019-11-09,Malaysia,Tajikistan,1,0,Friendly,Malaysia,10,-10,1161,1257,2,-3,167,145
+2019-11-09,Namibia,Zambia,0,2,Hage Geingob Cup,Namibia,-23,23,1326,1471,-5,4,125,90
+2019-11-09,Uzbekistan,Kyrgyzstan,3,1,Friendly,Uzbekistan,3,-3,1600,1287,0,0,57,137
+2019-11-10,Nicaragua,Cuba,0,1,Friendly,Nicaragua,-12,12,1225,1273,-4,2,152,142
+2019-11-10,Trinidad and Tobago,Anguilla,15,0,Friendly,Trinidad and Tobago,0,0,1355,549,0,0,118,236
+2019-11-13,Angola,Gambia,1,3,African Nations Cup qualifier,Angola,-47,47,1350,1328,-13,14,120,126
+2019-11-13,Burkina Faso,Uganda,0,0,African Nations Cup qualifier,Burkina Faso,-8,8,1523,1483,-1,3,74,85
+2019-11-13,Cameroon,Cape Verde,0,0,African Nations Cup qualifier,Cameroon,-14,14,1569,1411,-1,4,64,103
+2019-11-13,Central African Republic,Burundi,2,0,African Nations Cup qualifier,Central African Republic,18,-18,1367,1282,4,-9,116,140
+2019-11-13,Guinea-Bissau,Eswatini,3,0,African Nations Cup qualifier,Guinea-Bissau,13,-13,1311,1123,3,-1,130,178
+2019-11-13,Malawi,South Sudan,1,0,African Nations Cup qualifier,Malawi,4,-4,1355,1058,1,0,118,183
+2019-11-13,Namibia,Chad,2,1,African Nations Cup qualifier,Namibia,10,-10,1336,1225,0,-3,125,151
+2019-11-13,Nigeria,Benin,2,1,African Nations Cup qualifier,Nigeria,5,-5,1700,1450,3,0,41,94
+2019-11-13,Senegal,Congo,2,0,African Nations Cup qualifier,Senegal,3,-3,1760,1369,1,1,30,112
+2019-11-13,Sierra Leone,Lesotho,1,1,African Nations Cup qualifier,Sierra Leone,-8,8,1339,1306,-2,0,123,133
+2019-11-13,Sudan,Sao Tome and Principe,4,0,African Nations Cup qualifier,Sudan,14,-14,1277,1092,3,0,141,180
+2019-11-14,Afghanistan,India,1,1,World Cup and Asian Cup qualifier,Tajikistan,3,-3,1141,1196,-1,-1,175,160
+2019-11-14,Albania,Andorra,2,2,European Championship qualifier,Albania,-18,18,1536,1109,-2,1,70,180
+2019-11-14,Algeria,Zambia,5,0,African Nations Cup qualifier,Algeria,9,-9,1737,1462,0,-1,36,91
+2019-11-14,Bahamas,British Virgin Islands,3,0,CONCACAF Nations League C,the Bahamas,7,-7,893,608,0,0,201,231
+2019-11-14,Belize,French Guiana,2,0,CONCACAF Nations League B,Belize,35,-35,1150,1242,7,-6,172,147
+2019-11-14,Bulgaria,Paraguay,0,1,Friendly,Bulgaria,-8,8,1548,1741,-1,3,68,32
+2019-11-14,Cambodia,Mongolia,1,1,Friendly,Cambodia,-6,6,844,735,0,1,205,216
+2019-11-14,Curaçao,Costa Rica,1,2,CONCACAF Nations League A,Curaçao,-13,13,1412,1668,-5,2,104,46
+2019-11-14,Czechia,Kosovo,2,1,European Championship qualifier,Czechia,7,-7,1761,1577,4,0,28,62
+2019-11-14,DR Congo,Gabon,0,0,African Nations Cup qualifier,DR Congo,-9,9,1506,1447,0,1,79,95
+2019-11-14,Ecuador,Trinidad and Tobago,3,0,Friendly,Ecuador,2,-2,1730,1353,-1,0,37,118
+2019-11-14,Egypt,Kenya,1,1,African Nations Cup qualifier,Egypt,-15,15,1596,1383,-2,5,57,109
+2019-11-14,England,Montenegro,7,0,European Championship qualifier,England,4,-4,1942,1513,0,-3,12,78
+2019-11-14,France,Moldova,2,1,European Championship qualifier,France,0,0,2041,1244,0,1,3,146
+2019-11-14,Ghana,South Africa,2,0,African Nations Cup qualifier,Ghana,16,-16,1627,1526,3,-1,52,72
+2019-11-14,Hong Kong,Bahrain,0,0,World Cup and Asian Cup qualifier,Hong Kong,12,-12,1182,1504,0,-5,165,81
+2019-11-14,Iraq,Iran,2,1,World Cup and Asian Cup qualifier,Jordan,30,-30,1604,1739,7,-7,56,34
+2019-11-14,Ireland,New Zealand,3,1,Friendly,Ireland,4,-4,1725,1498,0,-1,38,82
+2019-11-14,Jordan,Australia,0,1,World Cup and Asian Cup qualifier,Jordan,-14,14,1476,1713,-4,1,87,41
+2019-11-14,Kuwait,Taiwan,9,0,World Cup and Asian Cup qualifier,Kuwait,4,-4,1425,945,3,1,98,194
+2019-11-14,Kyrgyzstan,Japan,0,2,World Cup and Asian Cup qualifier,Kyrgyzstan,-6,6,1281,1770,-2,3,139,26
+2019-11-14,Lebanon,South Korea,0,0,World Cup and Asian Cup qualifier,Lebanon,13,-13,1414,1758,4,-5,101,31
+2019-11-14,Malaysia,Thailand,2,1,World Cup and Asian Cup qualifier,Malaysia,26,-26,1187,1352,4,-8,163,119
+2019-11-14,Maldives,Philippines,1,2,World Cup and Asian Cup qualifier,the Maldives,-15,15,939,1160,-1,3,195,169
+2019-11-14,Mali,Guinea,2,2,African Nations Cup qualifier,Mali,-12,12,1519,1413,-1,3,74,102
+2019-11-14,Martinique,Honduras,1,1,CONCACAF Nations League A,Martinique,5,-5,1446,1622,-1,-1,96,53
+2019-11-14,Mozambique,Rwanda,2,0,African Nations Cup qualifier,Mozambique,20,-20,1329,1264,6,-6,125,144
+2019-11-14,Myanmar,Tajikistan,4,3,World Cup and Asian Cup qualifier,Myanmar,28,-28,1048,1229,2,-4,185,149
+2019-11-14,Oman,Bangladesh,4,1,World Cup and Asian Cup qualifier,Oman,1,-1,1517,837,1,0,75,206
+2019-11-14,Portugal,Lithuania,6,0,European Championship qualifier,Portugal,1,-1,1983,1307,0,1,6,131
+2019-11-14,Qatar,Singapore,2,0,Friendly,Qatar,1,-1,1719,1136,0,-1,39,177
+2019-11-14,Serbia,Luxembourg,3,2,European Championship qualifier,Serbia,2,-2,1797,1342,0,0,23,121
+2019-11-14,Saint Kitts and Nevis,Grenada,0,0,CONCACAF Nations League B,Saint Kitts and Nevis,-7,7,1217,1199,-3,2,156,159
+2019-11-14,Syria,China,2,1,World Cup and Asian Cup qualifier,the United Arab Emirates,21,-21,1480,1460,6,-4,86,92
+2019-11-14,Togo,Comoros,0,1,African Nations Cup qualifier,Togo,-34,34,1303,1174,-9,7,133,166
+2019-11-14,Turkey,Iceland,0,0,European Championship qualifier,Turkey,-12,12,1776,1667,0,1,24,47
+2019-11-14,Turkmenistan,North Korea,3,1,World Cup and Asian Cup qualifier,Turkmenistan,36,-36,1268,1370,6,-7,142,111
+2019-11-14,Turks and Caicos Islands,Sint Maarten,3,2,CONCACAF Nations League C,Turks and Caicos Islands,14,-14,806,764,1,-1,209,212
+2019-11-14,Ukraine,Estonia,1,0,Friendly,Ukraine,1,-1,1852,1435,0,0,18,97
+2019-11-14,Uzbekistan,Saudi Arabia,2,3,World Cup and Asian Cup qualifier,Uzbekistan,-31,31,1569,1517,-6,9,63,75
+2019-11-14,Vietnam,United Arab Emirates,1,0,World Cup and Asian Cup qualifier,Vietnam,19,-19,1420,1464,5,-5,100,90
+2019-11-14,Yemen,Palestine,1,0,World Cup and Asian Cup qualifier,Bahrain,31,-31,1234,1395,9,-8,148,106
+2019-11-15,Antigua and Barbuda,Jamaica,0,2,CONCACAF Nations League B,Antigua and Barbuda,-8,8,1152,1599,-2,2,171,58
+2019-11-15,Argentina,Brazil,1,0,Friendly,Saudi Arabia,14,-14,1970,2076,1,0,8,1
+2019-11-15,Armenia,Greece,0,1,European Championship qualifier,Armenia,-20,20,1453,1588,-4,3,92,62
+2019-11-15,Bosnia and Herzegovina,Italy,0,3,European Championship qualifier,Bosnia and Herzegovina,-21,21,1678,1965,-1,2,44,9
+2019-11-15,Colombia,Peru,1,0,Friendly,the United States,7,-7,1981,1865,0,0,7,17
+2019-11-15,Denmark,Gibraltar,6,0,European Championship qualifier,Denmark,0,0,1895,1086,-2,0,16,182
+2019-11-15,Finland,Liechtenstein,3,0,European Championship qualifier,Finland,2,-2,1665,1146,0,0,48,174
+2019-11-15,Guyana,Aruba,4,2,CONCACAF Nations League B,Guyana,6,-6,1200,899,1,-1,160,200
+2019-11-15,Hungary,Uruguay,1,2,Friendly,Hungary,-4,4,1630,1965,0,-1,51,9
+2019-11-15,Morocco,Mauritania,0,0,African Nations Cup qualifier,Morocco,-17,17,1646,1358,-1,5,49,117
+2019-11-15,Norway,Faroe Islands,4,0,European Championship qualifier,Norway,2,-2,1719,1226,2,-1,38,151
+2019-11-15,Panama,Mexico,0,3,CONCACAF Nations League A,Panama,-12,12,1504,1900,-3,2,80,14
+2019-11-15,Romania,Sweden,0,2,European Championship qualifier,Romania,-31,31,1708,1858,-8,1,42,18
+2019-11-15,Spain,Malta,7,0,European Championship qualifier,Spain,0,0,2020,1170,0,0,5,168
+2019-11-15,Saint Vincent and the Grenadines,Nicaragua,1,0,CONCACAF Nations League B,Saint Vincent and the Grenadines,16,-16,1203,1209,5,-5,158,157
+2019-11-15,Suriname,Dominica,4,0,CONCACAF Nations League B,Suriname,8,-8,1292,995,1,-1,136,190
+2019-11-15,Switzerland,Georgia,1,0,European Championship qualifier,Switzerland,3,-3,1896,1551,0,0,15,67
+2019-11-15,Tanzania,Equatorial Guinea,2,1,African Nations Cup qualifier,Tanzania,15,-15,1330,1307,4,-2,125,130
+2019-11-15,Tunisia,Libya,4,1,African Nations Cup qualifier,Tunisia,15,-15,1609,1451,4,-4,55,93
+2019-11-15,United States,Canada,4,1,CONCACAF Nations League A,the United States,19,-19,1715,1603,4,-4,40,57
+2019-11-15,Zimbabwe,Botswana,0,0,African Nations Cup qualifier,Zimbabwe,-10,10,1378,1302,-2,1,110,134
+2019-11-16,Austria,North Macedonia,2,1,European Championship qualifier,Austria,5,-5,1778,1530,0,0,25,71
+2019-11-16,Azerbaijan,Wales,0,2,European Championship qualifier,Azerbaijan,-11,11,1380,1771,-2,2,109,27
+2019-11-16,Cayman Islands,US Virgin Islands,1,0,CONCACAF Nations League C,the Cayman Islands,6,-6,925,725,1,0,196,217
+2019-11-16,Croatia,Slovakia,3,1,European Championship qualifier,Croatia,11,-11,1919,1730,0,-3,13,35
+2019-11-16,Cyprus,Scotland,1,2,European Championship qualifier,Cyprus,-14,14,1399,1633,-3,3,105,51
+2019-11-16,El Salvador,Montserrat,1,0,CONCACAF Nations League B,El Salvador,1,-1,1483,825,1,-1,84,208
+2019-11-16,Germany,Belarus,4,0,European Championship qualifier,Germany,3,-3,1956,1503,0,-3,11,81
+2019-11-16,Guatemala,Puerto Rico,5,0,CONCACAF Nations League C,Guatemala,2,-2,1497,971,0,0,83,191
+2019-11-16,Israel,Poland,1,2,European Championship qualifier,Israel,-14,14,1554,1783,0,3,66,24
+2019-11-16,Ivory Coast,Niger,1,0,African Nations Cup qualifier,Ivory Coast,3,-3,1649,1289,0,-1,49,137
+2019-11-16,Madagascar,Ethiopia,1,0,African Nations Cup qualifier,Madagascar,8,-8,1391,1246,1,0,107,145
+2019-11-16,Northern Ireland,Netherlands,0,0,European Championship qualifier,Northern Ireland,13,-13,1686,2015,1,-1,44,5
+2019-11-16,Russia,Belgium,1,4,European Championship qualifier,Russia,-21,21,1793,2082,-3,1,23,1
+2019-11-16,San Marino,Kazakhstan,1,3,European Championship qualifier,San Marino,-4,4,821,1366,-1,0,209,116
+2019-11-16,Slovenia,Latvia,1,0,European Championship qualifier,Slovenia,3,-3,1592,1217,0,0,61,154
+2019-11-16,Saint Lucia,Dominican Republic,1,0,CONCACAF Nations League B,Saint Lucia,24,-24,1066,1188,3,-7,183,163
+2019-11-16,Saint Martin,Barbados,1,0,CONCACAF Nations League C,Anguilla,35,-35,834,1092,3,-2,207,180
+2019-11-17,Albania,France,0,2,European Championship qualifier,Albania,-5,5,1531,2046,-1,0,71,3
+2019-11-17,Andorra,Turkey,0,2,European Championship qualifier,Andorra,-2,2,1107,1778,0,1,179,25
+2019-11-17,Bahamas,Bonaire,1,1,CONCACAF Nations League C,Curaçao,4,-4,897,958,0,0,201,193
+2019-11-17,Benin,Sierra Leone,1,0,African Nations Cup qualifier,Benin,9,-9,1459,1330,3,0,91,123
+2019-11-17,Bulgaria,Czechia,1,0,European Championship qualifier,Bulgaria,26,-26,1574,1735,4,-5,64,34
+2019-11-17,Burkina Faso,South Sudan,2,1,African Nations Cup qualifier,Sudan,3,-3,1526,1055,-1,-1,74,185
+2019-11-17,Chad,Mali,0,2,African Nations Cup qualifier,Chad,-15,15,1210,1534,-3,4,155,70
+2019-11-17,Congo,Guinea-Bissau,3,0,African Nations Cup qualifier,Congo,20,-20,1389,1291,4,-7,108,136
+2019-11-17,Costa Rica,Haiti,1,1,CONCACAF Nations League A,Costa Rica,-11,11,1657,1557,-2,2,48,67
+2019-11-17,Eswatini,Senegal,1,4,African Nations Cup qualifier,Eswatini,-3,3,1120,1763,0,1,178,29
+2019-11-17,French Guiana,Saint Kitts and Nevis,3,1,CONCACAF Nations League B,French Guiana,20,-20,1262,1197,3,-6,144,160
+2019-11-17,Gabon,Angola,2,1,African Nations Cup qualifier,Gabon,10,-10,1457,1340,3,0,92,121
+2019-11-17,Grenada,Belize,3,2,CONCACAF Nations League B,Grenada,12,-12,1211,1138,6,-3,154,175
+2019-11-17,Guadeloupe,Turks and Caicos Islands,10,0,CONCACAF Nations League C,Guadeloupe,6,-6,1208,800,1,0,157,210
+2019-11-17,Guinea,Namibia,2,0,African Nations Cup qualifier,Guinea,16,-16,1429,1320,4,-4,98,128
+2019-11-17,Honduras,Trinidad and Tobago,4,0,CONCACAF Nations League A,Honduras,8,-8,1630,1345,2,0,52,119
+2019-11-17,Kosovo,England,0,4,European Championship qualifier,Kosovo,-13,13,1564,1955,-3,0,66,12
+2019-11-17,Lesotho,Nigeria,2,4,African Nations Cup qualifier,Lesotho,-9,9,1297,1709,-2,1,134,42
+2019-11-17,Lithuania,New Zealand,1,0,Friendly,Lithuania,13,-13,1320,1485,2,-2,128,84
+2019-11-17,Luxembourg,Portugal,0,2,European Championship qualifier,Luxembourg,-3,3,1339,1986,0,0,122,6
+2019-11-17,Moldova,Iceland,1,2,European Championship qualifier,Moldova,-5,5,1239,1672,-1,1,147,46
+2019-11-17,Rwanda,Cameroon,0,1,African Nations Cup qualifier,Rwanda,-9,9,1255,1578,-1,1,145,63
+2019-11-17,Serbia,Ukraine,2,2,European Championship qualifier,Serbia,-3,3,1794,1855,0,0,22,19
+2019-11-17,South Africa,Sudan,1,0,African Nations Cup qualifier,South Africa,5,-5,1531,1272,1,-1,71,141
+2019-11-17,Uganda,Malawi,2,0,African Nations Cup qualifier,Uganda,13,-13,1496,1342,1,-2,83,120
+2019-11-18,Antigua and Barbuda,Aruba,3,2,CONCACAF Nations League B,Curaçao,8,-8,1160,891,2,-1,169,201
+2019-11-18,Argentina,Uruguay,2,2,Friendly,Israel,0,0,1970,1965,0,-1,8,10
+2019-11-18,Botswana,Algeria,0,1,African Nations Cup qualifier,Botswana,-5,5,1297,1742,-2,2,134,31
+2019-11-18,Cape Verde,Mozambique,2,2,African Nations Cup qualifier,Cape Verde,-10,10,1401,1339,0,3,104,122
+2019-11-18,Comoros,Egypt,0,0,African Nations Cup qualifier,the Comoros,15,-15,1189,1581,5,-2,161,61
+2019-11-18,Dominica,Saint Vincent and the Grenadines,1,0,CONCACAF Nations League B,Dominica,26,-26,1021,1177,2,-8,188,166
+2019-11-18,Gambia,DR Congo,2,2,African Nations Cup qualifier,The Gambia,4,-4,1332,1502,2,-3,124,81
+2019-11-18,Gibraltar,Switzerland,1,6,European Championship qualifier,Gibraltar,-1,1,1085,1897,0,0,182,15
+2019-11-18,Greece,Finland,2,1,European Championship qualifier,Greece,19,-19,1607,1646,6,-2,56,49
+2019-11-18,Ireland,Denmark,1,1,European Championship qualifier,Ireland,4,-4,1729,1891,0,0,37,16
+2019-11-18,Italy,Armenia,9,1,European Championship qualifier,Italy,3,-3,1968,1450,0,-1,9,95
+2019-11-18,Jamaica,Guyana,1,1,CONCACAF Nations League B,Jamaica,-18,18,1581,1218,-3,6,61,153
+2019-11-18,Kenya,Togo,1,1,African Nations Cup qualifier,Kenya,-10,10,1373,1313,-2,1,111,130
+2019-11-18,Liechtenstein,Bosnia and Herzegovina,0,3,European Championship qualifier,Liechtenstein,-5,5,1141,1683,0,0,173,45
+2019-11-18,Malta,Norway,1,2,European Championship qualifier,Malta,-3,3,1167,1722,0,0,168,38
+2019-11-18,Nicaragua,Suriname,1,2,CONCACAF Nations League B,Nicaragua,-21,21,1188,1313,-6,5,162,130
+2019-11-18,Sao Tome and Principe,Ghana,0,1,African Nations Cup qualifier,Sao Tome and Principe,-3,3,1089,1630,-1,2,181,52
+2019-11-18,Spain,Romania,5,0,European Championship qualifier,Spain,7,-7,2027,1701,0,0,4,43
+2019-11-18,Sweden,Faroe Islands,3,0,European Championship qualifier,Sweden,1,-1,1859,1225,0,0,18,151
+2019-11-19,Bahrain,Iraq,0,0,World Cup and Asian Cup qualifier,Jordan,6,-6,1510,1598,0,-1,78,58
+2019-11-19,Barbados,Cayman Islands,3,0,CONCACAF Nations League C,Barbados,12,-12,1104,913,0,-1,180,197
+2019-11-19,Belgium,Cyprus,6,1,European Championship qualifier,Belgium,1,-1,2083,1398,0,-2,1,107
+2019-11-19,Brazil,South Korea,3,0,Friendly,the United Arab Emirates,5,-5,2081,1753,0,2,2,28
+2019-11-19,Burundi,Morocco,0,3,African Nations Cup qualifier,Burundi,-13,13,1269,1659,-2,2,140,47
+2019-11-19,Colombia,Ecuador,1,0,Friendly,the United States,4,-4,1985,1726,0,-2,7,37
+2019-11-19,Croatia,Georgia,2,1,Friendly,Croatia,1,-1,1920,1550,0,1,13,68
+2019-11-19,El Salvador,Dominican Republic,2,0,CONCACAF Nations League B,El Salvador,6,-6,1489,1182,1,-3,84,165
+2019-11-19,Equatorial Guinea,Tunisia,0,1,African Nations Cup qualifier,Equatorial Guinea,-10,10,1297,1619,-1,2,133,53
+2019-11-19,Ethiopia,Ivory Coast,2,1,African Nations Cup qualifier,Ethiopia,34,-34,1280,1615,9,-7,137,55
+2019-11-19,Germany,Northern Ireland,6,1,European Championship qualifier,Germany,8,-8,1964,1678,0,-1,11,45
+2019-11-19,Hong Kong,Cambodia,2,0,World Cup and Asian Cup qualifier,Hong Kong,4,-4,1186,840,1,-2,164,207
+2019-11-19,Japan,Venezuela,1,4,Friendly,Japan,-21,21,1749,1830,-1,0,29,20
+2019-11-19,Jordan,Taiwan,5,0,World Cup and Asian Cup qualifier,Jordan,2,-2,1478,943,0,-1,87,195
+2019-11-19,Kuwait,Nepal,1,0,World Cup and Asian Cup qualifier,Bhutan,2,-2,1427,923,-1,0,100,196
+2019-11-19,Kyrgyzstan,Tajikistan,1,1,World Cup and Asian Cup qualifier,Kyrgyzstan,-8,8,1273,1237,1,0,138,149
+2019-11-19,Latvia,Austria,1,0,European Championship qualifier,Latvia,37,-37,1254,1741,8,-6,146,31
+2019-11-19,Lebanon,North Korea,0,0,World Cup and Asian Cup qualifier,Lebanon,-8,8,1406,1378,-3,1,105,111
+2019-11-19,Libya,Tanzania,2,1,African Nations Cup qualifier,Tunisia,13,-13,1464,1317,6,-4,88,129
+2019-11-19,Malaysia,Indonesia,2,0,World Cup and Asian Cup qualifier,Malaysia,18,-18,1205,1120,6,-2,158,177
+2019-11-19,Maldives,Guam,3,1,World Cup and Asian Cup qualifier,the Maldives,9,-9,948,735,1,-1,194,215
+2019-11-19,Mauritania,Central African Republic,2,0,African Nations Cup qualifier,Mauritania,22,-22,1380,1345,7,-3,110,118
+2019-11-19,Mexico,Bermuda,2,1,CONCACAF Nations League A,Mexico,1,-1,1901,1299,0,1,14,132
+2019-11-19,Montenegro,Belarus,2,0,Friendly,Montenegro,10,-10,1523,1493,2,-3,75,83
+2019-11-19,Myanmar,Mongolia,1,0,World Cup and Asian Cup qualifier,Myanmar,3,-3,1051,732,1,0,185,216
+2019-11-19,Netherlands,Estonia,5,0,European Championship qualifier,the Netherlands,2,-2,2017,1433,0,1,5,96
+2019-11-19,Niger,Madagascar,2,6,African Nations Cup qualifier,Niger,-37,37,1252,1428,-10,8,147,99
+2019-11-19,North Macedonia,Israel,1,0,European Championship qualifier,North Macedonia,16,-16,1546,1538,4,-2,69,70
+2019-11-19,Oman,India,1,0,World Cup and Asian Cup qualifier,Oman,3,-3,1520,1193,-1,-1,76,160
+2019-11-19,Poland,Slovenia,3,2,European Championship qualifier,Poland,6,-6,1789,1586,0,0,24,60
+2019-11-19,Puerto Rico,Anguilla,3,0,CONCACAF Nations League C,Puerto Rico,3,-3,974,546,0,0,191,236
+2019-11-19,Qatar,Afghanistan,1,0,World Cup and Asian Cup qualifier,Tajikistan,1,-1,1720,1140,0,-2,39,175
+2019-11-19,San Marino,Russia,0,5,European Championship qualifier,San Marino,-1,1,820,1794,0,1,209,22
+2019-11-19,Saudi Arabia,Paraguay,0,0,Friendly,Saudi Arabia,3,-3,1520,1738,-1,-1,76,33
+2019-11-19,Scotland,Kazakhstan,3,1,European Championship qualifier,Scotland,6,-6,1639,1360,1,-1,50,117
+2019-11-19,Singapore,Yemen,2,1,World Cup and Asian Cup qualifier,Bahrain,25,-25,1161,1209,8,-8,169,156
+2019-11-19,Slovakia,Azerbaijan,2,0,European Championship qualifier,Slovakia,4,-4,1734,1376,0,-3,35,112
+2019-11-19,Saint Lucia,Montserrat,0,1,CONCACAF Nations League B,Saint Lucia,-35,35,1031,860,-3,3,186,205
+2019-11-19,Syria,Philippines,1,0,World Cup and Asian Cup qualifier,the United Arab Emirates,5,-5,1485,1155,1,-3,85,172
+2019-11-19,Turkmenistan,Sri Lanka,2,0,World Cup and Asian Cup qualifier,Turkmenistan,1,-1,1269,675,2,0,140,226
+2019-11-19,United States,Cuba,4,0,CONCACAF Nations League A,the Cayman Islands,5,-5,1720,1268,1,-2,39,142
+2019-11-19,US Virgin Islands,Saint Martin,1,2,CONCACAF Nations League C,the US VirgIslands,-19,19,706,853,-1,1,218,206
+2019-11-19,Uzbekistan,Palestine,2,0,World Cup and Asian Cup qualifier,Uzbekistan,10,-10,1579,1385,2,-3,63,109
+2019-11-19,Vietnam,Thailand,0,0,World Cup and Asian Cup qualifier,Vietnam,-9,9,1411,1361,-2,2,103,116
+2019-11-19,Wales,Hungary,2,0,European Championship qualifier,Wales,12,-12,1783,1618,2,-2,25,54
+2019-11-19,Zambia,Zimbabwe,1,2,African Nations Cup qualifier,Zambia,-30,30,1432,1408,-8,6,97,104
+2019-11-21,Guatemala,Antigua and Barbuda,8,0,Friendly,Guatemala,4,-4,1501,1156,0,-1,81,171
+2019-11-26,Qatar,Iraq,1,2,Gulf Cup,Qatar,-31,31,1689,1629,-4,5,43,53
+2019-11-26,United Arab Emirates,Yemen,3,0,Gulf Cup,Qatar,13,-13,1477,1196,0,-3,88,159
+2019-11-27,Bahrain,Oman,0,0,Gulf Cup,Qatar,1,-1,1511,1519,1,0,77,76
+2019-11-27,Kuwait,Saudi Arabia,3,1,Gulf Cup,Qatar,38,-38,1465,1482,11,-10,89,86
+2019-11-29,Iraq,United Arab Emirates,2,0,Gulf Cup,Qatar,18,-18,1647,1459,4,-3,49,91
+2019-11-29,Qatar,Yemen,6,0,Gulf Cup,Qatar,3,-3,1692,1193,0,0,43,159
+2019-11-30,Oman,Kuwait,2,1,Gulf Cup,Qatar,17,-17,1536,1448,5,-7,71,95
+2019-11-30,Saudi Arabia,Bahrain,2,0,Gulf Cup,Qatar,32,-32,1514,1479,9,-9,77,86
+2019-12-02,Bahrain,Kuwait,4,2,Gulf Cup,Qatar,27,-27,1506,1421,9,-6,77,101
+2019-12-02,Iraq,Yemen,0,0,Gulf Cup,Qatar,-17,17,1630,1210,-2,4,51,155
+2019-12-02,Qatar,United Arab Emirates,4,2,Gulf Cup,Qatar,8,-8,1700,1451,0,-3,43,93
+2019-12-02,Saudi Arabia,Oman,3,1,Gulf Cup,Qatar,32,-32,1546,1504,8,-7,69,78
+2019-12-05,Bahrain,Iraq,2,2,Gulf Cup,Qatar,7,-7,1513,1623,0,-2,77,53
+2019-12-05,Qatar,Saudi Arabia,0,1,Gulf Cup,Qatar,-32,32,1668,1578,-3,5,46,64
+2019-12-07,Djibouti,Somalia,0,0,CECAFA Cup,Uganda,-1,1,881,873,0,0,202,204
+2019-12-07,Uganda,Burundi,2,1,CECAFA Cup,Uganda,5,-5,1501,1264,1,-3,81,143
+2019-12-08,Bahrain,Saudi Arabia,1,0,Gulf Cup,Qatar,24,-24,1537,1554,5,-4,72,68
+2019-12-08,Kenya,Tanzania,1,0,CECAFA Cup,Uganda,17,-17,1390,1300,5,-2,108,131
+2019-12-08,Sudan,Zanzibar,1,1,CECAFA Cup,Uganda,5,-5,1277,1363,1,0,138,115
+2019-12-09,Eritrea,Burundi,1,0,CECAFA Cup,Uganda,31,-31,1087,1233,1,-6,182,149
+2019-12-09,Uganda,Somalia,2,0,CECAFA Cup,Uganda,1,-1,1502,872,1,0,80,204
+2019-12-10,Japan,China,2,1,East Asian Championship,South Korea,6,-6,1755,1454,1,-3,28,92
+2019-12-10,Kenya,Sudan,2,1,CECAFA Cup,Uganda,14,-14,1404,1263,2,-4,106,142
+2019-12-10,Tanzania,Zanzibar,1,0,CECAFA Cup,Uganda,24,-24,1324,1339,4,-6,127,121
+2019-12-11,Djibouti,Burundi,2,1,CECAFA Cup,Uganda,35,-35,916,1198,5,-9,197,158
+2019-12-11,South Korea,Hong Kong,2,0,East Asian Championship,South Korea,1,-1,1754,1185,0,0,29,164
+2019-12-11,Uganda,Eritrea,2,0,CECAFA Cup,Uganda,3,-3,1505,1084,2,-1,78,183
+2019-12-13,Eritrea,Djibouti,3,0,CECAFA Cup,Uganda,19,-19,1103,897,2,-4,181,201
+2019-12-13,Somalia,Burundi,1,0,CECAFA Cup,Uganda,35,-35,907,1163,5,-10,199,168
+2019-12-14,Japan,Hong Kong,5,0,East Asian Championship,South Korea,3,-3,1758,1182,0,0,28,163
+2019-12-14,Kenya,Zanzibar,1,0,CECAFA Cup,Uganda,16,-16,1420,1323,4,-5,102,126
+2019-12-14,Sudan,Tanzania,0,0,CECAFA Cup,Uganda,3,-3,1266,1321,1,0,141,127
+2019-12-15,Eritrea,Somalia,0,0,CECAFA Cup,Uganda,-10,10,1093,917,0,2,181,197
+2019-12-15,South Korea,China,1,0,East Asian Championship,South Korea,4,-4,1758,1450,1,-1,28,93
+2019-12-15,Uganda,Djibouti,4,1,CECAFA Cup,Uganda,1,-1,1506,896,0,-1,78,202
+2019-12-17,Eritrea,Kenya,4,1,CECAFA Cup,Uganda,61,-61,1154,1359,8,-14,173,116
+2019-12-17,Uganda,Tanzania,1,0,CECAFA Cup,Uganda,6,-6,1512,1315,0,-2,78,129
+2019-12-18,China,Hong Kong,2,0,East Asian Championship,South Korea,11,-11,1461,1171,4,-3,89,166
+2019-12-18,South Korea,Japan,1,0,East Asian Championship,South Korea,14,-14,1772,1744,1,-1,27,29
+2019-12-19,Kenya,Tanzania,2,1,CECAFA Cup,Uganda,17,-17,1376,1298,4,-3,112,132
+2019-12-19,Uganda,Eritrea,3,0,CECAFA Cup,Uganda,5,-5,1517,1149,0,-1,78,174

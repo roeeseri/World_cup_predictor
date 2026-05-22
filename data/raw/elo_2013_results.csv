@@ -1,0 +1,955 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2013-01-05,Angola,Zambia,2,0,Friendly,South Africa,19,-19,1503,1568,6,-5,86,67
+2013-01-05,Bahrain,Oman,0,0,Gulf Cup,Bahrain,-4,4,1493,1527,-3,0,89,80
+2013-01-05,Niger,Togo,3,1,Friendly,Niger,14,-14,1353,1404,1,-2,124,108
+2013-01-05,United Arab Emirates,Qatar,3,1,Gulf Cup,Bahrain,30,-30,1508,1446,10,-3,83,97
+2013-01-06,Iraq,Saudi Arabia,2,0,Gulf Cup,Bahrain,22,-22,1613,1471,6,-4,55,93
+2013-01-06,Kuwait,Yemen,2,0,Gulf Cup,Bahrain,13,-13,1505,1251,5,0,86,143
+2013-01-07,Ethiopia,Tunisia,1,1,Friendly,Qatar,7,-7,1325,1593,0,-2,130,61
+2013-01-08,Bahrain,United Arab Emirates,1,2,Gulf Cup,Bahrain,-25,25,1468,1533,-4,5,94,78
+2013-01-08,Morocco,Zambia,0,0,Friendly,South Africa,1,-1,1544,1567,0,0,74,67
+2013-01-08,Qatar,Oman,2,1,Gulf Cup,Bahrain,25,-25,1471,1502,5,-7,92,87
+2013-01-08,South Africa,Norway,0,1,Friendly,South Africa,-7,7,1558,1765,-3,1,71,27
+2013-01-09,Cape Verde,Nigeria,0,0,Friendly,Portugal,6,-6,1430,1644,0,0,103,50
+2013-01-09,Iraq,Kuwait,1,0,Gulf Cup,Bahrain,14,-14,1627,1491,2,-4,53,89
+2013-01-09,Saudi Arabia,Yemen,2,0,Gulf Cup,Bahrain,13,-13,1484,1238,0,-5,92,148
+2013-01-10,Burkina Faso,Niger,0,0,Friendly,South Africa,-3,3,1442,1356,-1,1,99,123
+2013-01-10,Gabon,Tunisia,1,1,Friendly,the United Arab Emirates,2,-2,1542,1591,2,0,74,61
+2013-01-10,Ghana,Egypt,3,0,Friendly,the United Arab Emirates,17,-17,1693,1643,4,-5,38,50
+2013-01-10,Panama,Guatemala,3,0,Friendly,Panama,7,-7,1687,1540,0,-3,40,76
+2013-01-11,Bahrain,Qatar,1,0,Gulf Cup,Bahrain,15,-15,1483,1456,2,-3,92,96
+2013-01-11,Ethiopia,Tanzania,2,1,Friendly,Ethiopia,8,-8,1333,1353,3,-3,127,124
+2013-01-11,United Arab Emirates,Oman,2,0,Gulf Cup,Bahrain,27,-27,1560,1475,7,-7,71,93
+2013-01-12,Iraq,Yemen,2,0,Gulf Cup,Bahrain,6,-6,1633,1232,2,-2,51,150
+2013-01-12,Kuwait,Saudi Arabia,1,0,Gulf Cup,Bahrain,20,-20,1511,1464,6,-3,82,94
+2013-01-12,Morocco,Namibia,2,1,Friendly,South Africa,4,-4,1548,1309,0,-2,74,133
+2013-01-12,South Africa,Algeria,0,0,Friendly,South Africa,-3,3,1555,1564,-1,1,73,68
+2013-01-12,Zambia,Norway,0,0,Friendly,Zambia,3,-3,1570,1762,0,0,67,27
+2013-01-13,Angola,Botswana,2,0,Friendly,South Africa,7,-7,1510,1292,3,-1,83,139
+2013-01-13,Ghana,Tunisia,4,2,Friendly,the United Arab Emirates,11,-11,1704,1580,2,-2,36,63
+2013-01-13,Panama,Guatemala,2,0,Friendly,Panama,6,-6,1693,1534,1,-1,39,78
+2013-01-13,Togo,Niger,2,1,Friendly,Togo,6,-6,1410,1350,1,-2,107,124
+2013-01-14,Ivory Coast,Egypt,4,2,Friendly,the United Arab Emirates,7,-7,1842,1636,0,0,17,50
+2013-01-15,Bahrain,Iraq,1,1,Gulf Cup,Bahrain,3,-3,1486,1630,1,0,90,51
+2013-01-15,Lebanon,Gabon,0,0,Friendly,Lebanon,3,-3,1330,1539,0,-1,130,76
+2013-01-15,United Arab Emirates,Kuwait,1,0,Gulf Cup,Bahrain,17,-17,1577,1494,5,-5,66,87
+2013-01-17,Burkina Faso,Swaziland,3,0,Friendly,South Africa,4,-4,1446,1102,1,0,98,178
+2013-01-18,Bahrain,Kuwait,1,6,Gulf Cup,Bahrain,-50,50,1436,1544,-9,12,99,75
+2013-01-18,Costa Rica,Belize,1,0,CONCACAF Champ q & C Am Cup,Costa Rica,1,-1,1668,1133,0,-1,44,173
+2013-01-18,El Salvador,Honduras,1,1,CONCACAF Champ q & C Am Cup,Costa Rica,8,-8,1543,1672,1,-1,76,43
+2013-01-18,Guatemala,Nicaragua,1,1,CONCACAF Champ q & C Am Cup,Costa Rica,-17,17,1517,1140,-4,3,82,172
+2013-01-18,United Arab Emirates,Iraq,2,1,Gulf Cup,Bahrain,23,-23,1600,1607,7,-4,59,55
+2013-01-19,Angola,Morocco,0,0,African Nations Cup,South Africa,3,-3,1513,1545,0,1,83,73
+2013-01-19,Chile,Haiti,3,0,Friendly,Chile,3,-3,1804,1457,0,0,21,94
+2013-01-19,South Africa,Cape Verde,0,0,African Nations Cup,South Africa,-14,14,1541,1444,-3,5,76,98
+2013-01-20,Belize,Guatemala,0,0,CONCACAF Champ q & C Am Cup,Costa Rica,16,-16,1149,1501,6,-4,167,86
+2013-01-20,Costa Rica,Nicaragua,2,0,CONCACAF Champ q & C Am Cup,Costa Rica,2,-2,1670,1138,0,-1,44,173
+2013-01-20,DR Congo,Ghana,2,2,African Nations Cup,South Africa,16,-16,1450,1688,5,-3,97,39
+2013-01-20,El Salvador,Panama,0,0,CONCACAF Champ q & C Am Cup,Costa Rica,8,-8,1551,1685,2,-1,73,40
+2013-01-20,Mali,Niger,1,0,African Nations Cup,South Africa,10,-10,1611,1340,2,-1,55,125
+2013-01-21,Burkina Faso,Nigeria,1,1,African Nations Cup,South Africa,13,-13,1459,1631,4,-1,94,50
+2013-01-21,Ethiopia,Zambia,1,1,African Nations Cup,South Africa,15,-15,1348,1555,2,-4,125,72
+2013-01-22,Belize,Nicaragua,2,1,CONCACAF Champ q & C Am Cup,Costa Rica,19,-19,1168,1119,3,-3,164,176
+2013-01-22,Costa Rica,Guatemala,1,1,CONCACAF Champ q & C Am Cup,Costa Rica,-13,13,1657,1514,-1,4,45,82
+2013-01-22,Honduras,Panama,1,1,CONCACAF Champ q & C Am Cup,Costa Rica,1,-1,1673,1684,0,0,43,40
+2013-01-22,Ivory Coast,Togo,2,1,African Nations Cup,South Africa,4,-4,1846,1406,0,-1,17,108
+2013-01-22,Tunisia,Algeria,1,0,African Nations Cup,South Africa,24,-24,1604,1540,7,-9,57,77
+2013-01-23,Cape Verde,Morocco,1,1,African Nations Cup,South Africa,7,-7,1451,1538,1,-5,98,78
+2013-01-23,North Korea,Sweden,1,1,King's Cup,Thailand,11,-11,1589,1896,2,-2,63,11
+2013-01-23,South Africa,Angola,2,0,African Nations Cup,South Africa,24,-24,1565,1489,7,-5,68,88
+2013-01-23,Thailand,Finland,1,3,King's Cup,Thailand,-14,14,1371,1644,-5,2,116,49
+2013-01-24,DR Congo,Niger,0,0,African Nations Cup,South Africa,-8,8,1442,1348,-1,1,100,125
+2013-01-24,Ghana,Mali,1,0,African Nations Cup,South Africa,20,-20,1708,1591,4,-7,35,62
+2013-01-25,Burkina Faso,Ethiopia,4,0,African Nations Cup,South Africa,32,-32,1491,1316,6,-5,88,130
+2013-01-25,Costa Rica,El Salvador,1,0,Central American Cup,Costa Rica,9,-9,1666,1542,1,-1,44,74
+2013-01-25,Honduras,Belize,1,0,Central American Cup,Costa Rica,2,-2,1675,1166,0,-1,43,165
+2013-01-25,Nigeria,Zambia,1,1,African Nations Cup,South Africa,-5,5,1626,1560,-2,1,53,71
+2013-01-25,Panama,Guatemala,3,1,CONCACAF Champ q & C Am Cup,Costa Rica,16,-16,1700,1498,1,-4,39,86
+2013-01-26,Ivory Coast,Tunisia,3,0,African Nations Cup,South Africa,17,-17,1863,1587,2,-6,15,62
+2013-01-26,Sweden,Finland,3,0,King's Cup,Thailand,10,-10,1906,1634,2,-1,9,50
+2013-01-26,Thailand,North Korea,2,2,King's Cup,Thailand,5,-5,1376,1584,0,0,116,63
+2013-01-26,Togo,Algeria,2,0,African Nations Cup,South Africa,51,-51,1457,1489,13,-12,95,88
+2013-01-27,Cape Verde,Angola,2,1,African Nations Cup,South Africa,28,-28,1479,1461,8,-7,91,95
+2013-01-27,Costa Rica,Honduras,1,0,Central American Cup,Costa Rica,15,-15,1681,1660,2,-1,42,44
+2013-01-27,El Salvador,Belize,1,0,Central American Cup,Costa Rica,4,-4,1546,1162,0,0,74,165
+2013-01-27,South Africa,Morocco,2,2,African Nations Cup,South Africa,-9,9,1556,1547,-4,4,72,73
+2013-01-28,DR Congo,Mali,1,1,African Nations Cup,South Africa,10,-10,1452,1581,1,-4,100,65
+2013-01-28,Ghana,Niger,3,0,African Nations Cup,South Africa,10,-10,1718,1338,2,-1,33,126
+2013-01-29,Burkina Faso,Zambia,0,0,African Nations Cup,South Africa,5,-5,1496,1555,1,-2,86,72
+2013-01-29,Nigeria,Ethiopia,2,0,African Nations Cup,South Africa,11,-11,1637,1305,4,-5,49,135
+2013-01-29,United States,Canada,0,0,Friendly,the United States,-7,7,1763,1591,0,1,26,61
+2013-01-30,Algeria,Ivory Coast,2,2,African Nations Cup,South Africa,20,-20,1509,1843,6,-2,82,17
+2013-01-30,Oman,China,1,0,Friendly,Oman,12,-12,1487,1616,2,-2,90,54
+2013-01-30,Togo,Tunisia,1,1,African Nations Cup,South Africa,9,-9,1466,1578,2,-3,94,65
+2013-01-31,Jordan,Indonesia,5,0,Friendly,Jordan,5,-5,1493,1233,0,-1,89,149
+2013-01-31,North Korea,United Arab Emirates,1,0,Friendly,China,10,-10,1594,1590,3,-4,59,62
+2013-01-31,Qatar,Lebanon,1,0,Friendly,Qatar,4,-4,1460,1326,1,0,97,129
+2013-02-01,Azerbaijan,Uzbekistan,0,0,Friendly,the United Arab Emirates,6,-6,1415,1649,1,-1,107,48
+2013-02-01,Bahrain,Singapore,3,1,Friendly,Bahrain,6,-6,1442,1278,0,0,102,140
+2013-02-01,Iraq,Malaysia,3,0,Friendly,the United Arab Emirates,3,-3,1610,1196,0,-2,55,157
+2013-02-02,Ghana,Cape Verde,2,0,African Nations Cup,South Africa,15,-15,1733,1464,2,-2,31,94
+2013-02-02,South Africa,Mali,1,1,African Nations Cup,South Africa,-5,5,1551,1586,-1,1,72,63
+2013-02-03,Burkina Faso,Togo,1,0,African Nations Cup,South Africa,23,-23,1519,1443,6,-7,81,100
+2013-02-03,Nigeria,Ivory Coast,2,1,African Nations Cup,South Africa,38,-38,1675,1805,5,-3,44,20
+2013-02-05,Armenia,Luxembourg,1,1,Friendly,France,-8,8,1522,1156,-1,1,79,167
+2013-02-05,Guinea,Senegal,1,1,Friendly,France,1,-1,1502,1520,0,0,86,80
+2013-02-06,Albania,Georgia,1,2,Friendly,Albania,-13,13,1495,1521,-4,3,88,81
+2013-02-06,Azerbaijan,Liechtenstein,1,0,Friendly,the United Arab Emirates,4,-4,1419,1178,1,-1,106,162
+2013-02-06,Bahrain,Yemen,2,0,Asian Cup qualifier,the United Arab Emirates,14,-14,1456,1218,5,-1,97,151
+2013-02-06,Belarus,Hungary,1,1,Friendly,Turkey,3,-3,1597,1688,2,-1,57,41
+2013-02-06,Belgium,Slovakia,2,1,Friendly,Belgium,3,-3,1789,1598,-1,2,23,55
+2013-02-06,Bolivia,Haiti,2,1,Friendly,Bolivia,3,-3,1630,1454,3,-2,49,99
+2013-02-06,Burkina Faso,Ghana,1,1,African Nations Cup,South Africa,14,-14,1533,1719,3,-3,78,34
+2013-02-06,Chile,Egypt,2,1,Friendly,Spain,6,-6,1810,1630,1,1,20,49
+2013-02-06,Colombia,Guatemala,4,1,Friendly,the United States,3,-3,1904,1495,3,-1,8,88
+2013-02-06,Croatia,South Korea,4,0,Friendly,England,13,-13,1892,1749,3,-1,11,28
+2013-02-06,Cyprus,Serbia,1,3,Friendly,Cyprus,-9,9,1415,1692,-2,2,107,39
+2013-02-06,England,Brazil,2,1,Friendly,England,10,-10,1962,2051,0,-1,6,3
+2013-02-06,France,Germany,1,2,Friendly,France,-8,8,1881,2060,-2,1,14,2
+2013-02-06,Greece,Switzerland,0,0,Friendly,Greece,-3,3,1820,1832,-1,0,19,17
+2013-02-06,Honduras,United States,2,1,World Cup qualifier,Honduras,20,-20,1680,1743,1,-4,44,30
+2013-02-06,India,Palestine,2,4,Friendly,India,-12,12,1140,1323,-4,2,172,129
+2013-02-06,Iran,Lebanon,5,0,Asian Cup qualifier,Iran,6,-6,1663,1320,1,-1,46,130
+2013-02-06,Iraq,Indonesia,1,0,Asian Cup qualifier,the United Arab Emirates,4,-4,1614,1229,1,0,54,149
+2013-02-06,Ireland,Poland,2,0,Friendly,Ireland,10,-10,1737,1692,1,-2,31,39
+2013-02-06,Israel,Finland,2,1,Friendly,Israel,8,-8,1625,1626,0,-1,53,52
+2013-02-06,Japan,Latvia,3,0,Friendly,Japan,3,-3,1822,1507,1,-2,18,84
+2013-02-06,Jordan,Singapore,4,0,Asian Cup qualifier,Jordan,11,-11,1504,1267,4,-1,85,141
+2013-02-06,Kazakhstan,Moldova,3,1,Friendly,Turkey,18,-18,1357,1393,3,-2,122,110
+2013-02-06,Kenya,Libya,3,0,Friendly,Tunisia,27,-27,1384,1537,10,-9,111,77
+2013-02-06,Macedonia,Denmark,3,0,Friendly,Macedonia,24,-24,1552,1751,6,-4,72,27
+2013-02-06,Malta,Northern Ireland,0,0,Friendly,Malta,3,-3,1243,1440,1,-2,145,102
+2013-02-06,Mexico,Jamaica,0,0,World Cup qualifier,Mexico,-17,17,1898,1575,-2,5,9,65
+2013-02-06,Myanmar,Philippines,0,1,Friendly,Myanmar,-8,8,997,1195,0,2,189,157
+2013-02-06,Nepal,Pakistan,0,1,Friendly,Nepal,-13,13,919,924,-4,3,200,197
+2013-02-06,Netherlands,Italy,1,1,Friendly,the Netherlands,-5,5,1991,1915,0,1,5,7
+2013-02-06,Nigeria,Mali,4,1,African Nations Cup,South Africa,33,-33,1708,1553,8,-8,36,71
+2013-02-06,North Korea,Laos,1,0,Friendly,China,0,0,1594,857,0,0,59,207
+2013-02-06,Oman,Syria,1,0,Asian Cup qualifier,Oman,17,-17,1504,1524,5,-3,85,79
+2013-02-06,Panama,Costa Rica,2,2,World Cup qualifier,Panama,-7,7,1693,1688,1,1,38,41
+2013-02-06,Paraguay,El Salvador,3,0,Friendly,Paraguay,6,-6,1725,1540,0,-1,33,75
+2013-02-06,Portugal,Ecuador,2,3,Friendly,Portugal,-14,14,1890,1864,-2,1,12,15
+2013-02-06,Qatar,Malaysia,2,0,Asian Cup qualifier,Qatar,7,-7,1467,1189,3,-2,93,159
+2013-02-06,Romania,Australia,3,2,Friendly,Spain,11,-11,1765,1762,5,0,24,25
+2013-02-06,Russia,Iceland,2,0,Friendly,Spain,3,-3,1889,1482,0,-1,13,92
+2013-02-06,Rwanda,Uganda,2,2,Friendly,Rwanda,3,-3,1370,1558,0,0,117,69
+2013-02-06,Saudi Arabia,China,2,1,Asian Cup qualifier,Saudi Arabia,23,-23,1487,1593,2,-6,91,60
+2013-02-06,Scotland,Estonia,1,0,Friendly,Scotland,4,-4,1659,1490,0,-2,48,90
+2013-02-06,Slovenia,Bosnia and Herzegovina,0,3,Friendly,Slovenia,-15,15,1585,1761,-5,4,63,26
+2013-02-06,Spain,Uruguay,3,1,Friendly,Qatar,5,-5,2153,1850,0,-1,1,16
+2013-02-06,Sweden,Argentina,2,3,Friendly,Sweden,-10,10,1896,2024,-1,0,10,4
+2013-02-06,Tanzania,Cameroon,1,0,Friendly,Tanzania,14,-14,1367,1569,4,-3,119,67
+2013-02-06,Thailand,Kuwait,1,3,Asian Cup qualifier,Thailand,-24,24,1352,1568,-8,7,124,68
+2013-02-06,Trinidad and Tobago,Peru,0,2,Friendly,Trinidad and Tobago,-8,8,1427,1717,-1,0,104,35
+2013-02-06,Turkey,Czechia,0,2,Friendly,Turkey,-16,16,1685,1790,-5,2,43,22
+2013-02-06,Ukraine,Norway,2,0,Friendly,Spain,17,-17,1730,1745,2,-2,32,29
+2013-02-06,Uzbekistan,Hong Kong,0,0,Asian Cup qualifier,Uzbekistan,-19,19,1630,1188,0,3,49,160
+2013-02-06,Vietnam,United Arab Emirates,1,2,Asian Cup qualifier,Vietnam,-8,8,1236,1598,-2,7,147,55
+2013-02-06,Wales,Austria,2,1,Friendly,Wales,8,-8,1586,1595,3,-2,62,58
+2013-02-06,Zimbabwe,Botswana,2,1,Friendly,Zimbabwe,5,-5,1368,1287,1,0,118,139
+2013-02-09,Mali,Ghana,3,1,African Nations Cup,South Africa,54,-54,1607,1665,16,-11,55,45
+2013-02-09,Nepal,Pakistan,0,1,Friendly,Nepal,-13,13,906,937,0,2,200,195
+2013-02-10,Nigeria,Burkina Faso,1,0,African Nations Cup,South Africa,13,-13,1721,1520,1,-3,34,81
+2013-02-12,Maldives,Pakistan,1,1,Friendly,the Maldives,-7,7,1114,944,-2,0,177,195
+2013-02-14,Maldives,Pakistan,3,0,Friendly,the Maldives,6,-6,1120,938,2,0,175,195
+2013-02-27,Gambia,Mauritania,0,2,Friendly,The Gambia,-26,26,1305,1143,-6,7,134,170
+2013-03-02,Afghanistan,Sri Lanka,1,0,Asian Cup & Asian Challenge Cup qual,Laos,17,-17,938,848,4,-2,195,208
+2013-03-02,Gambia,Mauritania,0,0,Friendly,The Gambia,-6,6,1299,1149,-3,2,137,168
+2013-03-02,India,Taiwan,2,1,Asian Cup & Asian Challenge Cup qual,Myanmar,7,-7,1147,870,4,-2,169,205
+2013-03-02,Laos,Mongolia,1,1,Asian Cup & Asian Challenge Cup qual,Laos,-7,7,850,830,0,0,207,209
+2013-03-02,Myanmar,Guam,5,0,Asian Cup & Asian Challenge Cup qual,Myanmar,7,-7,1004,683,0,-2,189,220
+2013-03-02,Nepal,Northern Mariana Islands,6,0,Asian Cup & Asian Challenge Cup qual,Nepal,3,-3,909,455,0,0,200,238
+2013-03-02,Palestine,Bangladesh,1,0,Asian Cup & Asian Challenge Cup qual,Nepal,4,-4,1327,954,0,0,128,194
+2013-03-04,Afghanistan,Mongolia,1,0,Asian Cup & Asian Challenge Cup qual,Laos,14,-14,952,816,0,0,195,209
+2013-03-04,India,Guam,4,0,Asian Cup & Asian Challenge Cup qual,Myanmar,5,-5,1152,678,1,-1,168,221
+2013-03-04,Laos,Sri Lanka,4,2,Asian Cup & Asian Challenge Cup qual,Laos,21,-21,871,827,1,0,206,208
+2013-03-04,Myanmar,Taiwan,1,1,Asian Cup & Asian Challenge Cup qual,Myanmar,-12,12,992,882,-1,3,190,202
+2013-03-04,Nepal,Bangladesh,0,2,Asian Cup & Asian Challenge Cup qual,Nepal,-35,35,874,989,-3,2,203,192
+2013-03-04,Palestine,Northern Mariana Islands,9,0,Asian Cup & Asian Challenge Cup qual,Nepal,1,-1,1328,454,0,0,128,238
+2013-03-06,Bangladesh,Northern Mariana Islands,4,0,Asian Cup & Asian Challenge Cup qual,Nepal,3,-3,992,451,1,0,191,238
+2013-03-06,Guam,Taiwan,3,0,Asian Cup & Asian Challenge Cup qual,Myanmar,53,-53,731,829,8,-6,213,208
+2013-03-06,Laos,Afghanistan,1,1,Asian Cup & Asian Challenge Cup qual,Laos,-1,1,870,953,1,0,205,195
+2013-03-06,Myanmar,India,1,0,Asian Cup & Asian Challenge Cup qual,Myanmar,23,-23,1015,1129,3,-6,187,174
+2013-03-06,Nepal,Palestine,0,0,Asian Cup & Asian Challenge Cup qual,Nepal,15,-15,889,1313,2,-1,201,129
+2013-03-06,Sri Lanka,Mongolia,3,0,Asian Cup & Asian Challenge Cup qual,Laos,34,-34,861,782,2,-1,206,210
+2013-03-07,Qatar,Egypt,3,1,Friendly,Qatar,18,-18,1485,1612,1,-5,92,54
+2013-03-13,Mozambique,Swaziland,0,0,Friendly,Mozambique,-7,7,1326,1109,0,0,127,178
+2013-03-17,Bahrain,Lebanon,0,0,Friendly,Bahrain,-6,6,1450,1326,-3,1,100,127
+2013-03-17,Kyrgyzstan,Macao,1,0,Asian Cup & Asian Challenge Cup qual,Kyrgyzstan,1,-1,1125,630,0,0,175,227
+2013-03-17,Malaysia,Saudi Arabia,1,4,Friendly,Malaysia,-8,8,1181,1495,-2,3,161,88
+2013-03-17,Qatar,Thailand,1,0,Friendly,Qatar,4,-4,1489,1348,0,-1,92,125
+2013-03-17,Tajikistan,Pakistan,1,0,Asian Cup & Asian Challenge Cup qual,Kyrgyzstan,6,-6,1256,932,0,-1,143,197
+2013-03-19,Botswana,Malawi,1,0,Friendly,Botswana,9,-9,1296,1357,1,-1,138,121
+2013-03-19,Kyrgyzstan,Pakistan,1,0,Asian Cup & Asian Challenge Cup qual,Kyrgyzstan,6,-6,1131,926,1,0,174,197
+2013-03-19,Tajikistan,Macao,3,0,Asian Cup & Asian Challenge Cup qual,Kyrgyzstan,2,-2,1258,628,0,-1,143,228
+2013-03-20,Niger,Gambia,1,3,Friendly,Niger,-21,21,1317,1320,-3,9,129,128
+2013-03-20,Oman,Haiti,3,0,Friendly,Oman,10,-10,1514,1444,2,-2,83,100
+2013-03-20,Rwanda,Libya,0,1,Friendly,Rwanda,-8,8,1362,1545,-2,2,119,75
+2013-03-21,Brazil,Italy,2,2,Friendly,Switzerland,-4,4,2047,1919,0,0,3,7
+2013-03-21,Ecuador,El Salvador,5,0,Friendly,Ecuador,3,-3,1867,1537,0,-1,15,77
+2013-03-21,Jordan,Belarus,1,0,Friendly,Jordan,10,-10,1514,1587,3,-4,83,62
+2013-03-21,Kuwait,Palestine,2,1,Friendly,Kuwait,2,-2,1570,1311,1,-1,68,131
+2013-03-21,Kyrgyzstan,Tajikistan,1,0,Asian Cup & Asian Challenge Cup qual,Kyrgyzstan,22,-22,1153,1236,6,-3,168,146
+2013-03-21,Pakistan,Macao,2,0,Asian Cup & Asian Challenge Cup qual,Kyrgyzstan,9,-9,935,619,1,-1,196,229
+2013-03-22,Andorra,Turkey,0,2,World Cup qualifier,Andorra,-2,2,990,1687,-1,4,192,38
+2013-03-22,Argentina,Venezuela,3,0,World Cup qualifier,Argentina,6,-6,2030,1702,0,0,4,36
+2013-03-22,Austria,Faroe Islands,6,0,World Cup qualifier,Austria,5,-5,1600,1205,0,1,58,152
+2013-03-22,Bahrain,Qatar,1,0,Asian Cup qualifier,Bahrain,17,-17,1467,1472,4,-2,95,94
+2013-03-22,Bosnia and Herzegovina,Greece,3,1,World Cup qualifier,Bosnia and Herzegovina,26,-26,1787,1794,2,-3,24,22
+2013-03-22,Bulgaria,Malta,6,0,World Cup qualifier,Bulgaria,4,-4,1664,1239,2,-1,45,145
+2013-03-22,China,Iraq,1,0,Asian Cup qualifier,China,16,-16,1609,1598,4,-6,56,59
+2013-03-22,Colombia,Bolivia,5,0,World Cup qualifier,Colombia,8,-8,1912,1622,0,-2,8,51
+2013-03-22,Croatia,Serbia,2,0,World Cup qualifier,Croatia,9,-9,1901,1683,2,-4,9,42
+2013-03-22,Czechia,Denmark,0,3,World Cup qualifier,Czechia,-48,48,1742,1799,-9,6,31,21
+2013-03-22,Egypt,Swaziland,10,0,Friendly,Egypt,2,-2,1614,1107,1,0,53,178
+2013-03-22,France,Georgia,3,1,World Cup qualifier,France,4,-4,1885,1517,2,-3,12,83
+2013-03-22,Honduras,Mexico,2,2,World Cup qualifier,Honduras,7,-7,1687,1891,5,-1,38,10
+2013-03-22,Hong Kong,Vietnam,1,0,Asian Cup qualifier,Hong Kong,17,-17,1205,1219,7,-4,152,150
+2013-03-22,Hungary,Romania,2,2,World Cup qualifier,Hungary,-1,1,1687,1766,2,-1,38,25
+2013-03-22,Israel,Portugal,3,3,World Cup qualifier,Israel,9,-9,1634,1881,3,-2,49,14
+2013-03-22,Jamaica,Panama,1,1,World Cup qualifier,Jamaica,1,-1,1576,1692,0,0,66,37
+2013-03-22,Japan,Canada,2,1,Friendly,Qatar,4,-4,1826,1587,0,0,18,61
+2013-03-22,Lebanon,Thailand,5,2,Asian Cup qualifier,Lebanon,27,-27,1353,1321,2,-2,124,127
+2013-03-22,Liechtenstein,Latvia,1,1,World Cup qualifier,Liechtenstein,12,-12,1190,1495,2,-3,160,89
+2013-03-22,Luxembourg,Azerbaijan,0,0,World Cup qualifier,Luxembourg,9,-9,1165,1410,2,-1,165,107
+2013-03-22,Macedonia,Belgium,0,2,World Cup qualifier,Macedonia,-19,19,1533,1808,-5,4,77,19
+2013-03-22,Malaysia,Yemen,2,1,Asian Cup qualifier,Malaysia,16,-16,1197,1202,4,-4,157,155
+2013-03-22,Moldova,Montenegro,0,1,World Cup qualifier,Moldova,-10,10,1383,1686,-1,3,111,41
+2013-03-22,Netherlands,Estonia,3,0,World Cup qualifier,the Netherlands,2,-2,1993,1488,0,-1,5,92
+2013-03-22,New Zealand,New Caledonia,2,1,World Cup qualifier,New Zealand,5,-5,1577,1344,2,-1,65,125
+2013-03-22,Norway,Albania,0,1,World Cup qualifier,Norway,-35,35,1710,1530,-6,10,35,78
+2013-03-22,Peru,Chile,1,0,World Cup qualifier,Peru,20,-20,1737,1790,3,-3,32,23
+2013-03-22,Poland,Ukraine,1,3,World Cup qualifier,Poland,-35,35,1657,1765,-9,6,47,26
+2013-03-22,San Marino,England,0,8,World Cup qualifier,San Marino,0,0,884,1962,0,0,202,6
+2013-03-22,Scotland,Wales,1,2,World Cup qualifier,Scotland,-29,29,1630,1615,-2,11,50,52
+2013-03-22,Slovakia,Lithuania,1,1,World Cup qualifier,Slovakia,-12,12,1586,1479,-7,1,63,93
+2013-03-22,Slovenia,Iceland,1,2,World Cup qualifier,Slovenia,-31,31,1554,1513,-7,7,71,86
+2013-03-22,Spain,Finland,1,1,World Cup qualifier,Spain,-19,19,2134,1645,0,3,1,48
+2013-03-22,Sweden,Ireland,0,0,World Cup qualifier,Sweden,-13,13,1883,1750,-3,2,13,29
+2013-03-22,Tahiti,Solomon Islands,2,0,World Cup qualifier,Tahiti,20,-20,1239,1179,5,-7,145,162
+2013-03-22,Turkmenistan,Cambodia,7,0,Asian Cup & Asian Challenge Cup qual,the Philippines,2,-2,1379,680,0,0,115,221
+2013-03-22,United Arab Emirates,Uzbekistan,2,1,Asian Cup qualifier,the United Arab Emirates,16,-16,1614,1614,3,-4,53,53
+2013-03-22,Uruguay,Paraguay,1,1,World Cup qualifier,Uruguay,-11,11,1839,1736,0,0,16,33
+2013-03-22,United States,Costa Rica,1,0,World Cup qualifier,the United States,12,-12,1755,1676,2,-3,28,43
+2013-03-23,Angola,Senegal,1,1,World Cup qualifier,Guinea,3,-3,1464,1517,1,0,96,81
+2013-03-23,Belize,Trinidad and Tobago,0,0,Friendly,Belize,4,-4,1166,1423,1,-2,165,106
+2013-03-23,Burkina Faso,Niger,4,0,World Cup qualifier,Burkina Faso,11,-11,1531,1306,4,-3,77,132
+2013-03-23,Cameroon,Togo,2,1,World Cup qualifier,Cameroon,9,-9,1578,1434,3,-1,65,102
+2013-03-23,Congo,Gabon,1,0,World Cup qualifier,Congo,23,-23,1405,1516,4,-8,108,83
+2013-03-23,Cyprus,Switzerland,0,0,World Cup qualifier,Cyprus,14,-14,1429,1818,2,-1,104,18
+2013-03-23,Indonesia,Saudi Arabia,1,2,Asian Cup qualifier,Indonesia,-11,11,1218,1506,-1,1,150,88
+2013-03-23,Ivory Coast,Gambia,3,0,World Cup qualifier,Ivory Coast,2,-2,1807,1318,0,0,20,128
+2013-03-23,Kazakhstan,Germany,0,3,World Cup qualifier,Kazakhstan,-2,2,1355,2062,-1,0,122,2
+2013-03-23,Namibia,Malawi,0,1,World Cup qualifier,Namibia,-23,23,1286,1380,-7,7,139,114
+2013-03-23,Nigeria,Kenya,1,1,World Cup qualifier,Nigeria,-17,17,1704,1401,-1,1,35,109
+2013-03-23,South Africa,Central African Republic,2,0,World Cup qualifier,South Africa,7,-7,1558,1299,3,-2,69,136
+2013-03-23,Tunisia,Sierra Leone,2,1,World Cup qualifier,Tunisia,5,-5,1583,1350,0,-1,64,124
+2013-03-24,Dominican Republic,Haiti,3,1,Friendly,the Dominican Republic,19,-19,1265,1425,1,-4,142,104
+2013-03-24,DR Congo,Libya,0,0,World Cup qualifier,DR Congo,0,0,1452,1545,1,3,98,71
+2013-03-24,Equatorial Guinea,Cape Verde,4,3,World Cup qualifier,Equatorial Guinea,24,-24,1318,1440,8,-3,130,99
+2013-03-24,Ethiopia,Botswana,1,0,World Cup qualifier,Ethiopia,14,-14,1319,1282,4,-2,129,139
+2013-03-24,Ghana,Sudan,4,0,World Cup qualifier,Ghana,7,-7,1672,1370,0,-1,44,118
+2013-03-24,Lesotho,Zambia,1,1,World Cup qualifier,Lesotho,14,-14,1156,1541,5,-1,168,72
+2013-03-24,Liberia,Uganda,2,0,World Cup qualifier,Liberia,43,-43,1344,1515,10,-13,125,82
+2013-03-24,Mozambique,Guinea,0,0,World Cup qualifier,Mozambique,4,-4,1330,1498,-1,0,127,89
+2013-03-24,Philippines,Cambodia,8,0,Asian Cup & Asian Challenge Cup qual,the Philippines,3,-3,1198,677,2,-1,156,222
+2013-03-24,Rwanda,Mali,1,2,World Cup qualifier,Rwanda,-12,12,1350,1619,-3,5,123,52
+2013-03-24,Tanzania,Morocco,3,1,World Cup qualifier,Tanzania,37,-37,1404,1510,10,-13,109,86
+2013-03-25,Belarus,Canada,2,0,Friendly,Qatar,15,-15,1602,1572,3,-6,58,67
+2013-03-25,Brazil,Russia,1,1,Friendly,England,-4,4,2043,1893,0,1,3,10
+2013-03-26,Albania,Lithuania,4,1,Friendly,Albania,10,-10,1540,1469,2,0,74,93
+2013-03-26,Algeria,Benin,3,1,World Cup qualifier,Algeria,14,-14,1523,1382,8,-1,79,112
+2013-03-26,Armenia,Czechia,0,3,World Cup qualifier,Armenia,-23,23,1499,1765,-10,4,88,27
+2013-03-26,Australia,Oman,2,2,World Cup qualifier,Australia,-15,15,1747,1529,-3,6,30,77
+2013-03-26,Azerbaijan,Portugal,0,2,World Cup qualifier,Azerbaijan,-6,6,1404,1887,-1,4,108,10
+2013-03-26,Belgium,Macedonia,1,0,World Cup qualifier,Belgium,4,-4,1812,1529,0,-3,19,77
+2013-03-26,Bolivia,Argentina,1,1,World Cup qualifier,Bolivia,14,-14,1636,2016,1,0,50,4
+2013-03-26,Chile,Uruguay,2,0,World Cup qualifier,Chile,26,-26,1816,1813,6,-2,17,18
+2013-03-26,Costa Rica,Jamaica,2,0,World Cup qualifier,Costa Rica,14,-14,1690,1562,2,-2,41,68
+2013-03-26,Denmark,Bulgaria,1,1,World Cup qualifier,Denmark,-12,12,1787,1676,-2,2,23,43
+2013-03-26,Ecuador,Paraguay,4,1,World Cup qualifier,Ecuador,15,-15,1882,1721,3,-1,12,34
+2013-03-26,Egypt,Zimbabwe,2,1,World Cup qualifier,Egypt,5,-5,1619,1363,3,1,51,118
+2013-03-26,Estonia,Andorra,2,0,World Cup qualifier,Estonia,2,-2,1490,988,0,0,92,192
+2013-03-26,France,Spain,0,1,World Cup qualifier,France,-12,12,1873,2146,-3,0,15,1
+2013-03-26,Germany,Kazakhstan,4,1,World Cup qualifier,Germany,1,-1,2063,1354,0,1,2,120
+2013-03-26,Iraq,Syria,2,1,Friendly,Iraq,5,-5,1603,1519,1,-3,59,80
+2013-03-26,Ireland,Austria,2,2,World Cup qualifier,Ireland,-12,12,1738,1612,-3,4,32,55
+2013-03-26,Jordan,Japan,2,1,World Cup qualifier,Jordan,31,-31,1545,1795,12,-4,71,21
+2013-03-26,Kuwait,Iran,1,1,Asian Cup qualifier,Kuwait,0,0,1570,1663,1,0,67,46
+2013-03-26,Luxembourg,Finland,0,3,Friendly,Luxembourg,-4,4,1161,1649,-1,-1,167,49
+2013-03-26,Malaysia,Palestine,0,2,Friendly,Malaysia,-14,14,1183,1325,-3,5,161,128
+2013-03-26,Malta,Italy,0,2,World Cup qualifier,Malta,-2,2,1237,1921,0,0,145,7
+2013-03-26,Mexico,United States,0,0,World Cup qualifier,Mexico,-12,12,1879,1767,-2,3,13,25
+2013-03-26,Montenegro,England,1,1,World Cup qualifier,Montenegro,9,-9,1695,1953,2,0,39,6
+2013-03-26,Netherlands,Romania,4,0,World Cup qualifier,the Netherlands,10,-10,2003,1756,0,-3,5,28
+2013-03-26,New Caledonia,Tahiti,1,0,World Cup qualifier,New Caledonia,9,-9,1353,1230,3,-3,122,148
+2013-03-26,Northern Ireland,Israel,0,2,World Cup qualifier,Northern Ireland,-22,22,1418,1656,-7,1,106,48
+2013-03-26,Panama,Honduras,2,0,World Cup qualifier,Panama,21,-21,1713,1666,2,-7,35,45
+2013-03-26,Peru,Trinidad and Tobago,3,0,Friendly,Peru,3,-3,1740,1420,1,1,31,105
+2013-03-26,Philippines,Turkmenistan,1,0,Asian Cup & Asian Challenge Cup qual,the Philippines,25,-25,1223,1354,7,-3,149,120
+2013-03-26,Poland,San Marino,5,0,World Cup qualifier,Poland,1,-1,1658,883,0,0,47,202
+2013-03-26,Serbia,Scotland,2,0,World Cup qualifier,Serbia,18,-18,1701,1612,4,-5,38,55
+2013-03-26,Slovakia,Sweden,0,0,Friendly,Slovakia,5,-5,1591,1878,0,-1,62,14
+2013-03-26,Solomon Islands,New Zealand,0,2,World Cup qualifier,the Solomon Islands,-9,9,1170,1586,0,2,162,63
+2013-03-26,South Korea,Qatar,2,1,World Cup qualifier,South Korea,4,-4,1753,1468,1,0,29,94
+2013-03-26,Turkey,Hungary,1,1,World Cup qualifier,Turkey,-6,6,1681,1693,-4,-2,42,40
+2013-03-26,Ukraine,Moldova,2,1,World Cup qualifier,Ukraine,2,-2,1767,1381,1,-1,25,114
+2013-03-26,Uzbekistan,Lebanon,1,0,World Cup qualifier,Uzbekistan,4,-4,1618,1349,1,-3,53,125
+2013-03-26,Venezuela,Colombia,1,0,World Cup qualifier,Venezuela,26,-26,1728,1886,3,-3,33,11
+2013-03-26,Wales,Croatia,1,2,World Cup qualifier,Wales,-10,10,1605,1911,-5,1,58,8
+2013-04-06,Bolivia,Brazil,0,4,Friendly,Bolivia,-5,5,1631,2048,0,0,50,3
+2013-04-17,Mexico,Peru,0,0,Friendly,the United States,-4,4,1875,1744,-1,0,14,31
+2013-04-17,Qatar,Palestine,2,0,Friendly,Qatar,6,-6,1474,1319,1,-1,93,129
+2013-04-21,Saint Vincent and the Grenadines,Saint Lucia,0,2,Windward Islands Tournament,Saint Vincent and the Grenadines,-37,37,1158,1057,-9,2,167,183
+2013-04-23,Grenada,Saint Lucia,2,1,Windward Islands Tournament,Saint Vincent and the Grenadines,10,-10,1177,1047,2,0,161,183
+2013-04-24,Brazil,Chile,2,2,Friendly,Brazil,-7,7,2041,1823,0,1,3,16
+2013-04-25,Saint Vincent and the Grenadines,Grenada,0,1,Windward Islands Tournament,Saint Vincent and the Grenadines,-18,18,1140,1195,-6,3,173,158
+2013-04-28,Zambia,Zimbabwe,2,0,Friendly,Zambia,5,-5,1546,1358,2,-1,71,119
+2013-05-13,Libya,Mauritania,2,0,Friendly,Libya,2,-2,1547,1147,1,0,71,169
+2013-05-22,Oman,Iran,3,1,Friendly,Oman,16,-16,1545,1647,4,-3,73,49
+2013-05-22,Venezuela,El Salvador,2,1,Friendly,Venezuela,3,-3,1731,1534,0,-1,33,76
+2013-05-24,Qatar,Latvia,3,1,Friendly,Qatar,12,-12,1486,1483,1,-3,92,93
+2013-05-25,Algeria,Mauritania,1,0,Friendly,Algeria,1,-1,1524,1146,0,-1,79,170
+2013-05-25,Ethiopia,Sudan,2,0,Friendly,Ethiopia,13,-13,1332,1357,2,-2,127,119
+2013-05-25,Malawi,Zimbabwe,1,1,Friendly,Malawi,-3,3,1377,1361,-1,1,116,118
+2013-05-25,Namibia,Zambia,0,0,Friendly,Namibia,4,-4,1290,1542,0,-2,138,74
+2013-05-27,Iraq,Liberia,0,1,Friendly,Iraq,-18,18,1585,1362,-4,9,63,117
+2013-05-27,Jordan,Libya,1,0,Friendly,Jordan,7,-7,1552,1540,1,-3,71,74
+2013-05-28,Canada,Costa Rica,0,1,Friendly,Canada,-9,9,1563,1699,-1,2,67,39
+2013-05-28,Latvia,Turkey,3,3,Friendly,Germany,5,-5,1488,1676,1,0,92,42
+2013-05-29,England,Ireland,1,1,Friendly,England,-7,7,1946,1745,0,1,6,31
+2013-05-29,Germany,Ecuador,4,2,Friendly,the United States,8,-8,2071,1874,0,-2,2,14
+2013-05-29,Lebanon,Oman,1,1,Friendly,Qatar,5,-5,1354,1540,5,-1,121,73
+2013-05-29,Qatar,Azerbaijan,1,1,Friendly,Qatar,-5,5,1481,1409,0,1,93,107
+2013-05-29,United States,Belgium,2,4,Friendly,the United States,-17,17,1750,1829,-4,3,29,16
+2013-05-30,Japan,Bulgaria,0,2,Friendly,Japan,-23,23,1772,1699,-3,3,24,39
+2013-05-31,Italy,San Marino,4,0,Friendly,Italy,0,0,1921,883,0,0,7,202
+2013-05-31,Mexico,Nigeria,2,2,Friendly,the United States,-5,5,1870,1709,-2,0,15,37
+2013-05-31,Slovenia,Turkey,2,0,Friendly,Germany,20,-20,1574,1656,4,-3,66,46
+2013-06-01,Libya,Uganda,3,0,Friendly,Libya,11,-11,1551,1504,1,-3,72,87
+2013-06-01,Panama,Peru,1,2,Friendly,Panama,-12,12,1701,1756,-2,5,37,27
+2013-06-02,Algeria,Burkina Faso,2,0,Friendly,Algeria,11,-11,1535,1520,3,-2,76,79
+2013-06-02,Brazil,England,2,2,Friendly,Brazil,-5,5,2036,1951,0,0,3,6
+2013-06-02,Ireland,Georgia,4,0,Friendly,Ireland,5,-5,1750,1512,1,-3,31,84
+2013-06-02,Israel,Honduras,2,0,Friendly,the United States,15,-15,1671,1651,2,-3,44,47
+2013-06-02,Lesotho,South Africa,0,2,Friendly,Lesotho,-4,4,1152,1562,-1,1,168,69
+2013-06-02,Sudan,Tanzania,0,0,Friendly,Ethiopia,1,-1,1358,1403,0,0,120,109
+2013-06-02,Ukraine,Cameroon,0,0,Friendly,Ukraine,-7,7,1760,1585,-2,2,27,63
+2013-06-02,United States,Germany,4,3,Friendly,the United States,16,-16,1766,2055,5,0,25,2
+2013-06-03,Estonia,Belarus,0,2,Friendly,Estonia,-14,14,1476,1616,-2,5,93,54
+2013-06-03,Sweden,Macedonia,1,0,Friendly,Sweden,1,-1,1879,1528,0,0,12,78
+2013-06-04,Egypt,Botswana,1,1,Friendly,Egypt,-9,9,1610,1291,-6,1,57,138
+2013-06-04,Hong Kong,Philippines,0,1,Friendly,Hong Kong,-12,12,1193,1235,-5,2,158,147
+2013-06-04,Jamaica,Mexico,0,1,World Cup qualifier,Jamaica,-9,9,1553,1879,-2,3,71,12
+2013-06-04,Japan,Australia,1,1,World Cup qualifier,Japan,-7,7,1765,1754,-1,2,25,30
+2013-06-04,Kazakhstan,Bulgaria,1,2,Friendly,Kazakhstan,-4,4,1350,1703,-3,2,124,37
+2013-06-04,Lebanon,South Korea,1,1,World Cup qualifier,Lebanon,14,-14,1368,1739,4,-2,117,32
+2013-06-04,Myanmar,Singapore,0,2,Friendly,Myanmar,-9,9,1006,1276,-2,1,189,140
+2013-06-04,Oman,Iraq,1,0,World Cup qualifier,Oman,17,-17,1557,1568,4,-4,70,67
+2013-06-04,Poland,Liechtenstein,2,0,Friendly,Poland,1,-1,1659,1189,-1,0,46,159
+2013-06-04,Qatar,Iran,0,1,World Cup qualifier,Qatar,-16,16,1465,1663,-3,4,95,45
+2013-06-04,Romania,Trinidad and Tobago,4,0,Friendly,Romania,3,-3,1759,1417,0,-1,28,106
+2013-06-04,Tajikistan,Afghanistan,3,2,Friendly,Tajikistan,2,-2,1238,951,1,0,145,195
+2013-06-05,Denmark,Georgia,2,1,Friendly,Denmark,2,-2,1789,1510,0,0,22,84
+2013-06-05,Equatorial Guinea,Togo,0,1,Friendly,Equatorial Guinea,-10,10,1308,1444,-2,1,133,99
+2013-06-05,Kenya,Nigeria,0,1,World Cup qualifier,Kenya,-9,9,1392,1718,-1,1,111,35
+2013-06-05,Malawi,Namibia,0,0,World Cup qualifier,Malawi,-10,10,1367,1300,-1,2,117,137
+2013-06-05,Uruguay,France,1,0,Friendly,Uruguay,9,-9,1822,1864,1,0,18,15
+2013-06-06,China,Uzbekistan,1,2,Friendly,China,-13,13,1596,1631,-1,2,59,50
+2013-06-06,Hungary,Kuwait,1,0,Friendly,Hungary,4,-4,1697,1566,1,-1,41,67
+2013-06-07,Albania,Norway,1,1,World Cup qualifier,Albania,4,-4,1544,1706,3,0,72,36
+2013-06-07,Argentina,Colombia,0,0,World Cup qualifier,Argentina,-12,12,2004,1898,0,2,4,9
+2013-06-07,Armenia,Malta,0,1,World Cup qualifier,Armenia,-36,36,1463,1273,-7,4,95,142
+2013-06-07,Austria,Sweden,2,1,World Cup qualifier,Austria,29,-29,1641,1850,5,-3,50,15
+2013-06-07,Azerbaijan,Luxembourg,1,1,World Cup qualifier,Azerbaijan,-15,15,1394,1176,-3,4,110,162
+2013-06-07,Belgium,Serbia,2,1,World Cup qualifier,Belgium,8,-8,1837,1693,-1,-3,17,41
+2013-06-07,Bolivia,Venezuela,1,1,World Cup qualifier,Bolivia,0,0,1631,1731,-2,0,52,33
+2013-06-07,Costa Rica,Honduras,1,0,World Cup qualifier,Costa Rica,12,-12,1711,1639,5,-3,35,51
+2013-06-07,Croatia,Scotland,0,1,World Cup qualifier,Croatia,-36,36,1875,1648,-3,6,11,49
+2013-06-07,Czechia,Italy,0,0,World Cup qualifier,Czechia,3,-3,1768,1918,-2,0,27,7
+2013-06-07,Estonia,Trinidad and Tobago,1,0,Friendly,Estonia,6,-6,1482,1411,3,0,89,106
+2013-06-07,Finland,Belarus,1,0,World Cup qualifier,Finland,13,-13,1662,1603,4,-6,45,59
+2013-06-07,Iceland,Slovenia,2,4,World Cup qualifier,Iceland,-33,33,1480,1607,-7,8,90,57
+2013-06-07,Indonesia,Netherlands,0,3,Friendly,Indonesia,-1,1,1217,2004,0,1,151,4
+2013-06-07,Ireland,Faroe Islands,3,0,World Cup qualifier,Ireland,2,-2,1752,1203,0,-1,31,154
+2013-06-07,Jamaica,United States,1,2,World Cup qualifier,Jamaica,-14,14,1539,1780,-4,-1,75,25
+2013-06-07,Laos,Singapore,2,5,Friendly,Laos,-5,5,865,1281,0,0,205,140
+2013-06-07,Latvia,Bosnia and Herzegovina,0,5,World Cup qualifier,Latvia,-19,19,1469,1806,0,2,91,21
+2013-06-07,Libya,DR Congo,0,0,World Cup qualifier,Libya,-10,10,1541,1462,-1,2,74,96
+2013-06-07,Liechtenstein,Slovakia,1,1,World Cup qualifier,Liechtenstein,14,-14,1203,1577,5,-4,154,65
+2013-06-07,Lithuania,Greece,0,1,World Cup qualifier,Lithuania,-9,9,1460,1803,-4,-1,97,22
+2013-06-07,Moldova,Poland,1,1,World Cup qualifier,Moldova,9,-9,1390,1650,2,-2,112,48
+2013-06-07,Montenegro,Ukraine,0,4,World Cup qualifier,Montenegro,-41,41,1654,1801,-5,4,47,23
+2013-06-07,Panama,Mexico,0,0,World Cup qualifier,Panama,4,-4,1705,1875,1,1,37,11
+2013-06-07,Paraguay,Chile,1,2,World Cup qualifier,Paraguay,-20,20,1701,1843,-5,1,39,16
+2013-06-07,Peru,Ecuador,1,0,World Cup qualifier,Peru,21,-21,1777,1853,3,0,26,14
+2013-06-07,Portugal,Russia,1,0,World Cup qualifier,Portugal,15,-15,1902,1878,2,-1,8,10
+2013-06-07,Sudan,Ghana,1,3,World Cup qualifier,Sudan,-14,14,1344,1686,-5,1,126,42
+2013-06-08,Angola,Senegal,1,1,World Cup qualifier,Angola,-3,3,1461,1520,-2,2,96,79
+2013-06-08,Botswana,Ethiopia,1,2,World Cup qualifier,Botswana,-23,23,1268,1355,-3,6,142,121
+2013-06-08,Cape Verde,Equatorial Guinea,2,1,World Cup qualifier,Cape Verde,8,-8,1448,1300,1,-3,99,136
+2013-06-08,Gabon,Congo,0,0,World Cup qualifier,Gabon,-11,11,1505,1416,-4,1,86,106
+2013-06-08,Gambia,Ivory Coast,0,3,World Cup qualifier,The Gambia,-7,7,1311,1814,-1,0,132,20
+2013-06-08,Morocco,Tanzania,2,1,World Cup qualifier,Morocco,9,-9,1519,1394,2,-1,81,109
+2013-06-08,Sierra Leone,Tunisia,2,2,World Cup qualifier,Sierra Leone,7,-7,1357,1576,3,-1,120,65
+2013-06-08,South Africa,Central African Republic,3,0,World Cup qualifier,Cameroon,13,-13,1575,1286,3,0,66,138
+2013-06-08,Spain,Haiti,2,1,Friendly,the United States,0,0,2146,1425,0,0,1,103
+2013-06-08,Switzerland,Cyprus,1,0,World Cup qualifier,Switzerland,2,-2,1820,1427,0,0,19,102
+2013-06-08,Uganda,Liberia,1,0,World Cup qualifier,Uganda,8,-8,1512,1354,3,-4,83,122
+2013-06-08,Zambia,Lesotho,4,0,World Cup qualifier,Zambia,4,-4,1546,1148,1,0,72,168
+2013-06-09,Benin,Algeria,1,3,World Cup qualifier,Benin,-25,25,1357,1560,-6,7,119,69
+2013-06-09,Brazil,France,3,0,Friendly,Brazil,6,-6,2042,1858,0,0,3,13
+2013-06-09,Guinea,Mozambique,6,1,World Cup qualifier,Guinea,14,-14,1512,1316,4,-2,83,130
+2013-06-09,Mali,Rwanda,1,1,World Cup qualifier,Mali,-16,16,1603,1366,-4,8,58,117
+2013-06-09,Niger,Burkina Faso,0,1,World Cup qualifier,Niger,-14,14,1292,1534,-3,2,137,77
+2013-06-09,Togo,Cameroon,2,0,World Cup qualifier,Togo,34,-34,1478,1551,9,-9,91,72
+2013-06-09,Zimbabwe,Egypt,2,4,World Cup qualifier,Zimbabwe,-18,18,1343,1628,-8,2,127,54
+2013-06-10,Portugal,Croatia,1,0,Friendly,Switzerland,9,-9,1911,1866,0,-1,8,12
+2013-06-11,Australia,Jordan,4,0,World Cup qualifier,Australia,11,-11,1765,1541,3,-3,27,74
+2013-06-11,Belarus,Finland,1,1,World Cup qualifier,Belarus,-2,2,1601,1664,-1,0,59,45
+2013-06-11,Chile,Bolivia,3,1,World Cup qualifier,Chile,9,-9,1852,1622,1,-1,15,53
+2013-06-11,China,Netherlands,0,2,Friendly,China,-4,4,1592,2008,-1,0,61,4
+2013-06-11,Colombia,Peru,2,0,World Cup qualifier,Colombia,13,-13,1911,1764,2,-2,7,28
+2013-06-11,Denmark,Armenia,0,4,World Cup qualifier,Denmark,-69,69,1720,1532,-9,17,33,78
+2013-06-11,Ecuador,Argentina,1,1,World Cup qualifier,Ecuador,3,-3,1856,2001,0,-1,14,5
+2013-06-11,Estonia,Kyrgyzstan,1,1,Friendly,Estonia,-8,8,1474,1161,-3,0,92,167
+2013-06-11,Guatemala,Belize,0,0,Friendly,Guatemala,-8,8,1487,1174,-1,2,89,163
+2013-06-11,Haiti,Italy,2,2,Friendly,Brazil,9,-9,1434,1909,2,-2,101,9
+2013-06-11,Honduras,Jamaica,2,0,World Cup qualifier,Honduras,14,-14,1653,1525,3,-3,48,79
+2013-06-11,Iran,Lebanon,4,0,World Cup qualifier,Iran,7,-7,1670,1361,0,-3,44,118
+2013-06-11,Japan,Iraq,1,0,World Cup qualifier,Qatar,10,-10,1775,1558,3,-3,25,69
+2013-06-11,Mexico,Costa Rica,0,0,World Cup qualifier,Mexico,-13,13,1862,1724,-1,3,12,32
+2013-06-11,Norway,Macedonia,2,0,Friendly,Norway,5,-5,1711,1523,1,-1,35,80
+2013-06-11,Qatar,North Korea,0,0,Friendly,Qatar,1,-1,1466,1593,-1,1,95,60
+2013-06-11,South Korea,Uzbekistan,1,0,World Cup qualifier,South Korea,9,-9,1748,1622,1,-1,31,53
+2013-06-11,Spain,Ireland,2,0,Friendly,the United States,3,-3,2149,1749,0,1,1,30
+2013-06-11,Sweden,Faroe Islands,2,0,World Cup qualifier,Sweden,1,-1,1851,1202,-1,-1,16,155
+2013-06-11,United States,Panama,2,0,World Cup qualifier,the United States,16,-16,1796,1689,1,-4,24,41
+2013-06-11,Venezuela,Uruguay,0,1,World Cup qualifier,Venezuela,-21,21,1710,1843,-3,1,36,17
+2013-06-12,Ghana,Ivory Coast,2,1,Friendly,Ghana,11,-11,1697,1803,3,-1,39,21
+2013-06-12,Malawi,Kenya,2,2,World Cup qualifier,Malawi,-4,4,1363,1396,-1,3,116,108
+2013-06-12,Namibia,Nigeria,1,1,World Cup qualifier,Namibia,14,-14,1314,1704,4,-2,131,36
+2013-06-14,Ghana,Ivory Coast,1,1,Friendly,Ghana,0,0,1697,1803,0,0,39,21
+2013-06-14,Guatemala,Argentina,0,4,Friendly,Guatemala,-3,3,1484,2004,0,0,89,5
+2013-06-14,Libya,Togo,2,0,World Cup qualifier,Libya,17,-17,1558,1461,5,-5,69,96
+2013-06-14,Moldova,Kyrgyzstan,2,1,Friendly,Moldova,3,-3,1393,1158,0,0,112,167
+2013-06-15,Botswana,Central African Republic,3,2,World Cup qualifier,Botswana,15,-15,1283,1271,5,-4,137,142
+2013-06-15,Brazil,Japan,3,0,Confederations Cup,Brazil,9,-9,2051,1766,0,-1,3,26
+2013-06-15,Cape Verde,Sierra Leone,1,0,World Cup qualifier,Cape Verde,10,-10,1458,1347,2,-8,98,127
+2013-06-15,China,Thailand,1,5,Friendly,China,-34,34,1558,1355,-7,7,68,121
+2013-06-15,Congo,Burkina Faso,0,1,World Cup qualifier,Congo,-19,19,1397,1553,-1,4,107,72
+2013-06-15,Gabon,Niger,4,1,World Cup qualifier,Gabon,10,-10,1515,1282,3,-1,85,138
+2013-06-15,Morocco,Gambia,2,0,World Cup qualifier,Morocco,9,-9,1528,1302,3,-2,79,135
+2013-06-15,Uganda,Angola,2,1,World Cup qualifier,Uganda,12,-12,1524,1449,3,-4,81,100
+2013-06-15,Zambia,Sudan,1,1,World Cup qualifier,Zambia,-14,14,1532,1358,-4,7,77,119
+2013-06-16,DR Congo,Cameroon,0,0,World Cup qualifier,DR Congo,-1,1,1461,1552,0,1,95,72
+2013-06-16,Equatorial Guinea,Tunisia,1,1,World Cup qualifier,Equatorial Guinea,9,-9,1309,1567,4,-1,132,64
+2013-06-16,Ethiopia,South Africa,2,1,World Cup qualifier,Ethiopia,27,-27,1382,1548,8,-9,113,73
+2013-06-16,Guinea,Zimbabwe,1,0,World Cup qualifier,Guinea,7,-7,1519,1336,2,1,84,127
+2013-06-16,Italy,Mexico,2,1,Confederations Cup,Brazil,22,-22,1931,1840,2,-4,7,16
+2013-06-16,Lesotho,Ghana,0,2,World Cup qualifier,Lesotho,-4,4,1144,1701,-2,1,170,38
+2013-06-16,Liberia,Senegal,0,2,World Cup qualifier,Liberia,-24,24,1330,1544,-5,9,128,74
+2013-06-16,Mali,Benin,2,2,World Cup qualifier,Mali,-15,15,1588,1372,-2,4,60,116
+2013-06-16,Mozambique,Egypt,0,1,World Cup qualifier,Mozambique,-9,9,1307,1637,-3,0,133,52
+2013-06-16,Rwanda,Algeria,0,1,World Cup qualifier,Rwanda,-15,15,1351,1575,-9,4,124,63
+2013-06-16,Spain,Uruguay,2,1,Confederations Cup,Brazil,7,-7,2156,1836,0,-1,1,18
+2013-06-16,Tanzania,Ivory Coast,2,4,World Cup qualifier,Tanzania,-9,9,1385,1812,-2,1,112,20
+2013-06-17,Nigeria,Tahiti,6,1,Confederations Cup,Brazil,6,-6,1710,1224,1,0,35,149
+2013-06-18,Australia,Iraq,1,0,World Cup qualifier,Australia,6,-6,1771,1552,2,-4,25,71
+2013-06-18,Costa Rica,Panama,2,0,World Cup qualifier,Costa Rica,19,-19,1743,1670,1,-2,31,44
+2013-06-18,Jordan,Oman,1,0,World Cup qualifier,Jordan,15,-15,1556,1542,7,-6,69,76
+2013-06-18,South Korea,Iran,0,1,World Cup qualifier,South Korea,-29,29,1719,1699,-2,4,33,40
+2013-06-18,United States,Honduras,1,0,World Cup qualifier,the United States,8,-8,1804,1645,2,-2,22,50
+2013-06-18,Uzbekistan,Qatar,5,1,World Cup qualifier,Uzbekistan,14,-14,1636,1452,0,-5,53,99
+2013-06-19,Brazil,Mexico,2,0,Confederations Cup,Brazil,11,-11,2062,1829,1,-2,2,18
+2013-06-19,Italy,Japan,4,3,Confederations Cup,Brazil,14,-14,1945,1752,0,-2,7,29
+2013-06-20,Spain,Tahiti,10,0,Confederations Cup,Brazil,1,-1,2157,1223,0,0,1,149
+2013-06-20,Uruguay,Nigeria,2,1,Confederations Cup,Brazil,16,-16,1852,1694,3,-6,14,41
+2013-06-22,Brazil,Italy,4,2,Confederations Cup,Brazil,17,-17,2079,1928,0,0,2,7
+2013-06-22,Mexico,Japan,2,1,Confederations Cup,Brazil,20,-20,1849,1732,1,-2,17,31
+2013-06-22,Monaco,Vatican,2,0,Friendly,France,7,-7,902,693,0,-2,200,218
+2013-06-23,Spain,Nigeria,3,0,Confederations Cup,Brazil,6,-6,2163,1688,0,-1,1,42
+2013-06-23,Uruguay,Tahiti,8,0,Confederations Cup,Brazil,3,-3,1855,1220,0,0,14,149
+2013-06-26,Brazil,Uruguay,2,1,Confederations Cup,Brazil,7,-7,2086,1848,0,-3,2,17
+2013-06-27,Italy,Spain,0,0,Confederations Cup,Brazil,15,-15,1943,2148,0,0,7,1
+2013-06-30,Brazil,Spain,3,0,Confederations Cup,Brazil,39,-39,2125,2109,1,-1,1,2
+2013-06-30,Italy,Uruguay,2,2,Confederations Cup,Brazil,-7,7,1936,1855,0,3,7,14
+2013-07-05,United States,Guatemala,6,0,Friendly,the United States,3,-3,1807,1481,1,0,21,89
+2013-07-06,Malawi,Mozambique,0,1,Friendly,Malawi,-14,14,1349,1321,-8,4,125,129
+2013-07-06,Namibia,Mauritius,2,1,COSAFA Cup,Zambia,6,-6,1320,1022,0,-1,130,185
+2013-07-07,Botswana,Swaziland,0,0,COSAFA Cup,Zambia,-9,9,1274,1116,-3,0,140,178
+2013-07-07,Martinique,Canada,1,0,CONCACAF Championship,the United States,36,-36,1432,1527,6,-14,102,80
+2013-07-07,Panama,Mexico,2,1,CONCACAF Championship,the United States,37,-37,1707,1812,8,-2,36,19
+2013-07-08,El Salvador,Trinidad and Tobago,2,2,CONCACAF Championship,the United States,-8,8,1526,1419,-4,2,80,105
+2013-07-08,Honduras,Haiti,2,0,CONCACAF Championship,the United States,17,-17,1662,1417,4,-6,46,107
+2013-07-08,Kenya,Lesotho,2,2,COSAFA Cup,Zambia,-12,12,1384,1156,-3,2,112,168
+2013-07-08,Namibia,Seychelles,4,2,COSAFA Cup,Zambia,9,-9,1329,1003,1,-1,129,189
+2013-07-09,Botswana,Lesotho,3,3,COSAFA Cup,Zambia,-7,7,1267,1163,-2,2,142,166
+2013-07-09,Costa Rica,Cuba,3,0,CONCACAF Championship,the United States,13,-13,1756,1419,1,-3,29,104
+2013-07-09,Kenya,Swaziland,2,0,COSAFA Cup,Zambia,11,-11,1395,1105,3,0,109,178
+2013-07-09,United States,Belize,6,1,CONCACAF Championship,the United States,1,-1,1808,1173,0,0,21,163
+2013-07-10,Mauritius,Seychelles,4,0,COSAFA Cup,Zambia,35,-35,1057,968,2,-3,183,192
+2013-07-11,Botswana,Kenya,2,1,COSAFA Cup,Zambia,27,-27,1294,1368,5,-7,137,116
+2013-07-11,Lesotho,Swaziland,2,0,COSAFA Cup,Zambia,25,-25,1188,1080,6,-3,160,181
+2013-07-11,Mexico,Canada,2,0,CONCACAF Championship,the United States,12,-12,1824,1515,1,-6,18,85
+2013-07-11,Panama,Martinique,1,0,CONCACAF Championship,the United States,9,-9,1716,1423,2,-2,34,103
+2013-07-12,Haiti,Trinidad and Tobago,2,0,CONCACAF Championship,the United States,38,-38,1455,1381,8,-9,99,113
+2013-07-12,Honduras,El Salvador,1,0,CONCACAF Championship,the United States,16,-16,1678,1510,2,-7,44,86
+2013-07-13,Costa Rica,Belize,1,0,CONCACAF Championship,the United States,2,-2,1758,1171,0,0,29,164
+2013-07-13,Malawi,Zimbabwe,1,1,COSAFA Cup,Zambia,-1,1,1348,1337,0,0,125,127
+2013-07-13,South Africa,Namibia,2,1,COSAFA Cup,Zambia,9,-9,1557,1320,4,-1,68,130
+2013-07-13,United States,Cuba,4,1,CONCACAF Championship,the United States,5,-5,1813,1414,1,-1,20,106
+2013-07-14,Angola,Lesotho,1,1,COSAFA Cup,Zambia,-13,13,1436,1201,0,3,101,157
+2013-07-14,Bermuda,Greenland,3,0,Island Games,Bermuda,10,-10,1195,957,2,-1,159,194
+2013-07-14,Canada,Panama,0,0,CONCACAF Championship,the United States,13,-13,1528,1703,6,-2,78,36
+2013-07-14,Mexico,Martinique,3,1,CONCACAF Championship,the United States,7,-7,1831,1416,0,-1,18,105
+2013-07-14,Zambia,Mozambique,3,1,COSAFA Cup,Zambia,9,-9,1541,1312,0,-2,76,131
+2013-07-15,Bermuda,Falkland Islands,8,0,Island Games,Bermuda,2,-2,1197,591,0,0,159,231
+2013-07-15,El Salvador,Haiti,1,0,CONCACAF Championship,the United States,21,-21,1531,1434,8,-3,78,102
+2013-07-15,Trinidad and Tobago,Honduras,2,0,CONCACAF Championship,the United States,64,-64,1445,1614,13,-10,100,54
+2013-07-16,Angola,Malawi,3,2,COSAFA Cup,Zambia,15,-15,1451,1333,1,-2,100,127
+2013-07-16,Cuba,Belize,4,0,CONCACAF Championship,the United States,19,-19,1433,1152,4,-4,103,168
+2013-07-16,Mozambique,Namibia,1,0,COSAFA Cup,Zambia,20,-20,1332,1300,3,-7,128,136
+2013-07-16,United States,Costa Rica,1,0,CONCACAF Championship,the United States,15,-15,1828,1743,1,-1,19,30
+2013-07-17,Greenland,Falkland Islands,9,0,Island Games,Bermuda,11,-11,968,580,2,0,192,231
+2013-07-17,Zambia,South Africa,0,0,COSAFA Cup,Zambia,-5,5,1536,1562,0,2,76,66
+2013-07-17,Zimbabwe,Lesotho,2,1,COSAFA Cup,Zambia,13,-13,1350,1188,2,-4,124,161
+2013-07-18,Bermuda,Greenland,1,0,Island Games,Bermuda,5,-5,1202,963,3,-1,155,193
+2013-07-18,Mozambique,Angola,1,0,COSAFA Cup,Zambia,27,-27,1359,1424,9,-4,119,104
+2013-07-20,Mexico,Trinidad and Tobago,1,0,CONCACAF Championship,the United States,5,-5,1836,1440,0,0,18,100
+2013-07-20,Panama,Cuba,6,1,CONCACAF Championship,the United States,17,-17,1720,1416,4,-4,32,106
+2013-07-20,South Africa,Lesotho,2,1,COSAFA Cup,Zambia,4,-4,1566,1184,1,0,65,161
+2013-07-20,South Korea,Australia,0,0,East Asian Championship,South Korea,-3,3,1716,1774,-1,0,34,25
+2013-07-20,Zambia,Zimbabwe,2,0,COSAFA Cup,Zambia,10,-10,1546,1340,3,-2,73,127
+2013-07-21,China,Japan,3,3,East Asian Championship,South Korea,9,-9,1567,1723,3,1,64,30
+2013-07-21,Honduras,Costa Rica,1,0,CONCACAF Championship,the United States,34,-34,1648,1709,5,-6,49,36
+2013-07-21,United States,El Salvador,5,1,CONCACAF Championship,the United States,9,-9,1837,1522,2,-5,17,83
+2013-07-24,Panama,Mexico,2,1,CONCACAF Championship,the United States,33,-33,1753,1803,2,-3,29,22
+2013-07-24,South Korea,China,0,0,East Asian Championship,South Korea,-12,12,1704,1579,-3,2,36,62
+2013-07-24,United States,Honduras,3,1,CONCACAF Championship,the United States,12,-12,1849,1636,0,-3,17,52
+2013-07-25,Japan,Australia,3,2,East Asian Championship,South Korea,23,-23,1746,1751,0,-4,31,29
+2013-07-28,China,Australia,4,3,East Asian Championship,South Korea,29,-29,1608,1722,6,-2,56,31
+2013-07-28,South Korea,Japan,1,2,East Asian Championship,South Korea,-23,23,1681,1769,-7,6,43,25
+2013-07-28,United States,Panama,1,0,CONCACAF Championship,the United States,12,-12,1861,1741,5,-2,12,30
+2013-08-06,Jordan,Palestine,4,1,Friendly,Jordan,4,-4,1560,1315,1,0,68,130
+2013-08-09,Jordan,Libya,2,1,Friendly,Jordan,7,-7,1567,1551,3,-3,65,72
+2013-08-14,Albania,Armenia,2,0,Friendly,Albania,10,-10,1554,1522,4,-4,70,81
+2013-08-14,Algeria,Guinea,2,2,Friendly,Algeria,-4,4,1571,1523,-1,4,65,80
+2013-08-14,Austria,Greece,0,2,Friendly,Austria,-12,12,1629,1815,-3,1,53,21
+2013-08-14,Azerbaijan,Malta,3,0,Friendly,Azerbaijan,8,-8,1402,1265,1,0,108,141
+2013-08-14,Belarus,Montenegro,1,1,Friendly,Belarus,-1,1,1600,1655,1,0,58,47
+2013-08-14,Belgium,France,0,0,Friendly,Belgium,-2,2,1835,1860,0,0,18,13
+2013-08-14,Bosnia and Herzegovina,United States,3,4,Friendly,Bosnia and Herzegovina,-11,11,1795,1872,-2,2,23,10
+2013-08-14,Cape Verde,Gabon,1,1,Friendly,Portugal,2,-2,1460,1513,1,0,96,86
+2013-08-14,Chile,Iraq,6,0,Friendly,Denmark,6,-6,1858,1546,2,-2,14,72
+2013-08-14,Colombia,Serbia,1,0,Friendly,Spain,4,-4,1915,1689,0,0,8,41
+2013-08-14,Dominican Republic,Costa Rica,0,4,Friendly,the Dominican Republic,-5,5,1260,1714,-1,3,144,32
+2013-08-14,Ecuador,Spain,0,2,Friendly,Ecuador,-9,9,1847,2118,-2,1,16,1
+2013-08-14,Egypt,Uganda,3,0,Friendly,Egypt,8,-8,1645,1516,1,-3,50,84
+2013-08-14,England,Scotland,3,2,Friendly,England,2,-2,1953,1646,0,0,6,49
+2013-08-14,Estonia,Latvia,1,1,Friendly,Estonia,-3,3,1471,1472,-1,1,92,91
+2013-08-14,Finland,Slovenia,2,0,Friendly,Finland,9,-9,1673,1598,1,-2,44,59
+2013-08-14,Germany,Paraguay,3,3,Friendly,Germany,-9,9,2046,1710,0,3,3,34
+2013-08-14,Hungary,Czechia,1,1,Friendly,Hungary,-1,1,1696,1769,0,1,40,25
+2013-08-14,Iceland,Faroe Islands,1,0,Friendly,Iceland,2,-2,1482,1200,1,-2,89,157
+2013-08-14,Indonesia,Philippines,2,0,Friendly,Indonesia,12,-12,1229,1223,3,-2,148,149
+2013-08-14,Italy,Argentina,1,2,Francisco Cup,Italy,-16,16,1920,2020,0,1,7,4
+2013-08-14,Japan,Uruguay,2,4,Friendly,Japan,-16,16,1753,1871,-2,4,27,11
+2013-08-14,Kazakhstan,Georgia,1,0,Friendly,Kazakhstan,12,-12,1362,1498,8,-1,117,88
+2013-08-14,Libya,Central African Republic,0,0,Friendly,Libya,-8,8,1543,1279,-4,3,76,139
+2013-08-14,Liechtenstein,Croatia,2,3,Friendly,Liechtenstein,-1,1,1202,1867,0,-1,154,12
+2013-08-14,Luxembourg,Lithuania,2,1,Friendly,Luxembourg,15,-15,1191,1445,2,-4,161,100
+2013-08-14,Macedonia,Bulgaria,2,0,Friendly,Macedonia,18,-18,1541,1685,5,-6,77,42
+2013-08-14,Mexico,Ivory Coast,4,1,Friendly,the United States,18,-18,1821,1794,2,-4,20,24
+2013-08-14,Moldova,Andorra,1,1,Friendly,Moldova,-9,9,1384,997,-1,2,111,189
+2013-08-14,Morocco,Burkina Faso,1,2,Friendly,Morocco,-12,12,1516,1565,-6,1,84,68
+2013-08-14,Northern Ireland,Russia,1,0,World Cup qualifier,Northern Ireland,36,-36,1454,1842,7,-7,98,17
+2013-08-14,Poland,Denmark,3,2,Friendly,Poland,9,-9,1659,1711,2,-1,46,33
+2013-08-14,Portugal,Netherlands,1,1,Friendly,Portugal,0,0,1911,2008,-1,-1,9,5
+2013-08-14,Romania,Slovakia,1,1,Friendly,Romania,-7,7,1752,1584,0,0,28,63
+2013-08-14,Rwanda,Malawi,0,1,Friendly,Rwanda,-13,13,1338,1346,-4,2,128,126
+2013-08-14,Senegal,Zambia,1,1,Friendly,France,0,0,1544,1546,-1,1,75,72
+2013-08-14,Singapore,Oman,0,2,Asian Cup qualifier,Singapore,-17,17,1264,1559,-4,7,143,69
+2013-08-14,South Africa,Nigeria,0,2,Nelson Mandela Challenge Cup,South Africa,-21,21,1545,1709,-7,7,74,35
+2013-08-14,South Korea,Peru,0,0,Friendly,South Korea,0,0,1681,1764,0,1,43,26
+2013-08-14,Sweden,Norway,4,2,Friendly,Sweden,6,-6,1857,1705,2,-3,15,36
+2013-08-14,Switzerland,Brazil,1,0,Friendly,Switzerland,15,-15,1835,2110,1,-1,18,2
+2013-08-14,Tajikistan,India,3,0,Friendly,Tajikistan,8,-8,1246,1121,1,0,145,175
+2013-08-14,Tunisia,Congo,3,0,Friendly,Tunisia,6,-6,1573,1391,1,-1,64,109
+2013-08-14,Turkey,Ghana,2,2,Friendly,Turkey,-2,2,1654,1703,-2,-1,48,38
+2013-08-14,Ukraine,Israel,2,0,Friendly,Ukraine,6,-6,1807,1665,2,-1,22,45
+2013-08-14,Venezuela,Bolivia,2,2,Friendly,Venezuela,-5,5,1705,1627,-2,0,36,54
+2013-08-14,Wales,Ireland,0,0,Friendly,Wales,1,-1,1606,1748,1,0,57,29
+2013-08-15,Jordan,Syria,1,1,Asian Cup qualifier,Iran,-3,3,1564,1522,-2,2,68,81
+2013-08-17,South Africa,Burkina Faso,2,0,Friendly,South Africa,12,-12,1557,1553,5,-4,69,71
+2013-08-20,Afghanistan,Pakistan,3,0,Friendly,Afghanistan,12,-12,963,923,2,-3,193,199
+2013-08-27,Libya,Mali,1,0,Friendly,Tunisia,11,-11,1554,1577,6,-2,70,63
+2013-08-30,Libya,Ghana,1,0,Friendly,Tunisia,14,-14,1568,1689,4,-2,66,40
+2013-08-31,Botswana,Uganda,1,3,Friendly,Botswana,-10,10,1284,1526,0,5,137,79
+2013-08-31,Nepal,Bangladesh,2,0,South Asian Championship,Nepal,30,-30,919,962,1,-3,200,194
+2013-09-01,India,Pakistan,1,0,South Asian Championship,Nepal,10,-10,1131,913,0,-1,175,200
+2013-09-02,Afghanistan,Bhutan,3,0,South Asian Championship,Nepal,6,-6,969,540,1,-1,191,236
+2013-09-02,Maldives,Sri Lanka,10,0,South Asian Championship,Nepal,19,-19,1139,842,2,-1,174,207
+2013-09-03,Bangladesh,India,1,1,South Asian Championship,Nepal,9,-9,971,1122,3,0,191,176
+2013-09-03,Botswana,Malawi,1,0,Friendly,Botswana,9,-9,1293,1337,0,-2,137,128
+2013-09-03,Nepal,Pakistan,1,1,South Asian Championship,Nepal,-6,6,913,919,-1,1,200,199
+2013-09-04,Afghanistan,Sri Lanka,3,1,South Asian Championship,Nepal,19,-19,988,823,1,-1,191,208
+2013-09-04,Equatorial Guinea,Libya,1,1,Friendly,Equatorial Guinea,4,-4,1313,1564,1,-1,131,67
+2013-09-04,Maldives,Bhutan,8,2,South Asian Championship,Nepal,3,-3,1142,537,1,0,173,236
+2013-09-05,Nepal,India,2,1,South Asian Championship,Nepal,26,-26,939,1096,3,-1,197,177
+2013-09-05,Pakistan,Bangladesh,2,1,South Asian Championship,Nepal,23,-23,942,948,3,-3,196,195
+2013-09-05,Qatar,Mauritius,3,0,Friendly,Qatar,2,-2,1454,1055,1,0,98,183
+2013-09-05,Saudi Arabia,New Zealand,0,1,Saudi Arabia FF Cup,Saudi Arabia,-16,16,1490,1602,-1,3,88,58
+2013-09-05,Trinidad and Tobago,United Arab Emirates,3,3,Saudi Arabia FF Cup,Saudi Arabia,7,-7,1447,1607,1,-1,100,56
+2013-09-06,Afghanistan,Maldives,0,0,South Asian Championship,Nepal,8,-8,996,1134,2,-1,189,174
+2013-09-06,Belarus,Kyrgyzstan,3,1,Friendly,Belarus,1,-1,1601,1157,-1,0,60,167
+2013-09-06,Bosnia and Herzegovina,Slovakia,0,1,World Cup qualifier,Bosnia and Herzegovina,-34,34,1761,1618,-2,8,25,54
+2013-09-06,Chile,Venezuela,3,0,World Cup qualifier,Chile,13,-13,1871,1692,2,-4,12,40
+2013-09-06,China,Singapore,6,1,Friendly,China,3,-3,1611,1261,0,1,55,142
+2013-09-06,Colombia,Ecuador,1,0,World Cup qualifier,Colombia,11,-11,1926,1836,1,-2,7,18
+2013-09-06,Costa Rica,United States,3,1,World Cup qualifier,Costa Rica,35,-35,1749,1837,5,-7,27,17
+2013-09-06,Czechia,Armenia,1,2,World Cup qualifier,Czechia,-35,35,1734,1557,-4,11,29,71
+2013-09-06,England,Moldova,4,0,World Cup qualifier,England,2,-2,1955,1382,0,0,6,111
+2013-09-06,Estonia,Netherlands,2,2,World Cup qualifier,Estonia,17,-17,1488,1991,2,0,90,5
+2013-09-06,Finland,Spain,0,2,World Cup qualifier,Finland,-7,7,1666,2125,-1,0,45,1
+2013-09-06,Georgia,France,0,0,World Cup qualifier,Georgia,13,-13,1511,1847,1,-2,86,15
+2013-09-06,Germany,Austria,3,0,World Cup qualifier,Germany,3,-3,2049,1626,0,1,3,52
+2013-09-06,Ghana,Zambia,2,1,World Cup qualifier,Ghana,8,-8,1697,1538,2,-5,38,79
+2013-09-06,Ireland,Sweden,1,2,World Cup qualifier,Ireland,-19,19,1729,1876,-1,4,30,11
+2013-09-06,Italy,Bulgaria,1,0,World Cup qualifier,Italy,5,-5,1925,1680,-1,0,8,42
+2013-09-06,Japan,Guatemala,3,0,Friendly,Japan,4,-4,1757,1477,1,-2,26,92
+2013-09-06,Jordan,Uzbekistan,1,1,World Cup qualifier,Jordan,-2,2,1562,1638,-1,0,68,51
+2013-09-06,Kazakhstan,Faroe Islands,2,1,World Cup qualifier,Kazakhstan,7,-7,1369,1193,0,-2,117,159
+2013-09-06,Kuwait,North Korea,2,1,Friendly,Kuwait,8,-8,1574,1585,2,-1,64,62
+2013-09-06,Latvia,Lithuania,2,1,World Cup qualifier,Latvia,13,-13,1485,1432,0,0,91,101
+2013-09-06,Lebanon,Syria,2,0,Friendly,Lebanon,18,-18,1379,1504,4,-5,115,87
+2013-09-06,Liechtenstein,Greece,0,1,World Cup qualifier,Liechtenstein,-2,2,1200,1817,-2,1,156,20
+2013-09-06,Macedonia,Wales,2,1,World Cup qualifier,Macedonia,18,-18,1559,1588,8,-4,69,61
+2013-09-06,Malta,Denmark,1,2,World Cup qualifier,Malta,-5,5,1260,1716,-2,-1,143,34
+2013-09-06,Mexico,Honduras,1,2,World Cup qualifier,Mexico,-34,34,1787,1670,-3,7,23,44
+2013-09-06,Myanmar,Hong Kong,0,0,Friendly,Myanmar,2,-2,1008,1191,0,0,188,160
+2013-09-06,Norway,Cyprus,2,0,World Cup qualifier,Norway,6,-6,1711,1421,1,-2,35,105
+2013-09-06,Northern Ireland,Portugal,2,4,World Cup qualifier,Northern Ireland,-7,7,1447,1918,-1,0,99,9
+2013-09-06,Panama,Jamaica,0,0,World Cup qualifier,Panama,-14,14,1727,1539,-2,2,32,78
+2013-09-06,Paraguay,Bolivia,4,0,World Cup qualifier,Paraguay,19,-19,1729,1608,4,-3,30,57
+2013-09-06,Peru,Uruguay,1,2,World Cup qualifier,Peru,-20,20,1744,1891,-2,1,28,10
+2013-09-06,Poland,Montenegro,1,1,World Cup qualifier,Poland,-6,6,1653,1661,-3,0,49,47
+2013-09-06,Romania,Hungary,3,0,World Cup qualifier,Romania,20,-20,1772,1676,4,-4,24,43
+2013-09-06,Russia,Luxembourg,4,1,World Cup qualifier,Russia,1,-1,1843,1190,1,0,16,161
+2013-09-06,Scotland,Belgium,0,2,World Cup qualifier,Scotland,-22,22,1624,1857,-4,4,53,14
+2013-09-06,Serbia,Croatia,1,1,World Cup qualifier,Serbia,4,-4,1693,1863,1,-1,39,13
+2013-09-06,Slovenia,Albania,1,0,World Cup qualifier,Slovenia,12,-12,1610,1542,4,-6,56,77
+2013-09-06,South Korea,Haiti,4,1,Friendly,South Korea,4,-4,1685,1430,2,0,41,102
+2013-09-06,Sri Lanka,Bhutan,5,2,South Asian Championship,Nepal,11,-11,834,526,1,0,207,236
+2013-09-06,Switzerland,Iceland,4,4,World Cup qualifier,Switzerland,-17,17,1818,1499,-1,1,19,88
+2013-09-06,Turkey,Andorra,5,0,World Cup qualifier,Turkey,1,-1,1655,996,0,0,48,189
+2013-09-06,Ukraine,San Marino,9,0,World Cup qualifier,Ukraine,0,0,1807,883,1,0,21,202
+2013-09-07,Angola,Liberia,4,1,World Cup qualifier,Angola,17,-17,1441,1313,2,-2,101,131
+2013-09-07,Brazil,Australia,6,0,Friendly,Brazil,2,-2,2112,1720,0,0,2,33
+2013-09-07,Burkina Faso,Gabon,1,0,World Cup qualifier,Burkina Faso,12,-12,1565,1501,7,-3,66,88
+2013-09-07,Ethiopia,Central African Republic,2,1,World Cup qualifier,Congo,14,-14,1396,1265,2,-1,109,140
+2013-09-07,Gambia,Tanzania,2,0,World Cup qualifier,The Gambia,29,-29,1331,1356,6,-12,129,122
+2013-09-07,Israel,Azerbaijan,1,1,World Cup qualifier,Israel,-16,16,1649,1418,-3,2,49,106
+2013-09-07,Ivory Coast,Morocco,1,1,World Cup qualifier,Ivory Coast,-16,16,1778,1532,-1,5,23,79
+2013-09-07,Niger,Congo,2,2,World Cup qualifier,Niger,1,-1,1283,1390,0,-1,138,110
+2013-09-07,Nigeria,Malawi,2,0,World Cup qualifier,Nigeria,4,-4,1713,1333,1,0,35,128
+2013-09-07,Senegal,Uganda,1,0,World Cup qualifier,Morocco,19,-19,1563,1507,7,-4,69,85
+2013-09-07,Sierra Leone,Equatorial Guinea,3,2,World Cup qualifier,Sierra Leone,13,-13,1360,1300,6,-4,119,135
+2013-09-07,South Africa,Botswana,4,1,World Cup qualifier,South Africa,8,-8,1565,1285,5,0,66,137
+2013-09-07,Tunisia,Cape Verde,0,2,World Cup qualifier,Tunisia,-46,46,1527,1506,-16,10,81,86
+2013-09-08,Benin,Rwanda,2,0,World Cup qualifier,Benin,19,-19,1391,1319,5,-1,110,128
+2013-09-08,Cameroon,Libya,1,0,World Cup qualifier,Cameroon,15,-15,1567,1549,8,-6,66,74
+2013-09-08,Canada,Mauritania,0,0,Friendly,Spain,-8,8,1520,1154,-3,2,83,168
+2013-09-08,Kenya,Namibia,1,0,World Cup qualifier,Kenya,11,-11,1379,1289,2,-1,115,136
+2013-09-08,Nepal,Afghanistan,0,1,South Asian Championship,Nepal,-22,22,917,1018,-3,3,200,186
+2013-09-08,Sudan,Lesotho,1,3,World Cup qualifier,Sudan,-50,50,1308,1234,-11,15,132,147
+2013-09-08,Togo,DR Congo,2,1,World Cup qualifier,Togo,14,-14,1475,1447,1,-3,94,98
+2013-09-08,Zimbabwe,Mozambique,1,1,World Cup qualifier,Zimbabwe,-5,5,1335,1364,1,2,125,118
+2013-09-09,India,Maldives,1,0,South Asian Championship,Nepal,22,-22,1118,1112,1,-3,176,177
+2013-09-09,Kuwait,Bahrain,2,1,Friendly,Kuwait,5,-5,1579,1462,1,0,63,95
+2013-09-09,Qatar,Lebanon,1,1,Friendly,Qatar,-5,5,1449,1384,-1,3,98,112
+2013-09-09,Saudi Arabia,Trinidad and Tobago,1,3,Saudi Arabia FF Cup,Saudi Arabia,-31,31,1459,1478,-6,6,96,92
+2013-09-09,United Arab Emirates,New Zealand,2,0,Saudi Arabia FF Cup,Saudi Arabia,22,-22,1629,1580,6,-3,52,62
+2013-09-10,Algeria,Mali,1,0,World Cup qualifier,Algeria,15,-15,1586,1562,6,-3,59,67
+2013-09-10,Andorra,Netherlands,0,2,World Cup qualifier,Andorra,0,0,996,1991,0,0,190,5
+2013-09-10,Armenia,Denmark,0,1,World Cup qualifier,Armenia,-17,17,1540,1733,-2,7,75,27
+2013-09-10,Austria,Ireland,1,0,World Cup qualifier,Austria,20,-20,1646,1709,3,-6,50,36
+2013-09-10,Belarus,France,2,4,World Cup qualifier,Belarus,-18,18,1583,1865,-2,1,61,14
+2013-09-10,Bolivia,Ecuador,1,1,World Cup qualifier,Bolivia,7,-7,1615,1829,2,-1,56,19
+2013-09-10,Brazil,Portugal,3,1,Friendly,the United States,7,-7,2119,1911,1,0,1,9
+2013-09-10,Chile,Spain,2,2,Friendly,Switzerland,6,-6,1877,2119,0,0,12,1
+2013-09-10,China,Malaysia,2,0,Friendly,China,1,-1,1612,1182,-1,0,57,163
+2013-09-10,Cyprus,Slovenia,0,2,World Cup qualifier,Cyprus,-22,22,1399,1632,-3,4,108,53
+2013-09-10,Egypt,Guinea,4,2,World Cup qualifier,Egypt,13,-13,1658,1510,2,-2,48,83
+2013-09-10,Faroe Islands,Germany,0,3,World Cup qualifier,the Faroe Islands,-1,1,1192,2050,-1,0,161,3
+2013-09-10,Georgia,Finland,0,1,World Cup qualifier,Georgia,-17,17,1494,1683,-5,2,89,43
+2013-09-10,Greece,Latvia,1,0,World Cup qualifier,Greece,3,-3,1820,1482,0,1,20,90
+2013-09-10,Honduras,Panama,2,2,World Cup qualifier,Honduras,-2,2,1668,1729,-2,4,46,28
+2013-09-10,Hong Kong,Singapore,1,0,Friendly,Hong Kong,9,-9,1200,1252,3,-2,158,144
+2013-09-10,Hungary,Estonia,5,1,World Cup qualifier,Hungary,12,-12,1688,1476,3,-3,40,93
+2013-09-10,Iceland,Albania,2,1,World Cup qualifier,Iceland,17,-17,1516,1525,7,-4,82,80
+2013-09-10,Italy,Czechia,2,1,World Cup qualifier,Italy,6,-6,1931,1728,1,0,7,29
+2013-09-10,Jamaica,Costa Rica,1,1,World Cup qualifier,Jamaica,6,-6,1545,1743,3,1,74,26
+2013-09-10,Japan,Ghana,3,1,Friendly,Japan,9,-9,1766,1688,1,-2,25,40
+2013-09-10,Kazakhstan,Sweden,0,1,World Cup qualifier,Kazakhstan,-4,4,1365,1880,0,0,117,11
+2013-09-10,Lithuania,Liechtenstein,2,0,World Cup qualifier,Lithuania,8,-8,1440,1192,1,-4,101,161
+2013-09-10,Luxembourg,Northern Ireland,3,2,World Cup qualifier,Luxembourg,28,-28,1218,1419,9,-5,153,104
+2013-09-10,Macedonia,Scotland,1,2,World Cup qualifier,Macedonia,-22,22,1537,1646,-6,4,77,50
+2013-09-10,Malta,Bulgaria,1,2,World Cup qualifier,Malta,-5,5,1255,1685,0,0,143,42
+2013-09-10,Mauritania,Canada,1,0,Friendly,Spain,18,-18,1172,1502,4,-4,164,87
+2013-09-10,Nigeria,Burkina Faso,4,1,Friendly,Nigeria,7,-7,1720,1558,2,-2,33,69
+2013-09-10,Norway,Switzerland,0,2,World Cup qualifier,Norway,-29,29,1682,1847,-8,1,44,18
+2013-09-10,Paraguay,Argentina,2,5,World Cup qualifier,Paraguay,-17,17,1712,2037,-5,0,35,4
+2013-09-10,Romania,Turkey,0,2,World Cup qualifier,Romania,-47,47,1725,1702,-8,9,32,38
+2013-09-10,Russia,Israel,3,1,World Cup qualifier,Russia,9,-9,1852,1640,-1,-3,17,52
+2013-09-10,San Marino,Poland,1,5,World Cup qualifier,San Marino,-2,2,881,1655,0,-1,202,49
+2013-09-10,Slovakia,Bosnia and Herzegovina,1,2,World Cup qualifier,Slovakia,-18,18,1600,1779,-3,3,58,22
+2013-09-10,South Africa,Zimbabwe,1,2,Friendly,South Africa,-17,17,1548,1352,-5,0,72,125
+2013-09-10,South Korea,Croatia,1,2,Friendly,South Korea,-8,8,1677,1871,-4,0,45,13
+2013-09-10,Ukraine,England,0,0,World Cup qualifier,Ukraine,3,-3,1810,1952,0,0,21,6
+2013-09-10,Uruguay,Colombia,2,0,World Cup qualifier,Uruguay,24,-24,1915,1902,2,-3,8,10
+2013-09-10,United States,Mexico,2,0,World Cup qualifier,the United States,18,-18,1855,1769,1,-2,16,24
+2013-09-10,Uzbekistan,Jordan,1,1,World Cup qualifier,Uzbekistan,-9,9,1629,1571,-3,6,54,64
+2013-09-10,Venezuela,Peru,3,2,World Cup qualifier,Venezuela,17,-17,1709,1727,4,-2,36,30
+2013-09-10,Wales,Serbia,0,3,World Cup qualifier,Wales,-34,34,1554,1727,-10,9,70,30
+2013-09-11,Afghanistan,India,2,0,South Asian Championship,Nepal,38,-38,1056,1080,3,-4,183,180
+2013-09-30,Botswana,Burkina Faso,1,0,Independence Tournament,Botswana,22,-22,1307,1536,4,-8,133,77
+2013-09-30,Egypt,Uganda,2,0,Friendly,Egypt,6,-6,1664,1501,1,-3,47,87
+2013-10-02,Egypt,Uganda,3,0,Friendly,Egypt,6,-6,1670,1495,1,-1,46,88
+2013-10-05,United Arab Emirates,Laos,2,0,Friendly,China,0,0,1629,865,0,0,54,205
+2013-10-06,Iraq,Yemen,3,2,Friendly,Lebanon,2,-2,1548,1200,1,-1,71,157
+2013-10-08,Lebanon,Iraq,1,1,Friendly,Lebanon,2,-2,1386,1546,0,-1,112,72
+2013-10-09,Jordan,Kuwait,1,1,Friendly,Jordan,-3,3,1568,1582,0,1,64,62
+2013-10-09,Oman,Mauritania,0,0,Friendly,Oman,-9,9,1550,1181,-1,1,69,163
+2013-10-09,Qatar,Vietnam,1,2,Friendly,Qatar,-17,17,1432,1236,-3,5,101,147
+2013-10-09,United Arab Emirates,Malaysia,3,1,Friendly,China,2,-2,1631,1180,0,-1,54,164
+2013-10-10,Singapore,Laos,1,0,Friendly,Singapore,1,-1,1253,864,0,0,144,205
+2013-10-10,Thailand,Bahrain,1,0,Friendly,Thailand,10,-10,1365,1452,5,-2,117,97
+2013-10-11,Albania,Switzerland,1,2,World Cup qualifier,Albania,-9,9,1516,1856,-2,2,82,16
+2013-10-11,Andorra,Romania,0,4,World Cup qualifier,Andorra,-2,2,994,1727,-1,3,191,29
+2013-10-11,Argentina,Peru,3,1,World Cup qualifier,Argentina,5,-5,2042,1722,0,-1,4,31
+2013-10-11,Armenia,Bulgaria,2,1,World Cup qualifier,Armenia,23,-23,1563,1662,7,-4,67,46
+2013-10-11,Azerbaijan,Northern Ireland,2,0,World Cup qualifier,Azerbaijan,22,-22,1440,1397,4,-3,101,107
+2013-10-11,Bosnia and Herzegovina,Liechtenstein,4,1,World Cup qualifier,Bosnia and Herzegovina,1,-1,1780,1191,-1,-1,23,162
+2013-10-11,Colombia,Chile,3,3,World Cup qualifier,Colombia,-7,7,1895,1884,1,0,9,12
+2013-10-11,Croatia,Belgium,1,2,World Cup qualifier,Croatia,-26,26,1845,1883,-6,2,19,13
+2013-10-11,Denmark,Italy,2,2,World Cup qualifier,Denmark,5,-5,1738,1926,0,0,27,7
+2013-10-11,Ecuador,Uruguay,1,0,World Cup qualifier,Ecuador,19,-19,1848,1896,1,0,18,8
+2013-10-11,England,Montenegro,4,1,World Cup qualifier,England,7,-7,1959,1654,0,-1,6,49
+2013-10-11,Estonia,Turkey,0,2,World Cup qualifier,Estonia,-20,20,1456,1722,-3,7,96,31
+2013-10-11,Faroe Islands,Kazakhstan,1,1,World Cup qualifier,the Faroe Islands,4,-4,1196,1361,2,-3,159,120
+2013-10-11,France,Australia,6,0,Friendly,France,8,-8,1873,1712,0,-3,14,36
+2013-10-11,Germany,Ireland,3,0,World Cup qualifier,Germany,5,-5,2055,1704,0,-1,3,37
+2013-10-11,Greece,Slovakia,1,0,World Cup qualifier,Greece,5,-5,1825,1595,0,0,20,58
+2013-10-11,Honduras,Costa Rica,1,0,World Cup qualifier,Honduras,19,-19,1687,1724,6,-4,41,30
+2013-10-11,Iceland,Cyprus,2,0,World Cup qualifier,Iceland,13,-13,1529,1386,4,-3,78,111
+2013-10-11,Lithuania,Latvia,2,0,World Cup qualifier,Lithuania,25,-25,1465,1457,7,-5,93,95
+2013-10-11,Luxembourg,Russia,0,4,World Cup qualifier,Luxembourg,-3,3,1215,1855,1,0,152,17
+2013-10-11,Malta,Czechia,1,4,World Cup qualifier,Malta,-7,7,1248,1735,-1,1,144,28
+2013-10-11,Mexico,Panama,2,1,World Cup qualifier,Mexico,12,-12,1781,1717,2,-6,22,34
+2013-10-11,Moldova,San Marino,3,0,World Cup qualifier,Moldova,2,-2,1384,879,0,0,113,202
+2013-10-11,Morocco,South Africa,1,1,Friendly,Morocco,-2,2,1530,1550,1,1,77,70
+2013-10-11,Netherlands,Hungary,8,1,World Cup qualifier,the Netherlands,8,-8,1999,1680,0,-3,5,43
+2013-10-11,Philippines,Taiwan,1,2,Peace Cup,the Philippines,-28,28,1195,857,-9,2,160,206
+2013-10-11,Portugal,Israel,1,1,World Cup qualifier,Portugal,-16,16,1895,1656,0,4,9,48
+2013-10-11,Serbia,Japan,2,0,Friendly,Serbia,12,-12,1739,1754,4,0,26,25
+2013-10-11,Slovenia,Norway,3,0,World Cup qualifier,Slovenia,30,-30,1662,1652,7,-6,46,50
+2013-10-11,Spain,Belarus,2,1,World Cup qualifier,Spain,1,-1,2120,1582,0,0,1,61
+2013-10-11,Sweden,Austria,2,1,World Cup qualifier,Sweden,5,-5,1885,1641,0,-3,11,53
+2013-10-11,Ukraine,Poland,1,0,World Cup qualifier,Ukraine,7,-7,1817,1648,0,-2,21,51
+2013-10-11,United States,Jamaica,2,0,World Cup qualifier,the United States,5,-5,1860,1540,1,-1,15,74
+2013-10-11,Venezuela,Paraguay,1,1,World Cup qualifier,Venezuela,-5,5,1704,1717,-1,1,37,34
+2013-10-11,Wales,Macedonia,1,0,World Cup qualifier,Wales,14,-14,1568,1523,4,-4,64,80
+2013-10-12,Burkina Faso,Algeria,3,2,World Cup qualifier,Burkina Faso,17,-17,1553,1569,6,-4,70,63
+2013-10-12,Ivory Coast,Senegal,3,1,World Cup qualifier,Ivory Coast,8,-8,1786,1555,2,-2,22,69
+2013-10-12,South Korea,Brazil,0,2,Friendly,South Korea,-4,4,1673,2123,0,1,44,1
+2013-10-13,Ethiopia,Nigeria,1,2,World Cup qualifier,Ethiopia,-9,9,1387,1729,-2,4,110,29
+2013-10-13,Pakistan,Taiwan,1,0,Peace Cup,the Philippines,11,-11,953,846,1,-1,195,207
+2013-10-13,Qatar,Yemen,6,0,Asian Cup qualifier,Qatar,11,-11,1443,1189,2,-6,100,162
+2013-10-13,Tunisia,Cameroon,0,0,World Cup qualifier,Tunisia,-3,3,1524,1570,0,3,79,63
+2013-10-15,Australia,Canada,3,0,Friendly,England,8,-8,1720,1494,4,-2,32,88
+2013-10-15,Azerbaijan,Russia,1,1,World Cup qualifier,Azerbaijan,14,-14,1454,1841,5,0,97,17
+2013-10-15,Belarus,Japan,1,0,Friendly,Belarus,12,-12,1594,1742,3,-2,57,27
+2013-10-15,Belgium,Wales,1,1,World Cup qualifier,Belgium,-17,17,1866,1585,-1,5,14,60
+2013-10-15,Brazil,Zambia,2,0,Friendly,China,1,-1,2124,1537,0,0,1,76
+2013-10-15,Bulgaria,Czechia,0,1,World Cup qualifier,Bulgaria,-22,22,1640,1757,-6,3,52,25
+2013-10-15,Chile,Ecuador,2,1,World Cup qualifier,Chile,13,-13,1897,1835,2,0,10,18
+2013-10-15,Costa Rica,Mexico,2,1,World Cup qualifier,Costa Rica,18,-18,1742,1763,4,-1,27,24
+2013-10-15,Cyprus,Albania,0,0,World Cup qualifier,Cyprus,2,-2,1388,1514,-1,2,112,80
+2013-10-15,Denmark,Malta,6,0,World Cup qualifier,Denmark,3,-3,1741,1245,-2,-1,29,145
+2013-10-15,England,Poland,2,0,World Cup qualifier,England,5,-5,1964,1643,0,3,6,48
+2013-10-15,Faroe Islands,Austria,0,3,World Cup qualifier,the Faroe Islands,-8,8,1188,1649,-5,6,163,47
+2013-10-15,France,Finland,3,0,World Cup qualifier,France,11,-11,1884,1672,2,-3,12,45
+2013-10-15,Ghana,Egypt,6,1,World Cup qualifier,Ghana,27,-27,1715,1643,7,-3,33,48
+2013-10-15,Greece,Liechtenstein,2,0,World Cup qualifier,Greece,1,-1,1826,1190,1,2,19,159
+2013-10-15,Hong Kong,United Arab Emirates,0,4,Asian Cup qualifier,Hong Kong,-10,10,1190,1641,-3,4,159,50
+2013-10-15,Hungary,Andorra,2,0,World Cup qualifier,Hungary,1,-1,1681,993,0,0,43,191
+2013-10-15,Indonesia,China,1,1,Asian Cup qualifier,Indonesia,13,-13,1242,1599,4,1,146,56
+2013-10-15,Iran,Thailand,2,1,Asian Cup qualifier,Iran,3,-3,1702,1362,1,-1,38,118
+2013-10-15,Ireland,Kazakhstan,3,1,World Cup qualifier,Ireland,4,-4,1708,1357,2,-1,35,121
+2013-10-15,Israel,Northern Ireland,1,1,World Cup qualifier,Israel,-16,16,1640,1413,-4,-1,52,108
+2013-10-15,Italy,Armenia,2,2,World Cup qualifier,Italy,-17,17,1909,1580,-2,5,9,62
+2013-10-15,Jamaica,Honduras,2,2,World Cup qualifier,Jamaica,3,-3,1543,1684,1,0,74,41
+2013-10-15,Jordan,Oman,0,0,Asian Cup qualifier,Jordan,-7,7,1561,1557,-2,3,67,68
+2013-10-15,Kyrgyzstan,Tajikistan,1,4,Friendly,Kyrgyzstan,-18,18,1139,1264,-5,2,173,143
+2013-10-15,Latvia,Slovakia,2,2,World Cup qualifier,Latvia,2,-2,1459,1593,1,0,94,58
+2013-10-15,Lebanon,Kuwait,1,1,Asian Cup qualifier,Lebanon,5,-5,1391,1577,2,-4,109,64
+2013-10-15,Lithuania,Bosnia and Herzegovina,0,1,World Cup qualifier,Lithuania,-9,9,1456,1789,-2,2,95,22
+2013-10-15,Malaysia,Bahrain,1,1,Asian Cup qualifier,Malaysia,9,-9,1189,1443,3,-3,161,101
+2013-10-15,Montenegro,Moldova,2,5,World Cup qualifier,Montenegro,-63,63,1591,1447,-10,14,59,99
+2013-10-15,Norway,Iceland,1,1,World Cup qualifier,Norway,-11,11,1641,1540,0,3,50,75
+2013-10-15,Panama,United States,2,3,World Cup qualifier,Panama,-18,18,1699,1878,-6,2,40,13
+2013-10-15,Paraguay,Colombia,1,2,World Cup qualifier,Paraguay,-16,16,1701,1911,-5,1,39,8
+2013-10-15,Peru,Bolivia,1,1,World Cup qualifier,Peru,-11,11,1711,1626,-2,1,34,55
+2013-10-15,Philippines,Pakistan,3,1,Peace Cup,the Philippines,6,-6,1201,947,3,-1,156,196
+2013-10-15,Portugal,Luxembourg,3,0,World Cup qualifier,Portugal,1,-1,1896,1214,-2,-1,11,153
+2013-10-15,Romania,Estonia,2,0,World Cup qualifier,Romania,6,-6,1733,1450,0,-2,30,98
+2013-10-15,San Marino,Ukraine,0,8,World Cup qualifier,San Marino,-1,1,878,1818,0,1,202,20
+2013-10-15,Saudi Arabia,Iraq,2,0,Asian Cup qualifier,Jordan,37,-37,1496,1509,8,-9,86,83
+2013-10-15,Scotland,Croatia,2,0,World Cup qualifier,Scotland,38,-38,1684,1807,11,-2,41,21
+2013-10-15,Serbia,Macedonia,5,1,World Cup qualifier,Serbia,10,-10,1749,1513,0,-1,26,81
+2013-10-15,Singapore,Syria,2,1,Asian Cup qualifier,Singapore,28,-28,1281,1476,4,-7,139,92
+2013-10-15,South Korea,Mali,3,1,Friendly,South Korea,7,-7,1680,1555,0,-1,44,69
+2013-10-15,Spain,Georgia,2,0,World Cup qualifier,Spain,1,-1,2121,1493,0,0,2,89
+2013-10-15,Sweden,Germany,3,5,World Cup qualifier,Sweden,-24,24,1861,2079,-5,0,16,3
+2013-10-15,Switzerland,Slovenia,1,0,World Cup qualifier,Switzerland,6,-6,1862,1656,1,0,15,46
+2013-10-15,Trinidad and Tobago,New Zealand,0,0,Friendly,Trinidad and Tobago,0,0,1478,1580,0,0,90,62
+2013-10-15,Turkey,Netherlands,0,2,World Cup qualifier,Turkey,-16,16,1706,2015,-4,0,36,5
+2013-10-15,Uruguay,Argentina,3,2,World Cup qualifier,Uruguay,23,-23,1919,2019,1,0,7,4
+2013-10-15,Uzbekistan,Vietnam,3,1,Asian Cup qualifier,Uzbekistan,3,-3,1632,1233,1,-3,54,150
+2013-10-28,Jordan,Nigeria,1,0,Friendly,Jordan,12,-12,1573,1717,2,-1,65,32
+2013-11-01,Indonesia,Kyrgyzstan,4,0,Friendly,Indonesia,9,-9,1251,1130,1,-1,145,174
+2013-11-06,Jordan,Zambia,1,0,Friendly,Qatar,9,-9,1582,1528,3,-1,62,77
+2013-11-08,Kuwait,Malaysia,3,0,Friendly,Kuwait,2,-2,1579,1187,0,-2,65,163
+2013-11-09,Bahrain,Lebanon,1,0,Friendly,Bahrain,6,-6,1449,1385,2,-4,99,113
+2013-11-09,United Arab Emirates,Philippines,4,0,Friendly,the United Arab Emirates,2,-2,1643,1199,2,0,48,156
+2013-11-11,Iraq,Syria,2,1,Friendly,Jordan,9,-9,1518,1467,3,-1,80,93
+2013-11-13,Jordan,Uruguay,0,5,World Cup qualifier,Jordan,-16,16,1566,1935,-5,0,67,7
+2013-11-13,Mexico,New Zealand,5,1,World Cup qualifier,Mexico,12,-12,1775,1568,0,-3,24,66
+2013-11-14,Belgium,Colombia,0,2,Friendly,Belgium,-17,17,1849,1928,-2,0,16,8
+2013-11-14,Curaçao,Aruba,2,0,ABCS Tournament,Curaçao,13,-13,1028,948,2,0,186,194
+2013-11-14,Egypt,Zambia,2,0,Friendly,Egypt,7,-7,1650,1521,1,-2,47,79
+2013-11-14,Suriname,Bonaire,2,0,ABCS Tournament,Curaçao,12,-12,1216,1016,2,-2,152,188
+2013-11-15,Albania,Belarus,0,0,Friendly,Turkey,2,-2,1516,1592,1,-1,80,58
+2013-11-15,Argentina,Ecuador,0,0,Friendly,the United States,-5,5,2014,1840,-1,-1,5,19
+2013-11-15,Bahrain,Malaysia,1,0,Asian Cup qualifier,Bahrain,4,-4,1453,1183,0,1,99,162
+2013-11-15,China,Indonesia,1,0,Asian Cup qualifier,China,3,-3,1602,1248,-1,0,57,145
+2013-11-15,Czechia,Canada,2,0,Friendly,Czechia,3,-3,1760,1491,0,-2,25,90
+2013-11-15,Denmark,Norway,2,1,Friendly,Denmark,5,-5,1746,1636,2,-2,27,53
+2013-11-15,England,Chile,0,2,Friendly,England,-22,22,1942,1919,0,1,6,9
+2013-11-15,Estonia,Azerbaijan,2,1,Friendly,Estonia,7,-7,1457,1447,4,-3,94,100
+2013-11-15,Greece,Romania,3,1,World Cup qualifier,Greece,15,-15,1841,1718,1,-1,18,31
+2013-11-15,Iceland,Croatia,0,0,World Cup qualifier,Iceland,9,-9,1549,1798,2,0,73,21
+2013-11-15,India,Philippines,1,1,Friendly,India,1,-1,1081,1198,1,0,179,156
+2013-11-15,Ireland,Latvia,3,0,Friendly,Ireland,4,-4,1712,1455,0,-4,35,98
+2013-11-15,Italy,Germany,1,1,Friendly,Italy,2,-2,1911,2077,-1,0,10,3
+2013-11-15,Jamaica,Trinidad and Tobago,0,1,Friendly,Jamaica,-14,14,1529,1492,-2,1,76,89
+2013-11-15,Kuwait,Lebanon,0,0,Asian Cup qualifier,Kuwait,-14,14,1565,1399,-4,4,67,109
+2013-11-15,Libya,Niger,1,1,Friendly,Tunisia,-6,6,1543,1289,-1,1,74,137
+2013-11-15,Poland,Slovakia,0,2,Friendly,Poland,-21,21,1622,1614,-6,2,55,56
+2013-11-15,Portugal,Sweden,1,0,World Cup qualifier,Portugal,13,-13,1909,1848,0,-1,11,16
+2013-11-15,Qatar,Yemen,4,1,Asian Cup qualifier,the United Arab Emirates,13,-13,1456,1176,7,-3,95,164
+2013-11-15,Russia,Serbia,1,1,Friendly,the United Arab Emirates,-3,3,1838,1752,-3,0,20,26
+2013-11-15,Saudi Arabia,Iraq,2,1,Asian Cup qualifier,Saudi Arabia,16,-16,1512,1502,4,-5,82,85
+2013-11-15,Scotland,United States,0,0,Friendly,Scotland,3,-3,1687,1875,-1,1,42,12
+2013-11-15,South Korea,Switzerland,2,1,Friendly,South Korea,12,-12,1692,1850,3,0,41,14
+2013-11-15,Swaziland,South Africa,0,3,Friendly,Swaziland,-4,4,1076,1554,-1,1,181,71
+2013-11-15,Syria,Singapore,4,0,Asian Cup qualifier,Iran,19,-19,1486,1262,2,-4,91,143
+2013-11-15,Thailand,Iran,0,3,Asian Cup qualifier,Thailand,-14,14,1348,1716,-7,5,125,33
+2013-11-15,Turkey,Northern Ireland,1,0,Friendly,Turkey,2,-2,1708,1411,-1,0,37,108
+2013-11-15,United Arab Emirates,Hong Kong,4,0,Asian Cup qualifier,the United Arab Emirates,3,-3,1646,1187,0,-2,49,161
+2013-11-15,Ukraine,France,2,0,World Cup qualifier,Ukraine,27,-27,1845,1857,3,-1,17,13
+2013-11-15,Vietnam,Uzbekistan,0,3,Asian Cup qualifier,Vietnam,-11,11,1222,1643,0,4,150,50
+2013-11-16,Bonaire,Aruba,2,1,ABCS Tournament,Curaçao,12,-12,1028,936,2,-2,186,196
+2013-11-16,Brazil,Honduras,5,0,Friendly,the United States,3,-3,2127,1681,0,0,1,43
+2013-11-16,Curaçao,Suriname,1,3,ABCS Tournament,Curaçao,-17,17,1011,1233,-2,2,188,150
+2013-11-16,Equatorial Guinea,Spain,1,2,Friendly,Equatorial Guinea,0,0,1300,2121,0,0,136,2
+2013-11-16,Ivory Coast,Senegal,1,1,World Cup qualifier,Morocco,-12,12,1774,1567,-1,3,24,66
+2013-11-16,Japan,Netherlands,2,2,Friendly,Belgium,7,-7,1749,2008,1,-1,27,5
+2013-11-16,Laos,Guam,1,1,Friendly,Laos,-6,6,858,737,0,0,205,213
+2013-11-16,Nigeria,Ethiopia,2,0,World Cup qualifier,Nigeria,5,-5,1722,1382,2,0,30,113
+2013-11-16,Uganda,Rwanda,0,0,Friendly,Uganda,-7,7,1488,1326,-3,0,90,128
+2013-11-16,Wales,Finland,1,1,Friendly,Wales,0,0,1585,1672,0,0,60,45
+2013-11-17,Cameroon,Tunisia,4,1,World Cup qualifier,Cameroon,21,-21,1591,1503,3,-7,60,84
+2013-11-17,Luxembourg,Montenegro,1,4,Friendly,Luxembourg,-6,6,1208,1597,0,1,154,58
+2013-11-18,Argentina,Bosnia and Herzegovina,2,0,Friendly,the United States,6,-6,2020,1783,0,0,4,22
+2013-11-18,Italy,Nigeria,2,2,Friendly,England,-5,5,1906,1727,-1,0,11,30
+2013-11-18,Libya,Benin,1,0,Friendly,Tunisia,6,-6,1549,1385,1,-2,73,112
+2013-11-18,Moldova,Lithuania,1,1,Friendly,Moldova,-3,3,1444,1459,-2,1,102,94
+2013-11-19,Algeria,Burkina Faso,1,0,World Cup qualifier,Algeria,14,-14,1583,1539,1,-2,63,74
+2013-11-19,Australia,Costa Rica,1,0,Friendly,Australia,8,-8,1728,1734,0,0,31,29
+2013-11-19,Austria,United States,1,0,Friendly,Austria,13,-13,1662,1862,1,-1,47,13
+2013-11-19,Bahrain,Yemen,2,0,Asian Cup qualifier,Bahrain,6,-6,1459,1170,3,0,96,164
+2013-11-19,Belgium,Japan,2,3,Friendly,Belgium,-15,15,1834,1764,-3,2,18,25
+2013-11-19,Brazil,Chile,2,1,Friendly,Canada,5,-5,2132,1914,0,-1,1,10
+2013-11-19,China,Saudi Arabia,0,0,Asian Cup qualifier,China,-10,10,1592,1522,-1,5,58,76
+2013-11-19,Croatia,Iceland,2,0,World Cup qualifier,Croatia,7,-7,1805,1542,0,0,21,73
+2013-11-19,Ecuador,Honduras,2,2,Friendly,the United States,-4,4,1836,1685,2,0,17,43
+2013-11-19,Egypt,Ghana,2,1,World Cup qualifier,Egypt,18,-18,1668,1697,1,-7,46,41
+2013-11-19,England,Germany,0,1,Friendly,England,-9,9,1933,2086,-1,0,7,3
+2013-11-19,France,Ukraine,3,0,World Cup qualifier,France,24,-24,1881,1821,1,-3,12,20
+2013-11-19,Gibraltar,Slovakia,0,0,Friendly,Portugal,9,-9,1152,1605,3,0,168,56
+2013-11-19,Hong Kong,Uzbekistan,0,2,Asian Cup qualifier,Hong Kong,-7,7,1180,1650,0,1,161,49
+2013-11-19,India,Nepal,2,0,Friendly,India,5,-5,1086,912,1,0,178,200
+2013-11-19,Indonesia,Iraq,0,2,Asian Cup qualifier,Indonesia,-18,18,1230,1520,-5,6,150,79
+2013-11-19,Kuwait,Thailand,3,1,Asian Cup qualifier,Kuwait,8,-8,1573,1340,3,0,65,125
+2013-11-19,Kyrgyzstan,Azerbaijan,0,0,Friendly,Kyrgyzstan,6,-6,1136,1441,1,-2,173,102
+2013-11-19,Lebanon,Iran,1,4,Asian Cup qualifier,Lebanon,-16,16,1383,1732,-3,3,112,30
+2013-11-19,Liechtenstein,Estonia,0,3,Friendly,Liechtenstein,-10,10,1180,1467,-2,1,161,94
+2013-11-19,Malaysia,Qatar,0,1,Asian Cup qualifier,Malaysia,-11,11,1172,1467,-1,2,163,94
+2013-11-19,Malta,Faroe Islands,3,2,Friendly,Malta,6,-6,1251,1182,1,1,145,159
+2013-11-19,Namibia,Mozambique,0,0,Friendly,Namibia,-1,1,1288,1365,-1,0,138,117
+2013-11-19,Netherlands,Colombia,0,0,Friendly,the Netherlands,-5,5,2003,1933,0,1,5,7
+2013-11-19,Norway,Scotland,0,1,Friendly,Norway,-11,11,1625,1698,-1,2,54,40
+2013-11-19,Oman,Syria,1,0,Asian Cup qualifier,Iran,16,-16,1573,1470,4,-2,65,93
+2013-11-19,Poland,Ireland,0,0,Friendly,Poland,0,0,1622,1712,0,1,55,34
+2013-11-19,Romania,Greece,1,1,World Cup qualifier,Romania,1,-1,1719,1840,-1,2,33,16
+2013-11-19,Russia,South Korea,2,1,Friendly,the United Arab Emirates,6,-6,1844,1686,5,-1,15,42
+2013-11-19,Slovenia,Canada,1,0,Friendly,Slovenia,4,-4,1660,1487,-2,-1,48,90
+2013-11-19,South Africa,Spain,1,0,Friendly,South Africa,19,-19,1573,2102,6,0,65,2
+2013-11-19,Sweden,Portugal,2,3,World Cup qualifier,Sweden,-22,22,1826,1931,-3,1,19,9
+2013-11-19,Tanzania,Zimbabwe,0,0,Friendly,Tanzania,-3,3,1353,1355,-2,3,123,121
+2013-11-19,Trinidad and Tobago,Jamaica,2,0,Friendly,Trinidad and Tobago,12,-12,1504,1517,3,-4,85,80
+2013-11-19,Turkey,Belarus,2,1,Friendly,Turkey,4,-4,1712,1588,3,-1,34,60
+2013-11-19,United Arab Emirates,Vietnam,5,0,Asian Cup qualifier,the United Arab Emirates,4,-4,1650,1218,0,-1,49,152
+2013-11-20,New Zealand,Mexico,2,4,World Cup qualifier,New Zealand,-21,21,1547,1796,-4,1,72,22
+2013-11-20,Uruguay,Jordan,0,0,World Cup qualifier,Uruguay,-17,17,1918,1583,-3,7,9,63
+2013-11-27,Kenya,Ethiopia,0,0,CECAFA Cup,Kenya,-5,5,1374,1387,0,2,116,111
+2013-11-27,Seychelles,Maldives,3,1,Friendly,the Seychelles,17,-17,985,1095,0,0,192,176
+2013-11-27,Zanzibar,South Sudan,2,1,CECAFA Cup,Kenya,9,-9,1314,1072,5,-1,130,181
+2013-11-28,Burundi,Somalia,2,0,CECAFA Cup,Kenya,4,-4,1316,870,3,-1,129,204
+2013-11-28,Tanzania,Zambia,1,1,CECAFA Cup,Kenya,9,-9,1362,1512,5,-4,118,82
+2013-11-29,Seychelles,Maldives,2,1,Friendly,the Seychelles,10,-10,995,1085,1,-2,191,178
+2013-11-29,Sudan,Eritrea,3,0,CECAFA Cup,Kenya,20,-20,1328,1124,5,-3,128,174
+2013-11-29,Uganda,Rwanda,1,0,CECAFA Cup,Kenya,11,-11,1499,1315,1,-2,88,130
+2013-11-30,Dominica,Saint Lucia,0,1,Friendly,Dominica,-12,12,1005,1059,-2,2,189,183
+2013-11-30,Ethiopia,Zanzibar,3,1,CECAFA Cup,Kenya,24,-24,1411,1290,3,-4,108,136
+2013-11-30,Kenya,South Sudan,3,1,CECAFA Cup,Kenya,5,-5,1379,1067,0,0,116,181
+2013-12-01,Dominica,Saint Lucia,1,0,Friendly,Dominica,9,-9,1014,1050,2,-2,187,185
+2013-12-01,Tanzania,Somalia,1,0,CECAFA Cup,Kenya,2,-2,1364,868,0,0,118,204
+2013-12-01,Zambia,Burundi,1,0,CECAFA Cup,Kenya,10,-10,1522,1306,6,-5,76,134
+2013-12-02,Sudan,Rwanda,1,0,CECAFA Cup,Kenya,19,-19,1347,1296,3,-6,125,135
+2013-12-02,Uganda,Eritrea,3,0,CECAFA Cup,Kenya,7,-7,1506,1117,4,-1,84,175
+2013-12-03,Ethiopia,South Sudan,2,0,CECAFA Cup,Kenya,7,-7,1418,1060,2,0,106,181
+2013-12-03,Kenya,Zanzibar,2,0,CECAFA Cup,Kenya,15,-15,1394,1275,6,-2,110,138
+2013-12-04,Tanzania,Burundi,1,0,CECAFA Cup,Kenya,17,-17,1381,1289,2,-2,116,135
+2013-12-04,Zambia,Somalia,4,0,CECAFA Cup,Kenya,2,-2,1524,866,0,0,76,204
+2013-12-05,Rwanda,Eritrea,1,0,CECAFA Cup,Kenya,11,-11,1307,1106,3,0,131,175
+2013-12-05,Uganda,Sudan,1,0,CECAFA Cup,Kenya,11,-11,1517,1336,4,-1,80,126
+2013-12-07,Kenya,Rwanda,1,0,CECAFA Cup,Kenya,10,-10,1404,1297,0,-3,110,134
+2013-12-07,Tanzania,Uganda,2,2,CECAFA Cup,Kenya,7,-7,1388,1510,4,-3,112,83
+2013-12-08,Burundi,Zambia,0,0,CECAFA Cup,Kenya,12,-12,1301,1512,2,-6,133,82
+2013-12-08,Sudan,Ethiopia,2,0,CECAFA Cup,Kenya,37,-37,1373,1381,8,-10,118,116
+2013-12-10,Kenya,Tanzania,1,0,CECAFA Cup,Kenya,14,-14,1418,1374,3,-7,106,118
+2013-12-10,Sudan,Zambia,2,1,CECAFA Cup,Kenya,28,-28,1401,1484,8,-8,110,90
+2013-12-12,Kenya,Sudan,2,0,CECAFA Cup,Kenya,20,-20,1438,1381,2,-5,104,115
+2013-12-12,Tanzania,Zambia,1,1,CECAFA Cup,Kenya,6,-6,1380,1478,1,0,117,90
+2013-12-21,Qatar,Bahrain,1,1,Friendly,Qatar,-3,3,1464,1462,-1,0,95,96
+2013-12-25,Bahrain,Oman,0,0,West Asian Championship,Qatar,6,-6,1468,1567,1,-2,95,68
+2013-12-25,Qatar,Palestine,1,0,West Asian Championship,Qatar,8,-8,1472,1307,2,-1,93,130
+2013-12-26,Jordan,Lebanon,0,0,West Asian Championship,Qatar,-10,10,1573,1393,-2,3,65,110
+2013-12-28,Bahrain,Iraq,0,0,West Asian Championship,Qatar,3,-3,1471,1517,1,1,94,77
+2013-12-28,Palestine,Saudi Arabia,0,0,West Asian Championship,Qatar,11,-11,1318,1511,1,-5,129,81
+2013-12-29,Kuwait,Lebanon,2,0,West Asian Championship,Qatar,16,-16,1589,1377,5,-8,60,118
+2013-12-31,Iraq,Oman,0,0,West Asian Championship,Qatar,3,-3,1520,1564,0,-1,77,69
+2013-12-31,Qatar,Saudi Arabia,4,1,West Asian Championship,Qatar,29,-29,1501,1482,7,-9,86,90

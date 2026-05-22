@@ -1,0 +1,1036 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2025-01-02,Vietnam,Thailand,2,1,Southeast Asian Championship,Vietnam,21,-21,1327,1409,5,-7,130,102
+2025-01-04,Bahrain,Oman,2,1,Gulf Cup,Kuwait,21,-21,1530,1513,3,-4,77,80
+2025-01-05,Thailand,Vietnam,2,3,Southeast Asian Championship,Thailand,-30,30,1379,1357,-12,10,114,120
+2025-01-18,United States,Venezuela,3,1,Friendly,the United States,10,-10,1768,1734,1,-1,33,37
+2025-01-22,United States,Costa Rica,3,0,Friendly,the United States,8,-8,1776,1645,5,0,28,52
+2025-01-27,Jordan,Uzbekistan,0,0,Friendly,Qatar,2,-2,1619,1682,0,0,54,49
+2025-02-06,Jamaica,Trinidad and Tobago,1,0,Friendly,Jamaica,3,-3,1578,1391,2,0,64,108
+2025-02-08,Chile,Panama,6,1,Friendly,Chile,15,-15,1728,1711,5,-4,39,44
+2025-02-09,Jamaica,Trinidad and Tobago,1,1,Friendly,Jamaica,-7,7,1571,1398,-2,2,66,106
+2025-02-17,North Korea,Kazakhstan,2,0,Friendly,Turkey,17,-17,1404,1414,7,-5,105,99
+2025-03-06,Saint Vincent and the Grenadines,Grenada,1,1,Friendly,Saint Vincent and the Grenadines,-4,4,1125,1068,-1,0,168,179
+2025-03-09,Saint Vincent and the Grenadines,Grenada,1,1,Friendly,Saint Vincent and the Grenadines,-4,4,1121,1072,-1,0,169,179
+2025-03-13,Oman,Sudan,0,0,Friendly,Oman,-6,6,1507,1394,0,2,80,110
+2025-03-14,Jordan,North Korea,1,1,Friendly,Jordan,-7,7,1612,1411,0,4,54,101
+2025-03-15,China,Kuwait,3,1,Friendly,the United Arab Emirates,12,-12,1425,1322,4,-1,96,130
+2025-03-16,Guatemala,Honduras,2,1,Friendly,the United States,12,-12,1519,1548,0,-3,80,71
+2025-03-19,Vietnam,Cambodia,2,1,Friendly,Vietnam,1,-1,1358,848,0,0,120,205
+2025-03-19,Russia,Grenada,5,0,Friendly,Russia,0,0,1789,1072,0,0,25,179
+2025-03-19,Kazakhstan,Curaçao,2,0,Friendly,Turkey,12,-12,1426,1323,4,-2,96,129
+2025-03-19,India,Maldives,3,0,Friendly,India,3,-3,1178,886,0,0,162,203
+2025-03-19,Hong Kong,Macao,2,0,Friendly,Hong Kong,1,-1,1137,598,0,0,166,232
+2025-03-19,Madagascar,Central African Republic,4,1,World Cup qualifier,Morocco,35,-35,1322,1249,9,-11,130,152
+2025-03-19,Liberia,Tunisia,0,1,World Cup qualifier,Liberia,-8,8,1256,1606,0,1,150,58
+2025-03-19,Cameroon,Eswatini,0,0,World Cup qualifier,South Africa,-16,16,1578,1234,-3,4,63,154
+2025-03-20,Tajikistan,Belarus,0,5,Friendly,Tajikistan,-17,17,1288,1476,-1,2,138,86
+2025-03-20,Lebanon,East Timor,4,0,Friendly,Qatar,1,-1,1341,659,-1,0,127,225
+2025-03-20,Laos,Sri Lanka,1,2,Friendly,Laos,-12,12,688,738,-3,3,222,213
+2025-03-20,Uzbekistan,Kyrgyzstan,1,0,World Cup qualifier,Uzbekistan,2,-2,1684,1279,0,-2,49,144
+2025-03-20,South Korea,Oman,1,1,World Cup qualifier,South Korea,-16,16,1758,1523,-1,2,31,79
+2025-03-20,Saudi Arabia,China,1,0,World Cup qualifier,Saudi Arabia,9,-9,1545,1416,3,-2,72,99
+2025-03-20,Qatar,North Korea,5,1,World Cup qualifier,Qatar,17,-17,1541,1394,5,-7,73,108
+2025-03-20,Jordan,Palestine,3,1,World Cup qualifier,Jordan,9,-9,1621,1398,-2,-1,56,104
+2025-03-20,Japan,Bahrain,2,0,World Cup qualifier,Japan,4,-4,1893,1526,-1,-1,14,78
+2025-03-20,Iraq,Kuwait,2,2,World Cup qualifier,Iraq,-16,16,1568,1338,-6,2,66,128
+2025-03-20,Iran,United Arab Emirates,2,0,World Cup qualifier,Iran,5,-5,1843,1528,1,-1,17,77
+2025-03-20,Australia,Indonesia,5,1,World Cup qualifier,Australia,4,-4,1723,1316,0,-2,42,135
+2025-03-20,Sierra Leone,Guinea-Bissau,3,1,World Cup qualifier,Liberia,33,-33,1328,1297,9,-9,130,137
+2025-03-20,Mozambique,Uganda,3,1,World Cup qualifier,Egypt,26,-26,1473,1369,2,-8,88,117
+2025-03-20,Mali,Comoros,3,0,World Cup qualifier,Morocco,18,-18,1628,1405,1,-3,54,102
+2025-03-20,Malawi,Namibia,0,1,World Cup qualifier,Malawi,-25,25,1284,1344,-4,9,140,126
+2025-03-20,Libya,Angola,1,1,World Cup qualifier,Libya,4,-4,1395,1565,4,0,107,67
+2025-03-20,Gambia,Kenya,3,3,World Cup qualifier,Ivory Coast,1,-1,1379,1401,1,3,114,103
+2025-03-20,Gabon,Seychelles,3,0,World Cup qualifier,Gabon,1,-1,1443,858,0,0,92,204
+2025-03-20,Cape Verde,Mauritius,1,0,World Cup qualifier,Cape Verde,2,-2,1474,1034,0,0,87,183
+2025-03-20,Benin,Zimbabwe,2,2,World Cup qualifier,South Africa,-3,3,1426,1380,-1,3,95,113
+2025-03-20,Slovakia,Slovenia,0,0,European Nations League B/C Play-off,Slovakia,-4,4,1697,1731,-2,-1,47,41
+2025-03-20,Kosovo,Iceland,2,1,European Nations League B/C Play-off,Kosovo,16,-16,1570,1560,4,-4,65,68
+2025-03-20,Bulgaria,Ireland,1,2,European Nations League B/C Play-off,Bulgaria,-19,19,1467,1627,-5,2,89,55
+2025-03-20,Armenia,Georgia,0,3,European Nations League B/C Play-off,Armenia,-18,18,1393,1709,-9,2,110,45
+2025-03-20,Ukraine,Belgium,3,1,European Nations League A/B Play-off,Spain,34,-34,1836,1817,5,-3,18,20
+2025-03-20,Turkey,Hungary,3,1,European Nations League A/B Play-off,Turkey,22,-22,1796,1756,5,-5,25,32
+2025-03-20,Greece,Scotland,0,1,European Nations League A/B Play-off,Greece,-28,28,1784,1787,-9,7,29,27
+2025-03-20,Austria,Serbia,1,1,European Nations League A/B Play-off,Austria,-9,9,1862,1818,-1,2,16,19
+2025-03-20,Netherlands,Spain,2,2,European Nations League,the Netherlands,10,-10,1948,2168,1,0,9,1
+2025-03-20,Italy,Germany,1,2,European Nations League,Italy,-29,29,1901,2000,-2,2,13,6
+2025-03-20,Denmark,Portugal,1,0,European Nations League,Denmark,28,-28,1884,1965,1,-1,15,7
+2025-03-20,Croatia,France,2,0,European Nations League,Croatia,45,-45,1931,2010,3,0,11,3
+2025-03-20,United States,Panama,0,1,CONCACAF Nations League,the United States,-29,29,1747,1740,-7,7,35,37
+2025-03-20,Mexico,Canada,2,0,CONCACAF Nations League,the United States,31,-31,1800,1753,9,-7,24,33
+2025-03-20,Peru,Bolivia,3,1,World Cup qualifier,Peru,17,-17,1739,1641,3,-2,38,52
+2025-03-20,Paraguay,Chile,1,0,World Cup qualifier,Paraguay,12,-12,1787,1716,2,-5,27,44
+2025-03-20,Brazil,Colombia,2,1,World Cup qualifier,Brazil,13,-13,2009,1964,1,-1,4,8
+2025-03-21,New Zealand,Fiji,7,0,World Cup qualifier,New Zealand,6,-6,1589,1227,0,0,60,155
+2025-03-21,New Caledonia,Tahiti,3,0,World Cup qualifier,New Zealand,30,-30,1291,1176,11,-2,138,162
+2025-03-21,Thailand,Afghanistan,2,0,Friendly,Thailand,3,-3,1382,1085,2,0,112,176
+2025-03-21,Singapore,Nepal,0,1,Friendly,Singapore,-16,16,1060,953,-1,4,179,189
+2025-03-21,Puerto Rico,Dominican Republic,2,2,Friendly,Puerto Rico,2,-2,1122,1285,2,-2,170,141
+2025-03-21,Northern Ireland,Switzerland,1,1,Friendly,Northern Ireland,4,-4,1564,1810,0,0,68,21
+2025-03-21,South Africa,Lesotho,2,0,World Cup qualifier,South Africa,4,-4,1580,1226,1,0,62,156
+2025-03-21,Rwanda,Nigeria,0,2,World Cup qualifier,Rwanda,-22,22,1333,1572,-7,6,129,64
+2025-03-21,Morocco,Niger,2,1,World Cup qualifier,Morocco,1,-1,1803,1319,0,0,23,134
+2025-03-21,Ivory Coast,Burundi,1,0,World Cup qualifier,Morocco,6,-6,1585,1274,0,-5,61,147
+2025-03-21,Guinea,Somalia,0,0,World Cup qualifier,Ivory Coast,-19,19,1470,914,-5,4,88,198
+2025-03-21,Ghana,Chad,5,0,World Cup qualifier,Ghana,9,-9,1438,1157,1,0,93,163
+2025-03-21,Equatorial Guinea,Sao Tome and Principe,2,0,World Cup qualifier,Equatorial Guinea,2,-2,1498,1044,0,-1,82,182
+2025-03-21,Egypt,Ethiopia,2,0,World Cup qualifier,Morocco,6,-6,1663,1269,0,-1,50,148
+2025-03-21,DR Congo,South Sudan,1,0,World Cup qualifier,DR Congo,2,-2,1542,1119,0,-3,74,172
+2025-03-21,Burkina Faso,Djibouti,4,1,World Cup qualifier,Morocco,3,-3,1484,939,1,-1,84,193
+2025-03-21,Botswana,Algeria,1,3,World Cup qualifier,Botswana,-13,13,1342,1698,-4,2,126,46
+2025-03-21,Romania,Bosnia and Herzegovina,0,1,World Cup qualifier,Romania,-35,35,1684,1520,-5,4,48,80
+2025-03-21,Poland,Lithuania,1,0,World Cup qualifier,Poland,2,-2,1701,1281,1,-2,45,143
+2025-03-21,Malta,Finland,0,1,World Cup qualifier,Malta,-11,11,1258,1549,-2,3,150,72
+2025-03-21,England,Albania,2,0,World Cup qualifier,England,4,-4,2010,1631,2,0,3,53
+2025-03-21,Cyprus,San Marino,2,0,World Cup qualifier,Cyprus,2,-2,1303,846,0,-1,136,206
+2025-03-21,Andorra,Latvia,0,1,World Cup qualifier,Andorra,-15,15,1068,1291,-1,8,178,138
+2025-03-21,Suriname,Martinique,1,0,CONCACAF Championship qualifier,Suriname,18,-18,1374,1400,4,-6,117,104
+2025-03-21,Saint Vincent and the Grenadines,Jamaica,1,1,CONCACAF Championship qualifier,Saint Vincent and the Grenadines,15,-15,1136,1556,3,-7,166,71
+2025-03-21,Guyana,Guatemala,3,2,CONCACAF Championship qualifier,Barbados,33,-33,1277,1486,8,-2,145,83
+2025-03-21,Guadeloupe,Nicaragua,1,0,CONCACAF Championship qualifier,Guadeloupe,16,-16,1351,1347,7,-5,122,123
+2025-03-21,Cuba,Trinidad and Tobago,1,2,CONCACAF Championship qualifier,Cuba,-19,19,1261,1417,-7,6,149,98
+2025-03-21,Bermuda,Honduras,3,5,CONCACAF Championship qualifier,Bermuda,-9,9,1133,1557,-3,1,167,70
+2025-03-21,Belize,Costa Rica,0,7,CONCACAF Championship qualifier,Belize,-6,6,1090,1651,0,0,175,51
+2025-03-21,Uruguay,Argentina,0,1,World Cup qualifier,Uruguay,-17,17,1931,2125,-1,0,10,2
+2025-03-21,Ecuador,Venezuela,2,1,World Cup qualifier,Ecuador,7,-7,1917,1727,0,-2,12,41
+2025-03-22,Luxembourg,Sweden,1,0,Friendly,Luxembourg,15,-15,1460,1729,1,-4,90,40
+2025-03-22,Azerbaijan,Haiti,0,3,Friendly,Azerbaijan,-15,15,1383,1553,-6,4,111,72
+2025-03-22,Togo,Mauritania,2,2,World Cup qualifier,Togo,-7,7,1374,1370,-2,2,115,117
+2025-03-22,Senegal,Sudan,0,0,World Cup qualifier,Libya,-16,16,1755,1410,-2,8,32,100
+2025-03-22,Wales,Kazakhstan,3,1,World Cup qualifier,Wales,5,-5,1737,1421,1,-2,38,97
+2025-03-22,Montenegro,Gibraltar,3,1,World Cup qualifier,Montenegro,2,-2,1522,1053,0,0,80,180
+2025-03-22,Moldova,Norway,0,5,World Cup qualifier,Moldova,-9,9,1346,1815,-2,1,123,21
+2025-03-22,Liechtenstein,North Macedonia,0,3,World Cup qualifier,Liechtenstein,-2,2,911,1612,0,0,199,57
+2025-03-22,Israel,Estonia,2,1,World Cup qualifier,Hungary,9,-9,1610,1367,1,-3,58,119
+2025-03-22,Czechia,Faroe Islands,2,1,World Cup qualifier,Czechia,1,-1,1754,1276,0,-1,33,146
+2025-03-23,Kenya,Gabon,1,2,World Cup qualifier,Kenya,-23,23,1378,1466,-10,3,114,89
+2025-03-23,Eswatini,Mauritius,3,3,World Cup qualifier,South Africa,-10,10,1224,1044,-2,1,156,182
+2025-03-23,Slovenia,Slovakia,1,0,European Nations League B/C Play-off,Slovenia,13,-13,1744,1684,6,0,33,47
+2025-03-23,Ireland,Bulgaria,2,1,European Nations League B/C Play-off,Ireland,7,-7,1634,1460,2,-1,53,90
+2025-03-23,Iceland,Kosovo,1,3,European Nations League B/C Play-off,Spain,-29,29,1531,1599,-7,5,76,60
+2025-03-23,Georgia,Armenia,6,1,European Nations League B/C Play-off,Georgia,7,-7,1716,1386,2,0,42,109
+2025-03-23,Serbia,Austria,2,0,European Nations League A/B Play-off,Serbia,25,-25,1843,1837,2,-3,17,19
+2025-03-23,Scotland,Greece,0,3,European Nations League A/B Play-off,Scotland,-45,45,1742,1829,-7,8,34,21
+2025-03-23,Hungary,Turkey,0,3,European Nations League A/B Play-off,Hungary,-41,41,1715,1837,-13,6,44,19
+2025-03-23,Belgium,Ukraine,3,0,European Nations League A/B Play-off,Belgium,27,-27,1844,1809,4,-7,16,25
+2025-03-23,Spain,Netherlands,3,3,European Nations League,Spain,-18,18,2150,1966,0,1,1,8
+2025-03-23,Portugal,Denmark,5,2,European Nations League,Portugal,23,-23,1988,1861,1,0,6,15
+2025-03-23,Germany,Italy,3,3,European Nations League,Germany,-13,13,1987,1914,-1,1,7,12
+2025-03-23,France,Croatia,2,0,European Nations League,France,20,-20,2030,1911,0,-3,3,13
+2025-03-23,United States,Canada,1,2,CONCACAF Nations League,the United States,-25,25,1722,1778,-6,5,41,29
+2025-03-23,Mexico,Panama,2,1,CONCACAF Nations League,the United States,17,-17,1817,1723,2,-3,22,39
+2025-03-24,New Zealand,New Caledonia,3,0,World Cup qualifier,New Zealand,6,-6,1595,1285,0,-2,61,140
+2025-03-24,Tunisia,Malawi,2,0,World Cup qualifier,Tunisia,5,-5,1611,1279,1,-1,58,143
+2025-03-24,Liberia,Sao Tome and Principe,2,1,World Cup qualifier,Liberia,6,-6,1262,1038,1,-1,150,183
+2025-03-24,Ivory Coast,Gambia,1,0,World Cup qualifier,Ivory Coast,6,-6,1591,1373,0,-3,62,116
+2025-03-24,Guinea-Bissau,Burkina Faso,1,2,World Cup qualifier,Guinea-Bissau,-15,15,1282,1499,-5,2,142,82
+2025-03-24,Ghana,Madagascar,3,0,World Cup qualifier,Morocco,24,-24,1462,1298,3,-3,90,135
+2025-03-24,Ethiopia,Djibouti,6,1,World Cup qualifier,Morocco,10,-10,1279,929,5,-1,143,194
+2025-03-24,Equatorial Guinea,Namibia,1,1,World Cup qualifier,South Africa,-8,8,1490,1352,-1,4,83,121
+2025-03-24,Central African Republic,Mali,0,0,World Cup qualifier,Morocco,16,-16,1265,1612,4,-1,149,56
+2025-03-24,San Marino,Romania,1,5,World Cup qualifier,San Marino,-1,1,845,1685,0,0,206,47
+2025-03-24,Poland,Malta,2,0,World Cup qualifier,Poland,3,-3,1704,1255,0,-2,45,152
+2025-03-24,Lithuania,Finland,2,2,World Cup qualifier,Lithuania,9,-9,1290,1540,6,-3,137,75
+2025-03-24,England,Latvia,3,0,World Cup qualifier,England,1,-1,2011,1290,0,1,4,137
+2025-03-24,Bosnia and Herzegovina,Cyprus,2,1,World Cup qualifier,Bosnia and Herzegovina,6,-6,1526,1297,3,0,78,136
+2025-03-24,Albania,Andorra,3,0,World Cup qualifier,Albania,2,-2,1633,1066,0,0,54,178
+2025-03-25,Switzerland,Luxembourg,3,1,Friendly,Switzerland,2,-2,1812,1458,0,0,24,91
+2025-03-25,Sweden,Northern Ireland,5,1,Friendly,Sweden,7,-7,1736,1557,0,-2,37,70
+2025-03-25,Russia,Zambia,5,0,Friendly,Russia,2,-2,1791,1405,-1,0,28,101
+2025-03-25,Niger,Bonaire,6,0,Friendly,Morocco,3,-3,1322,835,3,0,130,207
+2025-03-25,Dominican Republic,Puerto Rico,2,0,Friendly,the Dominican Republic,5,-5,1290,1117,2,-1,138,171
+2025-03-25,Cambodia,Aruba,1,2,Friendly,Cambodia,-11,11,837,913,-1,3,206,199
+2025-03-25,Azerbaijan,Belarus,0,2,Friendly,Azerbaijan,-15,15,1368,1491,-9,0,119,85
+2025-03-25,Vietnam,Laos,5,0,Asian Cup qualifier,Vietnam,1,-1,1359,687,0,0,120,222
+2025-03-25,Thailand,Sri Lanka,1,0,Asian Cup qualifier,Thailand,1,-1,1383,737,-1,0,112,213
+2025-03-25,Tajikistan,East Timor,1,0,Asian Cup qualifier,Tajikistan,1,-1,1289,658,-2,0,141,225
+2025-03-25,Taiwan,Turkmenistan,1,2,Asian Cup qualifier,Taiwan,-10,10,914,1215,-3,0,198,160
+2025-03-25,Syria,Pakistan,2,0,Asian Cup qualifier,Saudi Arabia,2,-2,1439,824,0,0,94,209
+2025-03-25,Singapore,Hong Kong,0,0,Asian Cup qualifier,Singapore,-1,1,1059,1138,0,0,179,165
+2025-03-25,Philippines,Maldives,4,1,Asian Cup qualifier,the Philippines,9,-9,1130,877,3,0,168,203
+2025-03-25,Myanmar,Afghanistan,2,1,Asian Cup qualifier,Myanmar,24,-24,942,1061,3,-2,193,178
+2025-03-25,Malaysia,Nepal,2,0,Asian Cup qualifier,Malaysia,5,-5,1260,948,1,-2,151,191
+2025-03-25,Lebanon,Brunei,5,0,Asian Cup qualifier,Qatar,2,-2,1343,665,2,0,125,224
+2025-03-25,India,Bangladesh,0,0,Asian Cup qualifier,India,-16,16,1162,922,-1,4,162,196
+2025-03-25,Bhutan,Yemen,0,0,Asian Cup qualifier,Bhutan,16,-16,637,1109,3,-3,227,172
+2025-03-25,United Arab Emirates,North Korea,2,1,World Cup qualifier,Saudi Arabia,13,-13,1541,1381,5,-6,72,113
+2025-03-25,South Korea,Jordan,1,1,World Cup qualifier,South Korea,-12,12,1746,1633,-2,1,32,54
+2025-03-25,Palestine,Iraq,2,1,World Cup qualifier,Jordan,29,-29,1427,1539,9,-8,96,74
+2025-03-25,Kyrgyzstan,Qatar,3,1,World Cup qualifier,Kyrgyzstan,43,-43,1322,1498,13,-9,130,83
+2025-03-25,Kuwait,Oman,0,1,World Cup qualifier,Kuwait,-15,15,1323,1538,0,5,128,75
+2025-03-25,Japan,Saudi Arabia,0,0,World Cup qualifier,Japan,-17,17,1876,1562,0,6,14,66
+2025-03-25,Iran,Uzbekistan,2,2,World Cup qualifier,Iran,-13,13,1830,1697,-3,1,20,47
+2025-03-25,Indonesia,Bahrain,1,0,World Cup qualifier,Indonesia,26,-26,1342,1500,8,-3,126,81
+2025-03-25,China,Australia,0,2,World Cup qualifier,China,-14,14,1402,1737,-4,3,103,36
+2025-03-25,Uganda,Guinea,1,0,World Cup qualifier,Uganda,20,-20,1389,1450,9,-5,109,93
+2025-03-25,South Sudan,Sudan,1,1,World Cup qualifier,Libya,14,-14,1133,1396,6,-5,166,105
+2025-03-25,South Africa,Benin,2,0,World Cup qualifier,Ivory Coast,18,-18,1598,1408,3,-5,60,100
+2025-03-25,Senegal,Togo,2,0,World Cup qualifier,Senegal,4,-4,1759,1370,1,-4,30,118
+2025-03-25,Rwanda,Lesotho,1,1,World Cup qualifier,Rwanda,-11,11,1322,1237,-1,1,130,154
+2025-03-25,Nigeria,Zimbabwe,1,1,World Cup qualifier,Nigeria,-14,14,1558,1394,-4,6,69,106
+2025-03-25,Morocco,Tanzania,2,0,World Cup qualifier,Morocco,3,-3,1806,1404,0,-1,26,102
+2025-03-25,Mauritania,DR Congo,0,2,World Cup qualifier,Mauritania,-24,24,1346,1566,-5,8,122,65
+2025-03-25,Egypt,Sierra Leone,1,0,World Cup qualifier,Egypt,3,-3,1666,1325,0,3,50,127
+2025-03-25,Comoros,Chad,1,0,World Cup qualifier,Morocco,8,-8,1413,1149,4,0,99,163
+2025-03-25,Cameroon,Libya,3,1,World Cup qualifier,Cameroon,10,-10,1588,1385,0,-5,64,111
+2025-03-25,Burundi,Seychelles,5,0,World Cup qualifier,Morocco,7,-7,1281,851,4,0,144,204
+2025-03-25,Botswana,Somalia,2,0,World Cup qualifier,Botswana,3,-3,1345,911,3,-2,123,200
+2025-03-25,Angola,Cape Verde,1,2,World Cup qualifier,Angola,-30,30,1535,1504,-9,6,76,80
+2025-03-25,Algeria,Mozambique,5,1,World Cup qualifier,Algeria,10,-10,1708,1463,1,-1,45,88
+2025-03-25,Norway,Israel,4,2,World Cup qualifier,Hungary,14,-14,1829,1596,2,-2,21,61
+2025-03-25,North Macedonia,Wales,1,1,World Cup qualifier,North Macedonia,1,-1,1613,1736,0,-1,56,37
+2025-03-25,Montenegro,Faroe Islands,1,0,World Cup qualifier,Montenegro,5,-5,1527,1271,3,0,78,147
+2025-03-25,Moldova,Estonia,2,3,World Cup qualifier,Moldova,-24,24,1322,1391,-6,12,130,107
+2025-03-25,Liechtenstein,Kazakhstan,0,2,World Cup qualifier,Liechtenstein,-5,5,906,1426,-2,0,201,97
+2025-03-25,Czechia,Gibraltar,4,0,World Cup qualifier,Portugal,1,-1,1755,1052,1,0,31,180
+2025-03-25,Trinidad and Tobago,Cuba,4,0,CONCACAF Championship qualifier,Trinidad and Tobago,14,-14,1431,1247,3,-2,95,153
+2025-03-25,Nicaragua,Guadeloupe,0,1,CONCACAF Championship qualifier,Nicaragua,-25,25,1322,1376,-7,7,130,115
+2025-03-25,Martinique,Suriname,0,1,CONCACAF Championship qualifier,Martinique,-27,27,1373,1401,-12,10,116,104
+2025-03-25,Jamaica,Saint Vincent and the Grenadines,3,0,CONCACAF Championship qualifier,Jamaica,3,-3,1559,1133,2,0,68,166
+2025-03-25,Honduras,Bermuda,2,0,CONCACAF Championship qualifier,Honduras,3,-3,1560,1130,2,-1,67,168
+2025-03-25,Guatemala,Guyana,2,0,CONCACAF Championship qualifier,Guatemala,9,-9,1495,1268,0,-2,84,148
+2025-03-25,Costa Rica,Belize,6,1,CONCACAF Championship qualifier,Costa Rica,2,-2,1653,1088,0,0,51,175
+2025-03-25,Venezuela,Peru,1,0,World Cup qualifier,Venezuela,15,-15,1742,1724,4,-4,34,39
+2025-03-25,Colombia,Paraguay,2,2,World Cup qualifier,Colombia,-13,13,1951,1800,0,1,9,27
+2025-03-25,Chile,Ecuador,0,0,World Cup qualifier,Chile,6,-6,1722,1911,1,-1,41,12
+2025-03-25,Bolivia,Uruguay,0,0,World Cup qualifier,Bolivia,10,-10,1651,1921,0,0,52,10
+2025-03-25,Argentina,Brazil,4,1,World Cup qualifier,Argentina,16,-16,2141,1993,0,0,2,5
+2025-04-17,Anguilla,British Virgin Islands,0,0,Friendly,Anguilla,-3,3,618,629,0,1,231,228
+2025-04-20,Anguilla,British Virgin Islands,1,0,Friendly,Anguilla,7,-7,625,622,2,-2,229,230
+2025-05-08,Dominica,Barbados,0,0,Friendly,Dominica,-4,4,973,954,0,0,188,189
+2025-05-11,Dominica,Barbados,0,0,Friendly,Dominica,-3,3,970,957,0,0,188,189
+2025-05-20,Saint Kitts and Nevis,Saint Vincent and the Grenadines,1,3,Friendly,Saint Kitts and Nevis,-18,18,1085,1151,-1,3,175,163
+2025-05-23,Saint Martin,Anguilla,2,1,Pelican Cup,Saint Martin,2,-2,1020,623,0,0,185,229
+2025-05-24,Saint Kitts and Nevis,Anguilla,4,2,Pelican Cup,Saint Martin,3,-3,1088,620,1,-2,174,231
+2025-05-25,Saint Vincent and the Grenadines,Saint Kitts and Nevis,3,0,Friendly,Saint Vincent and the Grenadines,10,-10,1161,1078,0,-5,163,179
+2025-05-25,Saint Martin,Saint Kitts and Nevis,4,1,Pelican Cup,Saint Martin,23,-23,1043,1055,2,-5,183,179
+2025-05-27,Jamaica,Trinidad and Tobago,3,2,Unity Cup,England,10,-10,1569,1421,3,-3,65,98
+2025-05-28,Nigeria,Ghana,2,1,Unity Cup,England,11,-11,1569,1451,4,-3,65,92
+2025-05-28,Oman,Lebanon,1,0,Friendly,Oman,3,-3,1541,1340,3,-1,72,126
+2025-05-29,Saint Vincent and the Grenadines,British Virgin Islands,1,1,Friendly,Saint Vincent and the Grenadines,-10,10,1151,632,0,1,163,228
+2025-05-29,Malaysia,Cape Verde,1,1,Friendly,Malaysia,4,-4,1264,1500,1,0,150,80
+2025-05-30,Saudi Arabia,Jordan,2,0,Friendly,Saudi Arabia,14,-14,1576,1619,3,-1,65,55
+2025-05-31,Jamaica,Nigeria,2,2,Unity Cup,England,0,0,1569,1569,0,0,66,66
+2025-05-31,Grenada,Anguilla,2,0,Friendly,Grenada,1,-1,1073,619,0,0,175,231
+2025-05-31,Ghana,Trinidad and Tobago,4,0,Unity Cup,England,26,-26,1477,1395,5,-7,87,105
+2025-05-31,El Salvador,Guatemala,1,1,Friendly,the United States,3,-3,1393,1492,1,0,107,84
+2025-06-01,Nicaragua,Puerto Rico,1,1,Friendly,the United States,-5,5,1317,1122,-5,0,135,171
+2025-06-02,Tunisia,Burkina Faso,2,0,Friendly,Tunisia,7,-7,1618,1492,2,-1,56,83
+2025-06-03,Malaysia,Cape Verde,0,3,Friendly,Malaysia,-11,11,1253,1511,-2,0,152,80
+2025-06-04,Thailand,India,2,0,Friendly,Thailand,4,-4,1387,1158,3,0,109,162
+2025-06-04,Bangladesh,Bhutan,2,0,Friendly,Bangladesh,3,-3,925,634,0,0,196,227
+2025-06-04,South Africa,Mozambique,0,1,COSAFA Cup,South Africa,-32,32,1566,1495,-7,6,67,83
+2025-06-04,Mauritius,Zimbabwe,0,0,COSAFA Cup,South Africa,15,-15,1059,1379,4,-7,178,113
+2025-06-04,Germany,Portugal,1,2,European Nations League,Germany,-32,32,1955,2020,-1,2,8,4
+2025-06-04,Saint Vincent and the Grenadines,Anguilla,6,0,World Cup qualifier,Saint Vincent and the Grenadines,2,-2,1153,617,0,0,163,231
+2025-06-04,Montserrat,Belize,1,0,World Cup qualifier,Trinidad and Tobago,28,-28,978,1060,2,-3,188,177
+2025-06-04,Grenada,Bahamas,6,0,World Cup qualifier,Grenada,9,-9,1082,783,1,0,174,210
+2025-06-04,Dominica,British Virgin Islands,3,0,World Cup qualifier,Dominica,5,-5,975,627,-1,-1,189,229
+2025-06-04,Bermuda,Cayman Islands,5,0,World Cup qualifier,Bermuda,7,-7,1137,821,1,-1,167,209
+2025-06-04,Barbados,Aruba,1,1,World Cup qualifier,Barbados,-8,8,949,921,-1,2,190,197
+2025-06-05,Taiwan,Macao,2,0,Friendly,Taiwan,3,-3,917,595,1,0,198,232
+2025-06-05,Sri Lanka,Brunei,1,0,Friendly,Thailand,8,-8,745,657,0,-1,213,225
+2025-06-05,Singapore,Maldives,3,1,Friendly,Singapore,5,-5,1064,872,2,0,176,203
+2025-06-05,Hong Kong,Nepal,0,0,Friendly,Hong Kong,-7,7,1131,955,-2,1,168,190
+2025-06-05,Georgia,Faroe Islands,1,0,Friendly,Georgia,1,-1,1717,1270,1,1,42,146
+2025-06-05,DR Congo,Mali,1,0,Friendly,France,11,-11,1577,1601,2,-1,65,59
+2025-06-05,Cambodia,Tajikistan,1,2,Friendly,Cambodia,-2,2,835,1291,0,3,206,138
+2025-06-05,Belarus,Kazakhstan,4,1,Friendly,Belarus,10,-10,1501,1416,4,-1,82,97
+2025-06-05,Algeria,Rwanda,2,0,Friendly,Algeria,2,-2,1710,1320,0,-3,45,133
+2025-06-05,Lesotho,Malawi,1,0,COSAFA Cup,South Africa,22,-22,1259,1257,4,-6,150,151
+2025-06-05,Angola,Namibia,1,1,COSAFA Cup,South Africa,-10,10,1525,1362,-2,1,78,120
+2025-06-05,United Arab Emirates,Uzbekistan,0,0,World Cup qualifier,the United Arab Emirates,3,-3,1544,1694,0,0,72,47
+2025-06-05,Qatar,Iran,1,0,World Cup qualifier,Qatar,32,-32,1530,1798,7,-7,75,27
+2025-06-05,Oman,Jordan,0,3,World Cup qualifier,Oman,-37,37,1504,1656,-9,4,81,51
+2025-06-05,Kyrgyzstan,North Korea,2,2,World Cup qualifier,Saudi Arabia,3,-3,1325,1378,3,-1,127,113
+2025-06-05,Kuwait,Palestine,0,2,World Cup qualifier,Kuwait,-30,30,1293,1457,-9,3,137,92
+2025-06-05,Iraq,South Korea,0,2,World Cup qualifier,Iraq,-21,21,1518,1767,-4,2,79,30
+2025-06-05,Indonesia,China,1,0,World Cup qualifier,Indonesia,18,-18,1360,1384,4,-9,121,111
+2025-06-05,Bahrain,Saudi Arabia,0,2,World Cup qualifier,Bahrain,-32,32,1468,1608,-7,6,88,58
+2025-06-05,Australia,Japan,1,0,World Cup qualifier,Australia,22,-22,1759,1854,5,-1,31,15
+2025-06-05,Spain,France,5,4,European Nations League,Germany,17,-17,2167,2013,0,-1,1,4
+2025-06-05,Paraguay,Uruguay,2,0,World Cup qualifier,Paraguay,32,-32,1832,1889,7,-3,20,13
+2025-06-05,Ecuador,Brazil,0,0,World Cup qualifier,Ecuador,-1,1,1910,1994,0,0,12,6
+2025-06-05,Chile,Argentina,0,1,World Cup qualifier,Chile,-5,5,1717,2146,-1,0,42,2
+2025-06-06,South Africa,Tanzania,0,0,Friendly,South Africa,-6,6,1560,1410,0,2,68,99
+2025-06-06,Scotland,Iceland,1,3,Friendly,Scotland,-26,26,1716,1557,-8,4,43,70
+2025-06-06,Russia,Nigeria,1,1,Friendly,Russia,-7,7,1784,1576,0,0,28,66
+2025-06-06,Poland,Moldova,2,0,Friendly,Poland,2,-2,1706,1320,1,-3,45,133
+2025-06-06,Niger,Gabon,4,3,Friendly,Morocco,14,-14,1336,1452,4,-4,126,93
+2025-06-06,Morocco,Tunisia,2,0,Friendly,Morocco,5,-5,1811,1613,1,-2,25,58
+2025-06-06,Luxembourg,Slovenia,0,1,Friendly,Luxembourg,-5,5,1453,1749,-1,-2,92,36
+2025-06-06,Kosovo,Armenia,5,2,Friendly,Kosovo,5,-5,1604,1381,0,-1,60,110
+2025-06-06,Ireland,Senegal,1,1,Friendly,Ireland,1,-1,1635,1758,0,-2,54,33
+2025-06-06,Hungary,Sweden,0,2,Friendly,Hungary,-18,18,1697,1754,-2,2,46,35
+2025-06-06,Gambia,Equatorial Guinea,2,1,Friendly,Morocco,13,-13,1386,1477,10,0,106,86
+2025-06-06,Central African Republic,Mauritania,2,1,Friendly,Morocco,12,-12,1277,1334,3,-4,145,127
+2025-06-06,Cameroon,Uganda,3,0,Friendly,Morocco,8,-8,1596,1381,2,-3,62,110
+2025-06-06,Burundi,Guinea-Bissau,1,0,Friendly,Morocco,10,-10,1291,1272,6,-3,138,146
+2025-06-06,Burkina Faso,Zimbabwe,2,0,Friendly,Morocco,10,-10,1502,1369,2,-6,82,118
+2025-06-06,Bulgaria,Cyprus,2,2,Friendly,Bulgaria,-6,6,1454,1303,-1,1,91,135
+2025-06-06,Comoros,Zambia,1,0,COSAFA Cup,South Africa,20,-20,1433,1385,2,-7,96,107
+2025-06-06,Wales,Liechtenstein,3,0,World Cup qualifier,Wales,0,0,1736,906,-1,0,38,201
+2025-06-06,Norway,Italy,3,0,World Cup qualifier,Norway,33,-33,1862,1881,7,-3,14,13
+2025-06-06,North Macedonia,Belgium,1,1,World Cup qualifier,North Macedonia,7,-7,1620,1837,1,-2,56,18
+2025-06-06,Estonia,Israel,1,3,World Cup qualifier,Estonia,-21,21,1370,1617,-10,4,116,57
+2025-06-06,Czechia,Montenegro,2,0,World Cup qualifier,Czechia,8,-8,1763,1519,2,-2,31,78
+2025-06-06,Croatia,Gibraltar,7,0,World Cup qualifier,Portugal,1,-1,1912,1051,1,1,10,180
+2025-06-06,Trinidad and Tobago,Saint Kitts and Nevis,6,2,World Cup qualifier,Trinidad and Tobago,6,-6,1401,1049,2,-1,102,181
+2025-06-06,Suriname,Puerto Rico,1,0,World Cup qualifier,Suriname,4,-4,1405,1118,1,0,101,171
+2025-06-06,Nicaragua,Guyana,1,0,World Cup qualifier,Nicaragua,12,-12,1329,1256,5,-4,129,151
+2025-06-06,Guatemala,Dominican Republic,4,2,World Cup qualifier,Guatemala,9,-9,1501,1281,1,-4,83,143
+2025-06-06,Curaçao,Saint Lucia,4,0,World Cup qualifier,Curaçao,7,-7,1330,1027,1,0,128,185
+2025-06-06,Antigua and Barbuda,Cuba,0,1,World Cup qualifier,Antigua and Barbuda,-8,8,909,1255,-2,2,200,152
+2025-06-06,Venezuela,Bolivia,2,0,World Cup qualifier,Venezuela,15,-15,1757,1636,1,0,34,53
+2025-06-06,Colombia,Peru,0,0,World Cup qualifier,Colombia,-15,15,1936,1739,0,2,9,37
+2025-06-07,United States,Turkey,1,2,Friendly,the United States,-10,10,1712,1847,-3,1,43,17
+2025-06-07,Switzerland,Mexico,4,2,Friendly,the United States,15,-15,1827,1802,1,-2,23,25
+2025-06-07,New Zealand,Ivory Coast,1,0,Canadian Shield,Canada,15,-15,1610,1576,4,-1,59,65
+2025-06-07,Latvia,Azerbaijan,0,0,Friendly,Latvia,-1,1,1289,1369,-1,1,141,118
+2025-06-07,Greece,Slovakia,4,1,Friendly,Greece,7,-7,1836,1677,1,1,21,48
+2025-06-07,Denmark,Northern Ireland,2,1,Friendly,Denmark,2,-2,1863,1555,1,-2,14,72
+2025-06-07,Chad,Kenya,0,0,Friendly,Morocco,6,-6,1155,1372,1,-3,163,115
+2025-06-07,Canada,Ukraine,4,2,Canadian Shield,Canada,18,-18,1796,1791,2,-2,27,28
+2025-06-07,South Africa,Zimbabwe,2,0,COSAFA Cup,South Africa,9,-9,1569,1360,1,-2,67,120
+2025-06-07,Mauritius,Mozambique,0,0,COSAFA Cup,South Africa,17,-17,1076,1478,4,0,175,85
+2025-06-07,Madagascar,Tanzania,1,0,COSAFA Cup,South Africa,26,-26,1324,1384,4,-9,132,108
+2025-06-07,Malta,Lithuania,0,0,World Cup qualifier,Malta,-4,4,1251,1294,-2,3,154,137
+2025-06-07,Finland,Netherlands,0,2,World Cup qualifier,Finland,-8,8,1532,1974,0,0,74,7
+2025-06-07,England,Andorra,1,0,World Cup qualifier,Spain,0,0,2011,1066,0,-1,5,176
+2025-06-07,Bosnia and Herzegovina,San Marino,1,0,World Cup qualifier,Bosnia and Herzegovina,0,0,1526,845,0,0,76,205
+2025-06-07,Austria,Romania,2,1,World Cup qualifier,Austria,8,-8,1845,1677,0,0,18,48
+2025-06-07,Albania,Serbia,0,0,World Cup qualifier,Albania,6,-6,1639,1837,2,-2,53,19
+2025-06-07,Costa Rica,Bahamas,8,0,World Cup qualifier,Barbados,1,-1,1654,782,0,0,52,210
+2025-06-07,Cayman Islands,Honduras,0,1,World Cup qualifier,the Cayman Islands,-1,1,820,1561,0,-1,209,69
+2025-06-07,British Virgin Islands,Jamaica,0,1,World Cup qualifier,the British VirgIslands,0,0,627,1569,0,0,229,67
+2025-06-07,Belize,Panama,0,2,World Cup qualifier,Belize,-2,2,1058,1725,-1,0,179,39
+2025-06-07,Aruba,Haiti,0,5,World Cup qualifier,Aruba,-4,4,917,1557,0,2,197,70
+2025-06-07,Anguilla,El Salvador,0,3,World Cup qualifier,Anguilla,-1,1,616,1394,0,1,231,103
+2025-06-08,Georgia,Cape Verde,1,1,Friendly,Georgia,-7,7,1710,1518,-3,1,43,79
+2025-06-08,DR Congo,Madagascar,3,1,Friendly,France,6,-6,1583,1318,0,-3,64,135
+2025-06-08,Malawi,Namibia,0,0,COSAFA Cup,South Africa,6,-6,1263,1356,2,-3,148,122
+2025-06-08,Angola,Lesotho,4,0,COSAFA Cup,South Africa,13,-13,1538,1246,3,-5,74,154
+2025-06-08,Portugal,Spain,2,2,European Nations League,Germany,10,-10,2030,2157,-1,0,4,1
+2025-06-08,Germany,France,0,2,European Nations League,Germany,-42,42,1913,2055,-1,1,9,3
+2025-06-09,Morocco,Benin,1,0,Friendly,Morocco,1,-1,1812,1407,0,1,24,98
+2025-06-09,Montenegro,Armenia,2,2,Friendly,Montenegro,-6,6,1513,1387,-2,6,80,104
+2025-06-09,Liechtenstein,Scotland,0,4,Friendly,Liechtenstein,-1,1,905,1717,0,1,201,40
+2025-06-09,Kosovo,Comoros,4,2,Friendly,Kosovo,5,-5,1609,1428,1,-1,60,97
+2025-06-09,Gambia,Uganda,1,1,Friendly,Morocco,0,0,1386,1381,-1,-1,106,111
+2025-06-09,Gabon,Guinea-Bissau,2,0,Friendly,Morocco,8,-8,1460,1264,4,-1,89,147
+2025-06-09,Cameroon,Equatorial Guinea,1,1,Friendly,Morocco,-3,3,1593,1480,0,1,63,85
+2025-06-09,Eswatini,Madagascar,1,1,COSAFA Cup,South Africa,5,-5,1229,1313,1,0,155,135
+2025-06-09,Botswana,Comoros,0,0,COSAFA Cup,South Africa,5,-5,1350,1423,0,-1,123,97
+2025-06-09,Kazakhstan,North Macedonia,0,1,World Cup qualifier,Kazakhstan,-14,14,1402,1634,-2,0,100,56
+2025-06-09,Italy,Moldova,2,0,World Cup qualifier,Italy,1,-1,1882,1319,0,-1,13,134
+2025-06-09,Faroe Islands,Gibraltar,2,1,World Cup qualifier,the Faroe Islands,5,-5,1275,1046,1,-1,146,181
+2025-06-09,Estonia,Norway,0,1,World Cup qualifier,Estonia,-4,4,1366,1866,-2,1,118,14
+2025-06-09,Croatia,Czechia,5,1,World Cup qualifier,Croatia,14,-14,1926,1749,1,-4,9,35
+2025-06-09,Belgium,Wales,4,3,World Cup qualifier,Belgium,10,-10,1847,1726,2,0,17,38
+2025-06-10,United States,Switzerland,0,4,Friendly,the United States,-18,18,1694,1845,-3,5,45,18
+2025-06-10,Ukraine,New Zealand,2,1,Canadian Shield,Canada,8,-8,1799,1602,1,-1,27,60
+2025-06-10,Sweden,Algeria,4,3,Friendly,Sweden,6,-6,1760,1704,1,0,33,43
+2025-06-10,South Africa,Mozambique,2,0,Friendly,South Africa,7,-7,1576,1471,-3,-9,70,95
+2025-06-10,Slovenia,Bosnia and Herzegovina,2,1,Friendly,Slovenia,3,-3,1752,1523,1,1,34,76
+2025-06-10,Northern Ireland,Iceland,1,0,Friendly,Northern Ireland,7,-7,1562,1550,4,-2,68,72
+2025-06-10,Niger,Zimbabwe,1,1,Friendly,Morocco,1,-1,1337,1359,1,17,125,102
+2025-06-10,Mexico,Turkey,1,0,Friendly,the United States,11,-11,1813,1836,1,-5,24,22
+2025-06-10,Luxembourg,Ireland,0,0,Friendly,Luxembourg,2,-2,1455,1633,3,1,90,54
+2025-06-10,Kenya,Chad,2,1,Friendly,Morocco,4,-4,1376,1151,1,0,114,163
+2025-06-10,Israel,Slovakia,1,0,Friendly,Hungary,12,-12,1629,1665,2,-2,55,50
+2025-06-10,Greece,Bulgaria,4,0,Friendly,Greece,2,-2,1838,1452,1,1,20,91
+2025-06-10,England,Senegal,1,3,Friendly,England,-27,27,1984,1785,-1,3,6,29
+2025-06-10,Denmark,Lithuania,5,0,Friendly,Denmark,1,-1,1864,1293,0,-1,15,138
+2025-06-10,Canada,Ivory Coast,0,0,Canadian Shield,Canada,-11,11,1785,1587,-2,0,29,65
+2025-06-10,Burundi,Mauritania,0,0,Friendly,Morocco,1,-1,1292,1333,0,1,139,126
+2025-06-10,Belarus,Russia,1,4,Friendly,Belarus,-9,9,1492,1793,0,1,83,28
+2025-06-10,Azerbaijan,Hungary,1,2,Friendly,Azerbaijan,-4,4,1365,1701,-3,2,120,44
+2025-06-10,Zimbabwe,Mozambique,3,1,COSAFA Cup,South Africa,39,-39,1398,1432,17,-9,102,95
+2025-06-10,South Africa,Mauritius,0,0,COSAFA Cup,South Africa,-19,19,1557,1095,-3,0,70,175
+2025-06-10,Namibia,Lesotho,3,0,COSAFA Cup,South Africa,24,-24,1380,1222,9,-5,113,159
+2025-06-10,Angola,Malawi,1,0,COSAFA Cup,South Africa,7,-7,1545,1256,0,-3,74,151
+2025-06-10,Turkmenistan,Thailand,3,1,Asian Cup qualifier,Turkmenistan,36,-36,1251,1351,8,-18,152,122
+2025-06-10,Syria,Afghanistan,1,0,Asian Cup qualifier,Saudi Arabia,4,-4,1443,1057,1,-1,94,179
+2025-06-10,Sri Lanka,Taiwan,3,1,Asian Cup qualifier,Sri Lanka,36,-36,781,881,1,-5,212,202
+2025-06-10,Philippines,Tajikistan,2,2,Asian Cup qualifier,the Philippines,3,-3,1133,1288,0,-3,169,142
+2025-06-10,Myanmar,Pakistan,1,0,Asian Cup qualifier,Myanmar,9,-9,951,815,3,-1,190,209
+2025-06-10,Malaysia,Vietnam,4,0,Asian Cup qualifier,Malaysia,38,-38,1291,1321,12,-10,140,131
+2025-06-10,Lebanon,Yemen,0,0,Asian Cup qualifier,Kuwait,-12,12,1328,1121,-3,0,128,172
+2025-06-10,Laos,Nepal,2,1,Asian Cup qualifier,Laos,29,-29,716,926,4,-5,218,195
+2025-06-10,Hong Kong,India,1,0,Asian Cup qualifier,Hong Kong,16,-16,1147,1142,4,-3,164,165
+2025-06-10,East Timor,Maldives,1,0,Asian Cup qualifier,Australia,31,-31,689,841,1,-2,223,205
+2025-06-10,Brunei,Bhutan,2,1,Asian Cup qualifier,Brunei,13,-13,670,621,0,-3,225,230
+2025-06-10,Bangladesh,Singapore,1,2,Asian Cup qualifier,Bangladesh,-18,18,907,1082,-3,1,199,176
+2025-06-10,Uzbekistan,Qatar,3,0,World Cup qualifier,Uzbekistan,13,-13,1707,1517,5,-2,42,78
+2025-06-10,South Korea,Kuwait,4,0,World Cup qualifier,South Korea,3,-3,1770,1290,-2,-3,32,141
+2025-06-10,Saudi Arabia,Australia,1,2,World Cup qualifier,Saudi Arabia,-17,17,1591,1776,-2,0,63,31
+2025-06-10,Oman,Palestine,1,1,World Cup qualifier,Jordan,-3,3,1501,1460,0,3,81,87
+2025-06-10,Kyrgyzstan,United Arab Emirates,1,1,World Cup qualifier,Kyrgyzstan,7,-7,1332,1537,3,-2,127,75
+2025-06-10,Jordan,Iraq,0,1,World Cup qualifier,Jordan,-32,32,1624,1550,-6,6,57,72
+2025-06-10,Japan,Indonesia,6,0,World Cup qualifier,Japan,3,-3,1857,1357,0,-2,16,121
+2025-06-10,Iran,North Korea,3,0,World Cup qualifier,Iran,3,-3,1801,1375,0,-4,26,116
+2025-06-10,China,Bahrain,1,0,World Cup qualifier,China,19,-19,1403,1449,9,-5,100,93
+2025-06-10,Serbia,Andorra,3,0,World Cup qualifier,Serbia,0,0,1837,1066,-1,-1,21,177
+2025-06-10,San Marino,Austria,0,4,World Cup qualifier,San Marino,0,0,845,1845,1,1,204,18
+2025-06-10,Romania,Cyprus,2,0,World Cup qualifier,Romania,4,-4,1681,1299,0,-1,48,137
+2025-06-10,Netherlands,Malta,8,0,World Cup qualifier,the Netherlands,1,-1,1975,1250,0,0,7,153
+2025-06-10,Latvia,Albania,1,1,World Cup qualifier,Latvia,12,-12,1301,1627,5,-3,136,56
+2025-06-10,Finland,Poland,2,1,World Cup qualifier,Finland,24,-24,1556,1682,4,-2,71,47
+2025-06-10,Saint Lucia,Barbados,2,1,World Cup qualifier,Saint Lucia,11,-11,1038,938,2,-1,183,192
+2025-06-10,Saint Kitts and Nevis,Grenada,2,3,World Cup qualifier,Saint Kitts and Nevis,-24,24,1025,1106,-5,1,185,173
+2025-06-10,Puerto Rico,Saint Vincent and the Grenadines,2,1,World Cup qualifier,Puerto Rico,16,-16,1134,1137,3,-3,168,167
+2025-06-10,Panama,Nicaragua,3,0,World Cup qualifier,Panama,4,-4,1729,1325,1,0,38,129
+2025-06-10,Jamaica,Guatemala,3,0,World Cup qualifier,Jamaica,19,-19,1588,1482,3,-1,64,84
+2025-06-10,Honduras,Antigua and Barbuda,2,0,World Cup qualifier,Honduras,1,-1,1562,908,1,2,68,198
+2025-06-10,Guyana,Montserrat,3,0,World Cup qualifier,Guyana,7,-7,1263,971,1,0,149,188
+2025-06-10,El Salvador,Suriname,1,1,World Cup qualifier,El Salvador,-5,5,1389,1410,-2,1,105,98
+2025-06-10,Dominican Republic,Dominica,5,0,World Cup qualifier,the Dominican Republic,7,-7,1288,968,1,0,142,189
+2025-06-10,Curaçao,Haiti,5,1,World Cup qualifier,Aruba,59,-59,1389,1498,23,-12,105,82
+2025-06-10,Cuba,Bermuda,1,2,World Cup qualifier,Cuba,-31,31,1224,1168,-5,4,156,162
+2025-06-10,Costa Rica,Trinidad and Tobago,2,1,World Cup qualifier,Costa Rica,5,-5,1659,1396,0,-2,52,103
+2025-06-10,Uruguay,Venezuela,2,0,World Cup qualifier,Uruguay,12,-12,1901,1745,0,-3,12,36
+2025-06-10,Peru,Ecuador,0,0,World Cup qualifier,Peru,4,-4,1743,1906,0,0,37,11
+2025-06-10,Brazil,Paraguay,1,0,World Cup qualifier,Brazil,7,-7,2001,1825,1,-1,5,23
+2025-06-10,Bolivia,Chile,2,0,World Cup qualifier,Bolivia,28,-28,1664,1689,3,-6,51,46
+2025-06-10,Argentina,Colombia,1,1,World Cup qualifier,Argentina,-14,14,2132,1950,0,0,2,8
+2025-06-11,Tanzania,Eswatini,2,1,COSAFA Cup,South Africa,12,-12,1396,1217,8,-5,103,159
+2025-06-11,Botswana,Zambia,3,3,COSAFA Cup,South Africa,2,-2,1352,1383,1,-2,122,111
+2025-06-13,South Africa,Comoros,3,1,COSAFA Cup,South Africa,12,-12,1569,1411,2,0,68,97
+2025-06-13,Angola,Madagascar,4,1,COSAFA Cup,South Africa,15,-15,1560,1298,3,-2,71,137
+2025-06-14,Mexico,Dominican Republic,3,2,CONCACAF Championship,the United States,2,-2,1815,1286,0,-1,24,143
+2025-06-15,South Africa,Angola,0,3,COSAFA Cup,South Africa,-46,46,1523,1606,-7,10,75,61
+2025-06-15,Comoros,Madagascar,1,0,COSAFA Cup,South Africa,14,-14,1425,1284,1,-7,96,144
+2025-06-15,United States,Trinidad and Tobago,5,0,CONCACAF Championship,the United States,9,-9,1703,1387,1,-4,44,107
+2025-06-15,Saudi Arabia,Haiti,1,0,CONCACAF Championship,the United States,18,-18,1609,1480,4,-2,59,84
+2025-06-15,Costa Rica,Suriname,4,3,CONCACAF Championship,the United States,10,-10,1669,1400,3,-3,49,101
+2025-06-16,Panama,Guadeloupe,5,2,CONCACAF Championship,the United States,10,-10,1739,1366,0,-4,38,118
+2025-06-16,Guatemala,Jamaica,1,0,CONCACAF Championship,the United States,32,-32,1514,1556,4,-5,79,70
+2025-06-17,Curaçao,El Salvador,0,0,CONCACAF Championship,the United States,0,0,1389,1389,0,0,105,105
+2025-06-17,Canada,Honduras,6,0,CONCACAF Championship,Canada,14,-14,1799,1548,2,-5,27,73
+2025-06-18,Mexico,Suriname,2,0,CONCACAF Championship,the United States,6,-6,1821,1394,0,-3,24,104
+2025-06-18,Costa Rica,Dominican Republic,2,1,CONCACAF Championship,the United States,5,-5,1674,1281,0,-2,49,144
+2025-06-19,United States,Saudi Arabia,1,0,CONCACAF Championship,the United States,12,-12,1715,1597,3,-4,41,63
+2025-06-19,Haiti,Trinidad and Tobago,1,1,CONCACAF Championship,the United States,-7,7,1473,1394,-2,3,86,104
+2025-06-20,Panama,Guatemala,1,0,CONCACAF Championship,the United States,11,-11,1750,1503,3,-1,35,80
+2025-06-20,Jamaica,Guadeloupe,2,1,CONCACAF Championship,the United States,13,-13,1569,1353,1,-3,68,121
+2025-06-21,Honduras,El Salvador,2,0,CONCACAF Championship,the United States,21,-21,1569,1368,5,-11,68,117
+2025-06-21,Canada,Curaçao,1,1,CONCACAF Championship,the United States,-21,21,1778,1410,-3,8,30,98
+2025-06-22,United States,Haiti,2,1,CONCACAF Championship,the United States,6,-6,1721,1467,1,0,40,86
+2025-06-22,Saudi Arabia,Trinidad and Tobago,1,1,CONCACAF Championship,the United States,-13,13,1584,1407,-2,6,65,99
+2025-06-22,Dominican Republic,Suriname,0,0,CONCACAF Championship,the United States,8,-8,1289,1386,3,-2,141,107
+2025-06-22,Costa Rica,Mexico,0,0,CONCACAF Championship,the United States,10,-10,1684,1811,2,-1,47,25
+2025-06-24,Panama,Jamaica,4,1,CONCACAF Championship,the United States,23,-23,1773,1546,3,-5,32,73
+2025-06-24,Honduras,Curaçao,2,1,CONCACAF Championship,the United States,14,-14,1583,1396,2,-5,66,103
+2025-06-24,Guatemala,Guadeloupe,3,2,CONCACAF Championship,the United States,15,-15,1518,1338,3,-3,77,124
+2025-06-24,Canada,El Salvador,2,0,CONCACAF Championship,the United States,6,-6,1784,1362,0,-2,30,119
+2025-06-28,Panama,Honduras,1,1,CONCACAF Championship,the United States,-12,12,1761,1595,-1,3,33,63
+2025-06-28,Mexico,Saudi Arabia,2,0,CONCACAF Championship,the United States,16,-16,1827,1568,2,-3,23,68
+2025-06-29,United States,Costa Rica,2,2,CONCACAF Championship,the United States,-9,9,1712,1693,-1,1,41,46
+2025-06-29,Canada,Guatemala,1,1,CONCACAF Championship,the United States,-16,16,1768,1534,-2,2,32,75
+2025-07-02,United States,Guatemala,2,1,CONCACAF Championship,the United States,8,-8,1720,1526,1,0,40,75
+2025-07-02,Mexico,Honduras,1,0,CONCACAF Championship,the United States,10,-10,1837,1585,2,-2,21,65
+2025-07-06,Malawi,Botswana,1,1,Independence Cup,Malawi,0,0,1256,1352,0,0,151,121
+2025-07-06,United States,Mexico,1,2,CONCACAF Championship,the United States,-24,24,1696,1861,-5,5,45,16
+2025-07-07,South Korea,China,3,0,East Asian Championship,South Korea,4,-4,1774,1399,0,-1,31,101
+2025-07-08,Japan,Hong Kong,6,1,East Asian Championship,South Korea,1,-1,1858,1146,0,0,17,164
+2025-07-11,South Korea,Hong Kong,2,0,East Asian Championship,South Korea,1,-1,1775,1145,0,0,31,164
+2025-07-12,Japan,China,2,0,East Asian Championship,South Korea,4,-4,1862,1395,1,-4,16,105
+2025-07-15,South Korea,Japan,0,1,East Asian Championship,South Korea,-21,21,1754,1883,-3,3,34,13
+2025-07-15,China,Hong Kong,1,0,East Asian Championship,South Korea,8,-8,1403,1137,5,-2,100,166
+2025-08-13,Turks and Caicos Islands,US Virgin Islands,1,1,Outrigger Challenger Cup,the United States,-3,3,645,590,0,0,226,233
+2025-08-14,US Virgin Islands,Marshall Islands,4,0,Outrigger Challenger Cup,the United States,29,-29,619,571,2,0,231,235
+2025-08-16,Turks and Caicos Islands,Marshall Islands,3,2,Outrigger Challenger Cup,the United States,12,-12,657,559,0,-2,226,237
+2025-08-24,Qatar,Lebanon,0,1,Friendly,Qatar,-17,17,1500,1345,-3,5,82,123
+2025-08-29,Tajikistan,India,1,2,Central Asian Nations Cup,Tajikistan,-32,32,1256,1174,-8,2,150,162
+2025-08-29,Iran,Afghanistan,3,1,Central Asian Nations Cup,Tajikistan,1,-1,1802,1056,0,0,26,179
+2025-08-30,Uzbekistan,Oman,1,1,Central Asian Nations Cup,Uzbekistan,-14,14,1693,1515,-3,2,45,79
+2025-08-30,Kyrgyzstan,Turkmenistan,1,1,Central Asian Nations Cup,Uzbekistan,-5,5,1327,1256,0,2,128,150
+2025-09-01,Tajikistan,Afghanistan,2,0,Central Asian Nations Cup,Tajikistan,9,-9,1265,1047,3,0,147,179
+2025-09-01,Iran,India,3,0,Central Asian Nations Cup,Tajikistan,2,-2,1804,1172,0,0,26,162
+2025-09-02,Uzbekistan,Turkmenistan,2,1,Central Asian Nations Cup,Uzbekistan,2,-2,1695,1254,0,-1,45,152
+2025-09-02,Oman,Kyrgyzstan,2,1,Central Asian Nations Cup,Uzbekistan,10,-10,1525,1317,3,-6,76,134
+2025-09-03,Qatar,Bahrain,2,2,Friendly,Qatar,-4,4,1496,1453,0,2,82,91
+2025-09-03,Gabon,Seychelles,4,0,World Cup qualifier,Mauritius,2,-2,1462,849,0,0,87,203
+2025-09-04,United Arab Emirates,Syria,3,1,Friendly,the United Arab Emirates,7,-7,1544,1436,0,1,74,93
+2025-09-04,Saudi Arabia,North Macedonia,2,1,Friendly,Czechia,12,-12,1580,1622,1,-4,67,57
+2025-09-04,Russia,Jordan,0,0,Friendly,Russia,-6,6,1787,1630,1,3,27,54
+2025-09-04,Norway,Finland,1,0,Friendly,Norway,2,-2,1868,1554,0,0,15,70
+2025-09-04,Malaysia,Singapore,2,1,Friendly,Malaysia,3,-3,1294,1079,1,0,138,176
+2025-09-04,Gibraltar,Albania,0,1,Friendly,Gibraltar,-1,1,1045,1628,0,0,180,56
+2025-09-04,Thailand,Fiji,3,0,King's Cup,Thailand,11,-11,1362,1216,2,-4,120,158
+2025-09-04,Iraq,Hong Kong,2,1,King's Cup,Thailand,3,-3,1553,1134,0,-1,71,167
+2025-09-04,Tajikistan,Iran,2,2,Central Asian Nations Cup,Tajikistan,17,-17,1282,1787,3,-1,144,27
+2025-09-04,Afghanistan,India,0,0,Central Asian Nations Cup,Tajikistan,7,-7,1054,1165,0,-1,179,163
+2025-09-04,Tunisia,Liberia,3,0,World Cup qualifier,Tunisia,5,-5,1618,1257,-1,0,59,150
+2025-09-04,Mauritius,Cape Verde,0,2,World Cup qualifier,Mauritius,-8,8,1087,1526,0,4,175,75
+2025-09-04,Mali,Comoros,3,0,World Cup qualifier,Morocco,19,-19,1620,1406,4,-4,58,100
+2025-09-04,Madagascar,Central African Republic,2,0,World Cup qualifier,Morocco,29,-29,1313,1248,8,-8,135,153
+2025-09-04,Guinea-Bissau,Sierra Leone,1,1,World Cup qualifier,Guinea-Bissau,-2,2,1262,1327,0,0,148,128
+2025-09-04,Equatorial Guinea,Sao Tome and Principe,3,2,World Cup qualifier,Morocco,3,-3,1483,1035,0,-1,84,184
+2025-09-04,Chad,Ghana,1,1,World Cup qualifier,Chad,11,-11,1162,1466,0,-1,164,86
+2025-09-04,Cameroon,Eswatini,3,0,World Cup qualifier,Cameroon,4,-4,1597,1213,1,-1,62,160
+2025-09-04,Angola,Libya,0,1,World Cup qualifier,Angola,-35,35,1571,1420,-9,12,69,97
+2025-09-04,Algeria,Botswana,3,1,World Cup qualifier,Algeria,4,-4,1708,1348,1,-1,41,122
+2025-09-04,Slovakia,Germany,2,0,World Cup qualifier,Slovakia,42,-42,1707,1871,9,-4,42,14
+2025-09-04,Netherlands,Poland,1,1,World Cup qualifier,the Netherlands,-16,16,1959,1698,0,4,7,44
+2025-09-04,Luxembourg,Northern Ireland,1,3,World Cup qualifier,Luxembourg,-29,29,1426,1591,-5,6,95,63
+2025-09-04,Lithuania,Malta,1,1,World Cup qualifier,Lithuania,-8,8,1285,1258,-5,4,142,149
+2025-09-04,Liechtenstein,Belgium,0,6,World Cup qualifier,Liechtenstein,-1,1,904,1848,0,-1,200,19
+2025-09-04,Kazakhstan,Wales,0,1,World Cup qualifier,Kazakhstan,-9,9,1393,1735,-7,1,108,38
+2025-09-04,Georgia,Turkey,2,3,World Cup qualifier,Georgia,-19,19,1691,1855,-7,5,48,18
+2025-09-04,Bulgaria,Spain,0,3,World Cup qualifier,Bulgaria,-2,2,1450,2159,1,0,91,1
+2025-09-04,Suriname,Panama,0,0,World Cup qualifier,Suriname,13,-13,1399,1748,5,-4,102,36
+2025-09-04,Guatemala,El Salvador,0,1,World Cup qualifier,Guatemala,-33,33,1493,1395,-7,12,82,107
+2025-09-04,Uruguay,Peru,3,0,World Cup qualifier,Uruguay,13,-13,1914,1730,2,-1,10,39
+2025-09-04,Paraguay,Ecuador,0,0,World Cup qualifier,Paraguay,-1,1,1824,1907,0,0,24,11
+2025-09-04,Colombia,Bolivia,3,0,World Cup qualifier,Colombia,7,-7,1957,1657,0,0,8,52
+2025-09-04,Brazil,Chile,3,0,World Cup qualifier,Brazil,6,-6,2007,1683,0,-2,5,49
+2025-09-04,Argentina,Venezuela,3,0,World Cup qualifier,Argentina,4,-4,2136,1741,0,0,2,37
+2025-09-05,Romania,Canada,0,3,Friendly,Romania,-18,18,1663,1786,-1,1,51,30
+2025-09-05,Indonesia,Taiwan,6,0,Friendly,Indonesia,1,-1,1358,880,4,0,117,202
+2025-09-05,Australia,New Zealand,1,0,Friendly,Australia,3,-3,1779,1599,-1,0,31,61
+2025-09-05,Uzbekistan,Kyrgyzstan,4,0,Central Asian Nations Cup,Uzbekistan,4,-4,1699,1313,2,1,44,133
+2025-09-05,Oman,Turkmenistan,2,1,Central Asian Nations Cup,Uzbekistan,7,-7,1532,1247,1,-1,75,153
+2025-09-05,Uganda,Mozambique,4,0,World Cup qualifier,Uganda,32,-32,1413,1400,13,-10,99,104
+2025-09-05,South Sudan,DR Congo,1,4,World Cup qualifier,South Sudan,-8,8,1125,1591,-2,3,171,63
+2025-09-05,South Africa,Lesotho,3,0,World Cup qualifier,South Africa,6,-6,1529,1216,1,0,76,157
+2025-09-05,Senegal,Sudan,2,0,World Cup qualifier,Senegal,3,-3,1788,1393,3,-3,26,107
+2025-09-05,Morocco,Niger,5,0,World Cup qualifier,Morocco,3,-3,1815,1334,0,-2,25,128
+2025-09-05,Mauritania,Togo,2,0,World Cup qualifier,Mauritania,25,-25,1358,1345,10,-5,117,122
+2025-09-05,Malawi,Namibia,2,1,World Cup qualifier,Botswana,27,-27,1283,1353,7,-6,144,119
+2025-09-05,Kenya,Gambia,1,3,World Cup qualifier,Kenya,-38,38,1338,1424,-11,14,125,96
+2025-09-05,Ivory Coast,Burundi,1,0,World Cup qualifier,Ivory Coast,4,-4,1591,1288,1,-2,63,141
+2025-09-05,Guinea,Somalia,3,0,World Cup qualifier,Uganda,3,-3,1453,908,1,0,90,197
+2025-09-05,Egypt,Ethiopia,2,0,World Cup qualifier,Egypt,3,-3,1669,1276,1,-1,50,146
+2025-09-05,Congo,Tanzania,1,1,World Cup qualifier,Congo,4,-4,1227,1392,1,-5,154,109
+2025-09-05,Burkina Faso,Djibouti,6,0,World Cup qualifier,Guinea-Bissau,3,-3,1505,926,1,0,79,194
+2025-09-05,Benin,Zimbabwe,1,0,World Cup qualifier,Ivory Coast,19,-19,1426,1379,4,-9,94,112
+2025-09-05,Switzerland,Kosovo,4,0,World Cup qualifier,Switzerland,9,-9,1854,1600,2,0,18,60
+2025-09-05,Slovenia,Sweden,2,2,World Cup qualifier,Slovenia,-5,5,1747,1765,-2,-1,36,33
+2025-09-05,Montenegro,Czechia,0,2,World Cup qualifier,Montenegro,-19,19,1494,1768,-2,3,81,32
+2025-09-05,Moldova,Israel,0,4,World Cup qualifier,Moldova,-17,17,1302,1646,-2,2,135,53
+2025-09-05,Italy,Estonia,5,0,World Cup qualifier,Italy,2,-2,1884,1364,1,3,12,115
+2025-09-05,Iceland,Azerbaijan,5,0,World Cup qualifier,Iceland,13,-13,1563,1352,2,-1,70,120
+2025-09-05,Greece,Belarus,5,1,World Cup qualifier,Greece,5,-5,1843,1487,0,0,22,83
+2025-09-05,France,Ukraine,2,0,World Cup qualifier,Poland,11,-11,2066,1788,0,0,3,26
+2025-09-05,Faroe Islands,Croatia,0,1,World Cup qualifier,the Faroe Islands,-2,2,1273,1928,-1,0,147,9
+2025-09-05,Denmark,Scotland,0,0,World Cup qualifier,Denmark,-12,12,1852,1729,-3,0,19,40
+2025-09-05,Trinidad and Tobago,Curaçao,0,0,World Cup qualifier,Trinidad and Tobago,-6,6,1401,1402,-5,2,103,102
+2025-09-05,Nicaragua,Costa Rica,1,1,World Cup qualifier,Nicaragua,13,-13,1338,1680,4,-2,125,49
+2025-09-05,Haiti,Honduras,0,0,World Cup qualifier,Curaçao,7,-7,1474,1578,0,-2,85,67
+2025-09-05,Bermuda,Jamaica,0,4,World Cup qualifier,Bermuda,-13,13,1155,1559,-2,2,164,71
+2025-09-06,United States,South Korea,0,2,Friendly,the United States,-17,17,1679,1771,-3,2,49,32
+2025-09-06,Sri Lanka,Maldives,0,3,South Asian Super Cup,Sri Lanka,-29,29,752,870,-1,2,213,203
+2025-09-06,Nepal,Bangladesh,0,0,Friendly,Nepal,-3,3,923,910,-1,2,195,197
+2025-09-06,Japan,Mexico,0,0,Friendly,the United States,-1,1,1882,1862,0,0,13,16
+2025-09-06,Nigeria,Rwanda,1,0,World Cup qualifier,Nigeria,5,-5,1581,1315,2,0,66,132
+2025-09-06,San Marino,Bosnia and Herzegovina,0,6,World Cup qualifier,San Marino,-3,3,842,1526,-1,1,205,77
+2025-09-06,Latvia,Serbia,0,1,World Cup qualifier,Latvia,-3,3,1298,1840,0,0,136,23
+2025-09-06,Ireland,Hungary,2,2,World Cup qualifier,Ireland,-2,2,1631,1703,0,0,54,43
+2025-09-06,England,Andorra,2,0,World Cup qualifier,England,0,0,1984,1066,0,0,6,177
+2025-09-06,Austria,Cyprus,1,0,World Cup qualifier,Austria,1,-1,1846,1298,0,1,21,136
+2025-09-06,Armenia,Portugal,0,5,World Cup qualifier,Armenia,-3,3,1384,2033,0,0,110,4
+2025-09-07,Qatar,Russia,1,4,Friendly,Qatar,-9,9,1487,1796,-2,2,82,26
+2025-09-07,Thailand,Iraq,0,1,King's Cup,Thailand,-11,11,1351,1564,-4,3,120,70
+2025-09-07,Hong Kong,Fiji,8,0,King's Cup,Thailand,44,-44,1178,1172,7,-5,160,162
+2025-09-07,Comoros,Central African Republic,2,0,World Cup qualifier,Morocco,17,-17,1423,1231,3,-1,97,153
+2025-09-07,Georgia,Bulgaria,3,0,World Cup qualifier,Georgia,9,-9,1700,1441,1,0,45,92
+2025-09-07,Turkey,Spain,0,6,World Cup qualifier,Turkey,-20,20,1835,2179,-6,0,23,1
+2025-09-07,Poland,Finland,3,1,World Cup qualifier,Poland,12,-12,1710,1542,3,-2,42,74
+2025-09-07,North Macedonia,Liechtenstein,5,0,World Cup qualifier,North Macedonia,1,-1,1623,903,0,0,57,200
+2025-09-07,Luxembourg,Slovakia,0,1,World Cup qualifier,Luxembourg,-10,10,1416,1717,-5,1,99,41
+2025-09-07,Lithuania,Netherlands,2,3,World Cup qualifier,Lithuania,-1,1,1284,1960,-1,0,143,7
+2025-09-07,Germany,Northern Ireland,3,1,World Cup qualifier,Germany,6,-6,1877,1585,0,-2,14,65
+2025-09-07,Belgium,Kazakhstan,6,0,World Cup qualifier,Belgium,3,-3,1851,1390,1,-2,19,109
+2025-09-08,United Arab Emirates,Bahrain,1,0,Friendly,the United Arab Emirates,5,-5,1549,1448,0,0,73,90
+2025-09-08,Malaysia,Palestine,1,0,Friendly,Malaysia,12,-12,1306,1448,3,-2,135,90
+2025-09-08,Kuwait,Syria,2,2,Friendly,Qatar,4,-4,1294,1432,0,0,139,93
+2025-09-08,Indonesia,Lebanon,0,0,Friendly,Indonesia,-3,3,1355,1348,-1,1,117,121
+2025-09-08,Czechia,Saudi Arabia,1,1,Friendly,Czechia,-7,7,1761,1587,0,2,33,65
+2025-09-08,Uzbekistan,Iran,1,0,Central Asian Nations Cup,Uzbekistan,19,-19,1718,1768,5,-3,41,32
+2025-09-08,India,Oman,1,1,Central Asian Nations Cup,Tajikistan,16,-16,1181,1516,3,-3,160,78
+2025-09-08,Zambia,Morocco,0,2,World Cup qualifier,Zambia,-8,8,1375,1823,0,1,111,24
+2025-09-08,Uganda,Somalia,2,0,World Cup qualifier,Uganda,2,-2,1415,906,-2,-1,102,199
+2025-09-08,Mozambique,Botswana,2,0,World Cup qualifier,Mozambique,18,-18,1418,1330,4,-8,100,129
+2025-09-08,Malawi,Liberia,2,2,World Cup qualifier,Malawi,-7,7,1276,1264,-2,2,146,149
+2025-09-08,Madagascar,Chad,3,1,World Cup qualifier,Morocco,18,-18,1331,1144,5,-1,128,165
+2025-09-08,Libya,Eswatini,2,0,World Cup qualifier,Libya,9,-9,1429,1204,4,0,94,159
+2025-09-08,Guinea-Bissau,Djibouti,2,0,World Cup qualifier,Guinea-Bissau,5,-5,1267,921,1,-1,148,195
+2025-09-08,Ghana,Mali,1,0,World Cup qualifier,Ghana,23,-23,1489,1597,4,-3,82,61
+2025-09-08,Equatorial Guinea,Tunisia,0,1,World Cup qualifier,Equatorial Guinea,-18,18,1465,1636,-3,5,87,54
+2025-09-08,Algeria,Guinea,0,0,World Cup qualifier,Morocco,-13,13,1695,1466,-3,4,46,86
+2025-09-08,Switzerland,Slovenia,3,0,World Cup qualifier,Switzerland,16,-16,1870,1731,1,-2,16,38
+2025-09-08,Scotland,Belarus,2,0,World Cup qualifier,Hungary,12,-12,1741,1475,6,-2,34,84
+2025-09-08,Kosovo,Sweden,2,0,World Cup qualifier,Kosovo,36,-36,1636,1729,6,-6,54,40
+2025-09-08,Italy,Israel,5,4,World Cup qualifier,Hungary,8,-8,1892,1638,-1,0,13,53
+2025-09-08,Greece,Denmark,0,3,World Cup qualifier,Greece,-44,44,1799,1896,-4,6,25,12
+2025-09-08,Gibraltar,Faroe Islands,0,1,World Cup qualifier,Gibraltar,-13,13,1032,1286,-4,5,184,142
+2025-09-08,Croatia,Montenegro,4,0,World Cup qualifier,Croatia,3,-3,1931,1491,0,-1,9,81
+2025-09-08,Panama,Guatemala,1,1,World Cup qualifier,Panama,-15,15,1733,1508,-2,2,37,79
+2025-09-08,El Salvador,Suriname,1,2,World Cup qualifier,El Salvador,-25,25,1370,1424,-8,9,114,96
+2025-09-09,Wales,Canada,0,1,Friendly,Wales,-11,11,1724,1797,-2,2,38,27
+2025-09-09,United States,Japan,2,0,Friendly,the United States,19,-19,1698,1863,4,-3,45,17
+2025-09-09,Sri Lanka,Maldives,1,1,South Asian Super Cup,Sri Lanka,1,-1,753,869,0,0,213,203
+2025-09-09,Singapore,Myanmar,1,1,Friendly,Singapore,-6,6,1073,957,-1,0,177,190
+2025-09-09,New Zealand,Australia,1,3,Friendly,New Zealand,-12,12,1587,1791,-2,1,62,29
+2025-09-09,Mexico,South Korea,2,2,Friendly,the United States,-3,3,1859,1774,0,1,18,30
+2025-09-09,Malta,San Marino,3,1,Friendly,Malta,1,-1,1259,841,1,0,150,205
+2025-09-09,Jordan,Dominican Republic,3,0,Friendly,Jordan,3,-3,1633,1286,1,0,56,140
+2025-09-09,Estonia,Andorra,0,0,Friendly,Estonia,-8,8,1356,1074,-3,1,118,176
+2025-09-09,Togo,Sudan,1,0,World Cup qualifier,Togo,17,-17,1362,1376,5,-2,117,108
+2025-09-09,Tanzania,Niger,0,1,World Cup qualifier,Tanzania,-29,29,1363,1363,-7,13,114,114
+2025-09-09,South Africa,Nigeria,1,1,World Cup qualifier,South Africa,-3,3,1526,1584,-1,1,76,66
+2025-09-09,Sierra Leone,Ethiopia,2,0,World Cup qualifier,Liberia,26,-26,1353,1250,9,-5,121,151
+2025-09-09,Rwanda,Zimbabwe,1,0,World Cup qualifier,South Africa,24,-24,1339,1355,6,-9,127,119
+2025-09-09,Namibia,Sao Tome and Principe,3,0,World Cup qualifier,Botswana,10,-10,1363,1025,4,-1,114,184
+2025-09-09,Mauritania,South Sudan,0,0,World Cup qualifier,Mauritania,-15,15,1343,1140,-9,5,125,166
+2025-09-09,Kenya,Seychelles,5,0,World Cup qualifier,Kenya,3,-3,1341,846,-2,0,126,204
+2025-09-09,Gambia,Burundi,2,0,World Cup qualifier,Kenya,19,-19,1443,1269,4,-5,92,146
+2025-09-09,Gabon,Ivory Coast,0,0,World Cup qualifier,Gabon,2,-2,1464,1589,0,2,88,61
+2025-09-09,DR Congo,Senegal,2,3,World Cup qualifier,DR Congo,-15,15,1576,1803,-5,2,68,25
+2025-09-09,Cape Verde,Cameroon,1,0,World Cup qualifier,Cape Verde,18,-18,1544,1579,2,-6,74,67
+2025-09-09,Burkina Faso,Egypt,0,0,World Cup qualifier,Burkina Faso,4,-4,1509,1665,1,-1,79,51
+2025-09-09,Benin,Lesotho,4,0,World Cup qualifier,Ivory Coast,17,-17,1443,1199,3,-2,92,159
+2025-09-09,Angola,Mauritius,3,1,World Cup qualifier,Angola,2,-2,1573,1085,0,0,69,175
+2025-09-09,Serbia,England,0,5,World Cup qualifier,Serbia,-35,35,1805,2019,-3,1,24,5
+2025-09-09,Norway,Moldova,11,1,World Cup qualifier,Norway,2,-2,1870,1300,2,-1,15,137
+2025-09-09,Hungary,Portugal,2,3,World Cup qualifier,Hungary,-8,8,1695,2041,-2,0,46,4
+2025-09-09,France,Iceland,2,1,World Cup qualifier,France,1,-1,2067,1562,0,-1,3,72
+2025-09-09,Cyprus,Romania,2,2,World Cup qualifier,Cyprus,13,-13,1311,1650,2,-1,135,52
+2025-09-09,Bosnia and Herzegovina,Austria,1,2,World Cup qualifier,Bosnia and Herzegovina,-9,9,1517,1855,-1,1,77,19
+2025-09-09,Azerbaijan,Ukraine,1,1,World Cup qualifier,Azerbaijan,15,-15,1367,1773,6,-4,113,31
+2025-09-09,Armenia,Ireland,2,1,World Cup qualifier,Armenia,28,-28,1412,1603,6,-3,103,59
+2025-09-09,Albania,Latvia,1,0,World Cup qualifier,Albania,3,-3,1631,1295,1,-1,57,138
+2025-09-09,Jamaica,Trinidad and Tobago,2,0,World Cup qualifier,Jamaica,11,-11,1570,1390,2,-1,70,106
+2025-09-09,Honduras,Nicaragua,2,0,World Cup qualifier,Honduras,7,-7,1585,1331,4,-5,64,129
+2025-09-09,Curaçao,Bermuda,3,2,World Cup qualifier,Curaçao,5,-5,1407,1150,0,0,104,164
+2025-09-09,Costa Rica,Haiti,3,3,World Cup qualifier,Costa Rica,-14,14,1666,1488,-2,2,50,83
+2025-09-09,Venezuela,Colombia,3,6,World Cup qualifier,Venezuela,-24,24,1717,1981,-6,2,40,6
+2025-09-09,Peru,Paraguay,0,1,World Cup qualifier,Peru,-20,20,1710,1844,-3,2,42,21
+2025-09-09,Ecuador,Argentina,1,0,World Cup qualifier,Ecuador,27,-27,1934,2109,2,0,9,2
+2025-09-09,Chile,Uruguay,0,0,World Cup qualifier,Chile,7,-7,1690,1907,-1,-1,48,11
+2025-09-09,Bolivia,Brazil,1,0,World Cup qualifier,Bolivia,32,-32,1689,1975,3,-2,49,7
+2025-10-03,Saint Kitts and Nevis,Saint Martin,5,0,Friendly,Saint Kitts and Nevis,15,-15,1040,1028,3,-3,181,184
+2025-10-04,Saint Kitts and Nevis,Saint Martin,2,1,Friendly,Saint Kitts and Nevis,7,-7,1047,1021,1,-1,180,185
+2025-10-05,Saint Vincent and the Grenadines,Cuba,7,0,Friendly,Saint Vincent and the Grenadines,22,-22,1159,1202,4,-3,164,158
+2025-10-08,Saint Vincent and the Grenadines,Cuba,1,0,Friendly,Saint Vincent and the Grenadines,8,-8,1167,1194,0,-1,164,159
+2025-10-08,Grenada,British Virgin Islands,4,1,Friendly,Grenada,1,-1,1107,626,0,0,173,228
+2025-10-08,Gibraltar,New Caledonia,0,2,Friendly,Gibraltar,-9,9,1023,1294,-1,3,184,139
+2025-10-08,Saudi Arabia,Indonesia,3,2,World Cup qualifier,Saudi Arabia,5,-5,1592,1350,1,-2,61,121
+2025-10-08,Qatar,Oman,0,0,World Cup qualifier,Qatar,-4,4,1483,1520,0,0,84,78
+2025-10-08,Tanzania,Zambia,0,1,World Cup qualifier,Tanzania,-25,25,1338,1400,-14,4,128,105
+2025-10-08,Niger,Congo,3,1,World Cup qualifier,Burkina Faso,19,-19,1382,1208,5,-3,109,157
+2025-10-08,Mauritius,Cameroon,0,2,World Cup qualifier,Mauritius,-6,6,1079,1585,0,3,175,64
+2025-10-08,Madagascar,Comoros,2,1,World Cup qualifier,Ivory Coast,25,-25,1356,1398,12,-7,117,106
+2025-10-08,Libya,Cape Verde,3,3,World Cup qualifier,Libya,1,-1,1430,1543,0,0,96,74
+2025-10-08,Ghana,Central African Republic,5,0,World Cup qualifier,Morocco,15,-15,1504,1216,1,-2,81,155
+2025-10-08,Ethiopia,Guinea-Bissau,1,0,World Cup qualifier,Rwanda,21,-21,1271,1246,5,-5,146,152
+2025-10-08,Eswatini,Angola,2,2,World Cup qualifier,Eswatini,13,-13,1217,1560,3,-3,154,72
+2025-10-08,Egypt,Djibouti,3,0,World Cup qualifier,Morocco,1,-1,1666,920,1,0,50,195
+2025-10-08,Chad,Mali,0,2,World Cup qualifier,Chad,-7,7,1137,1604,-2,1,168,59
+2025-10-08,Burkina Faso,Sierra Leone,1,0,World Cup qualifier,Liberia,12,-12,1521,1341,2,-4,77,125
+2025-10-09,Uzbekistan,Kuwait,2,0,Friendly,Uzbekistan,1,-1,1719,1293,0,-3,39,142
+2025-10-09,Romania,Moldova,2,1,Friendly,Romania,1,-1,1651,1299,0,-1,52,138
+2025-10-09,Poland,New Zealand,1,0,Friendly,Poland,4,-4,1714,1583,0,-4,42,67
+2025-10-09,Morocco,Bahrain,1,0,Friendly,Morocco,1,-1,1824,1447,0,0,23,90
+2025-10-09,England,Wales,3,0,Friendly,England,3,-3,2022,1721,0,0,5,38
+2025-10-09,Vietnam,Nepal,3,1,Asian Cup qualifier,Vietnam,3,-3,1324,920,1,0,131,194
+2025-10-09,Thailand,Taiwan,2,0,Asian Cup qualifier,Thailand,2,-2,1353,878,0,0,120,202
+2025-10-09,Tajikistan,Maldives,2,0,Asian Cup qualifier,Tajikistan,3,-3,1285,866,0,0,144,203
+2025-10-09,Syria,Myanmar,5,1,Asian Cup qualifier,Saudi Arabia,5,-5,1437,952,0,0,95,190
+2025-10-09,Sri Lanka,Turkmenistan,1,0,Asian Cup qualifier,Sri Lanka,36,-36,789,1211,3,-5,210,156
+2025-10-09,Singapore,India,1,1,Asian Cup qualifier,Singapore,0,0,1073,1181,0,-1,177,161
+2025-10-09,Philippines,East Timor,4,1,Asian Cup qualifier,Australia,5,-5,1138,684,2,0,168,223
+2025-10-09,Pakistan,Afghanistan,0,0,Asian Cup qualifier,Pakistan,8,-8,823,1046,1,-1,208,180
+2025-10-09,Lebanon,Bhutan,2,0,Asian Cup qualifier,Qatar,1,-1,1349,620,0,0,122,230
+2025-10-09,Laos,Malaysia,0,3,Asian Cup qualifier,Laos,-4,4,712,1310,-1,1,219,135
+2025-10-09,Brunei,Yemen,0,2,Asian Cup qualifier,Brunei,-7,7,663,1128,0,1,225,171
+2025-10-09,Bangladesh,Hong Kong,3,4,Asian Cup qualifier,Bangladesh,-11,11,899,1189,-4,1,201,160
+2025-10-09,Mozambique,Guinea,1,2,World Cup qualifier,Mozambique,-23,23,1395,1489,-7,3,106,83
+2025-10-09,Liberia,Namibia,3,1,World Cup qualifier,Liberia,30,-30,1294,1333,8,-15,140,130
+2025-10-09,Burundi,Kenya,0,1,World Cup qualifier,Burundi,-22,22,1247,1363,-3,10,150,115
+2025-10-09,Botswana,Uganda,0,1,World Cup qualifier,Botswana,-21,21,1309,1436,-5,5,136,96
+2025-10-09,Algeria,Somalia,3,0,World Cup qualifier,Algeria,0,0,1695,906,0,1,46,198
+2025-10-09,Scotland,Greece,3,1,World Cup qualifier,Scotland,26,-26,1767,1773,1,-4,33,30
+2025-10-09,Malta,Netherlands,0,4,World Cup qualifier,Malta,-2,2,1257,1962,1,0,149,8
+2025-10-09,Finland,Lithuania,2,1,World Cup qualifier,Finland,5,-5,1547,1279,1,-2,74,145
+2025-10-09,Faroe Islands,Montenegro,4,0,World Cup qualifier,the Faroe Islands,49,-49,1335,1442,12,-11,129,93
+2025-10-09,Denmark,Belarus,6,0,World Cup qualifier,Hungary,7,-7,1903,1468,0,0,12,85
+2025-10-09,Czechia,Croatia,0,0,World Cup qualifier,Czechia,4,-4,1765,1927,-1,0,34,10
+2025-10-09,Cyprus,Bosnia and Herzegovina,2,2,World Cup qualifier,Cyprus,6,-6,1317,1511,2,-1,133,80
+2025-10-09,Austria,San Marino,10,0,World Cup qualifier,Austria,0,0,1855,841,0,0,19,205
+2025-10-09,Honduras,Costa Rica,0,0,World Cup qualifier,Honduras,-1,1,1584,1667,-1,0,65,50
+2025-10-09,Nicaragua,Haiti,0,3,World Cup qualifier,Nicaragua,-29,29,1302,1517,-7,4,137,79
+2025-10-10,Uruguay,Dominican Republic,1,0,Friendly,Malaysia,1,-1,1908,1285,0,0,11,143
+2025-10-10,United States,Ecuador,1,1,Friendly,the United States,4,-4,1702,1930,3,0,42,9
+2025-10-10,South Korea,Brazil,0,5,Friendly,South Korea,-14,14,1760,1989,-5,1,34,6
+2025-10-10,Russia,Iran,2,1,Friendly,Russia,6,-6,1802,1762,0,-1,27,33
+2025-10-10,Japan,Paraguay,2,2,Friendly,Japan,-3,3,1860,1847,0,1,17,20
+2025-10-10,Chile,Peru,2,1,Friendly,Chile,8,-8,1698,1702,3,1,45,42
+2025-10-10,Canada,Australia,0,1,Friendly,Canada,-13,13,1784,1804,-3,2,29,26
+2025-10-10,Bolivia,Jordan,1,0,Friendly,Turkey,8,-8,1697,1625,3,-2,46,58
+2025-10-10,Argentina,Venezuela,1,0,Friendly,the United States,2,-2,2111,1715,0,1,2,39
+2025-10-10,Tunisia,Sao Tome and Principe,6,0,World Cup qualifier,Tunisia,1,-1,1637,1024,-1,0,55,183
+2025-10-10,Togo,DR Congo,0,1,World Cup qualifier,Togo,-14,14,1348,1590,-6,5,122,63
+2025-10-10,South Sudan,Senegal,0,5,World Cup qualifier,South Sudan,-3,3,1137,1806,-1,1,167,24
+2025-10-10,South Africa,Zimbabwe,0,0,World Cup qualifier,South Africa,-13,13,1513,1368,-3,6,79,113
+2025-10-10,Rwanda,Benin,0,1,World Cup qualifier,Rwanda,-20,20,1319,1463,-6,3,132,88
+2025-10-10,Nigeria,Lesotho,2,1,World Cup qualifier,South Africa,4,-4,1588,1195,0,0,65,158
+2025-10-10,Mauritania,Sudan,0,0,World Cup qualifier,Tanzania,2,-2,1345,1374,1,-1,123,111
+2025-10-10,Ivory Coast,Seychelles,7,0,World Cup qualifier,Mauritius,1,-1,1590,845,-1,0,63,204
+2025-10-10,Gabon,Gambia,4,3,World Cup qualifier,Kenya,19,-19,1483,1424,3,-7,84,98
+2025-10-10,Sweden,Switzerland,0,2,World Cup qualifier,Sweden,-26,26,1703,1896,-4,2,41,13
+2025-10-10,Northern Ireland,Slovakia,2,0,World Cup qualifier,Northern Ireland,33,-33,1618,1684,4,-9,59,49
+2025-10-10,Kosovo,Slovenia,0,0,World Cup qualifier,Kosovo,0,0,1636,1731,-2,0,56,36
+2025-10-10,Kazakhstan,Liechtenstein,4,0,World Cup qualifier,Kazakhstan,2,-2,1392,901,-1,-1,108,200
+2025-10-10,Iceland,Ukraine,3,5,World Cup qualifier,Iceland,-21,21,1541,1794,-3,2,74,28
+2025-10-10,Germany,Luxembourg,4,0,World Cup qualifier,Germany,3,-3,1880,1413,-1,-1,15,101
+2025-10-10,France,Azerbaijan,3,0,World Cup qualifier,France,1,-1,2068,1366,0,0,3,114
+2025-10-10,Belgium,North Macedonia,0,0,World Cup qualifier,Belgium,-15,15,1836,1638,-1,5,21,53
+2025-10-10,Suriname,Guatemala,1,1,World Cup qualifier,Suriname,-1,1,1423,1509,-2,0,100,81
+2025-10-10,El Salvador,Panama,0,1,World Cup qualifier,El Salvador,-7,7,1363,1740,-2,0,115,35
+2025-10-10,Curaçao,Jamaica,2,0,World Cup qualifier,Curaçao,35,-35,1442,1535,10,-6,92,75
+2025-10-10,Bermuda,Trinidad and Tobago,0,3,World Cup qualifier,Bermuda,-22,22,1128,1412,-5,5,170,102
+2025-10-11,Colombia,Mexico,4,0,Friendly,the United States,12,-12,1993,1847,1,-1,6,19
+2025-10-11,Grenada,Cuba,2,0,Friendly,Grenada,14,-14,1121,1180,0,-2,173,161
+2025-10-11,United Arab Emirates,Oman,2,1,World Cup qualifier,Qatar,18,-18,1567,1502,1,-5,70,82
+2025-10-11,Iraq,Indonesia,1,0,World Cup qualifier,Saudi Arabia,9,-9,1573,1341,0,-4,69,124
+2025-10-11,Spain,Georgia,2,0,World Cup qualifier,Spain,2,-2,2181,1698,0,-1,1,45
+2025-10-11,Serbia,Albania,0,1,World Cup qualifier,Serbia,-33,33,1772,1664,-5,5,30,52
+2025-10-11,Portugal,Ireland,1,0,World Cup qualifier,Portugal,2,-2,2043,1601,0,0,4,61
+2025-10-11,Norway,Israel,5,0,World Cup qualifier,Norway,10,-10,1880,1628,1,-4,15,57
+2025-10-11,Latvia,Andorra,2,2,World Cup qualifier,Latvia,-15,15,1280,1089,-5,1,144,175
+2025-10-11,Hungary,Armenia,2,0,World Cup qualifier,Hungary,6,-6,1701,1406,3,-1,44,103
+2025-10-11,Estonia,Italy,1,3,World Cup qualifier,Estonia,-5,5,1351,1897,-2,1,119,13
+2025-10-11,Bulgaria,Turkey,1,6,World Cup qualifier,Bulgaria,-12,12,1429,1847,-3,3,97,19
+2025-10-12,Malta,Bosnia and Herzegovina,1,4,Friendly,Malta,-10,10,1247,1521,0,2,149,77
+2025-10-12,Zambia,Niger,0,1,World Cup qualifier,Zambia,-27,27,1373,1409,-6,6,111,103
+2025-10-12,Sierra Leone,Djibouti,2,1,World Cup qualifier,Morocco,3,-3,1344,917,-1,-1,125,195
+2025-10-12,Mali,Madagascar,4,1,World Cup qualifier,Mali,8,-8,1612,1348,0,-4,60,121
+2025-10-12,Ghana,Comoros,1,0,World Cup qualifier,Ghana,9,-9,1513,1389,2,-2,79,108
+2025-10-12,Egypt,Guinea-Bissau,1,0,World Cup qualifier,Egypt,2,-2,1668,1244,0,0,51,151
+2025-10-12,Chad,Central African Republic,2,3,World Cup qualifier,Chad,-21,21,1116,1237,-6,2,173,152
+2025-10-12,Burkina Faso,Ethiopia,3,1,World Cup qualifier,Burkina Faso,7,-7,1528,1264,0,0,76,147
+2025-10-12,Scotland,Belarus,2,1,World Cup qualifier,Scotland,4,-4,1771,1464,1,-1,30,87
+2025-10-12,San Marino,Cyprus,0,4,World Cup qualifier,San Marino,-8,8,833,1325,-2,3,207,130
+2025-10-12,Romania,Austria,1,0,World Cup qualifier,Romania,26,-26,1677,1829,3,-4,50,22
+2025-10-12,Netherlands,Finland,4,0,World Cup qualifier,the Netherlands,4,-4,1966,1543,0,0,8,72
+2025-10-12,Lithuania,Poland,0,2,World Cup qualifier,Lithuania,-8,8,1271,1722,-1,3,146,37
+2025-10-12,Faroe Islands,Czechia,2,1,World Cup qualifier,the Faroe Islands,35,-35,1370,1730,15,-4,113,36
+2025-10-12,Denmark,Greece,3,1,World Cup qualifier,Denmark,13,-13,1916,1760,1,-3,11,32
+2025-10-12,Croatia,Gibraltar,3,0,World Cup qualifier,Croatia,0,0,1927,1023,0,0,10,184
+2025-10-13,Uruguay,Uzbekistan,2,1,Friendly,Malaysia,5,-5,1913,1714,0,0,12,39
+2025-10-13,Montenegro,Liechtenstein,2,1,Friendly,Montenegro,0,0,1442,901,0,0,92,200
+2025-10-13,Tunisia,Namibia,3,0,World Cup qualifier,Tunisia,6,-6,1643,1327,0,0,55,129
+2025-10-13,South Sudan,Togo,0,0,World Cup qualifier,South Sudan,6,-6,1143,1342,2,-3,165,124
+2025-10-13,Sao Tome and Principe,Malawi,1,0,World Cup qualifier,Tunisia,32,-32,1056,1244,4,-5,179,150
+2025-10-13,Mauritius,Libya,0,0,World Cup qualifier,Mauritius,12,-12,1091,1418,1,-4,175,100
+2025-10-13,Lesotho,Zimbabwe,1,0,World Cup qualifier,South Africa,29,-29,1224,1339,5,-12,153,126
+2025-10-13,Equatorial Guinea,Liberia,1,1,World Cup qualifier,Equatorial Guinea,-13,13,1452,1307,-3,2,89,137
+2025-10-13,Cape Verde,Eswatini,3,0,World Cup qualifier,Cape Verde,6,-6,1549,1211,-1,-2,73,156
+2025-10-13,Cameroon,Angola,0,0,World Cup qualifier,Cameroon,-7,7,1578,1567,-2,1,68,70
+2025-10-13,Wales,Belgium,2,4,World Cup qualifier,Wales,-29,29,1692,1865,-9,4,47,17
+2025-10-13,Ukraine,Azerbaijan,2,1,World Cup qualifier,Poland,3,-3,1797,1363,0,1,27,114
+2025-10-13,Sweden,Kosovo,0,1,World Cup qualifier,Sweden,-29,29,1674,1665,-9,3,50,53
+2025-10-13,Slovenia,Switzerland,0,0,World Cup qualifier,Slovenia,4,-4,1735,1892,0,0,35,14
+2025-10-13,Slovakia,Luxembourg,2,0,World Cup qualifier,Slovakia,6,-6,1690,1407,1,-2,48,103
+2025-10-13,Northern Ireland,Germany,0,1,World Cup qualifier,Northern Ireland,-11,11,1607,1891,-1,0,60,15
+2025-10-13,North Macedonia,Kazakhstan,1,1,World Cup qualifier,North Macedonia,-15,15,1623,1407,-4,4,58,103
+2025-10-13,Iceland,France,2,2,World Cup qualifier,Iceland,17,-17,1558,2051,2,0,72,3
+2025-10-13,Honduras,Haiti,3,0,World Cup qualifier,Honduras,19,-19,1603,1498,6,-4,61,82
+2025-10-13,Costa Rica,Nicaragua,4,1,World Cup qualifier,Costa Rica,5,-5,1672,1297,1,-2,51,139
+2025-10-14,United States,Australia,2,1,Friendly,the United States,10,-10,1712,1794,-1,-2,41,27
+2025-10-14,South Korea,Paraguay,2,0,Friendly,South Korea,14,-14,1774,1833,3,-2,29,21
+2025-10-14,Russia,Bolivia,3,0,Friendly,Russia,8,-8,1810,1689,2,-2,24,47
+2025-10-14,Norway,New Zealand,1,1,Friendly,Norway,-8,8,1872,1591,0,1,16,66
+2025-10-14,Mexico,Ecuador,1,1,Friendly,Mexico,0,0,1847,1930,-1,0,20,9
+2025-10-14,Japan,Brazil,3,2,Friendly,Japan,11,-11,1871,1978,1,0,17,7
+2025-10-14,Iran,Tanzania,2,0,Friendly,the United Arab Emirates,2,-2,1764,1336,-1,-1,32,128
+2025-10-14,Canada,Colombia,0,0,Friendly,the United States,5,-5,1789,1988,0,0,28,6
+2025-10-14,Argentina,Puerto Rico,6,0,Friendly,the United States,0,0,2111,1134,0,0,2,168
+2025-10-14,Albania,Jordan,4,2,Friendly,Albania,9,-9,1673,1616,3,-1,51,58
+2025-10-14,Yemen,Brunei,9,0,Asian Cup qualifier,Kuwait,6,-6,1134,657,1,0,168,225
+2025-10-14,Vietnam,Nepal,1,0,Asian Cup qualifier,Vietnam,2,-2,1326,918,1,0,130,194
+2025-10-14,Turkmenistan,Sri Lanka,2,1,Asian Cup qualifier,Turkmenistan,2,-2,1213,787,0,0,156,210
+2025-10-14,Taiwan,Thailand,1,6,Asian Cup qualifier,Taiwan,-8,8,870,1361,0,2,202,115
+2025-10-14,Philippines,East Timor,3,1,Asian Cup qualifier,the Philippines,2,-2,1140,682,1,0,166,223
+2025-10-14,Myanmar,Syria,0,3,Asian Cup qualifier,Myanmar,-7,7,945,1444,-1,2,191,92
+2025-10-14,Maldives,Tajikistan,0,3,Asian Cup qualifier,the Maldives,-10,10,856,1295,0,2,203,140
+2025-10-14,Malaysia,Laos,5,1,Asian Cup qualifier,Malaysia,1,-1,1311,711,0,0,135,219
+2025-10-14,Lebanon,Bhutan,4,0,Asian Cup qualifier,Qatar,1,-1,1350,619,2,0,117,230
+2025-10-14,India,Singapore,1,2,Asian Cup qualifier,India,-31,31,1150,1104,-4,3,164,174
+2025-10-14,Hong Kong,Bangladesh,1,1,Asian Cup qualifier,Hong Kong,-16,16,1173,915,-2,4,161,197
+2025-10-14,Afghanistan,Pakistan,1,1,Asian Cup qualifier,Kuwait,-11,11,1035,834,-2,1,183,207
+2025-10-14,Saudi Arabia,Iraq,0,0,World Cup qualifier,Saudi Arabia,-7,7,1585,1580,-4,1,67,68
+2025-10-14,Qatar,United Arab Emirates,2,1,World Cup qualifier,Qatar,19,-19,1502,1548,3,-3,81,73
+2025-10-14,South Africa,Rwanda,3,0,World Cup qualifier,South Africa,11,-11,1524,1308,0,-3,78,136
+2025-10-14,Senegal,Mauritania,4,0,World Cup qualifier,Senegal,3,-3,1809,1342,-1,-2,25,123
+2025-10-14,Nigeria,Benin,4,0,World Cup qualifier,Nigeria,16,-16,1604,1447,4,-3,62,90
+2025-10-14,Mozambique,Somalia,1,0,World Cup qualifier,Algeria,2,-2,1397,904,0,-1,107,199
+2025-10-14,Morocco,Congo,1,0,World Cup qualifier,Morocco,1,-1,1825,1207,0,0,23,158
+2025-10-14,Ivory Coast,Kenya,3,0,World Cup qualifier,Ivory Coast,9,-9,1599,1354,0,-2,64,116
+2025-10-14,Gambia,Seychelles,7,0,World Cup qualifier,Mauritius,3,-3,1427,842,-1,0,98,204
+2025-10-14,Gabon,Burundi,2,0,World Cup qualifier,Gabon,8,-8,1491,1239,0,-3,84,151
+2025-10-14,DR Congo,Sudan,1,0,World Cup qualifier,DR Congo,6,-6,1596,1368,-1,-3,65,113
+2025-10-14,Botswana,Guinea,2,2,World Cup qualifier,Morocco,10,-10,1319,1479,3,-2,133,85
+2025-10-14,Algeria,Uganda,2,1,World Cup qualifier,Algeria,4,-4,1699,1432,3,-1,43,96
+2025-10-14,Turkey,Georgia,4,1,World Cup qualifier,Turkey,13,-13,1860,1685,0,-5,19,48
+2025-10-14,Spain,Bulgaria,4,0,World Cup qualifier,Spain,1,-1,2182,1428,0,-1,1,97
+2025-10-14,Portugal,Hungary,2,2,World Cup qualifier,Portugal,-17,17,2026,1718,0,4,4,38
+2025-10-14,Latvia,England,0,5,World Cup qualifier,Latvia,-2,2,1278,2024,0,0,144,5
+2025-10-14,Italy,Israel,3,0,World Cup qualifier,Italy,7,-7,1904,1621,0,-1,13,57
+2025-10-14,Ireland,Armenia,1,0,World Cup qualifier,Ireland,6,-6,1607,1400,2,-1,60,106
+2025-10-14,Estonia,Moldova,1,1,World Cup qualifier,Estonia,-8,8,1343,1307,-4,1,122,137
+2025-10-14,Andorra,Serbia,1,3,World Cup qualifier,Andorra,-2,2,1087,1774,-1,0,177,29
+2025-10-14,Panama,Suriname,1,1,World Cup qualifier,Panama,-17,17,1723,1440,-2,5,36,94
+2025-10-14,Jamaica,Bermuda,4,0,World Cup qualifier,Jamaica,4,-4,1539,1124,0,-2,75,171
+2025-10-14,El Salvador,Guatemala,0,1,World Cup qualifier,El Salvador,-17,17,1346,1526,-5,3,119,77
+2025-10-14,Curaçao,Trinidad and Tobago,1,1,World Cup qualifier,Curaçao,-7,7,1435,1419,-3,1,95,100
+2025-11-09,Saint Martin,Anguilla,1,2,Friendly,Saint Martin,-19,19,1002,635,-1,5,186,227
+2025-11-12,Tunisia,Mauritania,1,1,Friendly,Tunisia,-8,8,1635,1350,0,6,55,117
+2025-11-12,Saint Martin,Dominica,2,1,CONCACAF Series,Saint Kitts and Nevis,14,-14,1016,954,1,0,185,189
+2025-11-12,Saint Kitts and Nevis,Sint Maarten,0,0,CONCACAF Series,Saint Kitts and Nevis,-8,8,1039,940,-1,0,181,193
+2025-11-12,Russia,Peru,1,1,Friendly,Russia,-5,5,1805,1707,-1,0,25,42
+2025-11-12,Dominican Republic,Saint Vincent and the Grenadines,2,0,CONCACAF Series,the Dominican Republic,10,-10,1295,1157,3,0,140,163
+2025-11-12,Cuba,Saint Lucia,3,0,CONCACAF Series,the Dominican Republic,16,-16,1196,1022,0,-2,159,184
+2025-11-12,Cayman Islands,British Virgin Islands,1,2,CONCACAF Series,the Cayman Islands,-25,25,795,651,0,1,209,228
+2025-11-12,Barbados,Bonaire,3,2,CONCACAF Series,Antigua and Barbuda,11,-11,949,824,2,-3,190,208
+2025-11-12,Antigua and Barbuda,Aruba,0,0,CONCACAF Series,Antigua and Barbuda,-4,4,904,921,0,1,198,194
+2025-11-12,Anguilla,Bahamas,2,1,CONCACAF Series,the Cayman Islands,21,-21,656,761,0,-1,227,212
+2025-11-13,Thailand,Singapore,3,2,Friendly,Thailand,2,-2,1363,1102,1,-1,114,175
+2025-11-13,North Macedonia,Latvia,0,0,Friendly,North Macedonia,-9,9,1614,1287,-5,0,61,144
+2025-11-13,Lithuania,Israel,0,0,Friendly,Lithuania,6,-6,1277,1615,0,-2,145,59
+2025-11-13,India,Bhutan,6,1,Friendly,India,1,-1,1151,618,0,-1,164,232
+2025-11-13,Hong Kong,Cambodia,1,1,Friendly,Hong Kong,-9,9,1164,844,-1,1,162,204
+2025-11-13,Czechia,San Marino,1,0,Friendly,Czechia,0,0,1730,833,-1,0,36,207
+2025-11-13,Cape Verde,Iran,0,0,Friendly tournament,the United Arab Emirates,8,-8,1557,1756,1,-1,71,33
+2025-11-13,Canada,Ecuador,0,0,Friendly,Canada,1,-1,1790,1929,1,0,27,9
+2025-11-13,Bangladesh,Nepal,2,2,Friendly,Bangladesh,-3,3,912,921,0,1,197,194
+2025-11-13,Algeria,Zimbabwe,3,1,Friendly,Saudi Arabia,3,-3,1702,1336,0,-1,43,127
+2025-11-13,Papua New Guinea,Solomon Islands,1,0,Melanesian Cup,Papua New Guinea,16,-16,1120,1110,3,-3,171,173
+2025-11-13,United Arab Emirates,Iraq,1,1,World Cup qualifier,the United Arab Emirates,-4,4,1544,1584,0,1,73,67
+2025-11-13,Nigeria,Gabon,4,1,World Cup qualifier,Morocco,24,-24,1628,1467,5,-1,57,85
+2025-11-13,DR Congo,Cameroon,1,0,World Cup qualifier,Morocco,19,-19,1615,1559,6,-1,59,70
+2025-11-13,Norway,Estonia,4,1,World Cup qualifier,Norway,2,-2,1874,1341,0,0,16,123
+2025-11-13,Moldova,Italy,0,2,World Cup qualifier,Moldova,-3,3,1304,1907,-2,0,139,13
+2025-11-13,Ireland,Portugal,2,0,World Cup qualifier,Ireland,52,-52,1659,1974,6,-3,54,7
+2025-11-13,France,Ukraine,4,0,World Cup qualifier,France,9,-9,2060,1788,0,-2,3,28
+2025-11-13,England,Serbia,2,0,World Cup qualifier,England,7,-7,2031,1767,1,-2,4,31
+2025-11-13,Azerbaijan,Iceland,0,2,World Cup qualifier,Azerbaijan,-22,22,1341,1580,-9,3,123,68
+2025-11-13,Armenia,Hungary,0,1,World Cup qualifier,Armenia,-9,9,1391,1727,-1,1,107,37
+2025-11-13,Andorra,Albania,0,1,World Cup qualifier,Andorra,-2,2,1085,1675,0,1,177,50
+2025-11-13,Trinidad and Tobago,Jamaica,1,1,World Cup qualifier,Trinidad and Tobago,1,-1,1420,1538,0,0,100,75
+2025-11-13,Suriname,El Salvador,4,0,World Cup qualifier,Suriname,18,-18,1458,1328,7,-9,87,129
+2025-11-13,Nicaragua,Honduras,2,0,World Cup qualifier,Nicaragua,46,-46,1343,1557,18,-8,121,71
+2025-11-13,Haiti,Costa Rica,1,0,World Cup qualifier,Curaçao,29,-29,1527,1643,6,-3,77,55
+2025-11-13,Guatemala,Panama,2,3,World Cup qualifier,Guatemala,-15,15,1511,1738,-4,2,81,34
+2025-11-13,Bermuda,Curaçao,0,7,World Cup qualifier,Bermuda,-21,21,1103,1456,-3,6,174,89
+2025-11-14,Venezuela,Australia,1,0,Friendly,the United States,12,-12,1727,1782,0,-2,39,28
+2025-11-14,Uzbekistan,Egypt,2,0,Friendly tournament,the United Arab Emirates,20,-20,1734,1648,4,-2,36,54
+2025-11-14,Uganda,Chad,2,1,Friendly,Morocco,3,-3,1435,1113,0,0,96,172
+2025-11-14,Tunisia,Jordan,3,2,Friendly,Tunisia,7,-7,1642,1609,0,-4,56,62
+2025-11-14,South Korea,Bolivia,2,0,Friendly,South Korea,8,-8,1782,1681,1,-1,28,48
+2025-11-14,Saudi Arabia,Ivory Coast,1,0,Friendly,Saudi Arabia,8,-8,1593,1591,2,-1,64,65
+2025-11-14,Oman,Sudan,2,0,Friendly,Oman,6,-6,1508,1362,1,-1,81,114
+2025-11-14,Morocco,Mozambique,1,0,Friendly,Morocco,1,-1,1826,1396,0,0,23,106
+2025-11-14,Japan,Ghana,2,0,Friendly,Japan,2,-2,1873,1511,0,1,17,79
+2025-11-14,Grenada,US Virgin Islands,4,1,Friendly,Grenada,1,-1,1122,618,0,0,170,231
+2025-11-14,Equatorial Guinea,Kenya,1,0,Friendly,Turkey,7,-7,1459,1347,3,-3,87,118
+2025-11-14,Comoros,Namibia,1,0,Friendly,the Comoros,6,-6,1395,1321,1,-2,107,132
+2025-11-14,Burkina Faso,Niger,3,2,Friendly,Morocco,7,-7,1535,1402,1,-2,75,104
+2025-11-14,Angola,Argentina,0,2,Friendly,Angola,-2,2,1565,2113,0,0,69,2
+2025-11-14,Slovakia,Northern Ireland,1,0,World Cup qualifier,Slovakia,10,-10,1700,1597,2,0,44,63
+2025-11-14,Poland,Netherlands,1,1,World Cup qualifier,Poland,8,-8,1730,1958,1,0,37,8
+2025-11-14,Luxembourg,Germany,0,2,World Cup qualifier,Luxembourg,-6,6,1401,1897,-2,1,105,14
+2025-11-14,Gibraltar,Montenegro,1,2,World Cup qualifier,Gibraltar,-5,5,1018,1447,-1,3,184,92
+2025-11-14,Finland,Malta,0,1,World Cup qualifier,Finland,-36,36,1507,1283,-8,3,82,145
+2025-11-14,Croatia,Faroe Islands,3,1,World Cup qualifier,Croatia,1,-1,1928,1369,0,0,10,112
+2025-11-15,United States,Paraguay,2,1,Friendly,the United States,11,-11,1723,1822,1,-2,40,23
+2025-11-15,South Africa,Zambia,3,1,Friendly,South Africa,6,-6,1530,1367,0,-1,77,111
+2025-11-15,Sint Maarten,Dominica,3,2,CONCACAF Series,Saint Kitts and Nevis,16,-16,956,938,4,-4,189,193
+2025-11-15,Saint Vincent and the Grenadines,Saint Lucia,3,1,CONCACAF Series,the Dominican Republic,14,-14,1171,1008,1,-1,162,184
+2025-11-15,Russia,Chile,0,2,Friendly,Russia,-23,23,1782,1721,-2,4,27,41
+2025-11-15,Mexico,Uruguay,0,0,Friendly,Mexico,-1,1,1846,1914,0,1,20,11
+2025-11-15,Libya,Mauritania,1,0,Friendly,Libya,6,-6,1424,1344,2,-3,99,118
+2025-11-15,Lesotho,Malawi,0,0,Friendly,South Africa,1,-1,1225,1243,-1,-1,154,150
+2025-11-15,Kuwait,Tanzania,4,3,Friendly,Egypt,11,-11,1304,1325,5,-3,138,130
+2025-11-15,Guyana,Bonaire,2,1,CONCACAF Series,Antigua and Barbuda,2,-2,1265,822,1,0,147,208
+2025-11-15,Guinea,Liberia,2,0,Friendly,Morocco,8,-8,1487,1299,0,-2,84,140
+2025-11-15,Cuba,Martinique,2,0,CONCACAF Series,the Dominican Republic,33,-33,1229,1340,6,-15,153,125
+2025-11-15,Colombia,New Zealand,2,1,Friendly,the United States,2,-2,1990,1589,0,-1,5,66
+2025-11-15,Cayman Islands,Anguilla,4,0,CONCACAF Series,the Cayman Islands,11,-11,806,645,0,-1,209,228
+2025-11-15,British Virgin Islands,Bahamas,6,0,CONCACAF Series,the Cayman Islands,42,-42,693,719,7,-5,221,217
+2025-11-15,Brazil,Senegal,2,0,Friendly,England,8,-8,1986,1801,0,0,6,24
+2025-11-15,Belize,Saint Martin,1,0,CONCACAF Series,Saint Kitts and Nevis,13,-13,1071,1003,0,-1,178,186
+2025-11-15,Aruba,Barbados,3,0,CONCACAF Series,Antigua and Barbuda,28,-28,949,921,4,-4,190,194
+2025-11-15,Turkey,Bulgaria,2,0,World Cup qualifier,Turkey,3,-3,1863,1425,1,-1,18,98
+2025-11-15,Switzerland,Sweden,4,1,World Cup qualifier,Switzerland,10,-10,1902,1664,2,0,13,51
+2025-11-15,Slovenia,Kosovo,0,2,World Cup qualifier,Slovenia,-44,44,1691,1709,-12,10,47,42
+2025-11-15,Liechtenstein,Wales,0,1,World Cup qualifier,Liechtenstein,-1,1,900,1693,0,0,201,46
+2025-11-15,Kazakhstan,Belgium,1,1,World Cup qualifier,Kazakhstan,15,-15,1422,1850,1,-1,101,19
+2025-11-15,Greece,Scotland,3,2,World Cup qualifier,Greece,15,-15,1775,1756,2,-2,30,32
+2025-11-15,Georgia,Spain,0,4,World Cup qualifier,Georgia,-7,7,1678,2189,-2,0,49,1
+2025-11-15,Denmark,Belarus,2,2,World Cup qualifier,Denmark,-18,18,1898,1482,-3,1,14,85
+2025-11-15,Cyprus,Austria,0,2,World Cup qualifier,Cyprus,-5,5,1320,1834,-2,1,133,21
+2025-11-15,Bosnia and Herzegovina,Romania,3,1,World Cup qualifier,Bosnia and Herzegovina,35,-35,1556,1642,5,-6,73,55
+2025-11-16,DR Congo,Nigeria,1,1,World Cup qualifier,Morocco,1,-1,1616,1627,-1,-1,59,58
+2025-11-16,Ukraine,Iceland,2,0,World Cup qualifier,Poland,14,-14,1802,1566,2,0,24,68
+2025-11-16,Serbia,Latvia,2,1,World Cup qualifier,Serbia,1,-1,1768,1286,0,0,31,144
+2025-11-16,Portugal,Armenia,9,1,World Cup qualifier,Portugal,2,-2,1976,1389,0,0,7,108
+2025-11-16,Moldova,Israel,1,4,World Cup qualifier,Moldova,-16,16,1288,1631,-5,1,143,57
+2025-11-16,Italy,Norway,1,4,World Cup qualifier,Italy,-48,48,1859,1922,-6,5,18,11
+2025-11-16,Hungary,Ireland,2,3,World Cup qualifier,Hungary,-29,29,1698,1688,-7,4,45,48
+2025-11-16,Azerbaijan,France,1,3,World Cup qualifier,Azerbaijan,-2,2,1339,2062,-3,0,125,3
+2025-11-16,Albania,England,0,2,World Cup qualifier,Albania,-11,11,1664,2042,-1,0,51,4
+2025-11-17,Qatar,Zimbabwe,1,2,Friendly,Qatar,-16,16,1486,1352,-1,12,84,115
+2025-11-17,Madagascar,Equatorial Guinea,2,0,Friendly,Turkey,20,-20,1368,1439,4,-7,111,94
+2025-11-17,Finland,Andorra,4,0,Friendly,Finland,2,-2,1509,1083,1,-1,81,178
+2025-11-17,Comoros,Namibia,4,0,Friendly,the Comoros,10,-10,1405,1311,4,-4,103,135
+2025-11-17,Chad,Mozambique,2,2,Friendly,Morocco,7,-7,1120,1389,1,-1,171,107
+2025-11-17,Cape Verde,Egypt,1,1,Friendly tournament,the United Arab Emirates,4,-4,1561,1644,1,0,70,53
+2025-11-17,Bahrain,Somalia,1,2,Friendly,Bahrain,-20,20,1427,924,-4,4,96,194
+2025-11-17,Vanuatu,Fiji,2,0,Melanesian Cup,Papua New Guinea,41,-41,1086,1131,3,-8,177,169
+2025-11-17,Northern Ireland,Luxembourg,1,0,World Cup qualifier,Northern Ireland,6,-6,1603,1395,0,-1,63,106
+2025-11-17,Netherlands,Lithuania,4,0,World Cup qualifier,the Netherlands,1,-1,1959,1276,0,0,8,146
+2025-11-17,Montenegro,Croatia,2,3,World Cup qualifier,Montenegro,-4,4,1443,1932,-1,1,93,9
+2025-11-17,Malta,Poland,2,3,World Cup qualifier,Malta,-5,5,1278,1735,0,1,145,35
+2025-11-17,Germany,Slovakia,6,0,World Cup qualifier,Germany,13,-13,1910,1687,2,-4,13,48
+2025-11-17,Czechia,Gibraltar,6,0,World Cup qualifier,Czechia,1,-1,1731,1017,-1,0,37,183
+2025-11-18,United States,Uruguay,5,1,Friendly,the United States,24,-24,1747,1890,5,-2,34,14
+2025-11-18,South Korea,Ghana,1,0,Friendly,South Korea,2,-2,1784,1509,-1,-1,28,80
+2025-11-18,Senegal,Kenya,8,0,Friendly,Turkey,3,-3,1804,1344,1,-2,24,119
+2025-11-18,Saudi Arabia,Algeria,0,2,Friendly,Saudi Arabia,-15,15,1578,1717,-3,3,67,40
+2025-11-18,Saint Kitts and Nevis,Belize,2,6,CONCACAF Series,Saint Kitts and Nevis,-34,34,1005,1105,-3,3,184,176
+2025-11-18,Paraguay,Mexico,2,1,Friendly,the United States,11,-11,1833,1835,2,0,21,20
+2025-11-18,Oman,Ivory Coast,0,2,Friendly,Oman,-16,16,1492,1607,-1,3,83,62
+2025-11-18,Morocco,Uganda,4,0,Friendly,Morocco,2,-2,1828,1433,0,-1,22,96
+2025-11-18,Malawi,Lesotho,1,0,Friendly,South Africa,9,-9,1252,1216,1,-2,149,156
+2025-11-18,Jordan,Mali,0,0,Friendly,Tunisia,0,0,1609,1612,1,1,61,60
+2025-11-18,Japan,Bolivia,3,0,Friendly,Japan,5,-5,1878,1676,0,0,16,49
+2025-11-18,Iran,Uzbekistan,0,0,Friendly tournament,the United Arab Emirates,-1,1,1755,1735,-1,0,33,36
+2025-11-18,Guinea,Niger,1,1,Friendly,Morocco,-2,2,1485,1404,-2,2,85,103
+2025-11-18,Gambia,Kuwait,2,2,Friendly,Egypt,-3,3,1424,1307,-2,1,98,137
+2025-11-18,Faroe Islands,Kazakhstan,1,0,Friendly,Croatia,12,-12,1381,1410,1,0,109,101
+2025-11-18,Ecuador,New Zealand,2,0,Friendly,the United States,4,-4,1933,1585,1,0,9,66
+2025-11-18,Dominican Republic,Martinique,0,0,CONCACAF Series,the Dominican Republic,-2,2,1293,1342,-2,3,142,122
+2025-11-18,Cyprus,Estonia,2,4,Friendly,Cyprus,-18,18,1302,1359,-6,8,138,115
+2025-11-18,Colombia,Australia,3,0,Friendly,the United States,8,-8,1998,1774,0,-3,5,30
+2025-11-18,Chile,Peru,2,1,Friendly,Russia,10,-10,1731,1697,2,-3,38,45
+2025-11-18,Canada,Venezuela,2,0,Friendly,the United States,12,-12,1802,1715,1,-3,25,41
+2025-11-18,Burkina Faso,Benin,3,0,Friendly,Morocco,13,-13,1548,1434,2,-4,74,95
+2025-11-18,Brazil,Tunisia,1,1,Friendly,France,-8,8,1978,1650,0,3,6,52
+2025-11-18,Antigua and Barbuda,Guyana,1,4,CONCACAF Series,Antigua and Barbuda,-10,10,894,1275,-2,0,201,147
+2025-11-18,Angola,Zambia,3,2,Friendly,Angola,3,-3,1568,1364,0,-1,69,113
+2025-11-18,Yemen,Bhutan,7,1,Asian Cup qualifier,Kuwait,4,-4,1138,614,2,-1,165,232
+2025-11-18,Turkmenistan,Taiwan,3,1,Asian Cup qualifier,Turkmenistan,4,-4,1217,866,2,0,155,202
+2025-11-18,Tajikistan,East Timor,5,0,Asian Cup qualifier,Australia,2,-2,1297,680,0,0,140,224
+2025-11-18,Sri Lanka,Thailand,0,4,Asian Cup qualifier,Sri Lanka,-5,5,782,1368,0,2,210,111
+2025-11-18,Pakistan,Syria,0,5,Asian Cup qualifier,Pakistan,-4,4,830,1448,-1,2,207,90
+2025-11-18,Maldives,Philippines,0,2,Asian Cup qualifier,the Maldives,-15,15,841,1155,-2,3,205,162
+2025-11-18,Malaysia,Nepal,1,0,Asian Cup qualifier,Malaysia,2,-2,1313,919,2,-2,133,197
+2025-11-18,Hong Kong,Singapore,1,2,Asian Cup qualifier,Hong Kong,-29,29,1135,1131,-4,7,166,168
+2025-11-18,Brunei,Lebanon,0,3,Asian Cup qualifier,Brunei,-2,2,655,1352,-1,0,227,116
+2025-11-18,Bangladesh,India,1,0,Asian Cup qualifier,Bangladesh,28,-28,940,1123,5,-7,193,170
+2025-11-18,Iraq,United Arab Emirates,2,1,World Cup qualifier,Iraq,12,-12,1596,1532,3,-2,64,76
+2025-11-18,Wales,North Macedonia,7,1,World Cup qualifier,Wales,22,-22,1715,1592,4,-5,41,65
+2025-11-18,Sweden,Slovenia,1,1,World Cup qualifier,Sweden,-4,4,1660,1695,0,0,51,46
+2025-11-18,Spain,Turkey,2,2,World Cup qualifier,Spain,-17,17,2172,1880,0,2,1,15
+2025-11-18,Scotland,Denmark,4,2,World Cup qualifier,Scotland,34,-34,1790,1864,5,-2,27,17
+2025-11-18,Romania,San Marino,7,1,World Cup qualifier,Romania,0,0,1642,833,0,1,55,206
+2025-11-18,Kosovo,Switzerland,1,1,World Cup qualifier,Kosovo,5,-5,1714,1897,-2,1,43,13
+2025-11-18,Bulgaria,Georgia,2,1,World Cup qualifier,Bulgaria,28,-28,1453,1650,9,-2,89,52
+2025-11-18,Belgium,Liechtenstein,7,0,World Cup qualifier,Belgium,0,0,1850,900,0,1,19,200
+2025-11-18,Belarus,Greece,0,0,World Cup qualifier,Hungary,14,-14,1496,1761,3,-2,82,32
+2025-11-18,Austria,Bosnia and Herzegovina,1,1,World Cup qualifier,Austria,-16,16,1818,1572,-2,5,23,68
+2025-11-18,Trinidad and Tobago,Bermuda,2,2,World Cup qualifier,Trinidad and Tobago,-17,17,1403,1120,-2,2,104,172
+2025-11-18,Panama,El Salvador,3,0,World Cup qualifier,Panama,4,-4,1742,1324,-1,-2,35,130
+2025-11-18,Jamaica,Curaçao,0,0,World Cup qualifier,Jamaica,-10,10,1528,1466,-4,2,79,87
+2025-11-18,Haiti,Nicaragua,2,0,World Cup qualifier,Curaçao,15,-15,1542,1328,3,-6,75,127
+2025-11-18,Guatemala,Suriname,3,1,World Cup qualifier,Guatemala,18,-18,1529,1440,1,-6,78,93
+2025-11-18,Costa Rica,Honduras,0,0,World Cup qualifier,Costa Rica,-10,10,1633,1567,-2,2,56,70
+2025-11-19,Laos,Vietnam,0,2,Asian Cup qualifier,Laos,-3,3,708,1329,0,1,219,127
+2025-11-20,Vanuatu,Solomon Islands,2,1,Melanesian Cup,Papua New Guinea,21,-21,1107,1089,3,-3,175,178
+2025-11-20,Papua New Guinea,Fiji,2,0,Melanesian Cup,Papua New Guinea,22,-22,1142,1109,8,-6,164,174
+2025-11-21,Bahrain,Somalia,0,1,Friendly,Bahrain,-19,19,1408,943,-4,2,101,193
+2025-11-22,Fiji,Solomon Islands,1,1,Melanesian Cup,Papua New Guinea,-1,1,1108,1090,0,0,174,178
+2025-11-23,Papua New Guinea,Vanuatu,2,2,Melanesian Cup,Papua New Guinea,-7,7,1135,1114,-2,1,166,174
+2025-11-25,Syria,South Sudan,2,0,Arab Cup qualifier,Qatar,9,-9,1457,1134,2,-4,88,167
+2025-11-25,Libya,Palestine,0,0,Arab Cup qualifier,Qatar,1,-1,1425,1447,0,-1,97,91
+2025-11-25,Kuwait,Mauritania,2,0,Arab Cup qualifier,Qatar,33,-33,1340,1311,13,-16,124,135
+2025-11-26,Sudan,Lebanon,2,1,Arab Cup qualifier,Qatar,19,-19,1381,1333,5,-10,109,126
+2025-11-26,Oman,Somalia,0,0,Arab Cup qualifier,Qatar,-18,18,1474,961,-2,4,85,189
+2025-11-26,Comoros,Yemen,4,4,Arab Cup qualifier,Qatar,-13,13,1392,1151,-4,1,106,163
+2025-11-26,Bahrain,Djibouti,1,0,Arab Cup qualifier,Qatar,2,-2,1410,915,1,0,100,198
+2025-12-01,Syria,Tunisia,1,0,Arab Cup,Qatar,30,-30,1487,1620,5,-6,83,58
+2025-12-01,Qatar,Palestine,0,1,Arab Cup,Qatar,-28,28,1458,1475,-6,6,89,85
+2025-12-02,Saudi Arabia,Oman,2,1,Arab Cup,Qatar,14,-14,1592,1460,2,-2,65,88
+2025-12-02,Morocco,Comoros,3,1,Arab Cup,Qatar,5,-5,1833,1387,1,-2,21,108
+2025-12-02,Egypt,Kuwait,1,1,Arab Cup,Qatar,-14,14,1630,1354,-3,7,56,116
+2025-12-03,Jordan,United Arab Emirates,2,1,Arab Cup,Qatar,16,-16,1625,1516,3,-3,58,79
+2025-12-03,Iraq,Bahrain,2,1,Arab Cup,Qatar,10,-10,1606,1400,1,-4,63,104
+2025-12-03,Algeria,Sudan,0,0,Arab Cup,Qatar,-15,15,1702,1396,-3,4,43,105
+2025-12-04,Qatar,Syria,1,1,Arab Cup,Qatar,-4,4,1454,1491,-1,0,90,83
+2025-12-04,Palestine,Tunisia,2,2,Arab Cup,Qatar,8,-8,1483,1612,0,-1,85,60
+2025-12-05,Saudi Arabia,Comoros,3,1,Arab Cup,Qatar,14,-14,1606,1373,2,-2,63,111
+2025-12-05,Morocco,Oman,0,0,Arab Cup,Qatar,-16,16,1817,1476,-2,2,23,86
+2025-12-06,Jordan,Kuwait,3,1,Arab Cup,Qatar,10,-10,1635,1344,4,-2,54,118
+2025-12-06,Iraq,Sudan,2,0,Arab Cup,Qatar,14,-14,1620,1382,4,-3,59,108
+2025-12-06,Egypt,United Arab Emirates,1,1,Arab Cup,Qatar,-6,6,1624,1522,-2,0,58,79
+2025-12-06,Algeria,Bahrain,5,1,Arab Cup,Qatar,11,-11,1713,1389,0,-1,43,105
+2025-12-07,Qatar,Tunisia,0,3,Arab Cup,Qatar,-29,29,1425,1641,-6,7,96,54
+2025-12-07,Palestine,Syria,0,0,Arab Cup,Qatar,0,0,1483,1491,0,0,85,83
+2025-12-08,Oman,Comoros,2,1,Arab Cup,Qatar,14,-14,1490,1359,2,-3,84,114
+2025-12-08,Morocco,Saudi Arabia,1,0,Arab Cup,Qatar,9,-9,1826,1597,1,-1,22,65
+2025-12-09,United Arab Emirates,Kuwait,3,1,Arab Cup,Qatar,16,-16,1538,1328,3,-9,76,127
+2025-12-09,Jordan,Egypt,3,0,Arab Cup,Qatar,34,-34,1669,1590,5,-7,50,66
+2025-12-09,Bahrain,Sudan,3,1,Arab Cup,Qatar,29,-29,1418,1353,5,-7,100,115
+2025-12-09,Algeria,Iraq,2,0,Arab Cup,Qatar,22,-22,1735,1598,7,-3,36,63
+2025-12-11,Saudi Arabia,Palestine,2,1,Arab Cup,Qatar,14,-14,1611,1469,3,0,61,86
+2025-12-11,Morocco,Syria,1,0,Arab Cup,Qatar,5,-5,1831,1486,0,-1,22,84
+2025-12-12,Jordan,Iraq,1,0,Arab Cup,Qatar,16,-16,1685,1582,1,-3,49,67
+2025-12-12,Algeria,United Arab Emirates,1,1,Arab Cup,Qatar,-10,10,1725,1548,-4,2,40,74
+2025-12-15,Morocco,United Arab Emirates,3,0,Arab Cup,Qatar,11,-11,1842,1537,2,-2,20,76
+2025-12-15,Jordan,Saudi Arabia,1,0,Arab Cup,Qatar,16,-16,1701,1595,5,-2,44,63
+2025-12-16,Egypt,Nigeria,2,1,Friendly,Egypt,8,-8,1598,1619,2,-1,63,59
+2025-12-16,DR Congo,Zambia,2,0,Friendly,Spain,6,-6,1622,1358,1,-2,58,114
+2025-12-17,Angola,Mozambique,4,1,Friendly,Portugal,9,-9,1577,1380,1,-2,68,108
+2025-12-18,Tunisia,Botswana,2,1,Friendly,Tunisia,2,-2,1643,1317,1,0,54,132
+2025-12-18,Saudi Arabia,United Arab Emirates,0,0,Arab Cup,Qatar,-3,3,1592,1540,0,0,64,76
+2025-12-18,Morocco,Jordan,3,2,Arab Cup,Qatar,12,-12,1854,1689,1,-3,19,47
+2025-12-21,Peru,Bolivia,2,0,Friendly,Peru,10,-10,1707,1666,1,0,44,50
+2025-12-21,Morocco,Comoros,2,0,African Nations Cup,Morocco,2,-2,1856,1357,0,-2,19,114
+2025-12-22,South Africa,Angola,2,1,African Nations Cup,Morocco,28,-28,1558,1549,4,-6,73,74
+2025-12-22,Mali,Zambia,1,1,African Nations Cup,Morocco,-16,16,1596,1374,-3,3,63,110
+2025-12-22,Egypt,Zimbabwe,2,1,African Nations Cup,Morocco,10,-10,1608,1342,3,-3,60,119
+2025-12-23,Tunisia,Uganda,3,1,African Nations Cup,Morocco,17,-17,1660,1416,2,-5,52,100
+2025-12-23,Senegal,Botswana,3,0,African Nations Cup,Morocco,5,-5,1809,1312,0,-2,24,134
+2025-12-23,Nigeria,Tanzania,2,1,African Nations Cup,Morocco,8,-8,1627,1317,0,-2,59,131
+2025-12-23,DR Congo,Benin,1,0,African Nations Cup,Morocco,13,-13,1635,1421,2,-4,56,98
+2025-12-24,Ivory Coast,Mozambique,1,0,African Nations Cup,Morocco,11,-11,1618,1369,1,-2,60,110
+2025-12-24,Cameroon,Gabon,1,0,African Nations Cup,Morocco,19,-19,1578,1448,4,-3,68,90
+2025-12-24,Burkina Faso,Equatorial Guinea,2,1,African Nations Cup,Morocco,17,-17,1565,1422,3,-4,72,97
+2025-12-24,Algeria,Sudan,3,0,African Nations Cup,Morocco,9,-9,1734,1344,2,-1,38,116
+2025-12-26,Morocco,Mali,1,1,African Nations Cup,Morocco,-19,19,1837,1615,-1,1,20,62
+2025-12-26,Egypt,South Africa,1,0,African Nations Cup,Morocco,21,-21,1629,1537,2,-2,59,76
+2025-12-26,Comoros,Zambia,0,0,African Nations Cup,Morocco,1,-1,1358,1373,0,0,114,109
+2025-12-26,Angola,Zimbabwe,1,1,African Nations Cup,Morocco,-13,13,1536,1355,-2,4,77,115
+2025-12-27,Tanzania,Uganda,1,1,African Nations Cup,Morocco,7,-7,1324,1409,2,-1,129,101
+2025-12-27,Nigeria,Tunisia,3,2,African Nations Cup,Morocco,27,-27,1654,1633,7,-5,53,57
+2025-12-27,DR Congo,Senegal,1,1,African Nations Cup,Morocco,12,-12,1647,1797,1,-2,55,26
+2025-12-27,Benin,Botswana,1,0,African Nations Cup,Morocco,17,-17,1438,1295,5,-6,93,140
+2025-12-28,Sudan,Equatorial Guinea,1,0,African Nations Cup,Morocco,31,-31,1375,1391,8,-8,109,106
+2025-12-28,Mozambique,Gabon,3,2,African Nations Cup,Morocco,31,-31,1400,1417,6,-8,104,98
+2025-12-28,Cameroon,Ivory Coast,1,1,African Nations Cup,Morocco,3,-3,1581,1615,0,0,68,61
+2025-12-28,Algeria,Burkina Faso,1,0,African Nations Cup,Morocco,14,-14,1748,1551,4,-1,34,73
+2025-12-29,South Africa,Zimbabwe,3,2,African Nations Cup,Morocco,13,-13,1550,1342,2,-3,74,119
+2025-12-29,Morocco,Zambia,3,0,African Nations Cup,Morocco,3,-3,1840,1370,0,-1,20,112
+2025-12-29,Comoros,Mali,0,0,African Nations Cup,Morocco,16,-16,1374,1599,4,-2,111,63
+2025-12-29,Angola,Egypt,0,0,African Nations Cup,Morocco,7,-7,1543,1622,2,0,75,60
+2025-12-30,Tanzania,Tunisia,1,1,African Nations Cup,Morocco,18,-18,1342,1615,10,-3,119,60
+2025-12-30,Senegal,Benin,3,0,African Nations Cup,Morocco,10,-10,1807,1428,2,0,24,92
+2025-12-30,Nigeria,Uganda,3,1,African Nations Cup,Morocco,15,-15,1669,1394,3,-5,50,105
+2025-12-30,DR Congo,Botswana,3,0,African Nations Cup,Morocco,10,-10,1657,1285,1,-4,54,144
+2025-12-31,Ivory Coast,Gabon,3,2,African Nations Cup,Morocco,12,-12,1627,1405,1,-1,59,99
+2025-12-31,Cameroon,Mozambique,2,1,African Nations Cup,Morocco,13,-13,1594,1387,4,-3,64,106
+2025-12-31,Burkina Faso,Sudan,2,0,African Nations Cup,Morocco,20,-20,1571,1355,3,-6,70,115
+2025-12-31,Algeria,Equatorial Guinea,3,1,African Nations Cup,Morocco,9,-9,1757,1382,1,-1,33,107

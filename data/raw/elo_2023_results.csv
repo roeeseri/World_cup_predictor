@@ -1,0 +1,1060 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2023-01-02,Thailand,Cambodia,3,1,Southeast Asian Championship,Thailand,2,-2,1385,877,0,0,107,202
+2023-01-02,Philippines,Indonesia,1,2,Southeast Asian Championship,the Philippines,-14,14,1050,1292,-1,0,183,141
+2023-01-03,Vietnam,Myanmar,3,0,Southeast Asian Championship,Vietnam,2,-2,1403,898,0,0,102,199
+2023-01-03,Malaysia,Singapore,4,1,Southeast Asian Championship,Malaysia,19,-19,1235,1131,5,-3,153,172
+2023-01-06,Indonesia,Vietnam,0,0,Southeast Asian Championship,Indonesia,1,-1,1293,1402,0,0,141,102
+2023-01-06,Saudi Arabia,Yemen,2,0,Gulf Cup,Iraq,2,-2,1646,1097,1,-1,53,177
+2023-01-06,Iraq,Oman,0,0,Gulf Cup,Iraq,-6,6,1569,1573,-2,1,68,67
+2023-01-07,Malaysia,Thailand,1,0,Southeast Asian Championship,Malaysia,23,-23,1258,1362,7,-8,146,115
+2023-01-07,Qatar,Kuwait,2,0,Gulf Cup,Iraq,11,-11,1588,1304,1,-4,64,135
+2023-01-07,Bahrain,United Arab Emirates,2,1,Gulf Cup,Iraq,20,-20,1514,1473,1,-3,79,84
+2023-01-08,Estonia,Iceland,1,1,Friendly,Portugal,3,-3,1432,1540,2,-1,93,71
+2023-01-09,Vietnam,Indonesia,2,0,Southeast Asian Championship,Vietnam,14,-14,1416,1279,3,0,99,141
+2023-01-09,Oman,Yemen,3,2,Gulf Cup,Iraq,2,-2,1575,1095,0,0,67,177
+2023-01-09,Iraq,Saudi Arabia,2,0,Gulf Cup,Iraq,28,-28,1597,1618,6,-3,62,56
+2023-01-09,Sweden,Finland,2,0,Friendly,Portugal,12,-12,1769,1677,0,-2,30,46
+2023-01-10,Thailand,Malaysia,3,0,Southeast Asian Championship,Thailand,17,-17,1379,1241,5,-6,110,152
+2023-01-10,Kuwait,United Arab Emirates,1,0,Gulf Cup,Iraq,29,-29,1333,1444,12,-7,123,91
+2023-01-10,Bahrain,Qatar,2,1,Gulf Cup,Iraq,24,-24,1538,1564,4,-3,75,68
+2023-01-12,Oman,Saudi Arabia,2,1,Gulf Cup,Iraq,22,-22,1597,1596,4,-7,62,63
+2023-01-12,Iraq,Yemen,5,0,Gulf Cup,Iraq,2,-2,1599,1093,1,0,61,177
+2023-01-12,Sweden,Iceland,2,1,Friendly,Portugal,4,-4,1773,1536,1,-4,29,75
+2023-01-12,Estonia,Finland,1,0,Friendly,Portugal,16,-16,1448,1661,2,-4,91,50
+2023-01-13,Vietnam,Thailand,2,2,Southeast Asian Championship,Vietnam,-8,8,1408,1387,-2,3,101,107
+2023-01-13,Qatar,United Arab Emirates,1,1,Gulf Cup,Iraq,-7,7,1557,1451,0,3,68,89
+2023-01-13,Bahrain,Kuwait,1,1,Gulf Cup,Iraq,-11,11,1527,1344,-3,1,77,122
+2023-01-16,Thailand,Vietnam,1,0,Southeast Asian Championship,Thailand,16,-16,1403,1392,5,-2,102,103
+2023-01-16,Oman,Bahrain,1,0,Gulf Cup,Iraq,16,-16,1613,1511,3,-2,59,79
+2023-01-16,Iraq,Qatar,2,1,Gulf Cup,Iraq,12,-12,1611,1545,1,-1,60,69
+2023-01-19,Iraq,Oman,3,2,Gulf Cup,Iraq,15,-15,1626,1598,5,-3,55,62
+2023-01-25,United States,Serbia,1,2,Friendly,the United States,-12,12,1805,1847,-1,1,24,19
+2023-01-28,United States,Colombia,0,0,Friendly,the United States,0,0,1805,1919,0,0,24,12
+2023-01-29,Trinidad and Tobago,Saint Martin,2,0,Friendly,Trinidad and Tobago,1,-1,1341,837,0,0,123,208
+2023-02-22,Grenada,Barbados,1,1,Friendly,Grenada,-6,6,1129,1013,-1,0,172,185
+2023-02-23,French Guiana,Martinique,0,1,Friendly,French Guiana,-12,12,1335,1400,-2,3,123,103
+2023-02-24,Grenada,Barbados,2,2,Friendly,Grenada,-6,6,1123,1019,-1,0,173,185
+2023-02-25,Malawi,Lesotho,1,1,Friendly,Malawi,-5,5,1289,1225,0,2,140,155
+2023-02-25,French Guiana,Martinique,2,2,Friendly,French Guiana,-1,1,1334,1401,0,0,123,103
+2023-02-26,Malawi,Lesotho,0,1,Friendly,Malawi,-14,14,1275,1239,-2,1,142,154
+2023-02-26,Grenada,Barbados,2,2,Friendly,Grenada,-5,5,1118,1024,0,0,173,185
+2023-03-03,Grenada,Saint Lucia,1,2,Friendly,Grenada,-15,15,1103,1060,-1,1,174,183
+2023-03-03,Bahamas,Turks and Caicos Islands,1,2,Friendly,the Bahamas,-16,16,841,741,-1,1,206,214
+2023-03-04,Saint Barthelemy,Sint Maarten,5,1,Friendly,Saint Barthelemy,17,-17,730,759,0,-1,216,212
+2023-03-04,Bahamas,Turks and Caicos Islands,2,0,Friendly,the Bahamas,7,-7,848,734,1,-1,205,215
+2023-03-04,Anguilla,Saint Martin,2,2,Friendly,Anguilla,3,-3,617,834,0,0,230,208
+2023-03-05,Grenada,Saint Lucia,2,0,Friendly,Grenada,9,-9,1112,1051,1,0,173,183
+2023-03-10,Saint Martin,Saint Barthelemy,3,2,Friendly,Saint Martin,5,-5,839,725,1,0,207,216
+2023-03-11,Jamaica,Trinidad and Tobago,0,1,Friendly,Jamaica,-17,17,1539,1358,-5,5,73,117
+2023-03-12,Guatemala,Panama,1,1,Friendly,the United States,5,-5,1455,1641,3,0,88,53
+2023-03-14,Jamaica,Trinidad and Tobago,0,0,Friendly,Jamaica,-7,7,1532,1365,-3,3,76,114
+2023-03-15,Bangladesh,Malawi,1,1,Friendly,Saudi Arabia,8,-8,856,1267,0,0,205,142
+2023-03-16,Lesotho,Eswatini,0,0,Friendly,Lesotho,-1,1,1238,1297,0,1,154,138
+2023-03-19,Ethiopia,Rwanda,1,0,Friendly,Ethiopia,5,-5,1353,1273,2,0,119,141
+2023-03-20,Tahiti,New Caledonia,0,2,Friendly,Tahiti,-19,19,1136,1188,-3,4,171,162
+2023-03-20,Fiji,Vanuatu,1,2,Friendly tournament,Fiji,-23,23,1224,1148,-5,4,155,168
+2023-03-21,Maldives,Pakistan,1,0,Friendly,the Maldives,6,-6,935,867,0,0,196,203
+2023-03-22,Nepal,Laos,2,0,Prime Minister's Cup,Nepal,5,-5,948,657,0,-1,195,227
+2023-03-22,India,Myanmar,1,0,Friendly tournament,India,2,-2,1222,896,0,0,158,199
+2023-03-22,Sao Tome and Principe,Sierra Leone,2,2,African Nations Cup qualifier,Morocco,13,-13,1081,1320,1,-4,179,128
+2023-03-22,Benin,Rwanda,1,1,African Nations Cup qualifier,Benin,-11,11,1372,1284,-3,1,111,140
+2023-03-22,Ireland,Latvia,3,2,Friendly,Ireland,2,-2,1677,1350,1,0,46,120
+2023-03-22,Honduras,El Salvador,1,0,Friendly,the United States,10,-10,1481,1473,2,-2,82,84
+2023-03-23,Tahiti,New Caledonia,2,1,Friendly,Tahiti,9,-9,1145,1179,3,-5,168,167
+2023-03-23,Solomon Islands,Vanuatu,2,0,Friendly tournament,Fiji,19,-19,1224,1129,5,-5,155,173
+2023-03-23,New Zealand,China,0,0,Friendly,New Zealand,-4,4,1523,1475,1,1,76,84
+2023-03-23,Malaysia,Turkmenistan,1,0,Friendly,Malaysia,7,-7,1248,1245,3,-3,148,151
+2023-03-23,Iran,Russia,1,1,Friendly,Iran,-3,3,1777,1757,-1,0,28,31
+2023-03-23,Hungary,Estonia,1,0,Friendly,Hungary,1,-1,1825,1447,0,-1,21,93
+2023-03-23,Hong Kong,Singapore,1,1,Friendly,Hong Kong,-3,3,1136,1134,-1,0,170,172
+2023-03-23,Argentina,Panama,2,0,Friendly,Argentina,1,-1,2145,1640,0,0,1,53
+2023-03-23,Zambia,Lesotho,3,1,African Nations Cup qualifier,Zambia,8,-8,1472,1230,0,-1,86,154
+2023-03-23,Madagascar,Central African Republic,0,3,African Nations Cup qualifier,Madagascar,-48,48,1249,1309,-9,10,147,134
+2023-03-23,Ghana,Angola,1,0,African Nations Cup qualifier,Ghana,6,-6,1599,1400,2,-2,62,103
+2023-03-23,Gabon,Sudan,1,0,African Nations Cup qualifier,Gabon,7,-7,1494,1296,0,-2,81,138
+2023-03-23,Congo,South Sudan,1,2,African Nations Cup qualifier,Congo,-34,34,1264,1135,-6,4,143,171
+2023-03-23,Algeria,Niger,2,1,African Nations Cup qualifier,Algeria,2,-2,1706,1239,0,-1,42,152
+2023-03-23,Slovakia,Luxembourg,0,0,European Championship qualifier,Slovakia,-12,12,1567,1455,-1,5,67,88
+2023-03-23,San Marino,Northern Ireland,0,2,European Championship qualifier,San Marino,-1,1,782,1541,0,0,210,70
+2023-03-23,Portugal,Liechtenstein,4,0,European Championship qualifier,Portugal,0,0,1998,977,0,0,5,189
+2023-03-23,North Macedonia,Malta,2,1,European Championship qualifier,North Macedonia,4,-4,1537,1255,2,0,73,145
+2023-03-23,Kazakhstan,Slovenia,1,2,European Championship qualifier,Kazakhstan,-11,11,1380,1678,-2,2,108,46
+2023-03-23,Italy,England,1,2,European Championship qualifier,Italy,-26,26,1947,1992,-3,1,10,7
+2023-03-23,Denmark,Finland,3,1,European Championship qualifier,Denmark,8,-8,1891,1653,0,-1,14,51
+2023-03-23,Bosnia and Herzegovina,Iceland,3,0,European Championship qualifier,Bosnia and Herzegovina,18,-18,1634,1518,5,-5,54,78
+2023-03-23,Saint Kitts and Nevis,Saint Martin,3,1,CONCACAF Nations League C,Anguilla,8,-8,1184,831,0,-1,165,208
+2023-03-23,British Virgin Islands,Puerto Rico,1,3,CONCACAF Nations League C,the British VirgIslands,-6,6,607,1093,0,1,231,177
+2023-03-23,Guadeloupe,Antigua and Barbuda,0,1,CONCACAF Nations League B,Guadeloupe,-28,28,1187,1191,-4,6,163,161
+2023-03-23,French Guiana,Dominican Republic,1,1,CONCACAF Nations League B,French Guiana,-13,13,1321,1188,-4,4,127,162
+2023-03-23,Barbados,Cuba,0,1,CONCACAF Nations League B,Barbados,-10,10,1014,1336,0,2,185,123
+2023-03-23,Suriname,Mexico,0,2,CONCACAF Nations League A,Suriname,-6,6,1314,1818,-3,0,131,23
+2023-03-24,Uzbekistan,Bolivia,1,0,Friendly,Saudi Arabia,11,-11,1586,1606,1,-2,65,60
+2023-03-24,South Korea,Colombia,2,2,Friendly,South Korea,1,-1,1789,1918,0,0,26,12
+2023-03-24,Saudi Arabia,Venezuela,1,2,Friendly,Saudi Arabia,-10,10,1586,1695,-1,1,65,44
+2023-03-24,Kuwait,Philippines,2,0,Friendly,Kuwait,3,-3,1347,1047,3,0,119,184
+2023-03-24,Japan,Uruguay,1,1,Friendly,Japan,-1,1,1850,1905,0,0,17,13
+2023-03-24,Australia,Ecuador,3,1,Friendly,Australia,14,-14,1787,1828,2,0,27,20
+2023-03-24,Tunisia,Libya,3,0,African Nations Cup qualifier,Tunisia,4,-4,1749,1345,1,0,34,121
+2023-03-24,Tanzania,Uganda,1,0,African Nations Cup qualifier,Egypt,25,-25,1337,1367,11,-11,122,115
+2023-03-24,South Africa,Liberia,2,2,African Nations Cup qualifier,South Africa,-15,15,1525,1321,-4,9,75,127
+2023-03-24,Senegal,Mozambique,5,1,African Nations Cup qualifier,Senegal,3,-3,1748,1316,0,-3,35,132
+2023-03-24,Nigeria,Guinea-Bissau,0,1,African Nations Cup qualifier,Nigeria,-35,35,1592,1415,-8,10,63,98
+2023-03-24,Mali,Gambia,2,0,African Nations Cup qualifier,Mali,9,-9,1626,1412,3,-3,55,101
+2023-03-24,Ivory Coast,Comoros,3,1,African Nations Cup qualifier,Ivory Coast,3,-3,1670,1243,1,-1,48,151
+2023-03-24,Guinea,Ethiopia,2,0,African Nations Cup qualifier,Morocco,28,-28,1409,1325,5,-6,102,125
+2023-03-24,Equatorial Guinea,Botswana,2,0,African Nations Cup qualifier,Equatorial Guinea,17,-17,1448,1346,2,-4,93,120
+2023-03-24,Egypt,Malawi,2,0,African Nations Cup qualifier,Egypt,3,-3,1663,1264,1,-2,49,143
+2023-03-24,DR Congo,Mauritania,3,1,African Nations Cup qualifier,DR Congo,17,-17,1470,1371,4,-5,86,111
+2023-03-24,Cape Verde,Eswatini,0,0,African Nations Cup qualifier,Cape Verde,-13,13,1468,1310,-5,2,87,135
+2023-03-24,Cameroon,Namibia,1,1,African Nations Cup qualifier,Cameroon,-17,17,1659,1381,-2,8,50,107
+2023-03-24,Burkina Faso,Togo,1,0,African Nations Cup qualifier,Morocco,7,-7,1609,1317,2,-5,59,130
+2023-03-24,Sweden,Belgium,0,3,European Championship qualifier,Sweden,-28,28,1745,1975,-7,2,36,8
+2023-03-24,Serbia,Lithuania,2,0,European Championship qualifier,Serbia,1,-1,1848,1247,0,-1,19,149
+2023-03-24,Moldova,Faroe Islands,1,1,European Championship qualifier,Moldova,-1,1,1231,1309,0,-1,153,136
+2023-03-24,Gibraltar,Greece,0,3,European Championship qualifier,Portugal,-2,2,1066,1691,0,-1,181,45
+2023-03-24,France,Netherlands,4,0,European Championship qualifier,France,26,-26,2107,2047,0,0,3,4
+2023-03-24,Czechia,Poland,3,1,European Championship qualifier,Czechia,23,-23,1801,1778,2,-3,25,28
+2023-03-24,Bulgaria,Montenegro,0,1,European Championship qualifier,Bulgaria,-25,25,1496,1565,-3,3,80,68
+2023-03-24,Austria,Azerbaijan,4,1,European Championship qualifier,Austria,5,-5,1756,1418,2,0,31,97
+2023-03-24,Anguilla,Saint Lucia,1,2,CONCACAF Nations League C,Anguilla,-5,5,612,1056,0,1,230,182
+2023-03-24,Nicaragua,Saint Vincent and the Grenadines,4,1,CONCACAF Nations League B,Nicaragua,11,-11,1268,1052,3,-1,141,183
+2023-03-24,Belize,Guatemala,1,2,CONCACAF Nations League B,Belize,-7,7,1068,1462,0,0,180,88
+2023-03-24,Bahamas,Trinidad and Tobago,0,3,CONCACAF Nations League B,the Bahamas,-6,6,842,1371,0,3,206,111
+2023-03-24,Grenada,United States,1,7,CONCACAF Nations League A,Grenada,-3,3,1109,1808,0,0,174,24
+2023-03-25,United Arab Emirates,Tajikistan,0,0,Friendly,the United Arab Emirates,-6,6,1445,1334,-3,0,94,124
+2023-03-25,Syria,Thailand,3,1,Friendly,the United Arab Emirates,15,-15,1428,1388,4,-3,96,106
+2023-03-25,Morocco,Brazil,2,1,Friendly,Morocco,14,-14,1880,2119,0,0,16,2
+2023-03-25,Laos,Bhutan,2,1,Prime Minister's Cup,Nepal,11,-11,668,556,1,-1,226,236
+2023-03-25,Kyrgyzstan,Myanmar,1,1,Friendly tournament,India,-12,12,1255,908,-2,2,144,197
+2023-03-25,Indonesia,Burundi,3,1,Friendly,Indonesia,10,-10,1289,1243,1,-4,139,150
+2023-03-25,Germany,Peru,2,0,Friendly,Germany,7,-7,1962,1843,0,-2,9,19
+2023-03-25,Georgia,Mongolia,6,1,Friendly,Georgia,0,0,1651,804,0,-1,52,210
+2023-03-25,Bangladesh,Seychelles,1,0,Friendly,Bangladesh,8,-8,864,875,1,-1,204,202
+2023-03-25,Bahrain,Palestine,1,2,Friendly,Bahrain,-15,15,1496,1447,-1,3,79,92
+2023-03-25,Spain,Norway,3,0,European Championship qualifier,Spain,9,-9,2005,1745,1,-3,5,35
+2023-03-25,Scotland,Cyprus,3,0,European Championship qualifier,Scotland,4,-4,1755,1351,1,1,32,116
+2023-03-25,Israel,Kosovo,1,1,European Championship qualifier,Israel,-11,11,1608,1518,-2,2,59,77
+2023-03-25,Belarus,Switzerland,0,5,European Championship qualifier,Serbia,-5,5,1410,1883,-3,0,101,15
+2023-03-25,Croatia,Wales,1,1,European Championship qualifier,Croatia,-15,15,1935,1731,-1,1,11,38
+2023-03-25,Armenia,Turkey,1,2,European Championship qualifier,Armenia,-11,11,1440,1722,-4,-1,95,41
+2023-03-25,Andorra,Romania,0,2,European Championship qualifier,Andorra,-5,5,1104,1615,-1,1,175,57
+2023-03-25,Turks and Caicos Islands,US Virgin Islands,1,0,CONCACAF Nations League C,Turks and Caicos Islands,11,-11,745,650,1,-1,214,227
+2023-03-25,Sint Maarten,Bonaire,6,1,CONCACAF Nations League C,the US VirgIslands,62,-62,821,909,3,-6,209,196
+2023-03-25,Montserrat,Haiti,0,4,CONCACAF Nations League B,Montserrat,-5,5,959,1541,0,2,191,71
+2023-03-25,Bermuda,Guyana,0,2,CONCACAF Nations League B,Bermuda,-40,40,1165,1223,-7,8,167,158
+2023-03-25,Martinique,Costa Rica,1,2,CONCACAF Nations League A,Martinique,-8,8,1393,1745,0,2,104,35
+2023-03-25,Curaçao,Canada,0,2,CONCACAF Nations League A,Curaçao,-12,12,1350,1723,-1,0,117,40
+2023-03-26,Russia,Iraq,2,0,Friendly,Russia,6,-6,1763,1620,0,0,30,55
+2023-03-26,New Zealand,China,2,1,Friendly,New Zealand,6,-6,1529,1469,2,-3,74,86
+2023-03-26,Macao,Singapore,0,1,Friendly,Macao,-3,3,695,1137,0,2,219,170
+2023-03-26,Fiji,Solomon Islands,0,2,Friendly tournament,Fiji,-29,29,1195,1253,-5,10,160,145
+2023-03-26,Sierra Leone,Sao Tome and Principe,2,0,African Nations Cup qualifier,Morocco,12,-12,1332,1069,4,0,125,179
+2023-03-26,Lesotho,Zambia,0,2,African Nations Cup qualifier,South Africa,-12,12,1218,1484,-5,3,159,82
+2023-03-26,Slovenia,San Marino,2,0,European Championship qualifier,Slovenia,0,0,1678,782,0,0,46,211
+2023-03-26,Slovakia,Bosnia and Herzegovina,2,0,European Championship qualifier,Slovakia,27,-27,1594,1607,4,-5,63,59
+2023-03-26,Northern Ireland,Finland,0,1,European Championship qualifier,Northern Ireland,-19,19,1522,1672,-6,3,77,48
+2023-03-26,Malta,Italy,0,2,European Championship qualifier,Malta,-2,2,1253,1949,-1,0,145,10
+2023-03-26,Luxembourg,Portugal,0,6,European Championship qualifier,Luxembourg,-6,6,1449,2004,0,0,90,6
+2023-03-26,Liechtenstein,Iceland,0,7,European Championship qualifier,Liechtenstein,-7,7,970,1525,0,2,189,75
+2023-03-26,Kazakhstan,Denmark,3,2,European Championship qualifier,Kazakhstan,37,-37,1417,1854,9,-2,99,16
+2023-03-26,England,Ukraine,2,0,European Championship qualifier,England,10,-10,2002,1812,0,0,7,22
+2023-03-26,Puerto Rico,Cayman Islands,5,1,CONCACAF Nations League C,Puerto Rico,9,-9,1102,830,1,-1,176,208
+2023-03-26,Cuba,Guadeloupe,1,0,CONCACAF Nations League B,Cuba,8,-8,1344,1179,1,-1,122,164
+2023-03-26,Antigua and Barbuda,Barbados,1,2,CONCACAF Nations League B,Antigua and Barbuda,-33,33,1158,1047,-6,1,167,184
+2023-03-26,Mexico,Jamaica,2,2,CONCACAF Nations League A,Mexico,-16,16,1802,1548,-1,5,24,69
+2023-03-27,Oman,Lebanon,2,0,Friendly,Oman,3,-3,1601,1314,0,-2,62,132
+2023-03-27,North Macedonia,Faroe Islands,1,0,Friendly,North Macedonia,3,-3,1540,1306,1,-1,72,137
+2023-03-27,Greece,Lithuania,0,0,Friendly,Greece,-9,9,1682,1256,0,5,45,144
+2023-03-27,Chile,Paraguay,3,2,Friendly,Chile,8,-8,1704,1719,0,-2,43,41
+2023-03-27,Sudan,Gabon,1,0,African Nations Cup qualifier,Sudan,25,-25,1321,1469,10,-5,128,86
+2023-03-27,Guinea-Bissau,Nigeria,0,1,African Nations Cup qualifier,Guinea-Bissau,-16,16,1399,1608,-4,6,104,58
+2023-03-27,Guinea,Ethiopia,3,2,African Nations Cup qualifier,Morocco,15,-15,1424,1310,6,-9,97,135
+2023-03-27,Congo,South Sudan,1,0,African Nations Cup qualifier,Tanzania,13,-13,1277,1122,0,-1,142,173
+2023-03-27,Central African Republic,Madagascar,2,0,African Nations Cup qualifier,Cameroon,25,-25,1334,1224,12,-7,124,154
+2023-03-27,Angola,Ghana,1,1,African Nations Cup qualifier,Angola,6,-6,1406,1593,1,-3,103,64
+2023-03-27,Algeria,Niger,1,0,African Nations Cup qualifier,Tunisia,3,-3,1709,1236,0,0,42,153
+2023-03-27,Sweden,Azerbaijan,5,0,European Championship qualifier,Sweden,6,-6,1751,1412,2,-2,33,100
+2023-03-27,Poland,Albania,1,0,European Championship qualifier,Poland,5,-5,1783,1538,0,-2,28,73
+2023-03-27,Netherlands,Gibraltar,3,0,European Championship qualifier,the Netherlands,0,0,2047,1066,0,0,4,181
+2023-03-27,Montenegro,Serbia,0,2,European Championship qualifier,Montenegro,-16,16,1549,1864,0,2,68,16
+2023-03-27,Moldova,Czechia,0,0,European Championship qualifier,Moldova,17,-17,1248,1784,6,-2,148,27
+2023-03-27,Ireland,France,0,1,European Championship qualifier,Ireland,-5,5,1672,2112,0,0,47,3
+2023-03-27,Hungary,Bulgaria,3,0,European Championship qualifier,Hungary,5,-5,1830,1491,1,-1,20,80
+2023-03-27,Austria,Estonia,2,1,European Championship qualifier,Austria,3,-3,1759,1444,0,-2,31,94
+2023-03-27,Saint Lucia,Dominica,3,1,CONCACAF Nations League C,Saint Lucia,17,-17,1073,972,3,0,179,188
+2023-03-27,Saint Kitts and Nevis,Aruba,2,0,CONCACAF Nations League C,Saint Kitts and Nevis,8,-8,1192,950,1,0,162,192
+2023-03-27,Trinidad and Tobago,Nicaragua,1,1,CONCACAF Nations League B,Trinidad and Tobago,-11,11,1360,1279,-4,0,115,141
+2023-03-27,Saint Vincent and the Grenadines,Bahamas,1,1,CONCACAF Nations League B,Saint Vincent and the Grenadines,-14,14,1038,856,-2,0,185,206
+2023-03-27,Guatemala,French Guiana,4,0,CONCACAF Nations League B,Guatemala,15,-15,1477,1306,5,-9,83,137
+2023-03-27,Dominican Republic,Belize,2,0,CONCACAF Nations League B,the Dominican Republic,13,-13,1201,1055,1,-2,160,182
+2023-03-27,United States,El Salvador,1,0,CONCACAF Nations League A,the United States,3,-3,1811,1470,0,0,23,84
+2023-03-28,Uzbekistan,Venezuela,1,1,Friendly,Saudi Arabia,3,-3,1589,1692,0,0,66,44
+2023-03-28,United Arab Emirates,Thailand,2,0,Friendly,the United Arab Emirates,9,-9,1454,1379,2,-2,91,109
+2023-03-28,South Korea,Uruguay,1,2,Friendly,South Korea,-10,10,1779,1915,-3,0,28,13
+2023-03-28,Saudi Arabia,Bolivia,1,2,Friendly,Saudi Arabia,-12,12,1574,1618,-1,5,67,56
+2023-03-28,Nepal,Bhutan,1,1,Prime Minister's Cup,Nepal,-13,13,935,569,0,1,194,235
+2023-03-28,Morocco,Peru,0,0,Friendly,Spain,-1,1,1879,1844,0,1,15,18
+2023-03-28,Malaysia,Hong Kong,2,0,Friendly,Malaysia,7,-7,1255,1129,4,0,144,171
+2023-03-28,Kuwait,Tajikistan,2,1,Friendly,Kuwait,7,-7,1354,1327,2,0,117,124
+2023-03-28,Jordan,Philippines,4,0,Friendly,Qatar,2,-2,1592,1045,0,-1,65,184
+2023-03-28,Japan,Colombia,1,2,Friendly,Japan,-11,11,1839,1929,-2,0,20,12
+2023-03-28,Iran,Kenya,2,1,Friendly,Iran,1,-1,1778,1370,0,-2,29,113
+2023-03-28,Indonesia,Burundi,2,2,Friendly,Indonesia,-4,4,1285,1247,0,2,139,149
+2023-03-28,India,Kyrgyzstan,2,0,Friendly tournament,India,18,-18,1240,1237,7,-7,151,152
+2023-03-28,Germany,Belgium,2,3,Friendly,Germany,-12,12,1950,1987,-1,1,10,7
+2023-03-28,Bangladesh,Seychelles,0,1,Friendly,Bangladesh,-13,13,851,888,-2,2,206,200
+2023-03-28,Bahrain,Syria,1,0,Friendly,Bahrain,6,-6,1502,1422,1,-3,78,99
+2023-03-28,Australia,Ecuador,1,2,Friendly,Australia,-12,12,1775,1840,-4,2,30,19
+2023-03-28,Armenia,Cyprus,2,2,Friendly,Armenia,-5,5,1435,1356,-1,0,96,116
+2023-03-28,Argentina,Curaçao,7,0,Friendly,Argentina,0,0,2145,1350,0,-1,1,118
+2023-03-28,Togo,Burkina Faso,1,1,African Nations Cup qualifier,Togo,10,-10,1327,1599,6,-4,124,61
+2023-03-28,Tanzania,Uganda,0,1,African Nations Cup qualifier,Tanzania,-24,24,1313,1391,-8,6,131,108
+2023-03-28,Namibia,Cameroon,2,1,African Nations Cup qualifier,South Africa,33,-33,1414,1626,7,-2,101,53
+2023-03-28,Mozambique,Senegal,0,1,African Nations Cup qualifier,Mozambique,-5,5,1311,1753,-2,1,133,34
+2023-03-28,Mauritania,DR Congo,1,1,African Nations Cup qualifier,Mauritania,0,0,1371,1470,-1,-1,112,85
+2023-03-28,Malawi,Egypt,0,4,African Nations Cup qualifier,Malawi,-11,11,1253,1674,-2,2,145,48
+2023-03-28,Libya,Tunisia,0,1,African Nations Cup qualifier,Libya,-6,6,1339,1755,0,1,121,33
+2023-03-28,Liberia,South Africa,1,2,African Nations Cup qualifier,Liberia,-14,14,1307,1539,-7,2,135,73
+2023-03-28,Gambia,Mali,1,0,African Nations Cup qualifier,Morocco,31,-31,1443,1595,5,-8,95,62
+2023-03-28,Comoros,Ivory Coast,0,2,African Nations Cup qualifier,the Comoros,-8,8,1235,1678,-3,3,154,46
+2023-03-28,Cape Verde,Eswatini,1,0,African Nations Cup qualifier,South Africa,11,-11,1479,1299,6,-3,82,138
+2023-03-28,Botswana,Equatorial Guinea,2,3,African Nations Cup qualifier,Botswana,-20,20,1326,1468,-6,2,126,89
+2023-03-28,Wales,Latvia,1,0,European Championship qualifier,Wales,2,-2,1733,1348,1,-2,37,119
+2023-03-28,Turkey,Croatia,0,2,European Championship qualifier,Turkey,-21,21,1701,1956,-3,2,43,9
+2023-03-28,Switzerland,Israel,3,0,European Championship qualifier,Switzerland,7,-7,1890,1601,0,-1,14,59
+2023-03-28,Scotland,Spain,2,0,European Championship qualifier,Scotland,42,-42,1797,1963,7,-3,25,8
+2023-03-28,Romania,Belarus,2,1,European Championship qualifier,Romania,6,-6,1621,1404,2,-2,54,104
+2023-03-28,Kosovo,Andorra,1,1,European Championship qualifier,Kosovo,-18,18,1500,1122,-1,2,79,173
+2023-03-28,Georgia,Norway,1,1,European Championship qualifier,Georgia,0,0,1651,1745,0,0,52,36
+2023-03-28,US Virgin Islands,Sint Maarten,1,2,CONCACAF Nations League C,the US VirgIslands,-16,16,634,837,0,2,227,207
+2023-03-28,Bonaire,Turks and Caicos Islands,1,2,CONCACAF Nations League C,Bonaire,-33,33,876,778,-6,2,202,212
+2023-03-28,Haiti,Bermuda,3,1,CONCACAF Nations League B,the Dominican Republic,6,-6,1547,1159,1,0,70,166
+2023-03-28,Guyana,Montserrat,0,0,CONCACAF Nations League B,Barbados,-13,13,1210,972,-3,3,159,188
+2023-03-28,Costa Rica,Panama,0,1,CONCACAF Nations League A,Costa Rica,-31,31,1714,1671,-4,2,40,51
+2023-03-28,Canada,Honduras,4,1,CONCACAF Nations League A,Canada,9,-9,1732,1472,1,-2,38,84
+2023-03-29,Rwanda,Benin,1,1,African Nations Cup qualifier,Rwanda,-1,1,1283,1373,0,0,140,111
+2023-03-31,Nepal,Laos,2,1,Prime Minister's Cup,Nepal,3,-3,938,665,0,0,194,226
+2023-04-19,United States,Mexico,1,1,Friendly,the United States,-3,3,1808,1805,0,0,23,24
+2023-06-03,Eswatini,Lesotho,1,2,Friendly,Eswatini,-15,15,1284,1233,0,3,138,155
+2023-06-03,Eswatini,Lesotho,1,0,Friendly,Eswatini,6,-6,1290,1227,0,3,138,155
+2023-06-07,Mexico,Guatemala,2,0,Friendly,Mexico,2,-2,1807,1475,0,0,24,83
+2023-06-09,Luxembourg,Malta,0,1,Friendly,Luxembourg,-17,17,1432,1270,-4,2,96,143
+2023-06-09,Lebanon,Vanuatu,3,1,Intercontinental Cup,India,12,-12,1326,1117,3,-3,126,174
+2023-06-09,India,Mongolia,2,0,Intercontinental Cup,India,2,-2,1242,802,0,0,151,210
+2023-06-10,Panama,Nicaragua,3,2,Friendly,Panama,1,-1,1672,1278,2,0,49,141
+2023-06-10,Martinique,Guyana,2,0,Friendly,the United States,8,-8,1401,1202,1,0,105,159
+2023-06-10,Cameroon,Mexico,2,2,Friendly,the United States,5,-5,1631,1802,0,0,53,24
+2023-06-10,Kyrgyzstan,Afghanistan,1,0,Central Asian Nations Cup,Kyrgyzstan,8,-8,1245,1090,2,-1,150,178
+2023-06-11,Trinidad and Tobago,Guatemala,1,0,Friendly,the United States,13,-13,1373,1462,4,-6,111,89
+2023-06-11,Mauritius,Pakistan,3,0,Friendly tournament,Mauritius,14,-14,964,853,1,-2,191,205
+2023-06-11,Chile,Cuba,3,0,Friendly,Chile,2,-2,1706,1342,0,0,42,120
+2023-06-11,Central African Republic,Uganda,1,1,Friendly,Cameroon,2,-2,1336,1389,0,0,122,108
+2023-06-11,Uzbekistan,Oman,3,0,Central Asian Nations Cup,Uzbekistan,26,-26,1615,1575,9,-7,57,66
+2023-06-11,Tajikistan,Turkmenistan,1,1,Central Asian Nations Cup,Uzbekistan,-5,5,1322,1250,-4,2,128,148
+2023-06-12,Morocco,Cape Verde,0,0,Friendly,Morocco,-9,9,1870,1488,0,1,15,81
+2023-06-12,Lebanon,Mongolia,0,0,Intercontinental Cup,India,-14,14,1312,816,-7,0,132,210
+2023-06-12,Kuwait,Zambia,3,0,Friendly,Egypt,24,-24,1378,1460,7,-8,110,89
+2023-06-12,India,Vanuatu,1,0,Intercontinental Cup,India,6,-6,1248,1111,3,0,149,174
+2023-06-12,Germany,Ukraine,3,3,Friendly,Germany,-6,6,1944,1818,-1,0,11,22
+2023-06-13,Haiti,Saint Kitts and Nevis,3,1,Friendly,the United States,3,-3,1550,1189,2,0,68,162
+2023-06-13,Curaçao,Puerto Rico,0,0,Friendly,the United States,-6,6,1344,1108,-1,0,119,176
+2023-06-13,Iran,Afghanistan,6,1,Central Asian Nations Cup,Kyrgyzstan,1,-1,1779,1089,1,0,28,178
+2023-06-14,Uruguay,Nicaragua,4,1,Friendly,Uruguay,0,0,1915,1278,0,0,13,141
+2023-06-14,Togo,Lesotho,2,0,Friendly,South Africa,11,-11,1338,1216,2,-3,122,158
+2023-06-14,Mozambique,Malawi,1,1,Friendly,Mozambique,-4,4,1307,1257,-1,1,134,145
+2023-06-14,Mauritius,Djibouti,1,3,Friendly tournament,Mauritius,-34,34,930,894,-4,3,195,200
+2023-06-14,Malaysia,Solomon Islands,4,1,Friendly,Malaysia,13,-13,1268,1240,1,-6,144,152
+2023-06-14,Kenya,Pakistan,1,0,Friendly tournament,Mauritius,1,-1,1371,852,1,0,114,205
+2023-06-14,Indonesia,Palestine,0,0,Friendly,Indonesia,2,-2,1287,1445,0,-1,139,93
+2023-06-14,DR Congo,Uganda,1,0,Friendly,Cameroon,8,-8,1478,1381,1,0,82,108
+2023-06-14,Uzbekistan,Turkmenistan,2,0,Central Asian Nations Cup,Uzbekistan,4,-4,1619,1246,1,-2,56,150
+2023-06-14,Oman,Tajikistan,1,1,Central Asian Nations Cup,Uzbekistan,-12,12,1563,1334,-1,3,67,124
+2023-06-14,Guinea-Bissau,Sao Tome and Principe,1,0,African Nations Cup qualifier,Guinea-Bissau,3,-3,1402,1066,1,0,105,180
+2023-06-14,Gambia,South Sudan,3,2,African Nations Cup qualifier,Egypt,5,-5,1448,1117,2,-1,92,173
+2023-06-14,Egypt,Guinea,2,1,African Nations Cup qualifier,Morocco,8,-8,1682,1416,3,-3,45,100
+2023-06-14,Netherlands,Croatia,2,4,European Nations League,the Netherlands,-56,56,1991,2012,-3,5,7,4
+2023-06-15,Vietnam,Hong Kong,1,0,Friendly,Vietnam,2,-2,1394,1127,0,0,107,171
+2023-06-15,Venezuela,Honduras,1,0,Friendly,the United States,4,-4,1696,1468,0,-3,44,86
+2023-06-15,Vanuatu,Mongolia,1,0,Intercontinental Cup,India,5,-5,1116,811,0,0,174,210
+2023-06-15,Qatar,Jamaica,2,1,Friendly,Austria,10,-10,1555,1538,3,-3,68,73
+2023-06-15,Philippines,Nepal,1,0,Friendly,the Philippines,5,-5,1050,933,1,-1,183,194
+2023-06-15,Japan,El Salvador,6,0,Friendly,Japan,3,-3,1842,1467,1,-4,19,88
+2023-06-15,India,Lebanon,0,0,Intercontinental Cup,India,-2,2,1246,1314,-2,3,149,129
+2023-06-15,Guatemala,Costa Rica,1,0,Friendly,the United States,16,-16,1478,1698,6,-3,82,43
+2023-06-15,Cambodia,Bangladesh,0,1,Friendly,Cambodia,-13,13,864,864,-1,3,203,203
+2023-06-15,Argentina,Australia,2,0,Friendly,China,3,-3,2148,1772,0,0,1,30
+2023-06-15,Spain,Italy,2,1,European Nations League,the Netherlands,24,-24,1987,1925,1,-2,8,12
+2023-06-15,United States,Mexico,3,0,CONCACAF Nations League,the United States,25,-25,1833,1777,2,-5,21,29
+2023-06-15,Canada,Panama,2,0,CONCACAF Nations League,the United States,25,-25,1757,1647,5,-3,33,52
+2023-06-16,Taiwan,Thailand,2,2,Friendly,Taiwan,8,-8,909,1371,2,-4,196,113
+2023-06-16,Sweden,New Zealand,4,1,Friendly,Sweden,5,-5,1756,1524,2,-1,34,76
+2023-06-16,South Korea,Peru,0,1,Friendly,South Korea,-11,11,1768,1855,-3,0,30,18
+2023-06-16,Singapore,Papua New Guinea,2,2,Friendly,Singapore,0,0,1137,1223,1,0,169,157
+2023-06-16,Serbia,Jordan,3,2,Friendly,Austria,3,-3,1867,1589,0,0,16,65
+2023-06-16,Poland,Germany,1,0,Friendly,Poland,12,-12,1795,1932,1,0,25,10
+2023-06-16,Colombia,Iraq,1,0,Friendly,Spain,3,-3,1932,1617,1,-2,10,57
+2023-06-16,China,Myanmar,4,0,Friendly,China,1,-1,1470,907,-1,-1,85,197
+2023-06-16,Chile,Dominican Republic,5,0,Friendly,Chile,1,-1,1707,1200,0,-1,41,161
+2023-06-16,Kyrgyzstan,Iran,1,5,Central Asian Nations Cup,Kyrgyzstan,-6,6,1239,1785,-1,1,152,26
+2023-06-16,Wales,Armenia,2,4,European Championship qualifier,Wales,-54,54,1679,1489,-9,14,47,81
+2023-06-16,North Macedonia,Ukraine,2,3,European Championship qualifier,North Macedonia,-11,11,1529,1829,-3,0,74,23
+2023-06-16,Malta,England,0,4,European Championship qualifier,Malta,-2,2,1268,2004,0,1,143,5
+2023-06-16,Latvia,Turkey,2,3,European Championship qualifier,Latvia,-8,8,1340,1709,-1,3,119,39
+2023-06-16,Kosovo,Romania,0,0,European Championship qualifier,Kosovo,1,-1,1501,1620,0,0,79,54
+2023-06-16,Kazakhstan,San Marino,3,0,European Championship qualifier,Italy,2,-2,1419,780,0,0,99,211
+2023-06-16,Israel,Belarus,2,1,European Championship qualifier,Hungary,10,-10,1611,1394,2,-2,58,106
+2023-06-16,Greece,Ireland,2,1,European Championship qualifier,Greece,14,-14,1696,1658,2,0,43,49
+2023-06-16,France,Gibraltar,3,0,European Championship qualifier,Portugal,0,0,2112,1066,0,1,3,179
+2023-06-16,Finland,Slovenia,2,0,European Championship qualifier,Finland,22,-22,1694,1656,4,-3,45,50
+2023-06-16,Denmark,Northern Ireland,1,0,European Championship qualifier,Denmark,3,-3,1857,1519,0,0,17,77
+2023-06-16,Andorra,Switzerland,1,2,European Championship qualifier,Andorra,-1,1,1121,1891,1,0,171,14
+2023-06-16,Martinique,Saint Lucia,3,1,CONCACAF Championship qualifier,the United States,8,-8,1409,1065,3,-2,103,181
+2023-06-16,Guadeloupe,Antigua and Barbuda,5,0,CONCACAF Championship qualifier,the United States,38,-38,1217,1120,6,-5,158,172
+2023-06-16,Curaçao,Saint Kitts and Nevis,1,1,CONCACAF Championship qualifier,the United States,-8,8,1336,1197,-3,0,122,162
+2023-06-17,Ecuador,Bolivia,1,0,Friendly,the United States,4,-4,1844,1614,2,-2,18,58
+2023-06-17,Djibouti,Pakistan,3,1,Friendly tournament,Mauritius,20,-20,914,832,4,-1,196,207
+2023-06-17,Brazil,Guinea,4,1,Friendly,Spain,1,-1,2120,1415,0,-1,2,101
+2023-06-17,Uzbekistan,Tajikistan,5,1,Central Asian Nations Cup,Uzbekistan,7,-7,1626,1327,1,0,54,124
+2023-06-17,Oman,Turkmenistan,2,0,Central Asian Nations Cup,Uzbekistan,8,-8,1571,1238,0,-4,67,153
+2023-06-17,Zambia,Ivory Coast,3,0,African Nations Cup qualifier,Zambia,46,-46,1506,1632,13,-4,77,52
+2023-06-17,South Africa,Morocco,2,1,African Nations Cup qualifier,South Africa,32,-32,1571,1838,4,-5,67,20
+2023-06-17,Equatorial Guinea,Tunisia,1,0,African Nations Cup qualifier,Equatorial Guinea,30,-30,1498,1725,6,-1,81,36
+2023-06-17,Comoros,Lesotho,1,0,African Nations Cup qualifier,South Africa,19,-19,1254,1197,7,-1,147,160
+2023-06-17,Botswana,Libya,1,0,African Nations Cup qualifier,Botswana,15,-15,1341,1324,7,-5,119,125
+2023-06-17,Benin,Senegal,1,1,African Nations Cup qualifier,Benin,13,-13,1386,1740,3,1,108,35
+2023-06-17,Angola,Central African Republic,2,1,African Nations Cup qualifier,Cameroon,16,-16,1422,1320,6,-6,98,128
+2023-06-17,Portugal,Bosnia and Herzegovina,3,0,European Championship qualifier,Portugal,4,-4,2008,1603,0,-1,5,61
+2023-06-17,Norway,Scotland,1,2,European Championship qualifier,Norway,-23,23,1722,1820,0,1,37,23
+2023-06-17,Montenegro,Hungary,0,0,European Championship qualifier,Montenegro,10,-10,1559,1820,1,-1,69,23
+2023-06-17,Luxembourg,Liechtenstein,2,0,European Championship qualifier,Luxembourg,2,-2,1434,968,0,0,96,190
+2023-06-17,Lithuania,Bulgaria,1,1,European Championship qualifier,Lithuania,7,-7,1263,1484,1,-4,145,84
+2023-06-17,Iceland,Slovakia,1,2,European Championship qualifier,Iceland,-22,22,1503,1616,-3,6,78,57
+2023-06-17,Faroe Islands,Czechia,0,3,European Championship qualifier,the Faroe Islands,-7,7,1299,1791,-1,1,137,26
+2023-06-17,Cyprus,Georgia,1,2,European Championship qualifier,Cyprus,-10,10,1346,1661,0,3,117,48
+2023-06-17,Belgium,Austria,1,1,European Championship qualifier,Belgium,-15,15,1972,1774,-1,3,9,29
+2023-06-17,Azerbaijan,Estonia,1,1,European Championship qualifier,Azerbaijan,-4,4,1408,1448,-2,2,104,93
+2023-06-17,Albania,Moldova,2,0,European Championship qualifier,Albania,6,-6,1544,1242,0,-3,72,150
+2023-06-17,Puerto Rico,Suriname,0,0,CONCACAF Championship qualifier,the United States,11,-11,1119,1303,3,-7,173,136
+2023-06-17,Grenada,Guyana,1,1,CONCACAF Championship qualifier,the United States,5,-5,1114,1197,-1,0,176,160
+2023-06-17,French Guiana,Sint Maarten,4,1,CONCACAF Championship qualifier,the United States,4,-4,1310,833,4,1,132,206
+2023-06-18,Venezuela,Guatemala,1,0,Friendly,the United States,4,-4,1700,1474,1,-1,42,86
+2023-06-18,Singapore,Solomon Islands,1,1,Friendly,Singapore,0,0,1137,1240,0,0,169,151
+2023-06-18,Paraguay,Nicaragua,2,0,Friendly,Paraguay,1,-1,1720,1277,0,2,38,139
+2023-06-18,Mauritius,Kenya,1,0,Friendly tournament,Mauritius,26,-26,956,1345,3,-5,192,118
+2023-06-18,India,Lebanon,2,0,Intercontinental Cup,India,20,-20,1266,1294,7,-8,142,137
+2023-06-18,Egypt,South Sudan,3,0,Friendly,Egypt,1,-1,1683,1116,0,0,46,174
+2023-06-18,Togo,Eswatini,2,0,African Nations Cup qualifier,South Africa,26,-26,1364,1264,5,-5,116,143
+2023-06-18,Tanzania,Niger,1,0,African Nations Cup qualifier,Tanzania,11,-11,1324,1225,4,-1,126,155
+2023-06-18,Rwanda,Mozambique,0,2,African Nations Cup qualifier,Rwanda,-36,36,1247,1343,-8,15,148,119
+2023-06-18,Nigeria,Sierra Leone,3,2,African Nations Cup qualifier,Liberia,7,-7,1615,1325,2,-2,58,125
+2023-06-18,Madagascar,Ghana,0,0,African Nations Cup qualifier,Madagascar,13,-13,1237,1580,1,0,154,64
+2023-06-18,Gabon,DR Congo,0,2,African Nations Cup qualifier,Gabon,-38,38,1431,1516,-8,7,96,78
+2023-06-18,Congo,Mali,0,2,African Nations Cup qualifier,Congo,-13,13,1264,1608,-1,2,143,61
+2023-06-18,Cape Verde,Burkina Faso,3,1,African Nations Cup qualifier,Cape Verde,31,-31,1519,1568,7,-6,76,68
+2023-06-18,Algeria,Uganda,2,1,African Nations Cup qualifier,Cameroon,5,-5,1714,1376,0,-2,39,111
+2023-06-18,Netherlands,Italy,2,3,European Nations League,the Netherlands,-36,36,1955,1961,-3,3,10,9
+2023-06-18,Croatia,Spain,0,0,European Nations League,the Netherlands,-2,2,2010,1989,0,1,4,7
+2023-06-18,Mexico,Panama,1,0,CONCACAF Nations League,the United States,13,-13,1790,1634,1,0,27,51
+2023-06-18,United States,Canada,2,0,CONCACAF Nations League,the United States,16,-16,1849,1741,3,-1,18,34
+2023-06-19,Philippines,Taiwan,2,3,Friendly,the Philippines,-16,16,1034,925,-2,1,185,196
+2023-06-19,New Zealand,Qatar,1,0,Friendly,Austria,11,-11,1535,1544,2,-1,73,71
+2023-06-19,Myanmar,Macao,2,0,Friendly,China,7,-7,914,688,1,-1,197,220
+2023-06-19,Jordan,Jamaica,2,1,Friendly,Austria,9,-9,1598,1529,0,-1,63,74
+2023-06-19,Indonesia,Argentina,0,2,Friendly,Indonesia,0,0,1287,2148,0,0,138,1
+2023-06-19,Hong Kong,Thailand,0,1,Friendly,Hong Kong,-6,6,1121,1377,0,2,170,111
+2023-06-19,Ukraine,Malta,1,0,European Championship qualifier,Slovakia,2,-2,1831,1266,0,-1,22,141
+2023-06-19,Turkey,Wales,2,0,European Championship qualifier,Turkey,19,-19,1728,1660,4,-2,36,49
+2023-06-19,Switzerland,Romania,2,2,European Championship qualifier,Switzerland,-16,16,1875,1636,0,4,14,51
+2023-06-19,Slovenia,Denmark,1,1,European Championship qualifier,Slovenia,6,-6,1662,1851,3,-1,47,17
+2023-06-19,Northern Ireland,Kazakhstan,0,1,European Championship qualifier,Northern Ireland,-30,30,1489,1449,-7,8,83,92
+2023-06-19,Israel,Andorra,2,1,European Championship qualifier,Israel,1,-1,1612,1120,0,0,60,171
+2023-06-19,Ireland,Gibraltar,3,0,European Championship qualifier,Ireland,1,-1,1659,1065,-1,-1,50,180
+2023-06-19,France,Greece,1,0,European Championship qualifier,France,2,-2,2114,1694,0,0,3,44
+2023-06-19,Finland,San Marino,6,0,European Championship qualifier,Finland,0,0,1694,780,1,0,44,211
+2023-06-19,England,North Macedonia,7,0,European Championship qualifier,England,3,-3,2007,1526,0,-1,6,75
+2023-06-19,Belarus,Kosovo,2,1,European Championship qualifier,Hungary,26,-26,1420,1475,5,-3,101,85
+2023-06-19,Armenia,Latvia,2,1,European Championship qualifier,Armenia,8,-8,1497,1332,2,-1,82,123
+2023-06-20,Vietnam,Syria,1,0,Friendly,Vietnam,8,-8,1402,1414,2,-4,105,103
+2023-06-20,Uruguay,Cuba,2,0,Friendly,Uruguay,1,-1,1916,1341,1,0,12,120
+2023-06-20,South Korea,El Salvador,1,1,Friendly,South Korea,-8,8,1760,1475,-1,2,32,87
+2023-06-20,Senegal,Brazil,4,2,Friendly,Portugal,27,-27,1767,2093,5,-1,30,3
+2023-06-20,Montenegro,Czechia,1,4,Friendly,Montenegro,-11,11,1548,1802,-1,1,70,25
+2023-06-20,Malaysia,Papua New Guinea,10,0,Friendly,Malaysia,16,-16,1284,1207,2,-1,138,158
+2023-06-20,Japan,Peru,4,1,Friendly,Japan,13,-13,1855,1842,5,-4,15,20
+2023-06-20,Haiti,Trinidad and Tobago,0,0,Friendly,the United States,-5,5,1545,1378,-1,3,71,110
+2023-06-20,Germany,Colombia,0,2,Friendly,Germany,-19,19,1913,1951,-2,0,13,11
+2023-06-20,Ecuador,Costa Rica,3,1,Friendly,the United States,9,-9,1853,1689,2,-2,17,45
+2023-06-20,China,Palestine,2,0,Friendly,China,10,-10,1480,1435,1,-1,86,96
+2023-06-20,Bolivia,Chile,0,0,Friendly,Bolivia,0,0,1614,1707,1,0,58,41
+2023-06-20,Algeria,Tunisia,1,1,Friendly,Algeria,-3,3,1711,1728,0,1,40,36
+2023-06-20,Kyrgyzstan,Oman,0,1,Central Asian Nations Cup,Uzbekistan,-5,5,1234,1576,-3,2,155,64
+2023-06-20,Uzbekistan,Iran,0,1,Central Asian Nations Cup,Uzbekistan,-17,17,1609,1802,-5,3,60,25
+2023-06-20,Mauritania,Sudan,3,0,African Nations Cup qualifier,Morocco,30,-30,1401,1291,7,-7,107,136
+2023-06-20,Ethiopia,Malawi,0,0,African Nations Cup qualifier,Mozambique,-3,3,1307,1260,1,-2,131,148
+2023-06-20,Burundi,Namibia,3,2,African Nations Cup qualifier,Tanzania,29,-29,1276,1385,6,-6,142,109
+2023-06-20,Scotland,Georgia,2,0,European Championship qualifier,Scotland,11,-11,1831,1650,1,-2,22,50
+2023-06-20,Norway,Cyprus,3,1,European Championship qualifier,Norway,4,-4,1726,1342,0,-2,38,119
+2023-06-20,Moldova,Poland,3,2,European Championship qualifier,Moldova,37,-37,1279,1758,10,-8,140,33
+2023-06-20,Liechtenstein,Slovakia,0,1,European Championship qualifier,Liechtenstein,-2,2,966,1618,0,2,190,55
+2023-06-20,Iceland,Portugal,0,1,European Championship qualifier,Iceland,-4,4,1499,2012,-1,1,80,4
+2023-06-20,Hungary,Lithuania,2,0,European Championship qualifier,Hungary,1,-1,1821,1262,-1,-2,24,147
+2023-06-20,Faroe Islands,Albania,1,3,European Championship qualifier,the Faroe Islands,-18,18,1281,1562,-3,3,139,68
+2023-06-20,Estonia,Belgium,0,3,European Championship qualifier,Estonia,-6,6,1442,1978,-2,0,95,8
+2023-06-20,Bulgaria,Serbia,1,1,European Championship qualifier,Bulgaria,13,-13,1497,1854,2,-1,82,16
+2023-06-20,Bosnia and Herzegovina,Luxembourg,0,2,European Championship qualifier,Bosnia and Herzegovina,-49,49,1554,1483,-7,11,69,85
+2023-06-20,Austria,Sweden,2,0,European Championship qualifier,Austria,20,-20,1794,1736,2,-2,27,35
+2023-06-20,Martinique,Puerto Rico,2,0,CONCACAF Championship qualifier,the United States,10,-10,1419,1109,3,-3,101,176
+2023-06-20,Guadeloupe,Guyana,2,0,CONCACAF Championship qualifier,the United States,28,-28,1245,1169,7,-5,151,165
+2023-06-20,French Guiana,Saint Kitts and Nevis,1,1,CONCACAF Championship qualifier,the United States,-6,6,1304,1203,-1,1,133,159
+2023-06-21,Kuwait,Nepal,3,1,South Asian Championship,India,4,-4,1382,929,0,0,110,195
+2023-06-21,India,Pakistan,4,0,South Asian Championship,India,3,-3,1269,829,0,-2,143,209
+2023-06-22,Maldives,Bhutan,2,0,South Asian Championship,India,7,-7,942,562,0,-1,194,236
+2023-06-22,Lebanon,Bangladesh,2,0,South Asian Championship,India,5,-5,1299,859,0,-1,135,204
+2023-06-24,Kuwait,Pakistan,4,0,South Asian Championship,India,3,-3,1385,826,1,0,109,209
+2023-06-24,India,Nepal,2,0,South Asian Championship,India,4,-4,1273,925,0,0,143,195
+2023-06-24,United States,Jamaica,1,1,CONCACAF Championship,the United States,-21,21,1828,1550,-4,4,23,70
+2023-06-25,Lebanon,Bhutan,4,1,South Asian Championship,India,1,-1,1300,561,0,0,135,236
+2023-06-25,Bangladesh,Maldives,3,1,South Asian Championship,India,37,-37,896,905,4,-4,200,198
+2023-06-25,Trinidad and Tobago,Saint Kitts and Nevis,3,0,CONCACAF Championship,the United States,23,-23,1401,1180,4,-4,107,163
+2023-06-25,Mexico,Honduras,4,0,CONCACAF Championship,the United States,13,-13,1803,1455,3,-1,25,91
+2023-06-25,Haiti,Qatar,2,1,CONCACAF Championship,the United States,25,-25,1570,1519,5,-2,67,75
+2023-06-26,Panama,Costa Rica,2,1,CONCACAF Championship,the United States,29,-29,1663,1660,6,-3,46,48
+2023-06-26,Martinique,El Salvador,2,1,CONCACAF Championship,the United States,29,-29,1448,1446,8,-8,93,95
+2023-06-27,Nepal,Pakistan,1,0,South Asian Championship,India,14,-14,939,812,0,0,194,209
+2023-06-27,India,Kuwait,1,1,South Asian Championship,India,1,-1,1274,1384,0,-1,143,111
+2023-06-27,Guatemala,Cuba,1,0,CONCACAF Championship,the United States,16,-16,1490,1325,4,-4,84,124
+2023-06-27,Canada,Guadeloupe,2,2,CONCACAF Championship,Canada,-23,23,1718,1268,-5,7,39,144
+2023-06-28,Lebanon,Maldives,1,0,South Asian Championship,India,4,-4,1304,901,2,-2,133,200
+2023-06-28,Bangladesh,Bhutan,3,1,South Asian Championship,India,8,-8,904,553,2,0,198,236
+2023-06-28,United States,Saint Kitts and Nevis,6,0,CONCACAF Championship,the United States,1,-1,1829,1179,0,0,23,163
+2023-06-28,Jamaica,Trinidad and Tobago,4,1,CONCACAF Championship,the United States,26,-26,1576,1375,7,-7,64,114
+2023-06-29,Mexico,Haiti,3,1,CONCACAF Championship,the United States,16,-16,1819,1554,0,-2,25,70
+2023-06-29,Honduras,Qatar,1,1,CONCACAF Championship,the United States,5,-5,1460,1514,1,-2,89,77
+2023-06-30,Panama,Martinique,2,1,CONCACAF Championship,the United States,11,-11,1674,1437,0,-3,46,96
+2023-06-30,Costa Rica,El Salvador,0,0,CONCACAF Championship,the United States,-14,14,1646,1460,-3,6,51,89
+2023-07-01,Kuwait,Bangladesh,1,0,South Asian Championship,India,2,-2,1386,902,2,-1,108,199
+2023-07-01,India,Lebanon,0,0,South Asian Championship,India,-4,4,1270,1308,-1,2,144,131
+2023-07-01,Guadeloupe,Cuba,4,1,CONCACAF Championship,the United States,51,-51,1319,1274,15,-19,129,143
+2023-07-01,Canada,Guatemala,0,0,CONCACAF Championship,the United States,-14,14,1704,1504,-2,5,41,79
+2023-07-02,United States,Trinidad and Tobago,6,0,CONCACAF Championship,the United States,4,-4,1833,1371,2,0,21,114
+2023-07-02,Qatar,Mexico,1,0,CONCACAF Championship,the United States,43,-43,1557,1776,7,-3,70,28
+2023-07-02,Jamaica,Saint Kitts and Nevis,5,0,CONCACAF Championship,the United States,9,-9,1585,1170,1,-1,63,164
+2023-07-02,Honduras,Haiti,2,1,CONCACAF Championship,the United States,32,-32,1492,1522,4,-5,85,75
+2023-07-03,Chagos Islands,Falkland Islands,4,0,Friendly,England,9,-9,782,571,2,-1,211,234
+2023-07-04,India,Kuwait,1,1,South Asian Championship,India,1,-1,1271,1385,1,-1,143,109
+2023-07-04,Guatemala,Guadeloupe,3,2,CONCACAF Championship,the United States,13,-13,1517,1306,2,-4,77,133
+2023-07-04,El Salvador,Panama,2,2,CONCACAF Championship,the United States,14,-14,1474,1660,0,-2,90,48
+2023-07-04,Costa Rica,Martinique,6,4,CONCACAF Championship,the United States,17,-17,1663,1420,5,-4,46,100
+2023-07-04,Canada,Cuba,4,2,CONCACAF Championship,the United States,6,-6,1710,1268,1,-1,40,144
+2023-07-05,South Africa,Namibia,1,1,COSAFA Cup,South Africa,-14,14,1557,1399,-2,1,69,108
+2023-07-05,Botswana,Eswatini,1,0,COSAFA Cup,South Africa,16,-16,1357,1248,3,-4,117,150
+2023-07-06,Malawi,Zambia,1,0,COSAFA Cup,South Africa,32,-32,1292,1474,12,-10,136,89
+2023-07-06,Comoros,Seychelles,3,0,COSAFA Cup,South Africa,8,-8,1262,880,1,0,148,202
+2023-07-07,Lesotho,Mauritius,2,0,COSAFA Cup,South Africa,12,-12,1209,944,2,-1,158,193
+2023-07-07,Angola,Mozambique,1,1,COSAFA Cup,South Africa,-4,4,1418,1347,-2,1,101,118
+2023-07-08,South Africa,Botswana,2,1,COSAFA Cup,South Africa,6,-6,1563,1351,1,0,68,117
+2023-07-08,Eswatini,Namibia,2,1,COSAFA Cup,South Africa,28,-28,1276,1371,7,-5,143,113
+2023-07-08,Panama,Qatar,4,0,CONCACAF Championship,the United States,33,-33,1693,1524,3,-5,45,74
+2023-07-08,Mexico,Costa Rica,2,0,CONCACAF Championship,the United States,26,-26,1802,1637,3,-5,25,51
+2023-07-09,Zambia,Comoros,2,1,COSAFA Cup,South Africa,9,-9,1483,1253,3,-1,86,150
+2023-07-09,Malawi,Seychelles,2,0,COSAFA Cup,South Africa,5,-5,1297,875,0,-1,136,203
+2023-07-09,United States,Canada,2,2,CONCACAF Championship,the United States,-14,14,1819,1724,-3,2,24,38
+2023-07-09,Jamaica,Guatemala,1,0,CONCACAF Championship,the United States,20,-20,1605,1497,1,-4,62,81
+2023-07-10,Mauritius,Angola,1,0,COSAFA Cup,South Africa,38,-38,982,1380,5,-8,188,109
+2023-07-10,Lesotho,Mozambique,1,0,COSAFA Cup,South Africa,28,-28,1237,1319,4,-10,154,128
+2023-07-11,Bermuda,Greenland,3,2,Island Games,the United Kingdom,10,-10,1169,953,1,0,165,192
+2023-07-11,Zambia,Seychelles,4,2,COSAFA Cup,South Africa,2,-2,1485,873,0,0,86,203
+2023-07-11,South Africa,Eswatini,2,1,COSAFA Cup,South Africa,4,-4,1567,1272,0,-1,68,144
+2023-07-11,Malawi,Comoros,2,0,COSAFA Cup,South Africa,26,-26,1323,1227,10,-6,126,156
+2023-07-11,Botswana,Namibia,0,0,COSAFA Cup,South Africa,1,-1,1352,1370,0,-1,117,114
+2023-07-12,Mozambique,Mauritius,1,0,COSAFA Cup,South Africa,5,-5,1324,977,5,0,124,188
+2023-07-12,Angola,Lesotho,4,2,COSAFA Cup,South Africa,18,-18,1398,1219,2,-5,107,158
+2023-07-12,United States,Panama,1,1,CONCACAF Championship,the United States,-14,14,1805,1707,-1,4,25,41
+2023-07-12,Mexico,Jamaica,3,0,CONCACAF Championship,the United States,21,-21,1823,1584,2,-1,23,63
+2023-07-14,South Africa,Zambia,1,2,COSAFA Cup,South Africa,-30,30,1537,1515,-3,8,71,78
+2023-07-14,Lesotho,Malawi,1,1,COSAFA Cup,South Africa,6,-6,1225,1317,2,-2,156,129
+2023-07-16,South Africa,Malawi,0,0,COSAFA Cup,South Africa,-15,15,1522,1332,-3,8,74,121
+2023-07-16,Zambia,Lesotho,1,0,COSAFA Cup,South Africa,6,-6,1521,1219,2,-2,76,158
+2023-07-16,Mexico,Panama,1,0,CONCACAF Championship,the United States,17,-17,1840,1690,3,-4,20,45
+2023-07-30,Madagascar,Mayotte,3,1,Friendly tournament,Madagascar,15,-15,1252,1209,3,-1,150,158
+2023-08-02,Ethiopia,Guyana,2,0,Friendly,the United States,9,-9,1316,1160,2,-1,130,166
+2023-08-24,Madagascar,Seychelles,1,0,Indian Ocean Games,Madagascar,2,-2,1254,871,0,0,150,203
+2023-08-24,Comoros,Mayotte,0,0,Indian Ocean Games,Madagascar,-1,1,1226,1210,0,0,155,158
+2023-08-26,Mayotte,Reunion,0,0,Indian Ocean Games,Madagascar,6,-6,1216,1363,0,-1,158,116
+2023-08-26,Madagascar,Mauritius,1,1,Indian Ocean Games,Madagascar,-12,12,1242,989,-1,0,151,188
+2023-08-27,Bolivia,Panama,1,2,Friendly,Bolivia,-11,11,1603,1701,-3,3,61,42
+2023-08-28,Tahiti,Cook Islands,9,1,Friendly,Tahiti,2,-2,1147,680,0,0,167,221
+2023-08-28,Mauritius,Seychelles,1,0,Indian Ocean Games,Madagascar,10,-10,999,861,1,-1,187,204
+2023-08-28,Comoros,Reunion,1,1,Indian Ocean Games,Madagascar,6,-6,1232,1357,0,0,155,116
+2023-08-31,Tahiti,Cook Islands,3,0,Friendly,Tahiti,1,-1,1148,679,0,-1,167,222
+2023-08-31,Reunion,Mauritius,2,1,Indian Ocean Games,Madagascar,3,-3,1360,996,0,0,116,187
+2023-08-31,Madagascar,Comoros,4,2,Indian Ocean Games,Madagascar,16,-16,1258,1216,1,-2,150,157
+2023-09-02,Mauritius,Comoros,2,0,Indian Ocean Games,Madagascar,35,-35,1031,1181,1,-5,186,162
+2023-09-02,Madagascar,Reunion,1,0,Indian Ocean Games,Madagascar,15,-15,1273,1345,6,-1,144,117
+2023-09-03,Guatemala,Honduras,0,0,Friendly,the United States,0,0,1497,1492,0,0,82,85
+2023-09-03,Bangladesh,Afghanistan,0,0,Friendly,Bangladesh,2,-2,904,1087,1,0,198,178
+2023-09-04,Zimbabwe,Namibia,2,2,Friendly,Zimbabwe,-1,1,1312,1371,0,1,131,113
+2023-09-06,Oman,Palestine,2,1,Friendly,Oman,4,-4,1580,1431,1,0,64,96
+2023-09-06,Malta,Gibraltar,1,0,Friendly,Malta,3,-3,1269,1062,1,-1,147,181
+2023-09-06,Malaysia,Syria,2,2,Friendly,China,4,-4,1288,1410,1,0,138,102
+2023-09-06,Macao,Bhutan,0,1,Friendly,Macao,-16,16,672,569,-4,1,224,235
+2023-09-06,Libya,Equatorial Guinea,1,1,African Nations Cup qualifier,Libya,4,-4,1328,1494,2,-3,123,84
+2023-09-07,Wales,South Korea,0,0,Friendly,Wales,0,0,1660,1760,0,0,48,32
+2023-09-07,Thailand,Lebanon,2,1,King's Cup,Thailand,8,-8,1385,1300,0,-4,111,136
+2023-09-07,Qatar,Kenya,1,2,Friendly,Qatar,-17,17,1507,1362,-6,1,79,116
+2023-09-07,Norway,Jordan,6,0,Friendly,Norway,9,-9,1735,1589,2,0,35,62
+2023-09-07,Kuwait,Bahrain,3,1,Friendly,the United Arab Emirates,20,-20,1405,1482,5,-7,104,86
+2023-09-07,India,Iraq,2,2,King's Cup,Thailand,11,-11,1282,1606,4,-4,142,60
+2023-09-07,Cambodia,Hong Kong,1,1,Friendly,Cambodia,4,-4,868,1117,0,-2,203,172
+2023-09-07,Bulgaria,Iran,0,1,Friendly,Bulgaria,-5,5,1492,1807,-2,1,83,25
+2023-09-07,Bangladesh,Afghanistan,1,1,Friendly,Bangladesh,2,-2,906,1085,0,0,198,178
+2023-09-07,Austria,Moldova,1,1,Friendly,Austria,-9,9,1785,1288,0,3,28,138
+2023-09-07,Tunisia,Botswana,3,0,African Nations Cup qualifier,Tunisia,4,-4,1732,1348,-1,-1,36,117
+2023-09-07,Niger,Uganda,0,2,African Nations Cup qualifier,Morocco,-18,18,1207,1394,-2,4,157,108
+2023-09-07,Ghana,Central African Republic,2,1,African Nations Cup qualifier,Ghana,4,-4,1584,1316,1,-1,63,130
+2023-09-07,Angola,Madagascar,0,0,African Nations Cup qualifier,Angola,-11,11,1387,1284,-2,3,109,141
+2023-09-07,Algeria,Tanzania,0,0,African Nations Cup qualifier,Algeria,-18,18,1693,1342,-4,7,44,119
+2023-09-07,Slovenia,Northern Ireland,4,2,European Championship qualifier,Slovenia,10,-10,1672,1479,0,-2,47,88
+2023-09-07,Serbia,Hungary,1,2,European Championship qualifier,Serbia,-27,27,1827,1848,-8,6,24,18
+2023-09-07,Poland,Faroe Islands,2,0,European Championship qualifier,Poland,2,-2,1760,1279,1,-3,32,143
+2023-09-07,Netherlands,Greece,3,0,European Championship qualifier,the Netherlands,8,-8,1963,1686,1,-1,9,45
+2023-09-07,Lithuania,Montenegro,2,2,European Championship qualifier,Lithuania,10,-10,1272,1538,4,0,146,70
+2023-09-07,Kazakhstan,Finland,0,1,European Championship qualifier,Kazakhstan,-12,12,1437,1706,-2,2,95,42
+2023-09-07,France,Ireland,2,0,European Championship qualifier,France,2,-2,2116,1657,0,0,2,49
+2023-09-07,Denmark,San Marino,4,0,European Championship qualifier,Denmark,0,0,1851,780,2,0,16,212
+2023-09-07,Czechia,Albania,1,1,European Championship qualifier,Czechia,-15,15,1787,1577,-1,2,27,66
+2023-09-07,US Virgin Islands,Cayman Islands,2,2,CONCACAF Nations League C,the US VirgIslands,5,-5,639,825,0,1,227,207
+2023-09-07,Anguilla,Saint Martin,0,6,CONCACAF Nations League C,Anguilla,-28,28,584,859,-2,2,232,205
+2023-09-07,Saint Lucia,Sint Maarten,5,1,CONCACAF Nations League B,Curaçao,16,-16,1081,817,1,-2,179,208
+2023-09-07,Saint Kitts and Nevis,Guadeloupe,1,2,CONCACAF Nations League B,Saint Kitts and Nevis,-18,18,1152,1324,-2,8,166,126
+2023-09-07,Trinidad and Tobago,Curaçao,1,0,CONCACAF Nations League A,Trinidad and Tobago,13,-13,1384,1323,1,-8,112,128
+2023-09-07,Panama,Martinique,3,0,CONCACAF Nations League A,Panama,7,-7,1708,1413,2,-2,40,101
+2023-09-07,Guatemala,El Salvador,2,0,CONCACAF Nations League A,Guatemala,20,-20,1517,1454,4,-1,77,91
+2023-09-07,Paraguay,Peru,0,0,World Cup qualifier,Paraguay,1,-1,1721,1841,0,0,39,19
+2023-09-07,Colombia,Venezuela,1,0,World Cup qualifier,Colombia,5,-5,1956,1695,0,0,11,43
+2023-09-07,Argentina,Ecuador,1,0,World Cup qualifier,Argentina,4,-4,2152,1849,0,0,1,17
+2023-09-08,Taiwan,Philippines,1,1,Friendly,Taiwan,0,0,925,1034,0,2,195,183
+2023-09-08,Singapore,Tajikistan,0,2,Friendly,Singapore,-11,11,1126,1338,0,4,169,120
+2023-09-08,Myanmar,Nepal,0,0,Friendly,Myanmar,-2,2,912,941,-1,0,197,194
+2023-09-08,Indonesia,Turkmenistan,2,0,Friendly,Indonesia,9,-9,1296,1229,2,-1,138,154
+2023-09-08,Costa Rica,Saudi Arabia,3,1,Friendly,England,12,-12,1649,1562,1,0,50,67
+2023-09-08,Mali,South Sudan,4,0,African Nations Cup qualifier,Mali,2,-2,1610,1114,1,-2,58,175
+2023-09-08,Egypt,Ethiopia,1,0,African Nations Cup qualifier,Egypt,3,-3,1686,1313,1,-1,45,131
+2023-09-08,Burkina Faso,Eswatini,0,0,African Nations Cup qualifier,Morocco,-14,14,1554,1286,-1,4,69,142
+2023-09-08,Turkey,Armenia,1,1,European Championship qualifier,Turkey,-15,15,1713,1512,-2,3,39,78
+2023-09-08,Slovakia,Portugal,0,1,European Championship qualifier,Slovakia,-6,6,1612,2018,-1,0,56,4
+2023-09-08,Luxembourg,Iceland,3,1,European Championship qualifier,Luxembourg,23,-23,1506,1476,4,-8,81,88
+2023-09-08,Georgia,Spain,1,7,European Championship qualifier,Georgia,-17,17,1633,2006,-2,0,52,7
+2023-09-08,Cyprus,Scotland,0,3,European Championship qualifier,Cyprus,-7,7,1335,1838,-2,1,121,21
+2023-09-08,Croatia,Latvia,5,0,European Championship qualifier,Croatia,1,-1,2011,1331,0,-2,5,123
+2023-09-08,Bosnia and Herzegovina,Liechtenstein,2,1,European Championship qualifier,Bosnia and Herzegovina,1,-1,1555,965,1,0,68,191
+2023-09-08,Saint Vincent and the Grenadines,Belize,2,1,CONCACAF Nations League B,Martinique,21,-21,1059,1034,2,-1,182,183
+2023-09-08,Dominican Republic,Nicaragua,0,2,CONCACAF Nations League B,the Dominican Republic,-32,32,1168,1309,-5,11,164,133
+2023-09-08,Bermuda,French Guiana,0,0,CONCACAF Nations League B,Bermuda,2,-2,1171,1302,1,-1,163,135
+2023-09-08,Barbados,Montserrat,2,3,CONCACAF Nations League B,Barbados,-29,29,1018,1001,-3,1,186,188
+2023-09-08,Jamaica,Honduras,1,0,CONCACAF Nations League A,Jamaica,10,-10,1594,1482,1,-1,62,84
+2023-09-08,Grenada,Suriname,1,1,CONCACAF Nations League A,Grenada,5,-5,1119,1298,3,-2,172,137
+2023-09-08,Cuba,Haiti,0,0,CONCACAF Nations League A,the Dominican Republic,12,-12,1280,1510,4,-6,145,79
+2023-09-08,Uruguay,Chile,3,1,World Cup qualifier,Uruguay,9,-9,1925,1698,0,-1,12,42
+2023-09-08,Brazil,Bolivia,5,1,World Cup qualifier,Brazil,2,-2,2095,1601,0,0,3,61
+2023-09-09,United States,Uzbekistan,3,0,Friendly,the United States,5,-5,1810,1604,1,-1,25,60
+2023-09-09,South Africa,Namibia,0,0,Friendly,South Africa,-6,6,1516,1377,-3,1,76,113
+2023-09-09,Germany,Japan,1,4,Friendly,Germany,-25,25,1888,1880,0,1,13,14
+2023-09-09,China,Malaysia,1,1,Friendly,China,-7,7,1473,1295,-3,1,89,139
+2023-09-09,Australia,Mexico,2,2,Friendly,the United States,2,-2,1774,1838,0,-1,29,21
+2023-09-09,Rwanda,Senegal,1,1,African Nations Cup qualifier,Rwanda,17,-17,1264,1750,1,-4,150,34
+2023-09-09,Mozambique,Benin,3,2,African Nations Cup qualifier,Mozambique,18,-18,1342,1368,7,-4,119,114
+2023-09-09,Mauritania,Gabon,2,1,African Nations Cup qualifier,Mauritania,16,-16,1417,1415,9,-4,98,100
+2023-09-09,Malawi,Guinea,2,2,African Nations Cup qualifier,Malawi,-1,1,1331,1416,-1,1,123,99
+2023-09-09,Ivory Coast,Lesotho,1,0,African Nations Cup qualifier,Ivory Coast,2,-2,1634,1217,2,0,51,155
+2023-09-09,DR Congo,Sudan,2,0,African Nations Cup qualifier,DR Congo,8,-8,1524,1283,4,-4,73,143
+2023-09-09,Comoros,Zambia,1,1,African Nations Cup qualifier,the Comoros,12,-12,1193,1509,0,-5,161,79
+2023-09-09,Romania,Israel,1,1,European Championship qualifier,Romania,-7,7,1629,1619,-3,1,54,55
+2023-09-09,North Macedonia,Italy,1,1,European Championship qualifier,North Macedonia,15,-15,1541,1946,2,-1,70,11
+2023-09-09,Kosovo,Switzerland,2,2,European Championship qualifier,Kosovo,14,-14,1489,1861,5,-1,84,15
+2023-09-09,Estonia,Sweden,0,5,European Championship qualifier,Estonia,-20,20,1422,1756,-3,1,97,33
+2023-09-09,England,Ukraine,1,1,European Championship qualifier,Poland,-9,9,1998,1840,-1,3,7,20
+2023-09-09,Azerbaijan,Belgium,0,1,European Championship qualifier,Azerbaijan,-3,3,1405,1981,-1,0,104,8
+2023-09-09,Andorra,Belarus,0,0,European Championship qualifier,Andorra,10,-10,1130,1410,0,-3,170,102
+2023-09-09,British Virgin Islands,Turks and Caicos Islands,3,1,CONCACAF Nations League C,the British VirgIslands,36,-36,643,742,3,-1,227,214
+2023-09-09,Bahamas,Puerto Rico,1,6,CONCACAF Nations League B,the Bahamas,-23,23,833,1132,0,7,206,169
+2023-09-09,Antigua and Barbuda,Guyana,1,5,CONCACAF Nations League B,Antigua and Barbuda,-44,44,1076,1204,-9,6,179,159
+2023-09-10,Thailand,Iraq,2,2,King's Cup,Thailand,5,-5,1390,1601,0,-2,110,61
+2023-09-10,Lebanon,India,1,0,King's Cup,Thailand,14,-14,1314,1268,6,-4,130,148
+2023-09-10,Hungary,Czechia,1,1,Friendly,Hungary,-4,4,1844,1791,0,0,18,27
+2023-09-10,Togo,Cape Verde,3,2,African Nations Cup qualifier,Togo,23,-23,1387,1496,4,-7,111,81
+2023-09-10,Nigeria,Sao Tome and Principe,6,0,African Nations Cup qualifier,Nigeria,2,-2,1617,1064,0,0,56,180
+2023-09-10,Congo,Gambia,2,2,African Nations Cup qualifier,Morocco,10,-10,1274,1438,4,0,146,93
+2023-09-10,San Marino,Slovenia,0,4,European Championship qualifier,San Marino,-1,1,779,1673,0,0,212,47
+2023-09-10,Montenegro,Bulgaria,2,1,European Championship qualifier,Montenegro,12,-12,1550,1480,1,-3,70,86
+2023-09-10,Lithuania,Serbia,1,3,European Championship qualifier,Lithuania,-4,4,1268,1831,0,0,148,24
+2023-09-10,Kazakhstan,Northern Ireland,1,0,European Championship qualifier,Kazakhstan,17,-17,1454,1462,3,-2,91,89
+2023-09-10,Ireland,Netherlands,1,2,European Championship qualifier,Ireland,-9,9,1648,1972,-1,0,50,9
+2023-09-10,Greece,Gibraltar,5,0,European Championship qualifier,Greece,1,-1,1687,1061,0,0,45,181
+2023-09-10,Finland,Denmark,0,1,European Championship qualifier,Finland,-17,17,1689,1868,-3,1,44,15
+2023-09-10,Faroe Islands,Moldova,0,1,European Championship qualifier,the Faroe Islands,-25,25,1254,1313,-5,9,151,131
+2023-09-10,Albania,Poland,2,0,European Championship qualifier,Albania,37,-37,1614,1723,9,-6,57,37
+2023-09-10,Saint Lucia,Saint Kitts and Nevis,2,0,CONCACAF Nations League B,Saint Lucia,28,-28,1109,1124,2,-5,176,171
+2023-09-10,Guadeloupe,Sint Maarten,4,0,CONCACAF Nations League B,Guadeloupe,2,-2,1326,815,1,0,126,208
+2023-09-10,Martinique,Curaçao,1,0,CONCACAF Nations League A,Martinique,10,-10,1423,1313,4,-3,97,131
+2023-09-10,Guatemala,Panama,1,1,CONCACAF Nations League A,Guatemala,5,-5,1522,1703,1,0,74,40
+2023-09-10,El Salvador,Trinidad and Tobago,2,3,CONCACAF Nations League A,El Salvador,-29,29,1425,1413,-4,9,95,102
+2023-09-11,Vietnam,Palestine,2,0,Friendly,Vietnam,12,-12,1414,1419,5,-4,102,98
+2023-09-11,Myanmar,Nepal,1,0,Friendly,Myanmar,8,-8,920,933,1,0,196,194
+2023-09-11,Kyrgyzstan,Kuwait,3,1,Friendly,the United Arab Emirates,22,-22,1256,1383,2,-7,151,112
+2023-09-11,Hong Kong,Brunei,10,0,Friendly,Hong Kong,1,-1,1118,602,0,0,173,231
+2023-09-11,Cambodia,Macao,4,0,Friendly,Cambodia,6,-6,874,666,0,-1,203,225
+2023-09-11,Guinea-Bissau,Sierra Leone,2,1,African Nations Cup qualifier,Guinea-Bissau,11,-11,1413,1314,4,-3,103,130
+2023-09-11,Slovakia,Liechtenstein,3,0,European Championship qualifier,Slovakia,1,-1,1613,964,0,-1,58,192
+2023-09-11,Portugal,Luxembourg,9,0,European Championship qualifier,Portugal,3,-3,2021,1503,0,0,4,80
+2023-09-11,Latvia,Wales,0,2,European Championship qualifier,Latvia,-13,13,1318,1673,-4,1,127,47
+2023-09-11,Iceland,Bosnia and Herzegovina,1,0,European Championship qualifier,Iceland,19,-19,1495,1536,5,-3,82,71
+2023-09-11,Armenia,Croatia,0,1,European Championship qualifier,Armenia,-4,4,1508,2015,-2,0,78,5
+2023-09-11,Saint Martin,Bonaire,2,1,CONCACAF Nations League C,Saint Kitts and Nevis,21,-21,880,855,3,-3,202,205
+2023-09-11,Cayman Islands,Aruba,1,2,CONCACAF Nations League C,the Cayman Islands,-19,19,806,969,-3,2,210,191
+2023-09-11,Nicaragua,Barbados,5,1,CONCACAF Nations League B,Nicaragua,7,-7,1316,1011,7,0,128,186
+2023-09-11,Dominican Republic,Montserrat,3,0,CONCACAF Nations League B,the Dominican Republic,12,-12,1180,989,2,-1,163,189
+2023-09-12,United States,Oman,4,0,Friendly,the United States,5,-5,1815,1575,-1,0,26,66
+2023-09-12,United Arab Emirates,Costa Rica,4,1,Friendly,Croatia,26,-26,1480,1623,6,-5,85,54
+2023-09-12,South Korea,Saudi Arabia,1,0,Friendly,England,5,-5,1765,1557,1,0,30,67
+2023-09-12,South Africa,DR Congo,1,0,Friendly,South Africa,7,-7,1523,1517,2,-3,73,76
+2023-09-12,Singapore,Taiwan,3,1,Friendly,Singapore,5,-5,1131,920,0,0,170,195
+2023-09-12,Senegal,Algeria,0,1,Friendly,Senegal,-14,14,1736,1707,-1,4,34,39
+2023-09-12,Scotland,England,1,3,Friendly,Scotland,-12,12,1826,2010,-3,1,24,6
+2023-09-12,Qatar,Russia,1,1,Friendly,Qatar,4,-4,1511,1759,2,-1,77,31
+2023-09-12,Philippines,Afghanistan,2,1,Friendly,the Philippines,9,-9,1043,1076,0,-2,183,180
+2023-09-12,Morocco,Burkina Faso,1,0,Friendly,France,3,-3,1841,1551,2,-1,19,69
+2023-09-12,Mexico,Uzbekistan,3,3,Friendly,the United States,-6,6,1832,1610,1,0,20,60
+2023-09-12,Kenya,South Sudan,0,1,Friendly,Kenya,-18,18,1344,1132,-2,6,118,169
+2023-09-12,Japan,Turkey,4,2,Friendly,Belgium,8,-8,1888,1705,0,-2,14,41
+2023-09-12,Ivory Coast,Mali,0,0,Friendly,Ivory Coast,-3,3,1631,1613,-1,1,52,58
+2023-09-12,Iran,Angola,4,0,Friendly,Iran,2,-2,1809,1385,-1,-1,27,111
+2023-09-12,Ghana,Liberia,3,1,Friendly,Ghana,3,-3,1587,1304,2,0,63,136
+2023-09-12,Germany,France,2,1,Friendly,Germany,14,-14,1902,2102,0,-1,13,3
+2023-09-12,Egypt,Tunisia,1,3,Friendly,Egypt,-17,17,1669,1749,-2,3,48,32
+2023-09-12,China,Syria,0,1,Friendly,China,-14,14,1459,1424,-2,10,90,95
+2023-09-12,Bahrain,Turkmenistan,1,1,Friendly,the United Arab Emirates,-6,6,1476,1235,-3,0,88,154
+2023-09-12,Azerbaijan,Jordan,2,1,Friendly,Azerbaijan,12,-12,1417,1577,7,-1,100,65
+2023-09-12,Cameroon,Burundi,3,0,African Nations Cup qualifier,Cameroon,5,-5,1636,1271,2,0,51,145
+2023-09-12,Switzerland,Andorra,3,0,European Championship qualifier,Switzerland,1,-1,1862,1129,-1,-2,17,171
+2023-09-12,Sweden,Austria,1,3,European Championship qualifier,Sweden,-36,36,1720,1821,-5,3,37,25
+2023-09-12,Spain,Cyprus,6,0,European Championship qualifier,Spain,1,-1,2007,1334,-1,0,7,122
+2023-09-12,Romania,Kosovo,2,0,European Championship qualifier,Romania,12,-12,1641,1477,4,-3,50,87
+2023-09-12,Norway,Georgia,2,1,European Championship qualifier,Norway,10,-10,1745,1623,1,-2,33,54
+2023-09-12,Malta,North Macedonia,0,2,European Championship qualifier,Malta,-16,16,1253,1557,-4,3,151,67
+2023-09-12,Italy,Ukraine,2,1,European Championship qualifier,Italy,9,-9,1955,1831,1,-1,10,21
+2023-09-12,Israel,Belarus,1,0,European Championship qualifier,Israel,6,-6,1625,1404,2,-2,53,107
+2023-09-12,Belgium,Estonia,5,0,European Championship qualifier,Belgium,2,-2,1983,1420,0,-1,8,98
+2023-09-12,Turks and Caicos Islands,Dominica,0,3,CONCACAF Nations League C,Turks and Caicos Islands,-22,22,720,994,-2,1,216,189
+2023-09-12,Saint Vincent and the Grenadines,Bermuda,4,3,CONCACAF Nations League B,Saint Vincent and the Grenadines,21,-21,1080,1150,3,-1,179,166
+2023-09-12,Puerto Rico,Antigua and Barbuda,5,0,CONCACAF Nations League B,the Bahamas,34,-34,1166,1042,3,-5,165,184
+2023-09-12,Guyana,Bahamas,3,2,CONCACAF Nations League B,Guyana,2,-2,1206,831,0,0,159,206
+2023-09-12,French Guiana,Belize,0,2,CONCACAF Nations League B,French Guiana,-54,54,1248,1088,-15,5,152,178
+2023-09-12,Jamaica,Haiti,2,2,CONCACAF Nations League A,Jamaica,-10,10,1584,1520,-1,1,64,75
+2023-09-12,Honduras,Grenada,4,0,CONCACAF Nations League A,Honduras,5,-5,1487,1114,1,-3,84,175
+2023-09-12,Cuba,Suriname,1,0,CONCACAF Nations League A,Cuba,15,-15,1295,1283,6,-4,138,142
+2023-09-12,Venezuela,Paraguay,1,0,World Cup qualifier,Venezuela,16,-16,1711,1705,4,-3,38,41
+2023-09-12,Peru,Brazil,0,1,World Cup qualifier,Peru,-12,12,1829,2107,-4,1,23,2
+2023-09-12,Ecuador,Uruguay,2,1,World Cup qualifier,Ecuador,19,-19,1868,1906,2,0,15,12
+2023-09-12,Chile,Colombia,0,0,World Cup qualifier,Chile,9,-9,1707,1947,2,-1,39,11
+2023-09-12,Bolivia,Argentina,0,3,World Cup qualifier,Bolivia,-5,5,1596,2157,-1,0,62,1
+2023-09-30,Botswana,Zimbabwe,1,1,Independence Cup,Botswana,-6,6,1342,1318,-2,8,118,127
+2023-10-08,Solomon Islands,Papua New Guinea,3,1,Melanesian Cup,New Caledonia,27,-27,1267,1180,5,-6,148,163
+2023-10-08,New Caledonia,Vanuatu,4,0,Melanesian Cup,New Caledonia,21,-21,1200,1095,5,-2,159,176
+2023-10-10,China,Vietnam,2,0,Friendly,China,9,-9,1468,1405,1,-2,89,106
+2023-10-11,Wales,Gibraltar,4,0,Friendly,Wales,1,-1,1674,1060,0,0,46,182
+2023-10-11,Solomon Islands,Vanuatu,1,0,Melanesian Cup,New Caledonia,11,-11,1278,1084,4,-2,144,178
+2023-10-11,New Caledonia,Papua New Guinea,3,1,Melanesian Cup,New Caledonia,20,-20,1220,1160,4,-2,155,165
+2023-10-12,United Arab Emirates,Kuwait,1,0,Friendly,the United Arab Emirates,5,-5,1485,1378,1,0,84,112
+2023-10-12,Sweden,Moldova,3,1,Friendly,Sweden,2,-2,1722,1311,-3,0,40,133
+2023-10-12,Russia,Cameroon,1,0,Friendly,Russia,4,-4,1763,1632,1,0,30,51
+2023-10-12,Montenegro,Lebanon,3,2,Friendly,Montenegro,3,-3,1553,1311,1,-2,69,133
+2023-10-12,Georgia,Thailand,8,0,Friendly,Georgia,6,-6,1629,1384,1,-2,53,111
+2023-10-12,Egypt,Zambia,1,0,Friendly,the United Arab Emirates,6,-6,1675,1503,2,0,46,78
+2023-10-12,Bahrain,Kyrgyzstan,2,0,Friendly,Bahrain,4,-4,1480,1252,3,-1,85,151
+2023-10-12,Algeria,Cape Verde,5,1,Friendly,Algeria,5,-5,1712,1491,-2,-1,41,82
+2023-10-12,Yemen,Sri Lanka,3,0,World Cup and Asian Cup qualifier,Saudi Arabia,6,-6,1099,674,0,-4,176,224
+2023-10-12,Taiwan,East Timor,4,0,World Cup and Asian Cup qualifier,Taiwan,7,-7,927,617,0,0,195,230
+2023-10-12,Singapore,Guam,2,1,World Cup and Asian Cup qualifier,Singapore,2,-2,1133,704,0,0,170,217
+2023-10-12,Nepal,Laos,1,1,World Cup and Asian Cup qualifier,Nepal,-16,16,917,681,-2,6,196,220
+2023-10-12,Myanmar,Macao,5,1,World Cup and Asian Cup qualifier,Myanmar,9,-9,929,657,1,-2,194,227
+2023-10-12,Maldives,Bangladesh,1,1,World Cup and Asian Cup qualifier,the Maldives,-5,5,896,911,0,0,200,198
+2023-10-12,Indonesia,Brunei,6,0,World Cup and Asian Cup qualifier,Indonesia,1,-1,1297,601,-1,0,138,231
+2023-10-12,Hong Kong,Bhutan,4,0,World Cup and Asian Cup qualifier,Hong Kong,2,-2,1120,567,0,0,173,235
+2023-10-12,Cambodia,Pakistan,0,0,World Cup and Asian Cup qualifier,Cambodia,-9,9,865,821,0,1,203,207
+2023-10-12,Afghanistan,Mongolia,1,0,World Cup and Asian Cup qualifier,Tajikistan,7,-7,1083,804,1,-1,179,210
+2023-10-12,Spain,Scotland,2,0,European Championship qualifier,Spain,10,-10,2017,1816,2,0,5,24
+2023-10-12,Latvia,Armenia,2,0,European Championship qualifier,Latvia,38,-38,1356,1470,11,-9,116,88
+2023-10-12,Faroe Islands,Poland,0,2,European Championship qualifier,the Faroe Islands,-6,6,1248,1729,-1,-1,152,37
+2023-10-12,Cyprus,Norway,0,4,European Championship qualifier,Cyprus,-11,11,1323,1756,-3,2,125,31
+2023-10-12,Croatia,Turkey,0,1,European Championship qualifier,Croatia,-37,37,1978,1742,-3,7,8,34
+2023-10-12,Belarus,Romania,0,0,European Championship qualifier,Hungary,12,-12,1416,1629,5,-3,102,53
+2023-10-12,Andorra,Kosovo,0,3,European Championship qualifier,Andorra,-14,14,1115,1491,-3,5,174,82
+2023-10-12,Albania,Czechia,3,0,European Championship qualifier,Albania,43,-43,1657,1748,8,-5,49,33
+2023-10-12,British Virgin Islands,Dominica,1,1,CONCACAF Nations League C,Saint Lucia,15,-15,658,979,1,-1,226,190
+2023-10-12,Bonaire,Anguilla,2,0,CONCACAF Nations League C,Bonaire,6,-6,861,578,1,0,204,232
+2023-10-12,Saint Lucia,Guadeloupe,2,1,CONCACAF Nations League B,Saint Lucia,26,-26,1135,1300,6,-12,169,137
+2023-10-12,Saint Kitts and Nevis,Sint Maarten,3,2,CONCACAF Nations League B,Anguilla,6,-6,1130,809,0,-1,172,208
+2023-10-12,Suriname,Haiti,1,1,CONCACAF Nations League A,Suriname,8,-8,1291,1512,2,-1,140,76
+2023-10-12,Grenada,Jamaica,1,4,CONCACAF Nations League A,Grenada,-7,7,1107,1591,-1,2,175,62
+2023-10-12,Cuba,Honduras,0,0,CONCACAF Nations League A,the Dominican Republic,10,-10,1305,1477,3,-3,135,87
+2023-10-12,Colombia,Uruguay,2,2,World Cup qualifier,Colombia,-8,8,1939,1914,0,0,11,12
+2023-10-12,Chile,Peru,2,0,World Cup qualifier,Chile,32,-32,1739,1797,4,-4,35,27
+2023-10-12,Brazil,Venezuela,1,1,World Cup qualifier,Brazil,-18,18,2089,1729,-1,1,3,37
+2023-10-12,Bolivia,Ecuador,1,2,World Cup qualifier,Bolivia,-11,11,1585,1879,-2,0,64,15
+2023-10-12,Argentina,Paraguay,1,0,World Cup qualifier,Argentina,2,-2,2159,1703,0,-1,1,42
+2023-10-13,Uzbekistan,Vietnam,2,0,Friendly,China,7,-7,1617,1398,4,1,56,106
+2023-10-13,South Korea,Tunisia,4,0,Friendly,South Korea,13,-13,1778,1736,1,-3,28,35
+2023-10-13,South Africa,Eswatini,0,0,Friendly,South Africa,-7,7,1516,1293,-1,1,74,140
+2023-10-13,Nigeria,Saudi Arabia,2,2,Friendly,Portugal,-2,2,1615,1559,-1,0,58,67
+2023-10-13,Mali,Uganda,1,0,Friendly,Mali,3,-3,1616,1391,1,1,57,107
+2023-10-13,Malaysia,India,4,2,Independence Tournament,Malaysia,15,-15,1310,1253,5,-3,134,150
+2023-10-13,Jordan,Iran,1,3,Friendly tournament,Jordan,-14,14,1563,1823,-1,3,66,23
+2023-10-13,Japan,Canada,4,1,Friendly,Japan,6,-6,1894,1718,0,-2,14,41
+2023-10-13,Iraq,Qatar,0,0,Friendly tournament,Jordan,-4,4,1597,1515,0,2,61,75
+2023-10-13,Guinea,Guinea-Bissau,1,0,Friendly,Portugal,10,-10,1426,1403,5,0,97,105
+2023-10-13,Equatorial Guinea,Burkina Faso,0,0,Friendly,Equatorial Guinea,-1,1,1493,1552,1,0,80,70
+2023-10-13,England,Australia,1,0,Friendly,England,3,-3,2013,1771,0,-1,6,29
+2023-10-13,DR Congo,New Zealand,1,1,Friendly,Spain,1,-1,1518,1534,2,0,73,72
+2023-10-13,Angola,Mozambique,1,1,Friendly,Portugal,-1,1,1384,1343,1,0,109,119
+2023-10-13,Portugal,Slovakia,3,2,European Championship qualifier,Portugal,2,-2,2023,1611,0,-2,4,60
+2023-10-13,Netherlands,France,1,2,European Championship qualifier,the Netherlands,-18,18,1954,2120,-1,0,10,2
+2023-10-13,Liechtenstein,Bosnia and Herzegovina,0,2,European Championship qualifier,Liechtenstein,-4,4,960,1540,0,0,192,71
+2023-10-13,Ireland,Greece,0,2,European Championship qualifier,Ireland,-35,35,1613,1722,-9,6,59,39
+2023-10-13,Iceland,Luxembourg,1,1,European Championship qualifier,Iceland,-5,5,1490,1508,-3,1,83,77
+2023-10-13,Estonia,Azerbaijan,0,2,European Championship qualifier,Estonia,-39,39,1381,1456,-13,8,111,92
+2023-10-13,Austria,Belgium,2,3,European Championship qualifier,Austria,-16,16,1805,1999,-3,0,26,7
+2023-10-13,Saint Vincent and the Grenadines,French Guiana,1,4,CONCACAF Nations League B,Saint Vincent and the Grenadines,-28,28,1052,1276,-2,7,182,145
+2023-10-13,Montserrat,Nicaragua,0,3,CONCACAF Nations League B,Barbados,-9,9,980,1325,1,3,188,125
+2023-10-13,Belize,Bermuda,0,1,CONCACAF Nations League B,Belize,-22,22,1066,1172,-2,2,179,164
+2023-10-13,Barbados,Dominican Republic,0,5,CONCACAF Nations League B,Barbados,-32,32,979,1212,-3,5,189,158
+2023-10-13,Trinidad and Tobago,Guatemala,3,2,CONCACAF Nations League A,Trinidad and Tobago,21,-21,1434,1501,9,-5,96,79
+2023-10-13,Martinique,El Salvador,1,0,CONCACAF Nations League A,Martinique,15,-15,1438,1410,3,-10,94,104
+2023-10-13,Curaçao,Panama,1,2,CONCACAF Nations League A,Curaçao,-6,6,1307,1709,-4,-1,135,43
+2023-10-14,United States,Germany,1,3,Friendly,the United States,-16,16,1799,1918,-1,1,26,12
+2023-10-14,Niger,Somalia,3,0,Friendly,Morocco,5,-5,1212,890,1,0,158,201
+2023-10-14,Mexico,Ghana,2,0,Friendly,the United States,6,-6,1838,1581,0,-1,20,64
+2023-10-14,Mauritania,Madagascar,2,1,Friendly,Morocco,6,-6,1423,1278,1,-3,100,145
+2023-10-14,Libya,Liberia,3,2,Friendly,Morocco,9,-9,1337,1295,1,-4,123,141
+2023-10-14,Ivory Coast,Morocco,1,1,Friendly,Ivory Coast,3,-3,1634,1838,1,-1,50,20
+2023-10-14,Benin,Sierra Leone,1,1,Friendly,Morocco,-2,2,1366,1316,0,0,115,130
+2023-10-14,Papua New Guinea,Vanuatu,0,1,Melanesian Cup,New Caledonia,-24,24,1136,1108,-2,2,168,175
+2023-10-14,New Caledonia,Solomon Islands,0,1,Melanesian Cup,New Caledonia,-22,22,1198,1300,-5,6,160,138
+2023-10-14,Ukraine,North Macedonia,2,0,European Championship qualifier,Czechia,10,-10,1841,1547,2,-2,19,70
+2023-10-14,Slovenia,Finland,3,0,European Championship qualifier,Slovenia,27,-27,1700,1662,3,-3,45,48
+2023-10-14,Northern Ireland,San Marino,3,0,European Championship qualifier,Northern Ireland,1,-1,1463,778,1,0,89,212
+2023-10-14,Italy,Malta,4,0,European Championship qualifier,Italy,1,-1,1956,1252,0,-1,9,151
+2023-10-14,Hungary,Serbia,2,1,European Championship qualifier,Hungary,14,-14,1858,1817,0,-2,18,23
+2023-10-14,Denmark,Kazakhstan,3,1,European Championship qualifier,Denmark,3,-3,1871,1451,0,1,16,92
+2023-10-14,Bulgaria,Lithuania,0,2,European Championship qualifier,Bulgaria,-51,51,1429,1319,-11,20,96,128
+2023-10-14,Aruba,US Virgin Islands,3,1,CONCACAF Nations League C,Aruba,5,-5,974,634,0,0,191,228
+2023-10-14,Guyana,Puerto Rico,3,1,CONCACAF Nations League B,Saint Kitts and Nevis,27,-27,1233,1139,5,-1,155,166
+2023-10-14,Bahamas,Antigua and Barbuda,1,4,CONCACAF Nations League B,the Bahamas,-24,24,807,1066,-2,5,208,179
+2023-10-15,Sudan,Tanzania,1,1,Friendly,Saudi Arabia,2,-2,1285,1340,0,-1,144,121
+2023-10-15,Philippines,Kyrgyzstan,1,0,Friendly,Bahrain,15,-15,1058,1237,1,-2,183,153
+2023-10-15,Wales,Croatia,2,1,European Championship qualifier,Wales,31,-31,1705,1947,3,-2,44,10
+2023-10-15,Turkey,Latvia,4,0,European Championship qualifier,Turkey,4,-4,1746,1352,1,0,32,116
+2023-10-15,Switzerland,Belarus,3,3,European Championship qualifier,Switzerland,-18,18,1844,1434,-1,7,18,95
+2023-10-15,Romania,Andorra,4,0,European Championship qualifier,Romania,2,-2,1631,1113,-1,1,53,173
+2023-10-15,Poland,Moldova,1,1,European Championship qualifier,Poland,-18,18,1711,1329,-5,8,42,125
+2023-10-15,Norway,Spain,0,1,European Championship qualifier,Norway,-11,11,1745,2028,-2,1,33,4
+2023-10-15,Georgia,Cyprus,4,0,European Championship qualifier,Georgia,7,-7,1636,1316,2,-4,50,130
+2023-10-15,Czechia,Faroe Islands,1,0,European Championship qualifier,Czechia,1,-1,1749,1247,1,1,31,152
+2023-10-15,Saint Kitts and Nevis,Sint Maarten,0,1,CONCACAF Nations League B,Saint Kitts and Nevis,-37,37,1093,846,-5,1,177,206
+2023-10-15,Guadeloupe,Saint Lucia,2,0,CONCACAF Nations League B,Guadeloupe,11,-11,1311,1124,4,-2,134,171
+2023-10-15,Suriname,Grenada,4,0,CONCACAF Nations League A,Suriname,12,-12,1303,1095,5,0,138,176
+2023-10-15,Jamaica,Haiti,3,2,CONCACAF Nations League A,Trinidad and Tobago,16,-16,1607,1496,1,-3,61,79
+2023-10-15,Honduras,Cuba,4,0,CONCACAF Nations League A,Honduras,13,-13,1490,1292,3,-6,83,143
+2023-10-16,Senegal,Cameroon,1,0,Friendly,France,7,-7,1743,1625,1,-3,34,55
+2023-10-16,Nigeria,Mozambique,3,2,Friendly,Portugal,3,-3,1618,1340,0,-1,58,120
+2023-10-16,Kenya,Russia,2,2,Friendly,Turkey,8,-8,1352,1755,2,0,116,30
+2023-10-16,China,Uzbekistan,1,2,Friendly,China,-9,9,1459,1626,-1,2,89,54
+2023-10-16,Botswana,Eswatini,2,1,Friendly,Botswana,6,-6,1348,1287,2,-1,118,143
+2023-10-16,Algeria,Egypt,1,1,Friendly,the United Arab Emirates,-1,1,1711,1676,1,0,40,47
+2023-10-16,Luxembourg,Slovakia,0,1,European Championship qualifier,Luxembourg,-20,20,1488,1631,-8,8,84,52
+2023-10-16,Iceland,Liechtenstein,4,0,European Championship qualifier,Iceland,2,-2,1492,958,3,0,80,192
+2023-10-16,Greece,Netherlands,0,1,European Championship qualifier,Greece,-13,13,1709,1967,-4,1,42,8
+2023-10-16,Gibraltar,Ireland,0,4,European Championship qualifier,Portugal,-3,3,1057,1616,-1,0,183,59
+2023-10-16,Bosnia and Herzegovina,Portugal,0,5,European Championship qualifier,Bosnia and Herzegovina,-8,8,1532,2031,-1,1,72,4
+2023-10-16,Belgium,Sweden,1,1,European Championship qualifier,Belgium,-16,16,1983,1738,0,2,7,36
+2023-10-16,Azerbaijan,Austria,0,1,European Championship qualifier,Azerbaijan,-8,8,1448,1813,-1,0,92,25
+2023-10-16,Turks and Caicos Islands,British Virgin Islands,2,2,CONCACAF Nations League C,Turks and Caicos Islands,-9,9,711,667,0,0,216,226
+2023-10-16,Saint Martin,Anguilla,8,0,CONCACAF Nations League C,Saint Kitts and Nevis,14,-14,894,564,1,-3,201,235
+2023-10-16,Nicaragua,Montserrat,3,0,CONCACAF Nations League B,Nicaragua,5,-5,1330,975,1,-1,125,189
+2023-10-16,French Guiana,Saint Vincent and the Grenadines,3,2,CONCACAF Nations League B,Martinique,9,-9,1285,1043,2,0,144,184
+2023-10-16,Dominican Republic,Barbados,5,2,CONCACAF Nations League B,the Dominican Republic,9,-9,1221,970,2,-2,156,191
+2023-10-17,Zambia,Uganda,3,0,Friendly,the United Arab Emirates,12,-12,1515,1379,2,-4,74,111
+2023-10-17,United States,Ghana,4,0,Friendly,the United States,5,-5,1804,1576,0,1,26,63
+2023-10-17,United Arab Emirates,Lebanon,2,1,Friendly,the United Arab Emirates,3,-3,1488,1308,2,-2,83,136
+2023-10-17,Sudan,Chad,1,0,Friendly,Saudi Arabia,7,-7,1292,1179,3,0,141,163
+2023-10-17,South Korea,Vietnam,6,0,Friendly,South Korea,3,-3,1781,1395,0,0,28,106
+2023-10-17,Sierra Leone,Somalia,2,0,Friendly,Morocco,2,-2,1318,888,0,1,130,201
+2023-10-17,North Macedonia,Armenia,3,1,Friendly,North Macedonia,8,-8,1555,1462,2,-1,68,88
+2023-10-17,Mali,Saudi Arabia,3,1,Friendly,Portugal,13,-13,1629,1546,7,-2,52,69
+2023-10-17,Malaysia,Tajikistan,0,2,Independence Tournament,Malaysia,-27,27,1283,1365,-10,7,146,115
+2023-10-17,Madagascar,Benin,2,1,Friendly,Morocco,12,-12,1290,1354,3,-1,143,116
+2023-10-17,Libya,Niger,1,1,Friendly,Morocco,-3,3,1334,1215,-2,0,125,159
+2023-10-17,Kuwait,Syria,2,1,Friendly,the United Arab Emirates,11,-11,1389,1413,5,-3,107,102
+2023-10-17,Jordan,Iraq,2,2,Friendly tournament,Jordan,-3,3,1560,1600,0,0,66,62
+2023-10-17,Japan,Tunisia,2,0,Friendly,Japan,6,-6,1900,1730,0,0,14,37
+2023-10-17,Ivory Coast,South Africa,1,1,Friendly,Ivory Coast,-6,6,1628,1522,-2,1,53,73
+2023-10-17,Iran,Qatar,4,0,Friendly tournament,Jordan,8,-8,1831,1507,0,-1,22,76
+2023-10-17,Germany,Mexico,2,2,Friendly,the United States,-2,2,1916,1840,-1,0,13,20
+2023-10-17,Gabon,Guinea,1,1,Friendly,Portugal,0,0,1415,1426,2,2,101,96
+2023-10-17,France,Scotland,4,1,Friendly,France,3,-3,2123,1813,0,0,2,24
+2023-10-17,Estonia,Thailand,1,1,Friendly,Estonia,-3,3,1378,1387,-1,0,112,109
+2023-10-17,Comoros,Cape Verde,2,1,Friendly,France,17,-17,1210,1474,2,-6,160,87
+2023-10-17,Burkina Faso,Mauritania,2,1,Friendly,Morocco,6,-6,1558,1417,2,1,67,100
+2023-10-17,Bahrain,Philippines,1,0,Friendly,Bahrain,1,-1,1481,1057,0,1,86,181
+2023-10-17,Australia,New Zealand,2,0,Soccer Ashes Trophy,England,9,-9,1780,1525,0,-1,29,72
+2023-10-17,Angola,DR Congo,0,0,Friendly,Portugal,4,-4,1388,1514,1,-2,108,75
+2023-10-17,Albania,Bulgaria,2,0,Friendly,Albania,4,-4,1661,1425,1,0,48,97
+2023-10-17,Taiwan,East Timor,3,0,World Cup and Asian Cup qualifier,Taiwan,6,-6,933,611,1,-1,194,231
+2023-10-17,Sri Lanka,Yemen,1,1,World Cup and Asian Cup qualifier,Sri Lanka,15,-15,689,1084,4,-2,220,177
+2023-10-17,Pakistan,Cambodia,1,0,World Cup and Asian Cup qualifier,Pakistan,17,-17,838,848,0,-2,207,205
+2023-10-17,Mongolia,Afghanistan,0,1,World Cup and Asian Cup qualifier,Mongolia,-11,11,793,1094,0,3,210,175
+2023-10-17,Macao,Myanmar,0,0,World Cup and Asian Cup qualifier,Macao,9,-9,666,920,0,-3,227,197
+2023-10-17,Laos,Nepal,0,1,World Cup and Asian Cup qualifier,Laos,-13,13,668,930,-5,1,225,195
+2023-10-17,Guam,Singapore,0,1,World Cup and Asian Cup qualifier,Guam,-5,5,699,1138,0,2,217,167
+2023-10-17,Brunei,Indonesia,0,6,World Cup and Asian Cup qualifier,Brunei,-3,3,598,1300,-1,2,232,138
+2023-10-17,Bhutan,Hong Kong,2,0,World Cup and Asian Cup qualifier,Bhutan,56,-56,623,1064,4,-7,230,179
+2023-10-17,Bangladesh,Maldives,2,1,World Cup and Asian Cup qualifier,Bangladesh,14,-14,925,882,2,-2,196,202
+2023-10-17,Morocco,Liberia,3,0,African Nations Cup qualifier,Morocco,2,-2,1840,1293,0,1,20,140
+2023-10-17,Serbia,Montenegro,3,1,European Championship qualifier,Serbia,7,-7,1824,1546,0,-1,23,69
+2023-10-17,San Marino,Denmark,1,2,European Championship qualifier,San Marino,0,0,778,1871,0,0,212,16
+2023-10-17,Northern Ireland,Slovenia,0,1,European Championship qualifier,Northern Ireland,-12,12,1451,1712,-3,5,91,41
+2023-10-17,Malta,Ukraine,1,3,European Championship qualifier,Malta,-3,3,1249,1844,-1,2,152,17
+2023-10-17,Lithuania,Hungary,2,2,European Championship qualifier,Lithuania,17,-17,1336,1841,4,-2,124,19
+2023-10-17,Finland,Kazakhstan,1,2,European Championship qualifier,Finland,-34,34,1628,1485,-5,6,53,85
+2023-10-17,England,Italy,3,1,European Championship qualifier,England,17,-17,2030,1939,1,-3,5,12
+2023-10-17,Cayman Islands,US Virgin Islands,2,1,CONCACAF Nations League C,the Cayman Islands,7,-7,813,627,0,-1,209,229
+2023-10-17,Guyana,Puerto Rico,3,1,CONCACAF Nations League B,Saint Kitts and Nevis,22,-22,1255,1117,5,-5,150,171
+2023-10-17,Bermuda,Belize,1,1,CONCACAF Nations League B,Bermuda,-11,11,1161,1077,0,1,164,178
+2023-10-17,Antigua and Barbuda,Bahamas,2,2,CONCACAF Nations League B,Antigua and Barbuda,-16,16,1050,823,-4,0,183,208
+2023-10-17,Panama,Guatemala,3,0,CONCACAF Nations League A,Panama,10,-10,1719,1491,4,-3,38,80
+2023-10-17,El Salvador,Martinique,0,0,CONCACAF Nations League A,El Salvador,-4,4,1406,1442,1,0,103,93
+2023-10-17,Curaçao,Trinidad and Tobago,5,3,CONCACAF Nations League A,Curaçao,32,-32,1339,1402,14,-10,123,105
+2023-10-17,Venezuela,Chile,3,0,World Cup qualifier,Venezuela,26,-26,1755,1713,8,-5,30,40
+2023-10-17,Uruguay,Brazil,2,0,World Cup qualifier,Uruguay,36,-36,1950,2053,4,0,9,3
+2023-10-17,Peru,Argentina,0,2,World Cup qualifier,Peru,-11,11,1786,2170,0,0,27,1
+2023-10-17,Paraguay,Bolivia,1,0,World Cup qualifier,Paraguay,9,-9,1712,1576,4,0,41,63
+2023-10-17,Ecuador,Colombia,0,0,World Cup qualifier,Ecuador,-2,2,1877,1941,0,0,15,11
+2023-10-19,Libya,Somalia,0,0,Friendly,Morocco,-9,9,1325,897,-3,1,128,200
+2023-10-20,Chad,Sudan,1,1,Friendly,Saudi Arabia,3,-3,1182,1289,0,-2,163,143
+2023-11-11,Libya,Sudan,2,1,Friendly,Libya,6,-6,1331,1283,3,-2,125,145
+2023-11-11,Guatemala,Jamaica,0,0,Friendly,the United States,3,-3,1494,1604,2,0,78,61
+2023-11-12,Kosovo,Israel,1,0,European Championship qualifier,Kosovo,22,-22,1513,1603,5,-5,76,61
+2023-11-15,Belgium,Serbia,1,0,Friendly,Belgium,4,-4,1987,1820,0,0,7,23
+2023-11-15,Rwanda,Zimbabwe,0,0,World Cup qualifier,Rwanda,-3,3,1261,1321,0,0,149,130
+2023-11-15,Ethiopia,Sierra Leone,0,0,World Cup qualifier,Morocco,0,0,1313,1318,0,-1,134,131
+2023-11-15,Equatorial Guinea,Namibia,1,0,World Cup qualifier,Equatorial Guinea,9,-9,1502,1368,2,0,78,114
+2023-11-15,DR Congo,Mauritania,2,0,World Cup qualifier,DR Congo,15,-15,1529,1402,3,-4,72,104
+2023-11-15,Israel,Switzerland,1,1,European Championship qualifier,Hungary,12,-12,1615,1832,1,-4,60,21
+2023-11-16,Norway,Faroe Islands,2,0,Friendly,Norway,1,-1,1746,1246,0,0,34,153
+2023-11-16,Curaçao,El Salvador,1,1,Friendly,Curaçao,-1,1,1338,1407,1,0,122,102
+2023-11-16,Sudan,Togo,1,1,World Cup qualifier,Libya,6,-6,1289,1381,0,1,145,108
+2023-11-16,Nigeria,Lesotho,1,1,World Cup qualifier,Nigeria,-18,18,1600,1235,-4,3,62,154
+2023-11-16,Gabon,Kenya,2,1,World Cup qualifier,Gabon,11,-11,1426,1341,3,-3,97,120
+2023-11-16,Egypt,Djibouti,6,0,World Cup qualifier,Egypt,1,-1,1677,913,0,0,47,198
+2023-11-16,Cape Verde,Angola,0,0,World Cup qualifier,Cape Verde,-10,10,1464,1398,-2,2,89,106
+2023-11-16,Burundi,Gambia,3,2,World Cup qualifier,Tanzania,29,-29,1300,1409,10,-7,138,101
+2023-11-16,Botswana,Mozambique,2,3,World Cup qualifier,Botswana,-26,26,1322,1366,-10,8,129,113
+2023-11-16,Algeria,Somalia,3,1,World Cup qualifier,Algeria,0,0,1711,897,2,0,41,200
+2023-11-16,United Arab Emirates,Nepal,4,0,World Cup and Asian Cup qualifier,the United Arab Emirates,2,-2,1490,928,0,0,83,195
+2023-11-16,Turkmenistan,Uzbekistan,1,3,World Cup and Asian Cup qualifier,Turkmenistan,-9,9,1226,1635,0,4,155,51
+2023-11-16,Thailand,China,1,2,World Cup and Asian Cup qualifier,Thailand,-22,22,1365,1481,-5,2,114,87
+2023-11-16,Tajikistan,Jordan,1,1,World Cup and Asian Cup qualifier,Tajikistan,5,-5,1370,1555,5,-1,110,67
+2023-11-16,Syria,North Korea,1,0,World Cup and Asian Cup qualifier,Saudi Arabia,18,-18,1431,1360,5,-3,96,115
+2023-11-16,South Korea,Singapore,5,0,World Cup and Asian Cup qualifier,South Korea,1,-1,1782,1137,1,0,27,167
+2023-11-16,Saudi Arabia,Pakistan,4,0,World Cup and Asian Cup qualifier,Saudi Arabia,1,-1,1547,837,-1,0,70,207
+2023-11-16,Qatar,Afghanistan,8,1,World Cup and Asian Cup qualifier,Qatar,4,-4,1511,1090,0,0,77,175
+2023-11-16,Philippines,Vietnam,0,2,World Cup and Asian Cup qualifier,the Philippines,-12,12,1045,1407,-2,4,183,102
+2023-11-16,Oman,Taiwan,3,0,World Cup and Asian Cup qualifier,Oman,1,-1,1576,932,1,0,64,194
+2023-11-16,Malaysia,Kyrgyzstan,4,3,World Cup and Asian Cup qualifier,Malaysia,12,-12,1295,1225,5,-2,140,156
+2023-11-16,Lebanon,Palestine,0,0,World Cup and Asian Cup qualifier,the United Arab Emirates,6,-6,1314,1413,2,-1,134,100
+2023-11-16,Kuwait,India,0,1,World Cup and Asian Cup qualifier,Kuwait,-32,32,1357,1285,-9,4,116,147
+2023-11-16,Iraq,Indonesia,5,1,World Cup and Asian Cup qualifier,Iraq,7,-7,1607,1293,2,-3,60,141
+2023-11-16,Iran,Hong Kong,4,0,World Cup and Asian Cup qualifier,Iran,1,-1,1832,1063,2,-1,20,180
+2023-11-16,Japan,Myanmar,5,0,World Cup and Asian Cup qualifier,Japan,0,0,1900,920,0,0,14,197
+2023-11-16,Bahrain,Yemen,2,0,World Cup and Asian Cup qualifier,Saudi Arabia,6,-6,1487,1078,1,0,85,177
+2023-11-16,Australia,Bangladesh,7,0,World Cup and Asian Cup qualifier,Australia,0,0,1780,925,1,0,28,196
+2023-11-16,Slovakia,Iceland,4,2,European Championship qualifier,Slovakia,12,-12,1643,1480,1,-7,49,88
+2023-11-16,Montenegro,Lithuania,2,0,European Championship qualifier,Montenegro,9,-9,1555,1327,2,-3,67,127
+2023-11-16,Luxembourg,Bosnia and Herzegovina,4,1,European Championship qualifier,Luxembourg,29,-29,1517,1503,9,-7,74,78
+2023-11-16,Liechtenstein,Portugal,0,2,European Championship qualifier,Liechtenstein,0,0,958,2031,0,0,192,4
+2023-11-16,Georgia,Scotland,2,2,European Championship qualifier,Georgia,4,-4,1640,1809,-1,-1,50,25
+2023-11-16,Estonia,Austria,0,2,European Championship qualifier,Estonia,-8,8,1370,1821,2,1,110,23
+2023-11-16,Cyprus,Spain,1,3,European Championship qualifier,Cyprus,-2,2,1314,2030,-2,1,134,5
+2023-11-16,Bulgaria,Hungary,2,2,European Championship qualifier,Bulgaria,14,-14,1439,1827,3,-4,94,22
+2023-11-16,Azerbaijan,Sweden,3,0,European Championship qualifier,Azerbaijan,52,-52,1500,1686,12,-10,80,46
+2023-11-16,US Virgin Islands,Aruba,1,4,CONCACAF Nations League C,the US VirgIslands,-14,14,613,988,-1,2,230,188
+2023-11-16,British Virgin Islands,Dominica,1,2,CONCACAF Nations League C,the British VirgIslands,-9,9,658,988,-1,0,227,188
+2023-11-16,Saint Kitts and Nevis,Saint Lucia,0,0,CONCACAF Nations League B,Saint Kitts and Nevis,-4,4,1089,1128,0,0,176,170
+2023-11-16,Guadeloupe,Sint Maarten,2,0,CONCACAF Nations League B,Barbados,4,-4,1315,842,2,0,133,206
+2023-11-16,Venezuela,Ecuador,0,0,World Cup qualifier,Venezuela,1,-1,1756,1876,1,0,29,15
+2023-11-16,United States,Trinidad and Tobago,3,0,CONCACAF Nations League A,the United States,4,-4,1808,1398,0,-2,26,106
+2023-11-16,Costa Rica,Panama,0,3,CONCACAF Nations League A,Costa Rica,-35,35,1588,1754,-6,7,63,31
+2023-11-16,Colombia,Brazil,2,1,World Cup qualifier,Colombia,21,-21,1962,2032,1,0,10,3
+2023-11-16,Chile,Paraguay,0,0,World Cup qualifier,Chile,-6,6,1707,1718,-4,3,44,38
+2023-11-16,Bolivia,Peru,2,0,World Cup qualifier,Bolivia,39,-39,1615,1747,5,-6,58,33
+2023-11-16,Argentina,Uruguay,0,2,World Cup qualifier,Argentina,-52,52,2118,2002,-1,2,2,7
+2023-11-17,Greece,New Zealand,2,0,Friendly,Greece,5,-5,1714,1520,3,-3,40,75
+2023-11-17,Solomon Islands,Samoa,1,0,Pacific Games,the Solomon Islands,1,-1,1301,676,1,-1,137,223
+2023-11-17,Zambia,Congo,4,2,World Cup qualifier,Zambia,7,-7,1522,1267,2,1,73,148
+2023-11-17,Tunisia,Sao Tome and Principe,4,0,World Cup qualifier,Tunisia,1,-1,1731,1063,0,0,37,179
+2023-11-17,Mali,Chad,3,1,World Cup qualifier,Mali,2,-2,1631,1180,0,0,53,163
+2023-11-17,Libya,Eswatini,1,0,World Cup qualifier,South Africa,17,-17,1348,1270,3,0,120,146
+2023-11-17,Liberia,Malawi,0,1,World Cup qualifier,Liberia,-24,24,1269,1355,-6,6,147,117
+2023-11-17,Ivory Coast,Seychelles,9,0,World Cup qualifier,Ivory Coast,1,-1,1629,860,-1,-1,55,204
+2023-11-17,Guinea,Uganda,2,1,World Cup qualifier,Morocco,17,-17,1443,1362,5,-5,92,114
+2023-11-17,Ghana,Madagascar,1,0,World Cup qualifier,Ghana,4,-4,1580,1286,0,1,64,143
+2023-11-17,Comoros,Central African Republic,4,2,World Cup qualifier,the Comoros,31,-31,1241,1285,6,-12,154,144
+2023-11-17,Cameroon,Mauritius,3,0,World Cup qualifier,Cameroon,1,-1,1626,1030,0,1,56,184
+2023-11-17,Burkina Faso,Guinea-Bissau,1,1,World Cup qualifier,Morocco,-8,8,1550,1411,-3,3,69,101
+2023-11-17,Poland,Czechia,1,1,European Championship qualifier,Poland,-4,4,1707,1753,-1,0,42,32
+2023-11-17,Moldova,Albania,1,1,European Championship qualifier,Moldova,12,-12,1341,1649,3,0,123,48
+2023-11-17,Kazakhstan,San Marino,3,1,European Championship qualifier,Kazakhstan,1,-1,1486,777,0,0,86,212
+2023-11-17,Italy,North Macedonia,5,2,European Championship qualifier,Italy,4,-4,1943,1551,0,-1,12,68
+2023-11-17,Finland,Northern Ireland,4,0,European Championship qualifier,Finland,13,-13,1641,1438,4,-3,50,95
+2023-11-17,England,Malta,2,0,European Championship qualifier,England,0,0,2030,1249,0,0,5,152
+2023-11-17,Denmark,Slovenia,2,1,European Championship qualifier,Denmark,7,-7,1878,1705,1,-4,15,44
+2023-11-17,Montserrat,Dominican Republic,2,1,CONCACAF Nations League B,Montserrat,28,-28,1003,1193,3,-5,187,162
+2023-11-17,Bermuda,Saint Vincent and the Grenadines,3,1,CONCACAF Nations League B,Bermuda,13,-13,1174,1030,0,0,164,184
+2023-11-17,Belize,French Guiana,1,0,CONCACAF Nations League B,Belize,26,-26,1103,1259,4,-3,174,150
+2023-11-17,Barbados,Nicaragua,0,4,CONCACAF Nations League B,Barbados,-14,14,956,1344,-1,3,192,122
+2023-11-17,Honduras,Mexico,2,0,CONCACAF Nations League A,Honduras,48,-48,1538,1792,12,-8,71,26
+2023-11-18,Germany,Turkey,2,3,Friendly,Germany,-17,17,1899,1763,-1,5,14,29
+2023-11-18,New Caledonia,Tonga,7,0,Pacific Games,the Solomon Islands,2,-2,1200,525,0,0,160,238
+2023-11-18,Fiji,Northern Mariana Islands,10,0,Pacific Games,the Solomon Islands,1,-1,1196,404,0,0,161,242
+2023-11-18,Tanzania,Niger,1,0,World Cup qualifier,Morocco,13,-13,1353,1202,7,0,118,159
+2023-11-18,South Africa,Benin,2,1,World Cup qualifier,South Africa,7,-7,1529,1347,0,-3,73,121
+2023-11-18,Senegal,South Sudan,4,0,World Cup qualifier,Senegal,1,-1,1744,1131,0,-1,36,170
+2023-11-18,Switzerland,Kosovo,1,1,European Championship qualifier,Switzerland,-17,17,1815,1530,-4,5,23,72
+2023-11-18,Romania,Israel,2,1,European Championship qualifier,Hungary,19,-19,1650,1596,5,-3,48,61
+2023-11-18,Netherlands,Ireland,1,0,European Championship qualifier,the Netherlands,3,-3,1970,1613,0,-1,9,58
+2023-11-18,Latvia,Croatia,0,2,European Championship qualifier,Latvia,-3,3,1349,1950,0,0,119,11
+2023-11-18,France,Gibraltar,14,0,European Championship qualifier,France,0,0,2123,1057,0,0,1,181
+2023-11-18,Belarus,Andorra,1,0,European Championship qualifier,Hungary,5,-5,1439,1108,2,0,94,172
+2023-11-18,Armenia,Wales,1,1,European Championship qualifier,Armenia,8,-8,1470,1697,1,-1,89,45
+2023-11-18,Anguilla,Bonaire,0,3,CONCACAF Nations League C,Anguilla,-17,17,547,878,-1,0,236,203
+2023-11-18,Antigua and Barbuda,Puerto Rico,2,3,CONCACAF Nations League B,Antigua and Barbuda,-22,22,1028,1139,-3,5,185,166
+2023-11-18,Jamaica,Canada,1,2,CONCACAF Nations League A,Jamaica,-19,19,1585,1737,-2,1,63,37
+2023-11-19,Cyprus,Lithuania,1,0,Friendly,Cyprus,8,-8,1322,1319,3,-6,130,133
+2023-11-19,Sudan,DR Congo,1,0,World Cup qualifier,Libya,32,-32,1321,1497,10,-6,132,79
+2023-11-19,Nigeria,Zimbabwe,1,1,World Cup qualifier,Rwanda,-13,13,1587,1334,-2,3,62,127
+2023-11-19,Mozambique,Algeria,0,2,World Cup qualifier,Mozambique,-12,12,1354,1723,-5,2,117,39
+2023-11-19,Gabon,Burundi,2,1,World Cup qualifier,Tanzania,13,-13,1439,1287,3,-4,95,142
+2023-11-19,Egypt,Sierra Leone,2,0,World Cup qualifier,Liberia,7,-7,1684,1311,0,-5,47,136
+2023-11-19,Sweden,Estonia,2,0,European Championship qualifier,Sweden,5,-5,1691,1365,0,-2,46,111
+2023-11-19,Spain,Georgia,3,1,European Championship qualifier,Spain,3,-3,2033,1637,2,0,3,52
+2023-11-19,Serbia,Bulgaria,2,2,European Championship qualifier,Serbia,-18,18,1802,1457,-2,3,24,91
+2023-11-19,Scotland,Norway,3,3,European Championship qualifier,Scotland,-9,9,1800,1755,-1,4,25,31
+2023-11-19,Portugal,Iceland,2,0,European Championship qualifier,Portugal,1,-1,2032,1479,0,0,4,88
+2023-11-19,Liechtenstein,Luxembourg,0,1,European Championship qualifier,Liechtenstein,-3,3,955,1520,-1,2,192,75
+2023-11-19,Hungary,Montenegro,3,1,European Championship qualifier,Hungary,6,-6,1833,1549,1,-3,19,69
+2023-11-19,Bosnia and Herzegovina,Slovakia,1,2,European Championship qualifier,Bosnia and Herzegovina,-18,18,1485,1661,-7,2,86,48
+2023-11-19,Belgium,Azerbaijan,5,0,European Championship qualifier,Belgium,3,-3,1990,1497,0,2,8,79
+2023-11-19,Saint Lucia,Sint Maarten,1,2,CONCACAF Nations League B,Saint Lucia,-36,36,1092,878,-4,3,175,203
+2023-11-19,Guadeloupe,Saint Kitts and Nevis,5,0,CONCACAF Nations League B,Guadeloupe,11,-11,1326,1078,4,0,128,177
+2023-11-20,Russia,Cuba,8,0,Friendly,Russia,2,-2,1757,1290,0,-2,31,143
+2023-11-20,Curaçao,El Salvador,1,1,Friendly,Curaçao,-1,1,1337,1408,0,0,126,103
+2023-11-20,Vanuatu,Tuvalu,6,0,Pacific Games,the Solomon Islands,9,-9,1117,728,0,0,171,214
+2023-11-20,Samoa,Eastern Samoa,10,0,Pacific Games,the Solomon Islands,25,-25,701,446,7,0,216,240
+2023-11-20,Mali,Central African Republic,1,1,World Cup qualifier,Mali,-17,17,1614,1302,-3,5,57,139
+2023-11-20,Madagascar,Chad,3,0,World Cup qualifier,Morocco,25,-25,1311,1155,7,-1,136,164
+2023-11-20,Liberia,Equatorial Guinea,0,1,World Cup qualifier,Liberia,-13,13,1256,1515,-4,1,151,77
+2023-11-20,Kenya,Seychelles,5,0,World Cup qualifier,Ivory Coast,5,-5,1346,855,2,0,122,205
+2023-11-20,Ivory Coast,Gambia,2,0,World Cup qualifier,Tanzania,13,-13,1642,1396,5,-5,50,107
+2023-11-20,Guinea-Bissau,Djibouti,1,0,World Cup qualifier,Egypt,2,-2,1413,911,0,0,101,198
+2023-11-20,Slovenia,Kazakhstan,2,1,European Championship qualifier,Slovenia,5,-5,1710,1481,2,-2,42,87
+2023-11-20,San Marino,Finland,1,2,European Championship qualifier,San Marino,0,0,777,1641,0,0,212,51
+2023-11-20,Northern Ireland,Denmark,2,0,European Championship qualifier,Northern Ireland,53,-53,1491,1825,14,-5,83,20
+2023-11-20,North Macedonia,England,1,1,European Championship qualifier,North Macedonia,16,-16,1567,2014,1,0,66,6
+2023-11-20,Italy,Ukraine,0,0,European Championship qualifier,Germany,-6,6,1937,1850,0,1,12,16
+2023-11-20,Czechia,Moldova,3,0,European Championship qualifier,Czechia,3,-3,1756,1338,2,-1,32,125
+2023-11-20,Albania,Faroe Islands,0,0,European Championship qualifier,Albania,-18,18,1631,1264,-4,5,54,148
+2023-11-20,Dominica,Turks and Caicos Islands,2,0,CONCACAF Nations League C,the British VirgIslands,10,-10,998,701,0,0,189,216
+2023-11-20,Aruba,Cayman Islands,5,1,CONCACAF Nations League C,Aruba,13,-13,1001,800,1,0,188,209
+2023-11-20,Montserrat,Barbados,4,2,CONCACAF Nations League B,Montserrat,18,-18,1021,938,1,-2,186,193
+2023-11-20,Trinidad and Tobago,United States,2,1,CONCACAF Nations League A,Trinidad and Tobago,34,-34,1432,1774,8,-5,98,28
+2023-11-20,Panama,Costa Rica,3,1,CONCACAF Nations League A,Panama,11,-11,1765,1577,4,-3,29,64
+2023-11-21,Poland,Latvia,2,0,Friendly,Poland,2,-2,1709,1347,2,0,41,119
+2023-11-21,Ireland,New Zealand,1,1,Friendly,Ireland,-5,5,1608,1525,-2,2,60,73
+2023-11-21,Austria,Germany,2,0,Friendly,Austria,14,-14,1835,1885,3,0,18,14
+2023-11-21,Fiji,Tahiti,0,0,Pacific Games,the Solomon Islands,-3,3,1193,1151,-1,1,162,164
+2023-11-21,Cook Islands,Tonga,2,1,Pacific Games,the Solomon Islands,12,-12,691,513,1,0,221,238
+2023-11-21,Uganda,Somalia,1,0,World Cup qualifier,Morocco,3,-3,1365,894,-1,-1,114,201
+2023-11-21,Togo,Senegal,0,0,World Cup qualifier,Togo,13,-13,1394,1731,3,-1,105,37
+2023-11-21,Tanzania,Morocco,0,2,World Cup qualifier,Tanzania,-6,6,1347,1846,-1,0,119,17
+2023-11-21,Rwanda,South Africa,2,0,World Cup qualifier,Rwanda,43,-43,1304,1486,13,-11,136,84
+2023-11-21,Niger,Zambia,2,1,World Cup qualifier,Morocco,35,-35,1237,1487,2,-9,157,83
+2023-11-21,Namibia,Sao Tome and Principe,2,0,World Cup qualifier,Morocco,9,-9,1377,1054,0,-3,110,182
+2023-11-21,Mauritius,Angola,0,0,World Cup qualifier,Mauritius,13,-13,1043,1385,-1,-2,184,108
+2023-11-21,Mauritania,South Sudan,0,0,World Cup qualifier,Senegal,-13,13,1389,1144,-2,3,107,167
+2023-11-21,Malawi,Tunisia,0,1,World Cup qualifier,Malawi,-7,7,1348,1738,-2,2,118,36
+2023-11-21,Libya,Cameroon,1,1,World Cup qualifier,Libya,9,-9,1357,1617,4,-1,116,56
+2023-11-21,Comoros,Ghana,1,0,World Cup qualifier,the Comoros,32,-32,1273,1548,7,-5,147,68
+2023-11-21,Cape Verde,Eswatini,2,0,World Cup qualifier,South Africa,15,-15,1479,1255,4,-8,87,154
+2023-11-21,Burkina Faso,Ethiopia,3,0,World Cup qualifier,Morocco,14,-14,1564,1299,2,-7,66,142
+2023-11-21,Botswana,Guinea,1,0,World Cup qualifier,Botswana,21,-21,1343,1422,7,-6,123,100
+2023-11-21,Benin,Lesotho,0,0,World Cup qualifier,South Africa,-6,6,1341,1241,-3,-1,124,156
+2023-11-21,Vietnam,Iraq,0,1,World Cup and Asian Cup qualifier,Vietnam,-14,14,1393,1621,-2,4,106,55
+2023-11-21,Uzbekistan,Iran,2,2,World Cup and Asian Cup qualifier,Uzbekistan,5,-5,1640,1827,1,-1,52,20
+2023-11-21,Taiwan,Malaysia,0,1,World Cup and Asian Cup qualifier,Taiwan,-7,7,925,1302,-2,3,196,138
+2023-11-21,Singapore,Thailand,1,3,World Cup and Asian Cup qualifier,Singapore,-19,19,1118,1384,-2,2,170,109
+2023-11-21,Philippines,Indonesia,1,1,World Cup and Asian Cup qualifier,the Philippines,8,-8,1053,1285,-1,-4,183,146
+2023-11-21,Pakistan,Tajikistan,1,6,World Cup and Asian Cup qualifier,Pakistan,-6,6,831,1376,0,-2,207,111
+2023-11-21,Nepal,Yemen,0,2,World Cup and Asian Cup qualifier,Nepal,-26,26,902,1104,-5,5,200,172
+2023-11-21,Myanmar,North Korea,1,6,World Cup and Asian Cup qualifier,Myanmar,-10,10,910,1370,-1,2,198,112
+2023-11-21,Kyrgyzstan,Oman,1,0,World Cup and Asian Cup qualifier,Kyrgyzstan,32,-32,1257,1544,5,-4,152,69
+2023-11-21,Kuwait,Afghanistan,4,0,World Cup and Asian Cup qualifier,Saudi Arabia,13,-13,1370,1077,3,-1,112,177
+2023-11-21,Jordan,Saudi Arabia,0,2,World Cup and Asian Cup qualifier,Jordan,-39,39,1516,1586,-8,7,75,63
+2023-11-21,Japan,Syria,5,0,World Cup and Asian Cup qualifier,Saudi Arabia,5,-5,1905,1426,0,1,13,98
+2023-11-21,India,Qatar,0,3,World Cup and Asian Cup qualifier,India,-23,23,1262,1534,-6,8,151,70
+2023-11-21,Hong Kong,Turkmenistan,2,2,World Cup and Asian Cup qualifier,Hong Kong,4,-4,1067,1222,0,-2,179,158
+2023-11-21,China,South Korea,0,3,World Cup and Asian Cup qualifier,China,-17,17,1464,1799,-4,2,91,24
+2023-11-21,Bangladesh,Lebanon,1,1,World Cup and Asian Cup qualifier,Bangladesh,14,-14,939,1300,2,-7,194,141
+2023-11-21,Bahrain,United Arab Emirates,0,2,World Cup and Asian Cup qualifier,Bahrain,-38,38,1449,1528,-9,12,94,72
+2023-11-21,Australia,Palestine,1,0,World Cup and Asian Cup qualifier,Kuwait,4,-4,1784,1409,0,-1,27,102
+2023-11-21,Wales,Turkey,1,1,European Championship qualifier,Wales,-2,2,1695,1765,0,1,45,29
+2023-11-21,Romania,Switzerland,1,0,European Championship qualifier,Romania,24,-24,1674,1791,1,-4,48,26
+2023-11-21,Kosovo,Belarus,0,1,European Championship qualifier,Kosovo,-30,30,1500,1469,-5,7,77,89
+2023-11-21,Greece,France,2,2,European Championship qualifier,Greece,14,-14,1728,2109,3,-1,38,2
+2023-11-21,Gibraltar,Netherlands,0,6,European Championship qualifier,Portugal,0,0,1057,1970,0,-1,181,10
+2023-11-21,Croatia,Armenia,1,0,European Championship qualifier,Croatia,1,-1,1951,1469,0,1,11,89
+2023-11-21,Andorra,Israel,0,2,European Championship qualifier,Andorra,-6,6,1102,1602,-1,-1,173,61
+2023-11-21,Bonaire,Saint Martin,0,4,CONCACAF Nations League C,Bonaire,-46,46,832,940,-3,8,206,193
+2023-11-21,Saint Vincent and the Grenadines,Belize,3,0,CONCACAF Nations League B,Grenada,42,-42,1072,1061,5,-7,178,180
+2023-11-21,Puerto Rico,Bahamas,6,1,CONCACAF Nations League B,Puerto Rico,7,-7,1146,816,0,0,166,208
+2023-11-21,Nicaragua,Dominican Republic,0,0,CONCACAF Nations League B,Nicaragua,-12,12,1332,1205,-4,2,128,160
+2023-11-21,Guyana,Antigua and Barbuda,6,0,CONCACAF Nations League B,the Dominican Republic,18,-18,1273,1010,5,-1,147,186
+2023-11-21,French Guiana,Bermuda,3,0,CONCACAF Nations League B,Martinique,27,-27,1286,1147,5,-2,145,165
+2023-11-21,Mexico,Honduras,2,0,CONCACAF Nations League A,Mexico,7,-7,1799,1531,1,0,24,71
+2023-11-21,Canada,Jamaica,2,3,CONCACAF Nations League A,Canada,-32,32,1705,1617,-6,6,43,56
+2023-11-21,Uruguay,Bolivia,3,0,World Cup qualifier,Uruguay,4,-4,2006,1611,0,-3,7,59
+2023-11-21,Peru,Venezuela,1,1,World Cup qualifier,Peru,-5,5,1742,1761,0,1,35,31
+2023-11-21,Paraguay,Colombia,0,1,World Cup qualifier,Paraguay,-12,12,1706,1974,-2,1,42,9
+2023-11-21,Ecuador,Chile,1,0,World Cup qualifier,Ecuador,7,-7,1883,1700,0,-1,15,44
+2023-11-21,Brazil,Argentina,0,1,World Cup qualifier,Brazil,-21,21,2011,2139,-2,1,6,1
+2023-11-23,Solomon Islands,Eastern Samoa,11,0,Pacific Games,the Solomon Islands,0,0,1301,446,0,0,140,240
+2023-11-23,Papua New Guinea,Vanuatu,1,1,Pacific Games,the Solomon Islands,-1,1,1135,1118,0,1,169,170
+2023-11-24,Tahiti,Northern Mariana Islands,5,0,Pacific Games,the Solomon Islands,1,-1,1152,403,0,0,164,242
+2023-11-24,New Caledonia,Cook Islands,8,0,Pacific Games,the Solomon Islands,5,-5,1205,686,1,-1,160,222
+2023-11-27,Tuvalu,Tonga,4,0,Pacific Games,the Solomon Islands,17,-17,745,496,0,0,214,238
+2023-11-27,Tahiti,Samoa,2,1,Pacific Games,the Solomon Islands,3,-3,1155,698,1,-3,163,219
+2023-11-27,Northern Mariana Islands,Eastern Samoa,4,0,Pacific Games,the Solomon Islands,42,-42,445,404,2,-2,240,242
+2023-11-28,Solomon Islands,Fiji,2,0,Pacific Games,the Solomon Islands,14,-14,1315,1179,6,0,134,162
+2023-11-28,New Caledonia,Vanuatu,1,0,Pacific Games,the Solomon Islands,15,-15,1220,1103,1,-2,159,172
+2023-11-30,Tuvalu,Northern Mariana Islands,4,1,Pacific Games,the Solomon Islands,11,-11,756,434,0,0,214,240
+2023-11-30,Tonga,Eastern Samoa,6,2,Pacific Games,the Solomon Islands,28,-28,524,376,0,-1,238,243
+2023-11-30,Tahiti,Papua New Guinea,2,0,Pacific Games,the Solomon Islands,28,-28,1183,1107,1,-1,162,170
+2023-12-01,Fiji,Vanuatu,4,2,Pacific Games,the Solomon Islands,24,-24,1203,1079,1,-3,162,175
+2023-12-02,Solomon Islands,New Caledonia,2,2,Pacific Games,the Solomon Islands,-10,10,1305,1230,-2,1,136,158
+2023-12-10,Colombia,Venezuela,1,0,Friendly,the United States,5,-5,1979,1756,0,-1,9,32
+2023-12-16,Colombia,Mexico,3,2,Friendly,the United States,5,-5,1984,1794,0,-1,9,25
+2023-12-25,Uzbekistan,Kyrgyzstan,4,1,Friendly,the United Arab Emirates,3,-3,1643,1254,2,-2,50,154
+2023-12-27,Zanzibar,Tanzania,0,0,Friendly,Zanzibar,-2,2,1321,1349,-1,1,131,118
+2023-12-28,Lebanon,Jordan,2,1,Friendly,Lebanon,13,-13,1313,1503,7,-1,134,76
+2023-12-29,Oman,China,2,0,Friendly,the United Arab Emirates,12,-12,1556,1452,2,-2,67,93
+2023-12-30,United Arab Emirates,Kyrgyzstan,1,0,Friendly,the United Arab Emirates,2,-2,1530,1252,0,0,72,154
+2023-12-31,Qatar,Cambodia,3,0,Friendly,Qatar,0,0,1534,848,0,0,70,205
