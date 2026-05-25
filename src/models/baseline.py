@@ -5,24 +5,111 @@ import pandas as pd
 
 
 class ConstantScoreBaseline:
-    def __init__(self, home_goals: float | None = None, away_goals: float | None = None) -> None:
-        self.home_goals = home_goals
-        self.away_goals = away_goals
+    """
+    Predicts constant expected goals for all matches.
+    
+    Useful as lowest-skill baseline. If your model can't beat this, it's broken.
+    """
+    def __init__(self, goals_a: float | None = None, goals_b: float | None = None) -> None:
+        self.goals_a = goals_a
+        self.goals_b = goals_b
 
     def fit(self, X, y):
+        """Learn average goals from training data."""
         y_arr = _coerce_goal_array(y)
-        if self.home_goals is None:
-            self.home_goals = float(np.mean(y_arr[:, 0]))
-        if self.away_goals is None:
-            self.away_goals = float(np.mean(y_arr[:, 1]))
+        if self.goals_a is None:
+            self.goals_a = float(np.mean(y_arr[:, 0]))
+        if self.goals_b is None:
+            self.goals_b = float(np.mean(y_arr[:, 1]))
         return self
 
     def predict(self, X):
+        """Predict constant goals for any number of matches."""
         n_rows = len(X) if hasattr(X, "__len__") else 1
-        return np.tile([self.home_goals, self.away_goals], (n_rows, 1))
+        return np.tile([self.goals_a, self.goals_b], (n_rows, 1))
+
+
+class AverageGoalsBaseline:
+    """
+    Predicts average goals per match (fitted each time).
+    
+    Quick sanity check baseline.
+    """
+    def __init__(self) -> None:
+        self.avg_goals_a = 1.2
+        self.avg_goals_b = 1.0
+
+    def fit(self, X, y):
+        """Learn average goals from training data."""
+        y_arr = _coerce_goal_array(y)
+        self.avg_goals_a = float(np.mean(y_arr[:, 0]))
+        self.avg_goals_b = float(np.mean(y_arr[:, 1]))
+        return self
+
+    def predict(self, X):
+        """Predict average goals for any match."""
+        n_rows = len(X) if hasattr(X, "__len__") else 1
+        return np.tile([self.avg_goals_a, self.avg_goals_b], (n_rows, 1))
+
+class EloHeuristicBaseline:
+    """
+    Predicts goals based on Elo rating difference and recent form.
+    
+    Formula:
+        goals_A = avg_A + scale * tanh(elo_diff / 400)
+        goals_B = avg_B - scale * tanh(elo_diff / 400)
+    
+    Key features:
+    - Uses continuous Elo ratings (no team memorization)
+    - tanh() keeps predictions bounded
+    - Elo difference is the PRIMARY dependency mechanism:
+      When A is much stronger than B, A scores more AND B scores less (natural coupling)
+    """
+    def __init__(self, scale: float = 0.35) -> None:
+        self.scale = scale
+        self.avg_goals_a = 1.2
+        self.avg_goals_b = 1.0
+
+    def fit(self, X, y):
+        """Learn average goals from training data."""
+        y_arr = _coerce_goal_array(y)
+        self.avg_goals_a = float(np.mean(y_arr[:, 0]))
+        self.avg_goals_b = float(np.mean(y_arr[:, 1]))
+        return self
+
+    def predict(self, X):
+        """
+        Predict goals using Elo difference.
+        
+        Dependency mechanism: elo_diff couples A's and B's predictions.
+        """
+        if not isinstance(X, pd.DataFrame):
+            n_rows = len(X) if hasattr(X, "__len__") else 1
+            return np.tile([self.avg_goals_a, self.avg_goals_b], (n_rows, 1))
+
+        # Extract Elo difference (primary feature for this baseline)
+        if "elo_diff" in X.columns:
+            diff = X["elo_diff"].to_numpy(dtype=float)
+        elif {"rating_A_before", "rating_B_before"}.issubset(X.columns):
+            diff = (X["rating_A_before"] - X["rating_B_before"]).to_numpy(dtype=float)
+        else:
+            # Fallback: no Elo difference available
+            diff = np.zeros(len(X), dtype=float)
+
+        # Tanh transformation: maps [-inf, inf] to [-1, 1]
+        # Divide by 400 because Elo convention: 400-point gap ≈ 92% win probability
+        shift = np.tanh(diff / 400.0) * self.scale
+        goals_a = np.clip(self.avg_goals_a + shift, 0.1, None)
+        goals_b = np.clip(self.avg_goals_b - shift, 0.1, None)
+        return np.column_stack([goals_a, goals_b])
 
 
 class EloBaseline:
+    """
+    Legacy Elo-based model (for reference, not recommended for feature-based prediction).
+    
+    Updates ratings dynamically during training (only works with match DataFrames).
+    """
     def __init__(self, k_factor: float = 20.0, base_rating: float = 1500.0, home_advantage: float = 50.0) -> None:
         self.k_factor = k_factor
         self.base_rating = base_rating
@@ -35,18 +122,18 @@ class EloBaseline:
         if not isinstance(matches_df, pd.DataFrame):
             raise ValueError("EloBaseline.fit expects a pandas DataFrame of matches.")
 
-        self.avg_home_goals = float(matches_df["home_goals"].mean())
-        self.avg_away_goals = float(matches_df["away_goals"].mean())
+        self.avg_home_goals = float(matches_df["goals_A"].mean())
+        self.avg_away_goals = float(matches_df["goals_B"].mean())
 
         if "date" in matches_df.columns:
             matches_df = matches_df.sort_values("date")
 
         for _, row in matches_df.iterrows():
             self._update_ratings(
-                row["home_team"],
-                row["away_team"],
-                int(row["home_goals"]),
-                int(row["away_goals"]),
+                row["team_A"],
+                row["team_B"],
+                int(row["goals_A"]),
+                int(row["goals_B"]),
             )
         return self
 
@@ -56,8 +143,8 @@ class EloBaseline:
 
         preds = []
         for _, row in matches_df.iterrows():
-            home_team = row["home_team"]
-            away_team = row["away_team"]
+            home_team = row["team_A"]
+            away_team = row["team_B"]
             home_rating = self._rating(home_team) + self.home_advantage
             away_rating = self._rating(away_team)
             p_home = self._expected_score(home_rating, away_rating)
@@ -96,6 +183,8 @@ class EloBaseline:
 
 def _coerce_goal_array(y) -> np.ndarray:
     if isinstance(y, pd.DataFrame):
+        if {"goals_A", "goals_B"}.issubset(y.columns):
+            return y[["goals_A", "goals_B"]].to_numpy()
         if {"home_goals", "away_goals"}.issubset(y.columns):
             return y[["home_goals", "away_goals"]].to_numpy()
         return y.iloc[:, :2].to_numpy()
