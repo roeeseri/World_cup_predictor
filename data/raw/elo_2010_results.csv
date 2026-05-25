@@ -1,0 +1,882 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2010-01-02,Iran,North Korea,1,0,Friendship Cup,Qatar,11,-11,1645,1540,1,-6,49,79
+2010-01-02,Qatar,Mali,0,0,Friendship Cup,Qatar,-3,3,1528,1570,0,2,82,68
+2010-01-02,Syria,Zimbabwe,6,0,Friendly,Malaysia,10,-10,1554,1328,4,-1,73,123
+2010-01-02,Yemen,Tajikistan,0,1,Friendly,Yemen,-11,11,1212,1289,-1,1,152,134
+2010-01-03,Angola,Gambia,1,1,Friendly,Portugal,-2,2,1444,1393,-2,0,101,113
+2010-01-03,Gabon,Mozambique,1,0,Friendly,South Africa,7,-7,1542,1416,2,-3,79,108
+2010-01-04,Egypt,Mali,1,0,Friendly,the United Arab Emirates,7,-7,1703,1563,1,-2,40,70
+2010-01-04,Tanzania,Ivory Coast,0,1,Friendly,Tanzania,-3,3,1339,1763,-1,0,121,28
+2010-01-05,Ghana,Malawi,0,0,Friendly,Swaziland,-7,7,1679,1363,-2,2,44,117
+2010-01-06,Bahrain,Hong Kong,4,0,Asian Cup qualifier,Bahrain,4,-4,1615,1223,0,-2,54,150
+2010-01-06,Benin,Libya,1,0,Friendly,Benin,9,-9,1462,1514,2,-2,95,85
+2010-01-06,China,Syria,0,0,Asian Cup qualifier,China,-5,5,1540,1559,-3,1,79,72
+2010-01-06,Gabon,Mozambique,2,0,Friendly,South Africa,10,-10,1552,1406,5,-1,74,109
+2010-01-06,Indonesia,Oman,1,2,Asian Cup qualifier,Indonesia,-8,8,1258,1605,-1,2,138,57
+2010-01-06,Kuwait,Australia,2,2,Asian Cup qualifier,Kuwait,11,-11,1482,1777,3,-4,89,23
+2010-01-06,Lebanon,Vietnam,1,1,Asian Cup qualifier,Lebanon,2,-2,1228,1360,1,-1,148,119
+2010-01-06,Nigeria,Zambia,0,0,Friendly,South Africa,-6,6,1741,1499,-3,0,36,87
+2010-01-06,Singapore,Iran,1,3,Asian Cup qualifier,Singapore,-18,18,1381,1663,-3,1,114,48
+2010-01-06,Thailand,Jordan,0,0,Asian Cup qualifier,Thailand,-6,6,1470,1469,-3,1,92,93
+2010-01-06,United Arab Emirates,Malaysia,1,0,Asian Cup qualifier,the United Arab Emirates,5,-5,1401,1168,1,-1,111,163
+2010-01-06,Yemen,Japan,2,3,Asian Cup qualifier,Yemen,-2,2,1210,1790,-1,0,153,19
+2010-01-07,Ivory Coast,Rwanda,2,0,Friendly,Tanzania,3,-3,1766,1399,0,-1,28,111
+2010-01-09,Kenya,Cameroon,1,3,Friendly,Kenya,-4,4,1331,1776,0,1,122,24
+2010-01-09,Tunisia,Gambia,1,2,Friendly,Tunisia,-17,17,1605,1410,-4,3,56,109
+2010-01-09,Zambia,South Korea,4,2,Friendly,South Africa,24,-24,1523,1725,4,-4,83,36
+2010-01-10,Angola,Mali,4,4,African Nations Cup,Angola,1,-1,1445,1562,0,-1,101,71
+2010-01-11,Burkina Faso,Ivory Coast,0,0,African Nations Cup,Angola,17,-17,1492,1749,2,-3,88,31
+2010-01-11,Malawi,Algeria,3,0,African Nations Cup,Angola,68,-68,1431,1512,13,-23,104,87
+2010-01-12,Benin,Mozambique,2,2,African Nations Cup,Angola,-4,4,1458,1410,-1,1,96,110
+2010-01-12,Egypt,Nigeria,3,1,African Nations Cup,Angola,42,-42,1745,1699,6,-6,34,41
+2010-01-13,Gabon,Cameroon,1,0,African Nations Cup,Angola,39,-39,1591,1737,13,-11,60,35
+2010-01-13,Tunisia,Zambia,1,1,African Nations Cup,Angola,-6,6,1599,1529,-3,1,59,81
+2010-01-14,Algeria,Mali,1,0,African Nations Cup,Angola,29,-29,1541,1533,10,-10,77,81
+2010-01-14,Angola,Malawi,2,0,African Nations Cup,Angola,26,-26,1471,1405,9,-7,92,111
+2010-01-15,Ivory Coast,Ghana,3,1,African Nations Cup,Angola,30,-30,1779,1649,7,-5,23,49
+2010-01-15,Yemen,Kenya,3,1,Friendly,Yemen,16,-16,1226,1315,4,-5,149,127
+2010-01-16,Egypt,Mozambique,2,0,African Nations Cup,Angola,10,-10,1755,1400,3,-3,30,112
+2010-01-16,Nigeria,Benin,1,0,African Nations Cup,Angola,10,-10,1709,1448,1,-2,40,99
+2010-01-16,Taiwan,Philippines,0,0,Inter-Port Friendship Cup,Taiwan,-8,8,928,834,-1,0,193,205
+2010-01-17,Cameroon,Zambia,3,2,African Nations Cup,Angola,12,-12,1749,1517,3,-3,32,85
+2010-01-17,Gabon,Tunisia,0,0,African Nations Cup,Angola,1,-1,1592,1598,0,0,60,59
+2010-01-17,Thailand,Singapore,1,0,King's Cup,Thailand,8,-8,1478,1373,2,-1,91,116
+2010-01-17,Vietnam,China,1,2,Asian Cup qualifier,Vietnam,-15,15,1345,1555,0,5,119,73
+2010-01-18,Angola,Algeria,0,0,African Nations Cup,Angola,-2,2,1469,1543,0,-1,93,79
+2010-01-18,Mali,Malawi,3,1,African Nations Cup,Angola,24,-24,1557,1381,9,-4,72,114
+2010-01-18,South Korea,Finland,2,0,Friendly,Spain,13,-13,1738,1667,0,-2,36,45
+2010-01-19,Ghana,Burkina Faso,1,0,African Nations Cup,Angola,14,-14,1663,1478,2,-2,47,90
+2010-01-20,Chile,Panama,2,1,Friendly,Chile,2,-2,1883,1548,0,0,11,75
+2010-01-20,Egypt,Benin,2,0,African Nations Cup,Angola,11,-11,1766,1437,2,-3,28,102
+2010-01-20,Nigeria,Mozambique,3,0,African Nations Cup,Angola,13,-13,1722,1387,3,-2,37,113
+2010-01-20,Oman,Sweden,0,1,Friendly,Oman,-8,8,1597,1779,-2,3,58,23
+2010-01-20,Thailand,Poland,1,3,King's Cup,Thailand,-19,19,1459,1651,-6,1,96,50
+2010-01-20,Yemen,Bahrain,3,0,Asian Cup qualifier,Yemen,59,-59,1285,1556,14,-20,135,73
+2010-01-21,Cameroon,Tunisia,2,2,African Nations Cup,Angola,-10,10,1739,1608,-3,3,35,54
+2010-01-21,Zambia,Gabon,2,1,African Nations Cup,Angola,30,-30,1547,1562,9,-10,76,69
+2010-01-22,South Korea,Latvia,1,0,Friendly,Spain,5,-5,1743,1564,1,-1,35,67
+2010-01-23,Poland,Singapore,6,1,King's Cup,Thailand,10,-10,1661,1363,1,-1,49,117
+2010-01-23,South Africa,Swaziland,6,2,Friendly,South Africa,3,-3,1522,1167,0,-2,85,164
+2010-01-23,Syria,Sweden,1,1,Friendly,Syria,3,-3,1562,1776,1,-2,69,25
+2010-01-23,United States,Honduras,1,3,Friendly,the United States,-21,21,1781,1766,-5,6,22,28
+2010-01-24,Algeria,Ivory Coast,3,2,African Nations Cup,Angola,40,-40,1583,1739,17,-12,63,35
+2010-01-24,Angola,Ghana,0,1,African Nations Cup,Angola,-18,18,1451,1681,-5,5,97,42
+2010-01-25,Egypt,Cameroon,3,1,African Nations Cup,Angola,35,-35,1801,1704,10,-5,17,40
+2010-01-25,Nigeria,Zambia,0,0,African Nations Cup,Angola,-12,12,1710,1559,-2,5,39,72
+2010-01-26,Argentina,Costa Rica,3,2,Friendly,Argentina,3,-3,1900,1699,0,0,7,41
+2010-01-27,South Africa,Zimbabwe,3,0,Friendly,South Africa,5,-5,1527,1323,1,0,84,122
+2010-01-28,Egypt,Algeria,4,0,African Nations Cup,Angola,21,-21,1822,1562,2,-6,15,69
+2010-01-28,Ghana,Nigeria,1,0,African Nations Cup,Angola,27,-27,1708,1683,3,-3,39,42
+2010-01-30,Nigeria,Algeria,1,0,African Nations Cup,Angola,17,-17,1700,1545,1,-9,41,78
+2010-01-31,Egypt,Ghana,1,0,African Nations Cup,Angola,17,-17,1839,1691,1,-3,14,42
+2010-01-31,Jamaica,Canada,1,0,Friendly,Jamaica,7,-7,1627,1599,0,-2,52,57
+2010-02-02,Japan,Venezuela,0,0,Friendly,Japan,-5,5,1785,1725,0,1,19,36
+2010-02-06,Japan,China,0,0,East Asian Championship,Japan,-15,15,1770,1570,-7,9,26,66
+2010-02-07,South Korea,Hong Kong,5,0,East Asian Championship,Japan,4,-4,1747,1219,2,0,32,151
+2010-02-10,Argentina,Jamaica,2,1,Buenos Aires Province Lottery Cup,Argentina,3,-3,1903,1624,0,0,7,52
+2010-02-10,China,South Korea,3,0,East Asian Championship,Japan,51,-51,1621,1696,13,-9,53,41
+2010-02-11,Japan,Hong Kong,3,0,East Asian Championship,Japan,2,-2,1772,1217,0,-1,26,152
+2010-02-14,China,Hong Kong,2,0,East Asian Championship,Japan,5,-5,1626,1212,1,0,52,152
+2010-02-14,Japan,South Korea,1,3,East Asian Championship,Japan,-44,44,1728,1740,-9,8,35,33
+2010-02-16,Bangladesh,Tajikistan,2,1,Asian Cup qual & Asian Challenge Cup,Sri Lanka,35,-35,969,1254,2,-6,190,140
+2010-02-16,Sri Lanka,Myanmar,0,4,Asian Cup qual & Asian Challenge Cup,Sri Lanka,-22,22,922,1214,-4,6,195,152
+2010-02-17,Kosovo,Albania,2,3,Friendly,Kosovo,-10,10,1380,1497,-2,0,114,88
+2010-02-17,Kyrgyzstan,India,2,1,Asian Cup qual & Asian Challenge Cup,Sri Lanka,22,-22,1185,1184,7,-3,158,160
+2010-02-17,North Korea,Turkmenistan,1,1,Asian Cup qual & Asian Challenge Cup,Sri Lanka,-12,12,1528,1317,-1,6,82,125
+2010-02-18,Myanmar,Bangladesh,2,1,Asian Cup qual & Asian Challenge Cup,Sri Lanka,8,-8,1222,961,1,-1,151,191
+2010-02-18,Sri Lanka,Tajikistan,1,3,Asian Cup qual & Asian Challenge Cup,Sri Lanka,-12,12,910,1266,-2,3,197,137
+2010-02-19,Kuwait,Syria,1,1,Friendly,the United Arab Emirates,2,-2,1484,1560,0,-1,89,71
+2010-02-19,North Korea,Kyrgyzstan,4,0,Asian Cup qual & Asian Challenge Cup,Sri Lanka,9,-9,1537,1176,0,-2,82,160
+2010-02-19,Turkmenistan,India,1,0,Asian Cup qual & Asian Challenge Cup,Sri Lanka,13,-13,1330,1171,3,-2,122,162
+2010-02-20,Sri Lanka,Bangladesh,3,0,Asian Cup qual & Asian Challenge Cup,Sri Lanka,30,-30,940,931,6,-1,191,192
+2010-02-20,Tajikistan,Myanmar,3,0,Asian Cup qual & Asian Challenge Cup,Sri Lanka,31,-31,1297,1191,5,-6,132,157
+2010-02-21,North Korea,India,3,0,Asian Cup qual & Asian Challenge Cup,Sri Lanka,8,-8,1545,1163,4,-3,78,165
+2010-02-21,Turkmenistan,Kyrgyzstan,1,0,Asian Cup qual & Asian Challenge Cup,Sri Lanka,12,-12,1342,1164,2,-4,120,164
+2010-02-24,Mexico,Bolivia,5,0,Friendly,the United States,6,-6,1896,1595,0,-2,8,59
+2010-02-24,North Korea,Myanmar,5,0,Asian Cup qual & Asian Challenge Cup,Sri Lanka,9,-9,1554,1182,2,-1,76,158
+2010-02-24,Turkmenistan,Tajikistan,2,0,Asian Cup qual & Asian Challenge Cup,Sri Lanka,26,-26,1368,1271,3,-4,117,136
+2010-02-24,United States,El Salvador,2,1,Friendly,the United States,2,-2,1783,1511,2,0,20,87
+2010-02-25,Jordan,Azerbaijan,0,2,Friendly,Jordan,-21,21,1448,1441,-6,5,98,102
+2010-02-25,Kuwait,Bahrain,4,1,Friendly,the United Arab Emirates,21,-21,1505,1535,1,-7,88,82
+2010-02-27,Malaysia,Yemen,1,0,Friendly,Malaysia,10,-10,1178,1275,3,-2,158,136
+2010-02-27,North Korea,Turkmenistan,1,1,Asian Cup qual & Asian Challenge Cup,Sri Lanka,-10,10,1544,1378,-3,1,78,116
+2010-02-27,Tajikistan,Myanmar,1,0,Asian Cup qual & Asian Challenge Cup,Sri Lanka,15,-15,1286,1167,2,-4,134,162
+2010-02-28,Curaçao,Bonaire,4,0,Friendly,Curaçao,13,-13,1136,1090,3,-1,172,177
+2010-03-02,Brazil,Ireland,2,0,Friendly,England,4,-4,2107,1763,0,-1,1,27
+2010-03-02,Guadeloupe,Saint Kitts and Nevis,2,1,Friendly,Guadeloupe,2,-2,1468,1135,0,-1,92,172
+2010-03-03,Albania,Northern Ireland,1,0,Friendly,Albania,9,-9,1506,1567,1,-3,88,68
+2010-03-03,Algeria,Serbia,0,3,Friendly,Algeria,-9,9,1536,1841,-3,1,80,14
+2010-03-03,Angola,Latvia,1,1,Friendly,Angola,0,0,1451,1564,-2,-3,98,71
+2010-03-03,Australia,Indonesia,1,0,Asian Cup qualifier,Australia,1,-1,1778,1257,1,-1,22,140
+2010-03-03,Austria,Denmark,2,1,Friendly,Austria,13,-13,1600,1798,4,0,56,17
+2010-03-03,Belarus,Armenia,3,1,Friendly,Turkey,7,-7,1587,1373,4,0,60,114
+2010-03-03,Belgium,Croatia,0,1,Friendly,Belgium,-5,5,1581,1893,-3,1,65,9
+2010-03-03,Bosnia and Herzegovina,Ghana,2,1,Friendly,Bosnia and Herzegovina,9,-9,1651,1682,1,0,50,42
+2010-03-03,Cameroon,Italy,0,0,Friendly,Monaco,6,-6,1710,1950,1,1,38,5
+2010-03-03,Cyprus,Iceland,0,0,Friendly,Cyprus,-6,6,1557,1452,-5,2,74,97
+2010-03-03,England,Egypt,3,1,Friendly,England,6,-6,1991,1833,0,-1,4,15
+2010-03-03,France,Spain,0,2,Friendly,France,-11,11,1879,2105,-2,0,11,2
+2010-03-03,Georgia,Estonia,2,1,Friendly,Georgia,8,-8,1442,1442,2,-5,102,102
+2010-03-03,Germany,Argentina,0,1,Friendly,Germany,-14,14,1947,1917,-1,0,6,7
+2010-03-03,Greece,Senegal,0,2,Friendly,Greece,-26,26,1756,1570,-6,12,28,66
+2010-03-03,Guatemala,El Salvador,2,1,Friendly,the United States,13,-13,1435,1498,2,-2,105,89
+2010-03-03,Hong Kong,Yemen,0,0,Asian Cup qualifier,Hong Kong,-2,2,1210,1277,-1,0,153,136
+2010-03-03,Hungary,Russia,1,1,Friendly,Hungary,4,-4,1615,1847,0,0,54,13
+2010-03-03,Iran,Thailand,1,0,Asian Cup qualifier,Iran,6,-6,1669,1453,1,-2,47,96
+2010-03-03,Japan,Bahrain,2,0,Asian Cup qualifier,Japan,9,-9,1737,1526,1,1,34,81
+2010-03-03,Jordan,Singapore,2,1,Asian Cup qualifier,Jordan,10,-10,1458,1353,4,-1,94,119
+2010-03-03,Libya,Mali,2,1,Friendly,Libya,8,-8,1522,1549,4,-4,82,77
+2010-03-03,Luxembourg,Azerbaijan,1,2,Friendly,Luxembourg,-4,4,1099,1445,0,1,176,101
+2010-03-03,Macedonia,Montenegro,2,1,Friendly,Macedonia,9,-9,1585,1649,2,-1,63,51
+2010-03-03,Malta,Finland,1,2,Friendly,Malta,-2,2,1216,1669,0,-1,151,47
+2010-03-03,Mexico,New Zealand,2,0,Friendly,the United States,3,-3,1899,1520,0,1,8,84
+2010-03-03,Moldova,Kazakhstan,1,0,Friendly,Turkey,7,-7,1449,1335,2,0,99,121
+2010-03-03,Mozambique,Botswana,0,1,Friendly,Mozambique,-15,15,1372,1306,-4,2,116,131
+2010-03-03,Netherlands,United States,2,1,Friendly,the Netherlands,2,-2,2033,1781,0,-1,3,21
+2010-03-03,Nigeria,DR Congo,5,2,Friendly,Nigeria,4,-4,1704,1419,0,-2,40,108
+2010-03-03,Oman,Kuwait,0,0,Asian Cup qualifier,Oman,-10,10,1587,1515,-2,2,60,86
+2010-03-03,Poland,Bulgaria,2,0,Friendly,Poland,15,-15,1676,1739,3,-2,46,32
+2010-03-03,Portugal,China,2,0,Friendly,Portugal,4,-4,1878,1622,0,-1,12,53
+2010-03-03,Romania,Israel,0,2,Friendly,Romania,-21,21,1752,1739,-6,6,31,32
+2010-03-03,Scotland,Czechia,1,0,Friendly,Scotland,9,-9,1679,1737,0,-2,45,34
+2010-03-03,Slovakia,Norway,0,1,Friendly,Slovakia,-10,10,1654,1757,-2,4,49,27
+2010-03-03,Slovenia,Qatar,4,1,Friendly,Slovenia,7,-7,1680,1521,0,0,44,83
+2010-03-03,South Africa,Namibia,1,1,Friendly,South Africa,-7,7,1520,1324,0,2,84,124
+2010-03-03,South Korea,Ivory Coast,2,0,Friendly,England,15,-15,1755,1724,3,-2,30,36
+2010-03-03,Switzerland,Uruguay,1,3,Friendly,Switzerland,-18,18,1774,1832,-5,0,23,16
+2010-03-03,Syria,Lebanon,4,0,Asian Cup qualifier,Syria,6,-6,1566,1222,2,-1,69,150
+2010-03-03,Tanzania,Uganda,2,3,Friendly,Tanzania,-7,7,1332,1551,0,2,122,76
+2010-03-03,Turkey,Honduras,2,0,Friendly,Turkey,10,-10,1794,1756,1,-2,18,28
+2010-03-03,Uzbekistan,United Arab Emirates,0,1,Asian Cup qualifier,Uzbekistan,-32,32,1514,1433,-11,4,87,106
+2010-03-03,Venezuela,Panama,1,2,Friendly,Venezuela,-17,17,1708,1565,-3,5,39,70
+2010-03-03,Wales,Sweden,0,1,Friendly,Wales,-8,8,1597,1784,-2,5,58,19
+2010-03-03,Zimbabwe,Malawi,2,1,Friendly,Zimbabwe,9,-9,1332,1372,1,-3,122,116
+2010-03-04,Venezuela,North Korea,1,1,Friendly,Venezuela,-6,6,1702,1550,-1,1,40,77
+2010-03-06,Sierra Leone,Guinea,1,0,Friendly,Sierra Leone,14,-14,1257,1458,2,-2,140,93
+2010-03-06,Venezuela,North Korea,2,1,Friendly,Venezuela,4,-4,1706,1546,1,-1,39,78
+2010-03-07,Niger,Benin,2,0,Friendly,Niger,19,-19,1258,1418,3,-4,140,108
+2010-03-07,Sierra Leone,Guinea,0,0,Friendly,Sierra Leone,3,-3,1260,1455,1,-1,139,94
+2010-03-17,Mexico,North Korea,2,1,Friendly,Mexico,1,-1,1900,1545,0,0,8,78
+2010-03-21,Iceland,Faroe Islands,2,0,Friendly,Iceland,4,-4,1456,1208,3,-3,94,155
+2010-03-21,Namibia,Botswana,0,0,Friendly,Namibia,-3,3,1321,1309,0,1,124,130
+2010-03-24,Iceland,Mexico,0,0,Friendly,the United States,9,-9,1465,1891,2,-1,92,9
+2010-03-24,Martinique,Haiti,0,0,Friendly,Martinique,-1,1,1372,1430,-1,0,115,106
+2010-03-27,Saba,Sint Eustatius,2,1,Friendly,Saba,10,-10,682,746,0,0,219,211
+2010-03-28,Saba,Sint Eustatius,1,2,Friendly,Saba,-11,11,671,757,0,0,219,211
+2010-03-28,Saba,Sint Eustatius,2,2,Friendly,Saba,0,0,671,757,0,0,219,211
+2010-03-31,Chile,Venezuela,0,0,Friendly,Chile,-7,7,1876,1713,-2,1,12,38
+2010-03-31,Paraguay,South Africa,1,1,Friendly,Paraguay,-8,8,1752,1528,-5,3,30,81
+2010-04-03,Saint Kitts and Nevis,Guadeloupe,3,0,Friendly,Saint Kitts and Nevis,28,-28,1163,1440,7,-12,165,103
+2010-04-07,Japan,Serbia,0,3,Friendly,Japan,-17,17,1720,1858,-3,1,37,13
+2010-04-21,Honduras,Venezuela,0,1,Friendly,Honduras,-14,14,1742,1727,-4,3,31,35
+2010-04-22,North Korea,South Africa,0,0,Friendly,Germany,0,0,1545,1528,0,0,78,81
+2010-04-28,South Africa,Jamaica,2,0,Friendly,Germany,19,-19,1547,1605,3,-3,78,55
+2010-05-05,Argentina,Haiti,4,0,Friendly,Argentina,1,-1,1918,1429,0,0,7,106
+2010-05-05,Chile,Trinidad and Tobago,2,0,Friendly,Chile,2,-2,1878,1536,1,0,11,80
+2010-05-07,Ecuador,Mexico,0,0,Friendly,the United States,5,-5,1727,1886,2,0,35,9
+2010-05-10,Mexico,Senegal,1,0,Friendly,the United States,3,-3,1889,1567,0,-1,9,67
+2010-05-12,Yemen,Malawi,1,0,Friendly,Yemen,10,-10,1287,1362,2,-2,134,117
+2010-05-13,Germany,Malta,3,0,Friendly,Germany,0,0,1947,1216,0,0,6,151
+2010-05-13,Mexico,Angola,1,0,Friendly,the United States,1,-1,1890,1450,0,0,9,97
+2010-05-15,Paraguay,North Korea,1,0,Friendly,Switzerland,5,-5,1757,1540,3,0,26,79
+2010-05-16,Mexico,Chile,1,0,Friendly,Mexico,7,-7,1897,1871,1,-1,8,12
+2010-05-16,South Africa,Thailand,4,0,Friendly,South Africa,9,-9,1556,1444,2,-4,76,100
+2010-05-16,South Korea,Ecuador,2,0,Friendly,South Korea,10,-10,1765,1717,5,-3,24,38
+2010-05-18,Yemen,Oman,0,1,Unity Cup,Yemen,-7,7,1280,1594,-1,0,135,60
+2010-05-19,Austria,Croatia,0,1,Friendly,Austria,-5,5,1595,1898,-2,1,58,8
+2010-05-19,Belgium,Bulgaria,2,1,Friendly,Belgium,12,-12,1593,1727,4,-2,61,34
+2010-05-19,Gabon,Togo,3,0,Corsica Cup,France,19,-19,1581,1442,6,-8,66,100
+2010-05-20,Aruba,Venezuela,0,3,Friendly,Aruba,-1,1,904,1728,0,0,198,34
+2010-05-20,Yemen,Burkina Faso,2,2,Unity Cup,Yemen,4,-4,1284,1474,0,0,135,90
+2010-05-21,Estonia,Finland,2,0,Friendly,Estonia,20,-20,1462,1649,8,-3,92,50
+2010-05-21,Saudi Arabia,DR Congo,2,0,Friendly,Austria,5,-5,1686,1414,1,-2,42,109
+2010-05-22,Oman,Burkina Faso,2,0,Unity Cup,Yemen,15,-15,1609,1459,6,-2,54,92
+2010-05-22,Turkey,Czechia,2,1,Friendly,the United States,8,-8,1802,1729,1,0,17,33
+2010-05-23,Croatia,Wales,2,0,Friendly,Croatia,3,-3,1901,1594,0,-2,8,60
+2010-05-24,Argentina,Canada,5,0,Friendly,Argentina,3,-3,1921,1596,0,0,7,57
+2010-05-24,Australia,New Zealand,2,1,Friendly,Australia,2,-2,1780,1518,-1,0,23,85
+2010-05-24,England,Mexico,3,1,Friendly,England,7,-7,1998,1890,0,0,4,9
+2010-05-24,Japan,South Korea,0,2,Friendly,Japan,-17,17,1703,1782,-3,3,40,21
+2010-05-24,Portugal,Cape Verde,0,0,Friendly,Portugal,-9,9,1869,1370,-1,1,12,117
+2010-05-24,South Africa,Bulgaria,1,1,Friendly,South Africa,2,-2,1558,1725,2,0,74,35
+2010-05-25,Armenia,Uzbekistan,3,1,Friendly,Armenia,17,-17,1390,1497,2,-2,112,89
+2010-05-25,Cameroon,Georgia,0,0,Friendly,Austria,-6,6,1704,1448,0,3,38,98
+2010-05-25,Greece,North Korea,2,2,Friendly,Austria,-6,6,1750,1546,0,0,29,79
+2010-05-25,Ireland,Paraguay,2,1,Friendly,Ireland,7,-7,1770,1750,1,-2,24,29
+2010-05-25,Montenegro,Albania,0,1,Friendly,Montenegro,-16,16,1633,1522,-1,5,51,83
+2010-05-25,Nigeria,Saudi Arabia,0,0,Friendly,Austria,-1,1,1703,1687,0,0,39,42
+2010-05-25,Ukraine,Lithuania,4,0,Friendly,Ukraine,6,-6,1789,1578,1,-1,19,66
+2010-05-25,United States,Czechia,2,4,Friendly,the United States,-21,21,1760,1750,-3,4,25,29
+2010-05-26,Azerbaijan,Moldova,1,1,Friendly,Austria,0,0,1445,1449,0,0,100,97
+2010-05-26,Chile,Zambia,3,0,Friendly,Chile,3,-3,1874,1556,0,-3,11,76
+2010-05-26,Estonia,Croatia,0,0,Friendly,Estonia,8,-8,1470,1893,1,0,90,8
+2010-05-26,France,Costa Rica,2,1,Friendly,France,3,-3,1882,1696,0,0,10,41
+2010-05-26,Netherlands,Mexico,2,1,Friendly,Germany,6,-6,2039,1884,0,0,3,9
+2010-05-26,Turkey,Northern Ireland,2,0,Friendly,the United States,6,-6,1808,1561,0,-4,17,72
+2010-05-26,Uruguay,Israel,4,1,Republic Bank Cup,Uruguay,13,-13,1845,1726,1,-1,15,34
+2010-05-27,Belarus,Honduras,2,2,Friendly,Austria,4,-4,1591,1738,0,0,62,32
+2010-05-27,Denmark,Senegal,2,0,Friendly,Denmark,4,-4,1802,1563,0,-4,18,72
+2010-05-27,South Africa,Colombia,2,1,Friendly,South Africa,13,-13,1571,1746,6,-5,67,31
+2010-05-28,Ireland,Algeria,3,0,Friendly,Ireland,4,-4,1774,1532,1,-1,23,81
+2010-05-29,Cameroon,Slovakia,1,1,Friendly,Austria,-1,1,1703,1655,0,0,38,48
+2010-05-29,Hungary,Germany,0,3,Friendly,Hungary,-7,7,1608,1954,-1,1,54,5
+2010-05-29,Iceland,Andorra,4,0,Friendly,Iceland,2,-2,1467,1024,0,0,91,184
+2010-05-29,Macedonia,Azerbaijan,3,1,Friendly,Austria,9,-9,1594,1436,4,-4,60,104
+2010-05-29,New Zealand,Serbia,1,0,Friendly,Austria,18,-18,1536,1840,6,-2,80,15
+2010-05-29,Norway,Montenegro,2,1,Friendly,Norway,4,-4,1761,1629,0,0,26,51
+2010-05-29,Poland,Finland,0,0,Friendly,Poland,-4,4,1672,1653,0,1,46,49
+2010-05-29,Spain,Saudi Arabia,3,2,Friendly,Austria,2,-2,2107,1685,1,0,1,42
+2010-05-29,Sweden,Bosnia and Herzegovina,4,2,Friendly,Sweden,6,-6,1790,1645,0,-1,20,50
+2010-05-29,United Arab Emirates,Moldova,3,2,Friendly,Austria,10,-10,1443,1439,5,-6,100,103
+2010-05-29,Ukraine,Romania,3,2,Friendly,Ukraine,6,-6,1795,1746,0,-3,19,30
+2010-05-29,United States,Turkey,2,1,Friendly,the United States,9,-9,1769,1799,0,-1,25,18
+2010-05-29,Venezuela,Canada,1,1,Friendly,Venezuela,-6,6,1722,1602,-3,0,36,57
+2010-05-30,Belarus,South Korea,1,0,Friendly,Austria,15,-15,1606,1767,7,-4,56,25
+2010-05-30,Chile,Northern Ireland,1,0,Friendly,Chile,2,-2,1876,1559,1,0,10,73
+2010-05-30,Chile,Israel,3,0,Friendly,Chile,7,-7,1883,1719,1,-3,10,36
+2010-05-30,Colombia,Nigeria,1,1,Friendly,England,-1,1,1745,1704,-1,0,31,38
+2010-05-30,England,Japan,2,1,Friendly,Austria,3,-3,2001,1700,0,-2,4,40
+2010-05-30,Ivory Coast,Paraguay,2,2,Friendly,France,1,-1,1725,1749,2,-2,33,29
+2010-05-30,Mexico,Gambia,5,1,Friendly,Germany,2,-2,1886,1408,0,0,9,110
+2010-05-30,Tunisia,France,1,1,Friendly,Tunisia,5,-5,1613,1877,1,-1,53,11
+2010-05-31,Grenada,Martinique,2,2,Friendly,Grenada,1,-1,1252,1371,0,-1,143,116
+2010-05-31,South Africa,Guatemala,5,0,Friendly,South Africa,8,-8,1579,1427,1,-1,66,106
+2010-06-01,Australia,Denmark,1,0,Friendly,South Africa,11,-11,1791,1791,2,-2,19,19
+2010-06-01,Netherlands,Ghana,4,1,Friendly,the Netherlands,2,-2,2041,1680,0,0,3,43
+2010-06-01,Portugal,Cameroon,3,1,Friendly,Portugal,5,-5,1874,1698,0,-2,12,41
+2010-06-01,Switzerland,Costa Rica,0,1,Friendly,Switzerland,-15,15,1759,1711,-4,3,26,38
+2010-06-02,Albania,Andorra,1,0,Friendly,Albania,1,-1,1523,1023,0,0,84,184
+2010-06-02,Azerbaijan,Honduras,0,0,Friendly,Austria,7,-7,1443,1731,4,0,100,32
+2010-06-02,Belarus,Sweden,0,1,Friendly,Belarus,-8,8,1598,1798,-3,2,59,19
+2010-06-02,Macedonia,Romania,1,0,Friendly,Austria,14,-14,1608,1732,6,-1,55,31
+2010-06-02,Norway,Ukraine,0,1,Friendly,Norway,-12,12,1749,1807,-3,1,28,17
+2010-06-02,Paraguay,Greece,2,0,Friendly,Switzerland,15,-15,1764,1735,4,-3,25,30
+2010-06-02,Poland,Serbia,0,0,Friendly,Austria,4,-4,1676,1836,0,0,46,15
+2010-06-02,Zimbabwe,Brazil,0,3,Friendly,Zimbabwe,-1,1,1331,2108,-1,0,123,1
+2010-06-03,Germany,Bosnia and Herzegovina,3,1,Friendly,Germany,3,-3,1957,1642,0,0,5,50
+2010-06-03,Mexico,Italy,2,1,Friendly,Belgium,12,-12,1898,1938,1,0,8,6
+2010-06-03,Spain,South Korea,1,0,Friendly,Austria,2,-2,2109,1765,1,0,1,24
+2010-06-04,China,France,1,0,Friendly,Reunion,16,-16,1638,1861,1,-1,51,12
+2010-06-04,Ivory Coast,Japan,2,0,Friendly,Switzerland,14,-14,1739,1686,3,-1,30,41
+2010-06-04,Luxembourg,Faroe Islands,0,0,Friendly,Luxembourg,0,0,1099,1208,0,0,176,155
+2010-06-04,Slovenia,New Zealand,3,1,Friendly,Slovenia,6,-6,1686,1530,2,-2,41,82
+2010-06-04,Sudan,Palestine,1,1,Friendly,Sudan,-5,5,1312,1215,-1,0,128,152
+2010-06-05,Algeria,United Arab Emirates,1,0,Friendly,Germany,7,-7,1539,1436,1,-4,80,104
+2010-06-05,Ghana,Latvia,1,0,Friendly,England,7,-7,1687,1557,3,-2,41,73
+2010-06-05,Netherlands,Hungary,6,1,Friendly,the Netherlands,2,-2,2043,1606,0,-1,3,56
+2010-06-05,Romania,Honduras,3,0,Friendly,Austria,17,-17,1749,1714,4,-4,28,37
+2010-06-05,Serbia,Cameroon,4,3,Friendly,Serbia,4,-4,1840,1694,0,0,15,40
+2010-06-05,Slovakia,Costa Rica,3,0,Friendly,Slovakia,15,-15,1670,1696,1,-1,47,39
+2010-06-05,South Africa,Denmark,1,0,Friendly,South Africa,13,-13,1592,1778,2,-1,64,21
+2010-06-05,Switzerland,Italy,1,1,Friendly,Switzerland,2,-2,1761,1936,0,0,26,6
+2010-06-05,United States,Australia,3,1,Friendly,South Africa,16,-16,1785,1775,3,-2,20,22
+2010-06-06,Nigeria,North Korea,3,1,Friendly,South Africa,9,-9,1713,1537,0,-1,38,80
+2010-06-07,Tanzania,Brazil,1,5,Friendly,Tanzania,-1,1,1331,2109,0,1,122,1
+2010-06-08,Portugal,Mozambique,3,0,Friendly,South Africa,2,-2,1876,1370,0,-1,11,116
+2010-06-08,Spain,Poland,6,0,Friendly,Spain,2,-2,2111,1674,0,0,1,46
+2010-06-09,Chile,New Zealand,2,0,Friendly,South Africa,3,-3,1886,1527,0,0,10,82
+2010-06-10,Japan,Zimbabwe,0,0,Friendly,South Africa,-8,8,1678,1339,-3,1,45,121
+2010-06-11,France,Uruguay,0,0,World Cup,South Africa,-1,1,1860,1846,0,0,12,14
+2010-06-11,South Africa,Mexico,1,1,World Cup,South Africa,16,-16,1608,1882,9,-2,55,10
+2010-06-12,Argentina,Nigeria,1,0,World Cup,South Africa,14,-14,1935,1699,0,1,7,37
+2010-06-12,England,United States,1,1,World Cup,South Africa,-17,17,1984,1802,0,1,4,19
+2010-06-12,South Korea,Greece,2,0,World Cup,South Africa,41,-41,1806,1694,6,-7,18,39
+2010-06-13,Germany,Australia,4,0,World Cup,South Africa,29,-29,1986,1746,1,-6,4,29
+2010-06-13,Ghana,Serbia,1,0,World Cup,South Africa,42,-42,1729,1798,9,-5,32,20
+2010-06-13,Slovenia,Algeria,1,0,World Cup,South Africa,18,-18,1704,1521,4,-6,38,85
+2010-06-14,Italy,Paraguay,1,1,World Cup,South Africa,-14,14,1922,1778,-1,2,7,22
+2010-06-14,Japan,Cameroon,1,0,World Cup,South Africa,31,-31,1709,1663,7,-7,38,48
+2010-06-14,Netherlands,Denmark,2,0,World Cup,South Africa,16,-16,2059,1762,0,-2,3,24
+2010-06-15,Brazil,North Korea,2,1,World Cup,South Africa,2,-2,2111,1535,1,-2,1,81
+2010-06-15,Ivory Coast,Portugal,0,0,World Cup,South Africa,11,-11,1750,1865,5,0,26,11
+2010-06-15,New Zealand,Slovakia,1,1,World Cup,South Africa,12,-12,1539,1658,2,-2,79,48
+2010-06-16,Chile,Honduras,1,0,World Cup,South Africa,16,-16,1902,1698,1,-3,8,40
+2010-06-16,South Africa,Uruguay,0,3,World Cup,South Africa,-33,33,1575,1879,-12,3,67,11
+2010-06-16,Switzerland,Spain,1,0,World Cup,South Africa,53,-53,1814,2058,9,-2,16,3
+2010-06-17,Argentina,South Korea,4,1,World Cup,South Africa,34,-34,1969,1772,0,-6,6,24
+2010-06-17,Greece,Nigeria,2,1,World Cup,South Africa,30,-30,1724,1669,8,-6,34,45
+2010-06-17,Mexico,France,2,0,World Cup,South Africa,42,-42,1924,1818,3,-2,7,15
+2010-06-18,Algeria,England,0,0,World Cup,South Africa,26,-26,1547,1958,6,0,79,5
+2010-06-18,Lithuania,Latvia,0,0,Baltic Cup,Lithuania,-5,5,1573,1562,-1,1,67,72
+2010-06-18,Serbia,Germany,1,0,World Cup,South Africa,45,-45,1843,1941,6,-2,14,6
+2010-06-18,Slovenia,United States,2,2,World Cup,South Africa,8,-8,1712,1794,1,-3,38,21
+2010-06-19,Australia,Ghana,1,1,World Cup,South Africa,-1,1,1745,1730,0,0,30,32
+2010-06-19,Denmark,Cameroon,2,1,World Cup,South Africa,22,-22,1784,1641,3,-3,22,50
+2010-06-19,Estonia,Latvia,0,0,Baltic Cup,Lithuania,4,-4,1474,1558,0,-1,90,73
+2010-06-19,Netherlands,Japan,1,0,World Cup,South Africa,7,-7,2066,1702,0,0,2,39
+2010-06-19,Niger,Chad,1,1,Friendly,Niger,-3,3,1255,1265,-2,0,142,138
+2010-06-19,Northern Mariana Islands,Guam,1,1,Marianas Cup,the Northern Mariana Islands,0,0,499,599,0,0,232,224
+2010-06-20,Brazil,Ivory Coast,3,1,World Cup,South Africa,10,-10,2121,1740,0,-5,1,31
+2010-06-20,Italy,New Zealand,1,1,World Cup,South Africa,-24,24,1898,1563,-1,9,9,71
+2010-06-20,Lithuania,Estonia,2,0,Baltic Cup,Lithuania,11,-11,1584,1463,2,-1,65,91
+2010-06-20,Paraguay,Slovakia,2,0,World Cup,South Africa,30,-30,1808,1628,5,-5,18,52
+2010-06-20,Sudan,Tunisia,2,6,Friendly,Sudan,-9,9,1303,1622,-4,0,132,53
+2010-06-21,Chile,Switzerland,1,0,World Cup,South Africa,23,-23,1925,1791,1,-5,7,22
+2010-06-21,Portugal,North Korea,7,0,World Cup,South Africa,18,-18,1883,1517,1,-4,11,86
+2010-06-21,Spain,Honduras,2,0,World Cup,South Africa,10,-10,2068,1688,1,-1,2,41
+2010-06-22,Argentina,Greece,2,0,World Cup,South Africa,18,-18,1987,1706,0,-4,4,38
+2010-06-22,Nigeria,South Korea,2,2,World Cup,South Africa,9,-9,1678,1763,1,0,44,25
+2010-06-22,South Africa,France,2,1,World Cup,South Africa,42,-42,1617,1776,13,-7,54,23
+2010-06-22,Uruguay,Mexico,1,0,World Cup,South Africa,34,-34,1913,1890,4,-3,8,11
+2010-06-23,Australia,Serbia,2,1,World Cup,South Africa,38,-38,1783,1805,6,-4,23,18
+2010-06-23,England,Slovenia,1,0,World Cup,South Africa,12,-12,1970,1700,0,-2,5,39
+2010-06-23,Germany,Ghana,1,0,World Cup,South Africa,14,-14,1955,1716,0,-4,6,36
+2010-06-23,United States,Algeria,1,0,World Cup,South Africa,12,-12,1806,1535,3,-1,17,81
+2010-06-24,Japan,Denmark,3,1,World Cup,South Africa,55,-55,1757,1729,12,-10,26,32
+2010-06-24,Netherlands,Cameroon,2,1,World Cup,South Africa,5,-5,2071,1636,1,-2,2,51
+2010-06-24,New Zealand,Paraguay,0,0,World Cup,South Africa,18,-18,1581,1790,4,-6,67,21
+2010-06-24,Slovakia,Italy,3,2,World Cup,South Africa,50,-50,1678,1848,8,-3,44,12
+2010-06-25,Brazil,Portugal,0,0,World Cup,South Africa,-18,18,2103,1901,0,2,1,9
+2010-06-25,Honduras,Switzerland,0,0,World Cup,South Africa,9,-9,1697,1782,1,-2,40,22
+2010-06-25,Ivory Coast,North Korea,3,0,World Cup,South Africa,23,-23,1763,1494,6,-3,25,89
+2010-06-25,Spain,Chile,2,1,World Cup,South Africa,18,-18,2086,1907,1,-1,2,8
+2010-06-26,China,Tajikistan,4,0,Friendly,China,3,-3,1641,1283,0,-1,50,135
+2010-06-26,Ghana,United States,2,1,World Cup,South Africa,38,-38,1754,1768,10,-8,27,24
+2010-06-26,Uruguay,South Korea,2,1,World Cup,South Africa,18,-18,1931,1745,0,-6,7,31
+2010-06-27,Argentina,Mexico,3,1,World Cup,South Africa,33,-33,2020,1857,0,0,4,11
+2010-06-27,Germany,England,4,1,World Cup,South Africa,55,-55,2010,1915,1,-2,5,7
+2010-06-28,Brazil,Chile,3,0,World Cup,South Africa,26,-26,2129,1881,0,-2,1,10
+2010-06-28,Netherlands,Slovakia,2,1,World Cup,South Africa,6,-6,2077,1672,0,-2,3,46
+2010-06-29,Japan,Paraguay,0,0,World Cup,South Africa,3,-3,1760,1787,0,0,26,19
+2010-06-29,Spain,Portugal,1,0,World Cup,South Africa,15,-15,2101,1886,0,-1,2,9
+2010-07-01,Chad,Togo,2,2,African Nations Cup qualifier,Chad,4,-4,1269,1438,1,-2,137,103
+2010-07-01,Tunisia,Botswana,0,1,African Nations Cup qualifier,Tunisia,-37,37,1585,1346,-12,9,65,120
+2010-07-02,Ghana,Uruguay,1,1,World Cup,South Africa,14,-14,1768,1917,3,0,24,6
+2010-07-02,Netherlands,Brazil,2,1,World Cup,South Africa,34,-34,2111,2095,2,-2,1,3
+2010-07-03,Germany,Argentina,4,0,World Cup,South Africa,58,-58,2068,1962,1,-1,4,5
+2010-07-03,Spain,Paraguay,1,0,World Cup,South Africa,8,-8,2109,1779,0,-2,2,21
+2010-07-03,Saint Martin,Saint Barthelemy,3,0,Friendly,Saint Martin,5,-5,931,695,2,0,192,218
+2010-07-06,Netherlands,Uruguay,3,2,World Cup,South Africa,15,-15,2126,1902,0,-1,1,7
+2010-07-07,Spain,Germany,1,0,World Cup,South Africa,26,-26,2135,2042,1,0,1,4
+2010-07-09,Botswana,Chad,1,0,African Nations Cup qualifier,Botswana,11,-11,1357,1258,1,-2,119,139
+2010-07-09,Togo,Malawi,1,1,African Nations Cup qualifier,Togo,-9,9,1429,1371,-1,3,104,115
+2010-07-10,Germany,Uruguay,3,2,World Cup,South Africa,19,-19,2061,1883,0,-2,4,9
+2010-07-11,Spain,Netherlands,1,0,World Cup,South Africa,29,-29,2164,2097,0,0,1,2
+2010-07-21,Trinidad and Tobago,Antigua and Barbuda,4,1,Friendly,Trinidad and Tobago,3,-3,1539,1235,0,-1,80,145
+2010-08-04,Botswana,Zimbabwe,2,0,Friendly,Botswana,10,-10,1367,1329,0,-2,119,124
+2010-08-08,Anguilla,Saint Martin,1,3,Friendly,Anguilla,-5,5,534,936,-1,0,232,192
+2010-08-10,Bosnia and Herzegovina,Qatar,1,1,Friendly,Bosnia and Herzegovina,-6,6,1636,1527,-1,3,50,82
+2010-08-10,Ivory Coast,Italy,1,0,Friendly,England,12,-12,1775,1836,3,-1,23,13
+2010-08-10,United States,Brazil,0,2,Friendly,the United States,-6,6,1762,2101,-2,1,26,2
+2010-08-11,Albania,Uzbekistan,1,0,Friendly,Albania,7,-7,1530,1490,4,-1,80,89
+2010-08-11,Algeria,Gabon,1,2,Friendly,Algeria,-12,12,1523,1593,-2,5,83,62
+2010-08-11,Armenia,Iran,1,3,Friendly,Armenia,-8,8,1382,1677,0,4,112,43
+2010-08-11,Austria,Switzerland,0,1,Friendly,Austria,-8,8,1587,1790,-3,2,63,18
+2010-08-11,Azerbaijan,Kuwait,1,1,Friendly,Azerbaijan,-1,1,1442,1516,0,0,100,86
+2010-08-11,Benin,Niger,0,0,Friendly,Benin,-6,6,1412,1261,0,4,107,138
+2010-08-11,Bolivia,Colombia,1,1,Friendly,Bolivia,1,-1,1596,1744,0,0,60,31
+2010-08-11,Burkina Faso,Congo,3,0,Friendly,France,15,-15,1474,1401,2,-2,90,110
+2010-08-11,Chad,Tunisia,1,3,African Nations Cup qualifier,Chad,-13,13,1245,1598,-4,6,143,59
+2010-08-11,China,Bahrain,1,1,Friendly,China,-6,6,1635,1532,-3,4,52,79
+2010-08-11,Cyprus,Andorra,1,0,Friendly,Cyprus,1,-1,1558,1022,1,-1,74,185
+2010-08-11,Czechia,Latvia,4,1,Friendly,Czechia,5,-5,1755,1553,-1,-2,29,76
+2010-08-11,Denmark,Germany,2,2,Friendly,Denmark,6,-6,1735,2055,0,0,33,4
+2010-08-11,Egypt,DR Congo,6,3,Friendly,Egypt,2,-2,1835,1412,0,2,14,107
+2010-08-11,England,Hungary,2,1,Friendly,England,2,-2,1917,1604,0,0,6,56
+2010-08-11,Estonia,Faroe Islands,2,1,European Championship qualifier,Estonia,5,-5,1468,1203,-1,-1,92,156
+2010-08-11,Finland,Belgium,1,0,Friendly,Finland,6,-6,1659,1587,0,0,48,63
+2010-08-11,Guinea,Mali,2,0,Friendly,France,19,-19,1474,1530,4,-1,90,80
+2010-08-11,Iceland,Liechtenstein,1,1,Friendly,Iceland,-8,8,1459,1166,-3,6,93,163
+2010-08-11,Ireland,Argentina,0,1,Friendly,Ireland,-8,8,1766,1970,0,0,24,5
+2010-08-11,Kazakhstan,Oman,3,1,Friendly,Kazakhstan,22,-22,1357,1587,2,-9,120,63
+2010-08-11,Lithuania,Belarus,0,2,Friendly,Lithuania,-19,19,1565,1617,-6,4,72,55
+2010-08-11,Malawi,Botswana,1,1,African Nations Cup qualifier,Malawi,-6,6,1365,1373,-4,4,119,115
+2010-08-11,Malta,Macedonia,1,1,Friendly,Malta,7,-7,1223,1601,1,-3,150,58
+2010-08-11,Mauritania,Palestine,0,0,Friendly,Mauritania,-1,1,1142,1216,0,0,171,152
+2010-08-11,Mexico,Spain,1,1,Friendly,Mexico,5,-5,1862,2159,0,0,11,1
+2010-08-11,Moldova,Georgia,0,0,Friendly,Moldova,-3,3,1436,1451,0,1,102,96
+2010-08-11,Montenegro,Northern Ireland,2,0,Friendly,Montenegro,8,-8,1637,1551,2,-4,50,77
+2010-08-11,Morocco,Equatorial Guinea,2,1,Friendly,Morocco,1,-1,1570,1208,0,0,69,154
+2010-08-11,Mozambique,Swaziland,2,1,Friendly,Mozambique,3,-3,1373,1164,2,-2,115,164
+2010-08-11,Norway,France,2,1,Friendly,Norway,8,-8,1757,1768,2,-1,27,23
+2010-08-11,Panama,Venezuela,3,1,Friendly,Panama,17,-17,1582,1705,4,-4,67,39
+2010-08-11,Paraguay,Costa Rica,2,0,Friendly,Paraguay,8,-8,1787,1688,1,0,20,41
+2010-08-11,Poland,Cameroon,0,3,Friendly,Poland,-24,24,1650,1660,-4,3,49,47
+2010-08-11,Russia,Bulgaria,1,0,Friendly,Russia,4,-4,1851,1721,0,0,12,34
+2010-08-11,Saudi Arabia,Togo,1,0,Friendly,Saudi Arabia,2,-2,1687,1427,0,-1,42,105
+2010-08-11,Senegal,Cape Verde,1,0,Friendly,Senegal,3,-3,1566,1367,2,-1,70,118
+2010-08-11,Serbia,Greece,0,1,Friendly,Serbia,-15,15,1790,1721,-2,4,18,34
+2010-08-11,Slovakia,Croatia,1,1,Friendly,Slovakia,3,-3,1675,1890,2,0,44,7
+2010-08-11,Slovenia,Australia,2,0,Friendly,Slovenia,14,-14,1714,1769,1,-3,38,22
+2010-08-11,South Africa,Ghana,1,0,Friendly,South Africa,11,-11,1628,1757,0,-2,53,27
+2010-08-11,South Korea,Nigeria,2,1,Friendly,South Korea,6,-6,1751,1672,1,-1,30,45
+2010-08-11,Sweden,Scotland,3,0,Friendly,Sweden,8,-8,1806,1671,1,-3,17,46
+2010-08-11,Tanzania,Kenya,1,1,Friendly,Tanzania,-3,3,1328,1318,-1,2,124,126
+2010-08-11,Thailand,Singapore,1,0,Friendly,Thailand,5,-5,1449,1348,2,-1,97,121
+2010-08-11,Trinidad and Tobago,Jamaica,1,3,Friendly,Trinidad and Tobago,-16,16,1523,1621,-3,3,83,54
+2010-08-11,Turkey,Romania,2,0,Friendly,Turkey,9,-9,1808,1740,1,-3,16,32
+2010-08-11,Uganda,Zambia,1,1,Friendly,Uganda,-3,3,1548,1559,0,4,78,73
+2010-08-11,Ukraine,Netherlands,1,1,Friendly,Ukraine,5,-5,1812,2092,0,0,15,3
+2010-08-11,Uruguay,Angola,2,0,Friendly,Portugal,2,-2,1885,1448,0,-2,9,98
+2010-08-11,Wales,Luxembourg,5,1,Friendly,Wales,1,-1,1595,1098,1,0,61,176
+2010-08-18,Ethiopia,Kenya,0,3,Friendly,Ethiopia,-21,21,1272,1339,-3,3,136,123
+2010-08-20,Madagascar,Mayotte,0,0,Friendly,Madagascar,-6,6,1262,1131,0,2,137,173
+2010-08-26,Saint Lucia,Martinique,1,3,Friendly,Saint Lucia,-9,9,1117,1380,-1,4,175,113
+2010-08-28,Saint Kitts and Nevis,Antigua and Barbuda,1,1,Friendly,Saint Kitts and Nevis,-1,1,1162,1236,-1,1,167,144
+2010-08-28,Saint Lucia,Martinique,1,1,Friendly,Saint Lucia,4,-4,1121,1376,0,-2,175,115
+2010-08-29,Ethiopia,Chad,1,0,Friendly,Ethiopia,6,-6,1278,1239,0,0,136,143
+2010-08-29,Madagascar,Comoros,1,0,Friendly,Madagascar,1,-1,1263,868,0,0,137,203
+2010-09-02,Israel,Malta,3,1,European Championship qualifier,Israel,2,-2,1721,1221,2,-1,34,151
+2010-09-03,Algeria,Tanzania,1,1,African Nations Cup qualifier,Algeria,-14,14,1509,1342,-3,2,86,123
+2010-09-03,Andorra,Russia,0,2,European Championship qualifier,Andorra,-1,1,1021,1852,0,0,185,12
+2010-09-03,Armenia,Ireland,0,1,European Championship qualifier,Armenia,-7,7,1375,1773,-3,2,115,22
+2010-09-03,Belgium,Germany,0,1,European Championship qualifier,Belgium,-4,4,1583,2059,-3,0,66,4
+2010-09-03,China,Iran,0,2,Friendly,China,-17,17,1618,1694,-3,4,55,39
+2010-09-03,England,Bulgaria,4,0,European Championship qualifier,England,12,-12,1929,1709,0,-2,6,36
+2010-09-03,Estonia,Italy,1,2,European Championship qualifier,Estonia,-7,7,1461,1843,-2,0,94,13
+2010-09-03,Faroe Islands,Serbia,0,3,European Championship qualifier,the Faroe Islands,-4,4,1199,1794,0,0,156,18
+2010-09-03,France,Belarus,0,1,European Championship qualifier,France,-32,32,1736,1649,-8,6,31,49
+2010-09-03,Greece,Georgia,1,1,European Championship qualifier,Greece,-16,16,1705,1467,-3,3,37,93
+2010-09-03,Iceland,Norway,1,2,European Championship qualifier,Iceland,-10,10,1449,1767,-4,3,97,24
+2010-09-03,Kazakhstan,Turkey,0,3,European Championship qualifier,Kazakhstan,-8,8,1349,1816,0,1,120,15
+2010-09-03,Kuwait,Syria,3,0,Friendly,Kuwait,15,-15,1531,1551,5,-6,81,76
+2010-09-03,Latvia,Croatia,0,3,European Championship qualifier,Latvia,-14,14,1539,1904,-3,0,79,7
+2010-09-03,Liechtenstein,Spain,0,4,European Championship qualifier,Liechtenstein,0,0,1166,2159,0,0,163,1
+2010-09-03,Lithuania,Scotland,0,0,European Championship qualifier,Lithuania,0,0,1565,1671,-1,0,73,46
+2010-09-03,Luxembourg,Bosnia and Herzegovina,0,3,European Championship qualifier,Luxembourg,-5,5,1093,1641,0,0,176,51
+2010-09-03,Moldova,Finland,2,0,European Championship qualifier,Moldova,40,-40,1476,1619,12,-6,90,54
+2010-09-03,Montenegro,Wales,1,0,European Championship qualifier,Montenegro,12,-12,1649,1583,1,-5,49,66
+2010-09-03,Oman,Malaysia,3,0,Friendly,Qatar,3,-3,1590,1175,2,-2,61,160
+2010-09-03,Panama,Costa Rica,2,2,Friendly,Panama,0,0,1582,1688,-1,1,68,40
+2010-09-03,Portugal,Cyprus,4,4,European Championship qualifier,Portugal,-17,17,1869,1575,-2,4,10,70
+2010-09-03,Qatar,Bahrain,1,1,Friendly,Qatar,-3,3,1524,1535,-1,-1,83,80
+2010-09-03,Romania,Albania,1,1,European Championship qualifier,Romania,-14,14,1726,1544,-1,2,33,78
+2010-09-03,San Marino,Netherlands,0,5,European Championship qualifier,San Marino,0,0,913,2092,0,0,197,3
+2010-09-03,Slovakia,Macedonia,1,0,European Championship qualifier,Slovakia,11,-11,1686,1590,1,-3,43,61
+2010-09-03,Slovenia,Northern Ireland,0,1,European Championship qualifier,Slovenia,-33,33,1681,1584,-6,12,44,65
+2010-09-03,Sweden,Hungary,2,0,European Championship qualifier,Sweden,9,-9,1815,1595,1,-3,16,59
+2010-09-03,Switzerland,Australia,0,0,Friendly,Switzerland,-3,3,1787,1772,-1,-1,19,23
+2010-09-03,Venezuela,Colombia,0,2,Friendly,Venezuela,-18,18,1687,1762,-2,6,41,25
+2010-09-04,Botswana,Togo,2,1,African Nations Cup qualifier,Botswana,17,-17,1390,1410,4,-4,112,109
+2010-09-04,Canada,Peru,0,2,Friendly,Canada,-20,20,1582,1607,-11,7,67,56
+2010-09-04,Cape Verde,Mali,1,0,African Nations Cup qualifier,Cape Verde,24,-24,1391,1506,7,-4,111,86
+2010-09-04,El Salvador,Honduras,2,2,Independence Cup,the United States,8,-8,1506,1689,1,-1,86,39
+2010-09-04,Gambia,Namibia,3,1,African Nations Cup qualifier,The Gambia,15,-15,1423,1306,3,-5,106,131
+2010-09-04,Guatemala,Nicaragua,5,0,Friendly,the United States,5,-5,1432,1076,2,0,103,179
+2010-09-04,Guinea-Bissau,Kenya,1,0,African Nations Cup qualifier,Guinea-Bissau,20,-20,1251,1319,5,-2,143,126
+2010-09-04,Ivory Coast,Rwanda,3,0,African Nations Cup qualifier,Ivory Coast,4,-4,1779,1395,1,1,20,110
+2010-09-04,Japan,Paraguay,1,0,Friendly,Japan,8,-8,1768,1779,3,-1,24,20
+2010-09-04,Mauritius,Cameroon,1,3,African Nations Cup qualifier,Mauritius,-3,3,1031,1663,0,0,183,47
+2010-09-04,Mexico,Ecuador,1,2,Friendly,Mexico,-16,16,1846,1733,-1,2,12,33
+2010-09-04,Morocco,Central African Republic,0,0,African Nations Cup qualifier,Morocco,-18,18,1552,1195,-5,1,76,157
+2010-09-04,Poland,Ukraine,1,1,Friendly,Poland,2,-2,1652,1810,0,0,48,17
+2010-09-04,South Africa,Niger,2,0,African Nations Cup qualifier,South Africa,4,-4,1632,1257,0,-2,52,140
+2010-09-04,Sudan,Congo,2,0,African Nations Cup qualifier,Sudan,30,-30,1333,1371,8,-9,124,119
+2010-09-04,Thailand,India,1,0,Friendly,Thailand,2,-2,1451,1161,0,-2,97,168
+2010-09-04,Tunisia,Malawi,2,2,African Nations Cup qualifier,Tunisia,-15,15,1583,1380,-7,6,64,113
+2010-09-04,Uganda,Angola,3,0,African Nations Cup qualifier,Uganda,17,-17,1565,1431,5,-5,72,104
+2010-09-05,Benin,Burundi,1,1,African Nations Cup qualifier,Benin,-15,15,1397,1200,-1,2,108,156
+2010-09-05,Burkina Faso,Gabon,1,1,Friendly,France,3,-3,1477,1590,0,-1,91,60
+2010-09-05,DR Congo,Senegal,2,4,African Nations Cup qualifier,DR Congo,-25,25,1387,1591,-5,12,112,59
+2010-09-05,Egypt,Sierra Leone,1,1,African Nations Cup qualifier,Egypt,-19,19,1816,1279,0,2,14,136
+2010-09-05,Ethiopia,Guinea,1,4,African Nations Cup qualifier,Ethiopia,-26,26,1252,1500,-5,3,141,88
+2010-09-05,Jamaica,Costa Rica,1,0,Friendly,Jamaica,9,-9,1630,1679,0,-4,53,44
+2010-09-05,Liberia,Zimbabwe,1,1,African Nations Cup qualifier,Liberia,0,0,1232,1329,0,0,148,125
+2010-09-05,Mozambique,Libya,0,0,African Nations Cup qualifier,Mozambique,3,-3,1376,1519,2,0,116,84
+2010-09-05,Nigeria,Madagascar,2,0,African Nations Cup qualifier,Nigeria,3,-3,1675,1260,0,0,45,137
+2010-09-05,Swaziland,Ghana,0,3,African Nations Cup qualifier,Swaziland,-4,4,1160,1761,-4,0,168,28
+2010-09-05,Zambia,Comoros,4,0,African Nations Cup qualifier,Zambia,1,-1,1560,867,0,0,74,203
+2010-09-07,Albania,Luxembourg,1,0,European Championship qualifier,Albania,2,-2,1546,1091,0,0,78,176
+2010-09-07,Argentina,Spain,4,1,Friendly,Argentina,22,-22,1992,2137,0,0,5,1
+2010-09-07,Austria,Kazakhstan,2,0,European Championship qualifier,Austria,8,-8,1595,1341,3,-3,60,123
+2010-09-07,Belarus,Romania,0,0,European Championship qualifier,Belarus,-1,1,1648,1727,0,2,49,32
+2010-09-07,Bosnia and Herzegovina,France,0,2,European Championship qualifier,Bosnia and Herzegovina,-30,30,1611,1766,-5,6,56,25
+2010-09-07,Bulgaria,Montenegro,0,1,European Championship qualifier,Bulgaria,-29,29,1680,1678,-6,4,42,45
+2010-09-07,Canada,Honduras,2,1,Friendly,Canada,10,-10,1592,1679,7,-4,61,43
+2010-09-07,China,Paraguay,1,1,Friendly,China,2,-2,1620,1777,3,-2,52,22
+2010-09-07,Croatia,Greece,0,0,European Championship qualifier,Croatia,-14,14,1890,1719,0,2,7,35
+2010-09-07,Czechia,Lithuania,0,1,European Championship qualifier,Czechia,-34,34,1721,1599,-5,14,34,58
+2010-09-07,Denmark,Iceland,1,0,European Championship qualifier,Denmark,4,-4,1739,1445,2,-3,30,101
+2010-09-07,Estonia,Uzbekistan,3,3,Friendly,Estonia,-2,2,1459,1492,0,1,94,89
+2010-09-07,Georgia,Israel,0,0,European Championship qualifier,Georgia,8,-8,1475,1713,1,-2,92,37
+2010-09-07,Germany,Azerbaijan,6,1,European Championship qualifier,Germany,1,-1,2060,1441,0,-2,4,102
+2010-09-07,Guatemala,El Salvador,2,0,Friendly,the United States,18,-18,1450,1488,4,-4,99,90
+2010-09-07,Hungary,Moldova,2,1,European Championship qualifier,Hungary,9,-9,1604,1467,1,-1,57,93
+2010-09-07,Ireland,Andorra,3,1,European Championship qualifier,Ireland,0,0,1773,1021,-1,0,23,185
+2010-09-07,Italy,Faroe Islands,5,0,European Championship qualifier,Italy,1,-1,1844,1198,1,0,12,157
+2010-09-07,Japan,Guatemala,2,1,Friendly,Japan,2,-2,1770,1448,0,4,24,99
+2010-09-07,Macedonia,Armenia,2,2,European Championship qualifier,Macedonia,-14,14,1576,1389,-11,6,71,112
+2010-09-07,Malta,Latvia,0,2,European Championship qualifier,Malta,-13,13,1208,1552,-2,3,153,76
+2010-09-07,Mexico,Colombia,1,0,Friendly,Mexico,5,-5,1851,1757,2,-3,10,29
+2010-09-07,Netherlands,Finland,2,1,European Championship qualifier,the Netherlands,1,-1,2093,1618,0,0,3,54
+2010-09-07,Norway,Portugal,1,0,European Championship qualifier,Norway,20,-20,1787,1849,7,-1,18,11
+2010-09-07,Panama,Trinidad and Tobago,3,0,Friendly,Panama,10,-10,1592,1513,7,-1,61,84
+2010-09-07,Peru,Jamaica,2,1,Friendly,the United States,11,-11,1618,1619,2,0,54,53
+2010-09-07,Poland,Australia,1,2,Friendly,Poland,-9,9,1643,1781,-2,3,50,20
+2010-09-07,Qatar,Oman,1,1,Friendly,Qatar,-1,1,1523,1591,1,-3,81,63
+2010-09-07,Russia,Slovakia,0,1,European Championship qualifier,Russia,-33,33,1819,1719,-3,7,14,35
+2010-09-07,Scotland,Liechtenstein,2,1,European Championship qualifier,Scotland,1,-1,1672,1165,-1,0,47,163
+2010-09-07,Serbia,Slovenia,1,1,European Championship qualifier,Serbia,-11,11,1783,1692,-1,3,19,40
+2010-09-07,South Korea,Iran,0,1,Friendly,South Korea,-14,14,1737,1708,-1,0,31,38
+2010-09-07,Sweden,San Marino,6,0,European Championship qualifier,Sweden,0,0,1815,913,-1,0,17,197
+2010-09-07,Switzerland,England,1,3,European Championship qualifier,Switzerland,-26,26,1761,1955,-8,0,27,6
+2010-09-07,Turkey,Belgium,3,2,European Championship qualifier,Turkey,5,-5,1821,1578,1,-5,13,70
+2010-09-07,United Arab Emirates,Kuwait,3,0,Friendly,the United Arab Emirates,17,-17,1453,1514,5,-2,97,83
+2010-09-07,Ukraine,Chile,2,1,Friendly,Ukraine,9,-9,1819,1872,3,0,14,9
+2010-09-07,Venezuela,Ecuador,1,0,Friendly,Venezuela,8,-8,1695,1725,1,0,39,33
+2010-09-07,Yemen,Syria,2,1,Friendly,Yemen,14,-14,1298,1537,0,-2,133,79
+2010-09-08,India,Thailand,1,2,Friendly,India,-5,5,1156,1456,-2,2,169,96
+2010-09-10,Belize,Trinidad and Tobago,0,0,Friendly,Belize,7,-7,1093,1506,2,-1,176,85
+2010-09-10,Saint Lucia,Saint Vincent and the Grenadines,1,5,Friendly,Saint Lucia,-18,18,1103,1251,0,4,175,143
+2010-09-11,French Guiana,Suriname,1,2,Friendly,French Guiana,-12,12,1193,1248,-3,1,158,145
+2010-09-15,India,Namibia,2,0,Friendly,India,17,-17,1173,1289,8,-2,161,133
+2010-09-16,Jordan,Iraq,4,1,Friendly,Jordan,17,-17,1475,1540,3,-3,92,78
+2010-09-17,Saint Vincent and the Grenadines,Grenada,0,1,Friendly,Saint Vincent and the Grenadines,-13,13,1238,1265,-3,4,146,137
+2010-09-18,British Virgin Islands,Anguilla,2,1,Friendly,Saint Martin,2,-2,886,532,0,0,201,232
+2010-09-18,Yemen,Zambia,0,1,Friendly,Yemen,-6,6,1292,1566,0,1,132,73
+2010-09-19,Antigua and Barbuda,Trinidad and Tobago,0,1,President's Cup Challenge,Antigua and Barbuda,-8,8,1228,1514,-1,2,148,83
+2010-09-19,Jordan,Bahrain,2,0,Friendly,Jordan,13,-13,1488,1522,2,-1,90,81
+2010-09-19,Saint Martin,British Virgin Islands,3,1,Friendly,Saint Martin,9,-9,945,877,1,0,191,201
+2010-09-19,Saint Vincent and the Grenadines,Grenada,0,0,Friendly,Saint Vincent and the Grenadines,-2,2,1236,1267,0,0,146,137
+2010-09-21,Iraq,Oman,3,2,Friendly,Jordan,11,-11,1551,1580,1,-6,77,69
+2010-09-21,Trinidad and Tobago,Saint Lucia,3,0,President's Cup Challenge,Antigua and Barbuda,5,-5,1519,1098,1,0,82,175
+2010-09-22,French Guiana,Mayotte,2,2,French Territory Cup,France,-3,3,1190,1134,0,0,158,173
+2010-09-22,Reunion,Saint Pierre and Miquelon,11,0,French Territory Cup,France,2,-2,1320,698,1,0,126,218
+2010-09-23,Antigua and Barbuda,Saint Lucia,5,0,President's Cup Challenge,Antigua and Barbuda,13,-13,1241,1085,3,-3,145,178
+2010-09-23,Guadeloupe,New Caledonia,1,1,French Territory Cup,France,-6,6,1434,1312,0,2,103,129
+2010-09-23,Martinique,Tahiti,4,1,French Territory Cup,France,12,-12,1388,1156,4,-7,113,169
+2010-09-24,Iran,Bahrain,3,0,West Asian Championship,Jordan,18,-18,1726,1504,5,-5,33,86
+2010-09-24,Jordan,Syria,1,1,West Asian Championship,Jordan,-3,3,1485,1540,-1,0,91,79
+2010-09-24,Vietnam,North Korea,0,0,Millennium Cup,Vietnam,2,-2,1347,1492,0,0,121,88
+2010-09-25,Barbados,Dominica,0,2,Friendly,Barbados,-28,28,1283,1020,-3,0,133,186
+2010-09-25,French Guiana,Saint Pierre and Miquelon,7,0,French Territory Cup,France,4,-4,1194,694,0,-1,158,219
+2010-09-25,Iraq,Yemen,2,1,West Asian Championship,Jordan,7,-7,1558,1285,2,0,75,132
+2010-09-25,Reunion,Mayotte,2,1,French Territory Cup,France,8,-8,1328,1126,0,0,126,173
+2010-09-26,Bahrain,Oman,2,0,West Asian Championship,Jordan,36,-36,1540,1544,7,-9,79,78
+2010-09-26,Barbados,Dominica,1,3,Friendly,Barbados,-27,27,1256,1047,-8,6,141,180
+2010-09-26,Guadeloupe,Tahiti,1,1,French Territory Cup,France,-10,10,1424,1166,-2,6,105,163
+2010-09-26,Guyana,Trinidad and Tobago,1,1,Friendly,Guyana,4,-4,1262,1515,2,-3,137,84
+2010-09-26,Kuwait,Syria,2,1,West Asian Championship,Jordan,21,-21,1535,1519,3,-3,80,82
+2010-09-26,Martinique,New Caledonia,4,0,French Territory Cup,France,22,-22,1410,1290,6,-1,107,130
+2010-09-27,Yemen,Palestine,3,1,West Asian Championship,Jordan,24,-24,1309,1192,3,-7,129,158
+2010-09-28,Iran,Oman,2,2,West Asian Championship,Jordan,-10,10,1716,1554,-4,3,37,75
+2010-09-28,Jordan,Kuwait,2,2,West Asian Championship,Jordan,-3,3,1482,1538,0,0,91,80
+2010-09-28,Mayotte,Saint Pierre and Miquelon,10,0,French Territory Cup,France,6,-6,1132,688,0,-1,173,220
+2010-09-28,Reunion,French Guiana,1,0,French Territory Cup,France,9,-9,1337,1185,2,-1,124,158
+2010-09-29,Guadeloupe,Martinique,2,0,French Territory Cup,France,22,-22,1446,1388,5,-6,100,113
+2010-09-29,Iraq,Palestine,3,0,West Asian Championship,Jordan,8,-8,1566,1184,2,-1,72,158
+2010-09-29,New Caledonia,Tahiti,1,1,French Territory Cup,France,-5,5,1285,1171,-1,1,132,162
+2010-10-01,Guadeloupe,Mayotte,4,0,French Territory Cup,France,8,-8,1454,1124,2,-1,98,174
+2010-10-01,Iran,Iraq,2,1,West Asian Championship,Jordan,12,-12,1728,1554,5,-2,32,74
+2010-10-01,Kuwait,Yemen,1,1,West Asian Championship,Jordan,-12,12,1526,1321,0,2,80,127
+2010-10-02,Cayman Islands,Saint Martin,1,1,CONCACAF Champ & Carib Champ q,Puerto Rico,-2,2,973,947,0,0,189,191
+2010-10-02,Martinique,Reunion,0,0,French Territory Cup,France,-2,2,1386,1339,-1,0,114,124
+2010-10-02,Puerto Rico,Anguilla,3,1,CONCACAF Champ & Carib Champ q,Puerto Rico,3,-3,979,529,0,0,187,233
+2010-10-03,Kuwait,Iran,2,1,West Asian Championship,Jordan,30,-30,1556,1698,6,-6,74,38
+2010-10-04,Cayman Islands,Anguilla,4,1,CONCACAF Champ & Carib Champ q,Puerto Rico,5,-5,978,524,1,0,188,233
+2010-10-04,India,Hong Kong,0,1,Friendly,India,-12,12,1161,1222,-6,1,167,150
+2010-10-04,Puerto Rico,Saint Martin,2,0,CONCACAF Champ & Carib Champ q,Puerto Rico,19,-19,998,928,0,-2,187,193
+2010-10-06,Anguilla,Saint Martin,2,1,CONCACAF Champ & Carib Champ q,Puerto Rico,36,-36,560,892,1,-6,232,199
+2010-10-06,Barbados,Saint Kitts and Nevis,1,1,CONCACAF Champ & Carib Champ q,Saint Vincent and the Grenadines,-5,5,1251,1167,-1,3,142,162
+2010-10-06,Puerto Rico,Cayman Islands,2,0,CONCACAF Champ & Carib Champ q,Puerto Rico,20,-20,1018,958,0,-2,187,190
+2010-10-06,Saint Vincent and the Grenadines,Montserrat,7,0,CONCACAF Champ & Carib Champ q,Saint Vincent and the Grenadines,1,-1,1237,536,0,-1,147,233
+2010-10-07,Bolivia,Venezuela,1,3,Friendly,Bolivia,-15,15,1581,1710,-8,1,67,38
+2010-10-07,Brazil,Iran,3,0,Friendly,the United Arab Emirates,3,-3,2104,1695,0,-1,2,39
+2010-10-08,Albania,Bosnia and Herzegovina,1,1,European Championship qualifier,Albania,-2,2,1544,1613,0,0,79,56
+2010-10-08,Andorra,Macedonia,0,2,European Championship qualifier,Andorra,-4,4,1017,1580,-1,1,187,69
+2010-10-08,Armenia,Slovakia,3,1,European Championship qualifier,Armenia,47,-47,1436,1672,9,-10,103,45
+2010-10-08,Austria,Azerbaijan,3,0,European Championship qualifier,Austria,13,-13,1608,1428,2,-3,57,106
+2010-10-08,Barbados,Montserrat,5,0,CONCACAF Champ & Carib Champ q,Saint Vincent and the Grenadines,1,-1,1252,535,1,0,141,233
+2010-10-08,China,Syria,2,1,Friendly,China,5,-5,1625,1514,-1,-2,53,84
+2010-10-08,Colombia,Ecuador,1,0,Friendly,the United States,9,-9,1766,1716,6,-2,23,35
+2010-10-08,Cyprus,Norway,1,2,European Championship qualifier,Cyprus,-14,14,1561,1801,-3,0,74,18
+2010-10-08,Czechia,Scotland,1,0,European Championship qualifier,Czechia,12,-12,1733,1660,4,-1,30,48
+2010-10-08,Georgia,Malta,1,0,European Championship qualifier,Georgia,4,-4,1479,1204,0,-1,93,153
+2010-10-08,Germany,Turkey,3,0,European Championship qualifier,Germany,9,-9,2069,1812,0,-3,4,16
+2010-10-08,Greece,Latvia,1,0,European Championship qualifier,Greece,7,-7,1726,1545,2,-1,33,78
+2010-10-08,Hungary,San Marino,8,0,European Championship qualifier,Hungary,1,-1,1605,912,-1,0,58,196
+2010-10-08,India,Vietnam,3,1,Friendly,India,19,-19,1180,1328,8,-4,159,125
+2010-10-08,Indonesia,Uruguay,1,7,Friendly,Indonesia,-2,2,1255,1887,-1,0,140,8
+2010-10-08,Ireland,Russia,2,3,European Championship qualifier,Ireland,-23,23,1750,1842,-4,2,27,12
+2010-10-08,Japan,Argentina,1,0,Friendly,Japan,13,-13,1783,1979,5,0,19,5
+2010-10-08,Kazakhstan,Belgium,0,2,European Championship qualifier,Kazakhstan,-19,19,1322,1597,-3,8,126,61
+2010-10-08,Kuwait,Bahrain,1,3,Friendly,Kuwait,-20,20,1536,1560,-6,5,80,75
+2010-10-08,Luxembourg,Belarus,0,0,European Championship qualifier,Luxembourg,17,-17,1108,1631,1,-2,175,51
+2010-10-08,Moldova,Netherlands,0,1,European Championship qualifier,Moldova,-2,2,1465,2095,-1,0,95,3
+2010-10-08,Montenegro,Switzerland,1,0,European Championship qualifier,Montenegro,19,-19,1697,1742,6,-1,39,28
+2010-10-08,Northern Ireland,Italy,0,0,European Championship qualifier,Northern Ireland,9,-9,1593,1835,1,-1,63,13
+2010-10-08,Oman,Gabon,1,0,Friendly,Oman,8,-8,1562,1582,2,-3,73,66
+2010-10-08,Panama,El Salvador,1,0,Friendly,Panama,5,-5,1597,1483,-1,-1,61,91
+2010-10-08,Peru,Costa Rica,2,0,Friendly,Peru,13,-13,1631,1666,3,-3,51,46
+2010-10-08,Portugal,Denmark,3,1,European Championship qualifier,Portugal,14,-14,1863,1725,1,-4,10,34
+2010-10-08,Serbia,Estonia,1,3,European Championship qualifier,Serbia,-55,55,1728,1514,-12,11,31,84
+2010-10-08,Slovenia,Faroe Islands,5,1,European Championship qualifier,Slovenia,2,-2,1694,1196,-1,0,41,155
+2010-10-08,Spain,Lithuania,3,1,European Championship qualifier,Spain,1,-1,2138,1598,0,-2,1,60
+2010-10-08,Saint Vincent and the Grenadines,Saint Kitts and Nevis,1,1,CONCACAF Champ & Carib Champ q,Saint Vincent and the Grenadines,-9,9,1228,1176,-1,2,148,160
+2010-10-08,Ukraine,Canada,2,2,Friendly,Ukraine,-7,7,1812,1599,-2,1,16,59
+2010-10-08,Wales,Bulgaria,0,1,European Championship qualifier,Wales,-20,20,1563,1700,-7,4,72,38
+2010-10-09,Angola,Guinea-Bissau,1,0,African Nations Cup qualifier,Angola,7,-7,1438,1244,0,-1,104,144
+2010-10-09,Australia,Paraguay,1,0,Friendly,Australia,7,-7,1788,1770,1,-1,19,23
+2010-10-09,Burkina Faso,Gambia,3,1,African Nations Cup qualifier,Burkina Faso,18,-18,1495,1405,5,-2,89,109
+2010-10-09,Burundi,Ivory Coast,0,1,African Nations Cup qualifier,Burundi,-2,2,1198,1781,0,-1,154,22
+2010-10-09,Cameroon,DR Congo,1,1,African Nations Cup qualifier,Cameroon,-16,16,1647,1403,-2,3,49,110
+2010-10-09,Comoros,Mozambique,0,1,African Nations Cup qualifier,the Comoros,-3,3,864,1379,0,2,203,116
+2010-10-09,France,Romania,2,0,European Championship qualifier,France,19,-19,1785,1708,3,-4,20,36
+2010-10-09,Guatemala,Belize,4,2,Friendly,Guatemala,2,-2,1450,1091,1,0,99,176
+2010-10-09,Israel,Croatia,1,2,European Championship qualifier,Israel,-16,16,1697,1906,-2,0,38,7
+2010-10-09,Kenya,Uganda,0,0,African Nations Cup qualifier,Kenya,8,-8,1327,1557,2,-5,126,76
+2010-10-09,Malawi,Chad,6,2,African Nations Cup qualifier,Malawi,15,-15,1395,1224,4,-2,111,148
+2010-10-09,Mali,Liberia,2,1,African Nations Cup qualifier,Mali,4,-4,1510,1228,1,1,86,146
+2010-10-09,New Zealand,Honduras,1,1,Friendly,New Zealand,0,0,1581,1679,0,0,67,43
+2010-10-09,Rwanda,Benin,0,3,African Nations Cup qualifier,Rwanda,-45,45,1350,1442,-9,6,119,103
+2010-10-09,Saudi Arabia,Uzbekistan,4,0,Friendly,Saudi Arabia,6,-6,1693,1486,0,-2,42,91
+2010-10-09,Senegal,Mauritius,7,0,African Nations Cup qualifier,Senegal,2,-2,1593,1029,1,0,63,184
+2010-10-09,Taiwan,Macao,7,1,Long Teng Cup,Taiwan,8,-8,936,691,1,-3,192,218
+2010-10-09,Tanzania,Morocco,0,1,African Nations Cup qualifier,Tanzania,-14,14,1328,1566,-3,7,124,70
+2010-10-09,United Arab Emirates,Chile,0,2,Friendly,the United Arab Emirates,-4,4,1449,1876,-1,0,100,9
+2010-10-09,United States,Poland,2,2,Friendly,the United States,-6,6,1756,1649,-1,1,26,48
+2010-10-10,Central African Republic,Algeria,2,0,African Nations Cup qualifier,Central African Republic,46,-46,1241,1463,12,-8,144,95
+2010-10-10,Congo,Swaziland,3,1,African Nations Cup qualifier,Congo,9,-9,1380,1151,3,-1,115,169
+2010-10-10,Ghana,Sudan,0,0,African Nations Cup qualifier,Ghana,-18,18,1743,1351,-2,3,27,119
+2010-10-10,Guinea,Nigeria,1,0,African Nations Cup qualifier,Guinea,24,-24,1524,1651,6,-3,82,47
+2010-10-10,Jamaica,Trinidad and Tobago,1,0,Friendly,Jamaica,5,-5,1624,1510,1,-3,53,86
+2010-10-10,Libya,Zambia,1,0,African Nations Cup qualifier,Libya,17,-17,1536,1549,2,-7,80,77
+2010-10-10,Madagascar,Ethiopia,0,1,African Nations Cup qualifier,Madagascar,-26,26,1234,1278,-8,4,146,137
+2010-10-10,Niger,Egypt,1,0,African Nations Cup qualifier,Niger,37,-37,1294,1779,8,-8,131,22
+2010-10-10,Sierra Leone,South Africa,0,0,African Nations Cup qualifier,Sierra Leone,12,-12,1291,1620,3,-4,132,54
+2010-10-10,Saint Kitts and Nevis,Montserrat,4,0,CONCACAF Champ & Carib Champ q,Saint Vincent and the Grenadines,2,-2,1178,533,0,0,160,233
+2010-10-10,Saint Vincent and the Grenadines,Barbados,0,0,CONCACAF Champ & Carib Champ q,Saint Vincent and the Grenadines,-4,4,1224,1256,-2,1,148,140
+2010-10-10,Taiwan,Philippines,1,1,Long Teng Cup,Taiwan,-8,8,928,842,-1,0,193,205
+2010-10-10,Togo,Tunisia,1,2,African Nations Cup qualifier,Togo,-16,16,1394,1599,-3,6,111,59
+2010-10-10,Zimbabwe,Cape Verde,0,0,African Nations Cup qualifier,Zimbabwe,-2,2,1327,1393,-2,0,125,112
+2010-10-11,Brazil,Ukraine,2,0,Friendly,England,5,-5,2109,1807,0,-1,2,16
+2010-10-12,Armenia,Andorra,4,0,European Championship qualifier,Armenia,4,-4,1440,1013,1,0,104,187
+2010-10-12,Azerbaijan,Turkey,1,0,European Championship qualifier,Azerbaijan,33,-33,1461,1779,11,-7,96,22
+2010-10-12,Bahrain,Uzbekistan,2,4,Friendly,Bahrain,-22,22,1538,1508,-4,3,78,87
+2010-10-12,Belarus,Albania,2,0,European Championship qualifier,Belarus,15,-15,1646,1529,0,-2,50,81
+2010-10-12,Belgium,Austria,4,4,European Championship qualifier,Belgium,-5,5,1592,1613,-1,2,63,55
+2010-10-12,Bulgaria,Saudi Arabia,2,0,Friendly,Turkey,15,-15,1715,1678,2,1,35,41
+2010-10-12,China,Uruguay,0,4,Financing City Cup,China,-16,16,1609,1903,-5,0,57,8
+2010-10-12,Costa Rica,El Salvador,2,1,Friendly,Costa Rica,3,-3,1669,1480,0,-2,45,93
+2010-10-12,Croatia,Norway,2,1,Friendly,Croatia,5,-5,1911,1796,0,1,7,16
+2010-10-12,Denmark,Cyprus,2,0,European Championship qualifier,Denmark,11,-11,1736,1550,2,-2,31,75
+2010-10-12,Ecuador,Poland,2,2,Friendly,Canada,-2,2,1714,1651,-2,1,36,47
+2010-10-12,England,Montenegro,0,0,European Championship qualifier,England,-15,15,1940,1712,0,1,6,37
+2010-10-12,Equatorial Guinea,Botswana,0,2,Friendly,Equatorial Guinea,-12,12,1196,1402,-3,3,156,110
+2010-10-12,Estonia,Slovenia,0,1,European Championship qualifier,Estonia,-15,15,1499,1709,-4,3,88,38
+2010-10-12,Faroe Islands,Northern Ireland,1,1,European Championship qualifier,the Faroe Islands,14,-14,1210,1579,3,-2,153,66
+2010-10-12,Finland,Hungary,1,2,European Championship qualifier,Finland,-26,26,1592,1631,-8,7,63,51
+2010-10-12,France,Luxembourg,2,0,European Championship qualifier,France,1,-1,1786,1107,1,0,18,175
+2010-10-12,Greece,Israel,2,1,European Championship qualifier,Greece,13,-13,1739,1684,3,-5,29,43
+2010-10-12,Honduras,Guatemala,2,0,Friendly,the United States,6,-6,1685,1444,2,-3,41,102
+2010-10-12,Iceland,Portugal,1,3,European Championship qualifier,Iceland,-8,8,1437,1871,-3,0,105,10
+2010-10-12,Indonesia,Maldives,3,0,Friendly,Indonesia,9,-9,1264,1153,2,-1,139,168
+2010-10-12,Kazakhstan,Germany,0,3,European Championship qualifier,Kazakhstan,-2,2,1320,2071,-1,0,128,4
+2010-10-12,Kuwait,Vietnam,3,1,Friendly,Kuwait,4,-4,1540,1324,3,-3,77,126
+2010-10-12,Latvia,Georgia,1,1,European Championship qualifier,Latvia,-9,9,1536,1488,-1,2,79,91
+2010-10-12,Liechtenstein,Czechia,0,2,European Championship qualifier,Liechtenstein,-4,4,1161,1737,-1,0,166,30
+2010-10-12,Macedonia,Russia,0,1,European Championship qualifier,Macedonia,-11,11,1569,1853,0,1,69,11
+2010-10-12,Mexico,Venezuela,2,2,Friendly,Mexico,-6,6,1845,1716,-1,1,12,34
+2010-10-12,Netherlands,Sweden,4,1,European Championship qualifier,the Netherlands,7,-7,2102,1808,0,0,3,14
+2010-10-12,New Zealand,Paraguay,0,2,Friendly,New Zealand,-11,11,1570,1781,-1,3,68,20
+2010-10-12,Oman,Chile,0,1,Friendly,Oman,-5,5,1557,1881,0,0,72,9
+2010-10-12,Panama,Peru,1,0,Friendly,Panama,8,-8,1605,1623,4,-3,58,53
+2010-10-12,Philippines,Macao,5,0,Long Teng Cup,Taiwan,18,-18,860,673,0,-2,205,220
+2010-10-12,Qatar,Iraq,1,2,Friendly,Qatar,-12,12,1511,1566,-1,6,84,70
+2010-10-12,San Marino,Moldova,0,2,European Championship qualifier,San Marino,-4,4,908,1469,0,0,196,94
+2010-10-12,Saudi Arabia,Gabon,1,0,Friendly,Turkey,7,-7,1685,1575,1,-1,41,67
+2010-10-12,Scotland,Spain,2,3,European Championship qualifier,Scotland,-4,4,1656,2142,0,0,46,1
+2010-10-12,Slovakia,Ireland,1,1,European Championship qualifier,Slovakia,-1,1,1671,1751,0,-1,44,27
+2010-10-12,South Korea,Japan,0,0,Friendly,South Korea,-2,2,1735,1785,-3,1,32,19
+2010-10-12,Switzerland,Wales,4,1,European Championship qualifier,Switzerland,12,-12,1754,1551,3,-3,25,74
+2010-10-12,United Arab Emirates,Angola,0,2,Friendly,the United Arab Emirates,-20,20,1429,1458,-6,7,106,97
+2010-10-12,United States,Colombia,0,0,Friendly,the United States,-3,3,1753,1769,-1,0,26,24
+2010-10-13,Guyana,Saint Lucia,1,0,CONCACAF Champ & Carib Champ q,Suriname,11,-11,1273,1074,2,-1,138,179
+2010-10-13,India,Yemen,3,6,Friendly,India,-15,15,1165,1336,-5,4,164,123
+2010-10-13,Suriname,Netherlands Antilles,2,1,CONCACAF Champ & Carib Champ q,Suriname,9,-9,1257,1127,1,0,141,172
+2010-10-14,Dominican Republic,British Virgin Islands,17,0,CONCACAF Champ & Carib Champ q,the Dominican Republic,25,-25,1069,852,1,-4,180,205
+2010-10-15,Dominica,British Virgin Islands,10,0,CONCACAF Champ & Carib Champ q,the Dominican Republic,26,-26,1073,826,2,0,179,205
+2010-10-15,Guyana,Netherlands Antilles,3,2,CONCACAF Champ & Carib Champ q,Suriname,12,-12,1285,1115,4,-2,134,174
+2010-10-15,Suriname,Saint Lucia,2,1,CONCACAF Champ & Carib Champ q,Suriname,7,-7,1264,1067,1,-2,140,181
+2010-10-17,Dominican Republic,Dominica,0,1,CONCACAF Champ & Carib Champ q,the Dominican Republic,-25,25,1044,1098,-1,3,181,176
+2010-10-17,Netherlands Antilles,Saint Lucia,2,2,CONCACAF Champ & Carib Champ q,Suriname,-3,3,1112,1070,0,1,174,180
+2010-10-17,Suriname,Guyana,0,2,CONCACAF Champ & Carib Champ q,Suriname,-37,37,1227,1322,-7,6,147,128
+2010-10-22,Grenada,Puerto Rico,3,1,CONCACAF Champ & Carib Champ q,Grenada,7,-7,1274,1011,0,-1,139,187
+2010-10-22,Guadeloupe,Saint Kitts and Nevis,2,1,CONCACAF Champ & Carib Champ q,Grenada,7,-7,1461,1171,4,-2,96,161
+2010-10-22,Laos,Cambodia,0,0,Southeast Asian Championship qual,Laos,-10,10,864,788,-1,1,202,209
+2010-10-22,Philippines,East Timor,5,0,Southeast Asian Championship qual,Laos,12,-12,872,555,3,-2,201,232
+2010-10-24,Cambodia,East Timor,4,2,Southeast Asian Championship qual,Laos,12,-12,800,543,2,0,207,232
+2010-10-24,Grenada,Saint Kitts and Nevis,2,0,CONCACAF Champ & Carib Champ q,Grenada,14,-14,1288,1157,4,-6,135,167
+2010-10-24,Guadeloupe,Puerto Rico,3,2,CONCACAF Champ & Carib Champ q,Grenada,3,-3,1464,1008,1,0,95,187
+2010-10-24,Laos,Philippines,2,2,Southeast Asian Championship qual,Laos,-5,5,859,877,-2,0,204,201
+2010-10-26,Cambodia,Philippines,0,0,Southeast Asian Championship qual,Laos,4,-4,804,873,0,0,207,201
+2010-10-26,Grenada,Guadeloupe,0,3,CONCACAF Champ & Carib Champ q,Grenada,-27,27,1261,1491,-5,4,140,91
+2010-10-26,Laos,East Timor,6,1,Southeast Asian Championship qual,Laos,7,-7,866,536,2,0,202,232
+2010-10-26,Panama,Cuba,0,3,Friendly,Panama,-29,29,1576,1475,-8,6,66,95
+2010-10-26,Saint Kitts and Nevis,Puerto Rico,1,0,CONCACAF Champ & Carib Champ q,Grenada,12,-12,1169,996,5,0,162,187
+2010-10-27,Botswana,Swaziland,2,0,Friendly,Botswana,4,-4,1406,1147,2,-1,108,170
+2010-10-28,Yemen,Senegal,4,1,Friendly,Yemen,25,-25,1361,1568,4,-8,119,69
+2010-10-29,Curaçao,Aruba,3,0,ABCS Tournament,Curaçao,8,-8,1120,896,0,-1,174,198
+2010-10-29,Suriname,Bonaire,4,2,ABCS Tournament,Curaçao,14,-14,1241,1076,4,0,143,178
+2010-10-31,Aruba,Bonaire,3,3,ABCS Tournament,Curaçao,7,-7,903,1069,1,-2,197,180
+2010-10-31,Curaçao,Suriname,2,2,ABCS Tournament,Curaçao,1,-1,1121,1240,0,-2,174,145
+2010-11-02,Guyana,Haiti,0,0,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,6,-6,1328,1423,4,-1,124,107
+2010-11-02,North Korea,Singapore,2,1,Vietnam FF Cup,Vietnam,9,-9,1501,1339,2,0,88,122
+2010-11-02,Trinidad and Tobago,Saint Vincent and the Grenadines,6,2,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,7,-7,1517,1217,2,-4,83,152
+2010-11-04,Haiti,Saint Vincent and the Grenadines,3,1,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,14,-14,1437,1203,2,-2,105,154
+2010-11-04,Trinidad and Tobago,Guyana,2,1,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,6,-6,1523,1322,0,-3,83,127
+2010-11-04,Vietnam,Singapore,1,1,Vietnam FF Cup,Vietnam,-4,4,1320,1343,0,0,128,122
+2010-11-06,Guyana,Saint Vincent and the Grenadines,2,0,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,20,-20,1342,1183,4,-4,123,158
+2010-11-06,Trinidad and Tobago,Haiti,4,0,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,19,-19,1542,1418,6,-2,77,107
+2010-11-06,Vietnam,North Korea,0,2,Vietnam FF Cup,Vietnam,-17,17,1303,1518,-3,4,131,84
+2010-11-07,Yemen,Uganda,2,2,Friendly,Yemen,3,-3,1364,1554,0,-1,119,73
+2010-11-10,Antigua and Barbuda,Suriname,2,1,CONCACAF Champ & Carib Champ q,Antigua and Barbuda,14,-14,1255,1226,1,-2,142,147
+2010-11-10,Bahrain,Uganda,0,0,Friendly,Bahrain,-2,2,1536,1556,0,0,79,73
+2010-11-10,Cuba,Dominica,4,2,CONCACAF Champ & Carib Champ q,Antigua and Barbuda,6,-6,1481,1092,1,0,94,176
+2010-11-10,Yemen,North Korea,1,1,Friendly,Yemen,2,-2,1366,1516,0,0,119,84
+2010-11-11,Iraq,India,2,0,Friendly,the United Arab Emirates,3,-3,1569,1162,2,-1,68,165
+2010-11-12,Antigua and Barbuda,Dominica,0,0,CONCACAF Champ & Carib Champ q,Antigua and Barbuda,-13,13,1242,1105,-1,0,143,176
+2010-11-12,Cuba,Suriname,3,3,CONCACAF Champ & Carib Champ q,Antigua and Barbuda,-13,13,1468,1239,-2,2,96,145
+2010-11-14,Antigua and Barbuda,Cuba,0,0,CONCACAF Champ & Carib Champ q,Antigua and Barbuda,7,-7,1249,1461,0,-1,143,97
+2010-11-14,Bahrain,Syria,0,2,Friendly,Bahrain,-20,20,1516,1534,-5,4,84,81
+2010-11-14,Kuwait,India,9,1,Friendly,the United Arab Emirates,5,-5,1545,1157,1,-2,77,167
+2010-11-14,Suriname,Dominica,5,0,CONCACAF Champ & Carib Champ q,Antigua and Barbuda,25,-25,1264,1080,6,-1,139,177
+2010-11-16,Cape Verde,Guinea-Bissau,2,1,Friendly,Portugal,6,-6,1399,1238,2,-1,111,145
+2010-11-16,Jordan,Cyprus,0,0,Friendly,Jordan,-1,1,1481,1551,0,1,93,74
+2010-11-16,Saudi Arabia,Uganda,0,0,Friendly,the United Arab Emirates,-4,4,1681,1560,-2,1,43,72
+2010-11-16,Scotland,Faroe Islands,3,0,Friendly,Scotland,1,-1,1657,1209,0,0,46,152
+2010-11-17,Albania,Macedonia,0,0,Friendly,Albania,-2,2,1527,1571,1,1,81,67
+2010-11-17,Argentina,Brazil,1,0,Friendly,Qatar,14,-14,1993,2095,0,-1,5,3
+2010-11-17,Austria,Greece,1,2,Friendly,Austria,-9,9,1604,1748,-3,2,58,27
+2010-11-17,Botswana,Tunisia,1,0,African Nations Cup qualifier,Botswana,25,-25,1431,1574,2,-8,106,66
+2010-11-17,Bulgaria,Serbia,0,1,Friendly,Bulgaria,-12,12,1703,1740,-2,4,37,29
+2010-11-17,Burkina Faso,Guinea,2,1,Friendly,France,11,-11,1506,1513,1,-3,89,86
+2010-11-17,Chile,Uruguay,2,0,Friendly,Chile,12,-12,1893,1891,0,-2,9,10
+2010-11-17,China,Latvia,1,0,Friendly,China,5,-5,1614,1531,1,-1,56,80
+2010-11-17,Colombia,Peru,1,1,Friendly,Colombia,-6,6,1763,1629,-1,1,25,52
+2010-11-17,Costa Rica,Jamaica,0,0,Friendly,the United States,-1,1,1668,1625,1,-2,44,54
+2010-11-17,Croatia,Malta,3,0,European Championship qualifier,Croatia,1,-1,1912,1203,0,0,7,153
+2010-11-17,Denmark,Czechia,0,0,Friendly,Denmark,-3,3,1733,1740,-2,1,33,29
+2010-11-17,Ecuador,Venezuela,4,1,Friendly,Ecuador,13,-13,1727,1703,2,-3,34,37
+2010-11-17,Egypt,Australia,3,0,Friendly,Egypt,13,-13,1792,1775,4,-5,18,22
+2010-11-17,England,France,1,2,Friendly,England,-16,16,1924,1802,0,1,6,17
+2010-11-17,Estonia,Liechtenstein,1,1,Friendly,Estonia,-9,9,1490,1170,-3,3,92,162
+2010-11-17,Finland,San Marino,8,0,European Championship qualifier,Finland,1,-1,1593,907,1,0,60,196
+2010-11-17,Ghana,Saudi Arabia,0,0,Friendly,the United Arab Emirates,-2,2,1741,1683,0,1,28,42
+2010-11-17,Guatemala,Guyana,3,0,Friendly,the United States,13,-13,1457,1329,4,-1,98,124
+2010-11-17,Hong Kong,Paraguay,0,7,Friendly,Hong Kong,-3,3,1219,1784,-1,0,151,20
+2010-11-17,Hungary,Lithuania,2,0,Friendly,Hungary,10,-10,1641,1588,0,-2,51,62
+2010-11-17,Iraq,Kuwait,1,1,Friendly,the United Arab Emirates,-1,1,1568,1546,-2,1,70,76
+2010-11-17,Ireland,Norway,1,2,Friendly,Ireland,-12,12,1739,1808,-4,1,31,15
+2010-11-17,Israel,Iceland,3,2,Friendly,Israel,2,-2,1686,1435,1,0,41,105
+2010-11-17,Italy,Romania,1,1,Friendly,Austria,-4,4,1831,1712,1,3,12,36
+2010-11-17,Libya,Niger,1,1,Libyana Cup,Libya,-11,11,1525,1305,-3,1,82,131
+2010-11-17,Luxembourg,Algeria,0,0,Friendly,Luxembourg,6,-6,1113,1457,0,-2,175,98
+2010-11-17,Malawi,Rwanda,2,1,Friendly,Malawi,6,-6,1401,1344,2,0,110,121
+2010-11-17,Mali,DR Congo,3,1,Friendly,France,11,-11,1521,1392,4,-2,83,112
+2010-11-17,Montenegro,Azerbaijan,2,0,Friendly,Montenegro,4,-4,1716,1457,2,-1,35,98
+2010-11-17,Netherlands,Turkey,1,0,Friendly,the Netherlands,2,-2,2104,1777,1,1,2,21
+2010-11-17,Northern Ireland,Morocco,1,1,Friendly,Northern Ireland,-3,3,1576,1569,-1,2,65,69
+2010-11-17,Oman,Belarus,0,4,Friendly,Oman,-19,19,1538,1665,-5,4,78,46
+2010-11-17,Panama,Honduras,2,0,Friendly,Panama,15,-15,1591,1670,4,-2,61,43
+2010-11-17,Poland,Ivory Coast,3,1,Friendly,Poland,16,-16,1667,1765,2,-4,45,24
+2010-11-17,Portugal,Spain,4,0,Friendly,Portugal,27,-27,1898,2115,2,0,8,1
+2010-11-17,Russia,Belgium,0,2,Friendly,Russia,-27,27,1826,1619,-2,6,13,55
+2010-11-17,Senegal,Gabon,2,1,Friendly,France,10,-10,1578,1565,6,-5,64,71
+2010-11-17,Slovakia,Bosnia and Herzegovina,2,3,Friendly,Slovakia,-14,14,1657,1627,-3,2,47,53
+2010-11-17,Slovenia,Georgia,1,2,Friendly,Slovenia,-17,17,1692,1505,-2,2,40,90
+2010-11-17,South Africa,United States,0,1,Nelson Mandela Challenge Cup,South Africa,-14,14,1606,1767,-3,3,57,23
+2010-11-17,Sweden,Germany,0,0,Friendly,Sweden,4,-4,1812,2067,0,0,14,4
+2010-11-17,Switzerland,Ukraine,2,2,Friendly,Switzerland,-1,1,1753,1808,-1,0,26,15
+2010-11-17,Tajikistan,Afghanistan,1,0,Friendly,Tajikistan,1,-1,1284,778,0,0,136,210
+2010-11-17,Togo,Chad,0,0,African Nations Cup qualifier,Togo,-13,13,1381,1237,-1,2,114,146
+2010-11-18,Qatar,Haiti,0,1,Friendly,Qatar,-15,15,1496,1433,-3,2,90,106
+2010-11-18,United Arab Emirates,India,5,0,Friendly,the United Arab Emirates,4,-4,1433,1153,1,0,106,167
+2010-11-21,Indonesia,East Timor,6,0,Friendly,Indonesia,0,0,1264,536,0,0,139,232
+2010-11-22,Kuwait,Qatar,1,0,Gulf Cup,Yemen,17,-17,1563,1479,4,-4,72,94
+2010-11-22,Yemen,Saudi Arabia,0,4,Gulf Cup,Yemen,-17,17,1349,1700,-1,3,120,39
+2010-11-23,Bahrain,Oman,1,1,Gulf Cup,Yemen,1,-1,1517,1537,0,0,84,78
+2010-11-23,Iraq,United Arab Emirates,0,0,Gulf Cup,Yemen,-7,7,1561,1440,-2,2,72,104
+2010-11-23,Tanzania,Kenya,1,0,Friendly,Tanzania,7,-7,1335,1320,1,-1,124,127
+2010-11-24,Indonesia,Taiwan,2,0,Friendly,Indonesia,2,-2,1266,926,0,0,139,193
+2010-11-25,Kuwait,Saudi Arabia,0,0,Gulf Cup,Yemen,8,-8,1571,1692,4,-1,67,40
+2010-11-25,Yemen,Qatar,1,2,Gulf Cup,Yemen,-18,18,1331,1497,-4,4,124,90
+2010-11-26,Cuba,Trinidad and Tobago,2,0,CONCACAF Champ q & Carib Champ,Martinique,37,-37,1498,1505,6,-10,90,87
+2010-11-26,Iraq,Bahrain,3,2,Gulf Cup,Yemen,17,-17,1578,1500,8,-5,64,89
+2010-11-26,Martinique,Grenada,1,1,CONCACAF Champ q & Carib Champ,Martinique,-11,11,1375,1272,-5,2,118,139
+2010-11-26,Oman,United Arab Emirates,0,0,Gulf Cup,Yemen,-5,5,1532,1445,0,1,78,103
+2010-11-26,Singapore,Laos,4,0,Friendly,Singapore,1,-1,1344,865,1,0,120,202
+2010-11-27,Guadeloupe,Guyana,1,1,CONCACAF Champ q & Carib Champ,Martinique,-9,9,1482,1338,-1,2,93,123
+2010-11-27,Jamaica,Antigua and Barbuda,3,1,CONCACAF Champ q & Carib Champ,Martinique,6,-6,1631,1243,2,0,52,143
+2010-11-27,Tanzania,Zambia,0,1,CECAFA Cup,Tanzania,-14,14,1321,1563,-3,3,126,73
+2010-11-28,Burundi,Somalia,2,0,CECAFA Cup,Tanzania,10,-10,1208,912,1,0,153,195
+2010-11-28,Grenada,Trinidad and Tobago,1,0,CONCACAF Champ q & Carib Champ,Martinique,32,-32,1304,1473,7,-8,132,95
+2010-11-28,Martinique,Cuba,0,1,CONCACAF Champ q & Carib Champ,Martinique,-19,19,1356,1517,-1,7,119,83
+2010-11-28,Qatar,Saudi Arabia,1,1,Gulf Cup,Yemen,10,-10,1507,1682,4,-2,87,42
+2010-11-28,Rwanda,Ivory Coast,2,1,CECAFA Cup,Tanzania,37,-37,1381,1728,7,-9,113,33
+2010-11-28,Yemen,Kuwait,0,3,Gulf Cup,Yemen,-22,22,1309,1593,-6,8,130,60
+2010-11-28,Zanzibar,Sudan,2,0,CECAFA Cup,Tanzania,34,-34,1342,1317,9,-10,121,129
+2010-11-29,Antigua and Barbuda,Guyana,1,0,CONCACAF Champ q & Carib Champ,Martinique,25,-25,1268,1313,3,-5,140,128
+2010-11-29,Iraq,Oman,0,0,Gulf Cup,Yemen,-3,3,1575,1535,-2,1,67,77
+2010-11-29,Jamaica,Guadeloupe,2,0,CONCACAF Champ q & Carib Champ,Martinique,18,-18,1649,1464,2,-5,50,97
+2010-11-29,Malawi,Kenya,3,2,CECAFA Cup,Tanzania,15,-15,1416,1305,1,-4,109,130
+2010-11-29,United Arab Emirates,Bahrain,3,1,Gulf Cup,Yemen,35,-35,1480,1465,11,-6,92,96
+2010-11-29,Uganda,Ethiopia,2,1,CECAFA Cup,Tanzania,7,-7,1567,1271,2,0,72,139
+2010-11-30,Burundi,Zambia,0,0,CECAFA Cup,Tanzania,15,-15,1223,1548,3,-2,150,76
+2010-11-30,Cuba,Grenada,0,0,CONCACAF Champ q & Carib Champ,Martinique,-11,11,1506,1315,-4,4,87,128
+2010-11-30,Martinique,Trinidad and Tobago,0,1,CONCACAF Champ q & Carib Champ,Martinique,-19,19,1337,1492,-3,4,122,90
+2010-11-30,Tanzania,Somalia,3,0,CECAFA Cup,Tanzania,4,-4,1325,908,0,0,124,195
+2010-12-01,Guadeloupe,Antigua and Barbuda,1,0,CONCACAF Champ q & Carib Champ,Martinique,10,-10,1474,1258,2,-2,95,142
+2010-12-01,Indonesia,Malaysia,5,1,Southeast Asian Championship,Indonesia,19,-19,1285,1156,5,-6,136,166
+2010-12-01,Ivory Coast,Zanzibar,1,0,CECAFA Cup,Tanzania,4,-4,1732,1338,0,-1,33,121
+2010-12-01,Jamaica,Guyana,4,0,CONCACAF Champ q & Carib Champ,Martinique,9,-9,1658,1304,3,-3,47,132
+2010-12-01,Laos,Thailand,2,2,Southeast Asian Championship,Indonesia,19,-19,884,1437,1,-3,201,105
+2010-12-01,Rwanda,Sudan,0,0,CECAFA Cup,Tanzania,-4,4,1377,1321,-5,2,118,125
+2010-12-02,Ethiopia,Kenya,2,1,CECAFA Cup,Tanzania,22,-22,1293,1283,7,-9,133,139
+2010-12-02,Iraq,Kuwait,2,2,Gulf Cup,Yemen,1,-1,1576,1592,1,-1,66,61
+2010-12-02,Malawi,Uganda,1,1,CECAFA Cup,Tanzania,8,-8,1424,1559,0,-1,109,73
+2010-12-02,Philippines,Singapore,1,1,Southeast Asian Championship,Vietnam,18,-18,891,1326,2,-4,200,123
+2010-12-02,Saudi Arabia,United Arab Emirates,1,0,Gulf Cup,Yemen,10,-10,1692,1470,2,-2,40,95
+2010-12-02,Vietnam,Myanmar,7,1,Southeast Asian Championship,Vietnam,17,-17,1320,1150,7,-5,126,168
+2010-12-03,Guadeloupe,Cuba,2,1,Caribbean Championship,Martinique,22,-22,1496,1484,5,-5,89,92
+2010-12-03,Jamaica,Grenada,2,1,Caribbean Championship,Martinique,5,-5,1663,1310,0,0,47,129
+2010-12-03,Rwanda,Zanzibar,0,0,CECAFA Cup,Tanzania,-2,2,1375,1340,0,1,118,119
+2010-12-03,Zambia,Somalia,6,0,CECAFA Cup,Tanzania,2,-2,1550,906,0,-1,76,196
+2010-12-04,Ethiopia,Malawi,1,1,CECAFA Cup,Tanzania,7,-7,1300,1417,0,0,133,109
+2010-12-04,Indonesia,Laos,6,0,Southeast Asian Championship,Indonesia,5,-5,1290,879,1,0,135,202
+2010-12-04,Malaysia,Thailand,0,0,Southeast Asian Championship,Indonesia,13,-13,1169,1424,3,-3,162,108
+2010-12-04,Tanzania,Burundi,2,0,CECAFA Cup,Tanzania,14,-14,1339,1209,4,-2,120,152
+2010-12-05,Cuba,Grenada,1,0,Caribbean Championship,Martinique,11,-11,1495,1299,2,-3,90,132
+2010-12-05,Guadeloupe,Jamaica,1,1,Caribbean Championship,Martinique,9,-9,1505,1654,1,-2,88,49
+2010-12-05,Ivory Coast,Sudan,3,0,CECAFA Cup,Tanzania,6,-6,1738,1315,2,-2,31,127
+2010-12-05,Kuwait,Saudi Arabia,1,0,Gulf Cup,Yemen,26,-26,1618,1666,5,-5,56,45
+2010-12-05,Singapore,Myanmar,2,1,Southeast Asian Championship,Vietnam,11,-11,1337,1139,2,-3,122,171
+2010-12-05,Uganda,Kenya,2,0,CECAFA Cup,Tanzania,10,-10,1569,1273,2,0,71,139
+2010-12-05,Vietnam,Philippines,0,2,Southeast Asian Championship,Vietnam,-57,57,1263,948,-15,9,141,191
+2010-12-07,Ethiopia,Zambia,2,1,CECAFA Cup,Tanzania,32,-32,1332,1518,7,-6,124,82
+2010-12-07,Indonesia,Thailand,2,1,Southeast Asian Championship,Indonesia,22,-22,1312,1402,5,-2,129,110
+2010-12-07,Ivory Coast,Malawi,1,0,CECAFA Cup,Tanzania,5,-5,1743,1412,4,1,27,108
+2010-12-07,Malaysia,Laos,5,1,Southeast Asian Championship,Indonesia,12,-12,1181,867,3,0,159,202
+2010-12-08,Myanmar,Philippines,0,0,Southeast Asian Championship,Vietnam,-10,10,1129,958,0,1,171,190
+2010-12-08,Tanzania,Rwanda,1,0,CECAFA Cup,Tanzania,16,-16,1355,1359,1,0,119,118
+2010-12-08,Uganda,Zanzibar,2,2,CECAFA Cup,Tanzania,-12,12,1557,1352,-2,-1,73,120
+2010-12-08,Vietnam,Singapore,1,0,Southeast Asian Championship,Vietnam,19,-19,1282,1318,3,-4,138,126
+2010-12-10,Bosnia and Herzegovina,Poland,2,2,Friendly,Turkey,1,-1,1628,1666,0,0,54,44
+2010-12-10,Ivory Coast,Ethiopia,1,0,CECAFA Cup,Tanzania,3,-3,1746,1329,0,0,27,123
+2010-12-10,Tanzania,Uganda,0,0,CECAFA Cup,Tanzania,6,-6,1361,1551,1,0,118,73
+2010-12-12,Tanzania,Ivory Coast,1,0,CECAFA Cup,Tanzania,34,-34,1395,1712,6,-8,112,35
+2010-12-12,Uganda,Ethiopia,4,3,CECAFA Cup,Tanzania,9,-9,1560,1320,0,-1,73,124
+2010-12-15,Malaysia,Vietnam,2,0,Southeast Asian Championship,Malaysia,30,-30,1211,1252,7,-5,152,143
+2010-12-16,Indonesia,Philippines,1,0,Southeast Asian Championship,Indonesia,3,-3,1315,955,1,-1,128,191
+2010-12-16,Qatar,Egypt,2,1,Friendly,Qatar,15,-15,1522,1777,5,-2,81,20
+2010-12-18,China,Estonia,3,0,Friendly,China,8,-8,1622,1482,2,0,55,92
+2010-12-18,Honduras,Panama,2,1,Friendly,Honduras,5,-5,1675,1586,0,-1,42,63
+2010-12-18,Iraq,Syria,0,1,Friendly,Iraq,-14,14,1562,1548,-6,1,72,76
+2010-12-18,Vietnam,Malaysia,0,0,Southeast Asian Championship,Vietnam,-8,8,1244,1219,0,1,143,151
+2010-12-19,Indonesia,Philippines,1,0,Southeast Asian Championship,Indonesia,3,-3,1318,952,2,0,126,191
+2010-12-22,China,Macedonia,1,0,Friendly,China,6,-6,1628,1565,1,-3,54,71
+2010-12-22,Qatar,Estonia,2,0,Friendly,Qatar,9,-9,1531,1473,3,-2,78,94
+2010-12-22,Syria,Iraq,0,1,Friendly,Syria,-12,12,1536,1574,0,5,76,67
+2010-12-24,Kuwait,North Korea,2,1,Friendly,Egypt,7,-7,1625,1509,1,-1,56,85
+2010-12-25,Bahrain,Uzbekistan,1,1,Friendly,the United Arab Emirates,1,-1,1466,1507,0,0,97,86
+2010-12-26,Malaysia,Indonesia,3,0,Southeast Asian Championship,Malaysia,35,-35,1254,1283,8,-11,143,137
+2010-12-27,Kuwait,North Korea,2,2,Friendly,Egypt,-3,3,1622,1512,0,0,56,85
+2010-12-28,Algeria,Chad,3,1,Friendly,Algeria,4,-4,1461,1233,1,-1,98,148
+2010-12-28,Bahrain,Jordan,2,1,Friendly,the United Arab Emirates,10,-10,1476,1471,4,-3,93,95
+2010-12-28,Qatar,Iran,0,0,Friendly,Qatar,2,-2,1533,1693,0,0,78,39
+2010-12-28,Saudi Arabia,Iraq,0,1,Friendly,Saudi Arabia,-15,15,1651,1589,-5,5,49,62
+2010-12-29,Indonesia,Malaysia,2,1,Southeast Asian Championship,Indonesia,13,-13,1296,1241,4,-1,133,144
+2010-12-30,South Korea,Syria,1,0,Friendly,the United Arab Emirates,5,-5,1740,1531,3,-2,28,78
+2010-12-31,Bahrain,Saudi Arabia,0,1,Friendly,Bahrain,-8,8,1468,1659,-4,3,97,46
+2010-12-31,Kuwait,Zambia,4,0,Friendly,Egypt,13,-13,1635,1505,3,-4,53,87
+2010-12-31,Qatar,North Korea,0,1,Friendly,Qatar,-13,13,1520,1525,-6,5,83,80

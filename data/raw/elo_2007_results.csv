@@ -1,0 +1,989 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2007-01-06,Martinique,Guadeloupe,3,0,Friendly,Martinique,13,-13,1389,1381,3,-4,105,108
+2007-01-07,Haiti,Bermuda,2,0,CONCACAF Champ & Carib Cup qual,Trinidad and Tobago,12,-12,1450,1188,1,0,96,158
+2007-01-07,Singapore,Philippines,4,1,Friendly,Singapore,1,-1,1290,767,0,0,133,211
+2007-01-07,Yemen,Eritrea,4,1,Friendly,Yemen,9,-9,1233,1119,4,-1,146,170
+2007-01-08,Saudi Arabia,Gambia,3,0,Friendly,Saudi Arabia,4,-4,1583,1342,0,-1,61,120
+2007-01-09,Haiti,Bermuda,3,0,CONCACAF Champ & Carib Cup qual,Trinidad and Tobago,13,-13,1463,1175,2,-9,94,167
+2007-01-11,Costa Rica,Nicaragua,2,0,Friendly,Costa Rica,1,-1,1634,1029,0,0,51,184
+2007-01-11,Saudi Arabia,Syria,2,1,Friendly,Saudi Arabia,5,-5,1588,1472,1,-1,60,91
+2007-01-12,Bahrain,Yemen,4,0,Friendly,the United Arab Emirates,7,-7,1490,1226,2,-4,86,150
+2007-01-12,Haiti,Martinique,1,0,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,16,-16,1479,1373,4,-5,90,110
+2007-01-12,Malaysia,Philippines,4,0,Southeast Asian Championship,Thailand,6,-6,1187,761,6,0,158,211
+2007-01-12,Thailand,Myanmar,1,1,Southeast Asian Championship,Thailand,-14,14,1342,1177,-3,1,119,167
+2007-01-12,Trinidad and Tobago,Barbados,1,1,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,-15,15,1536,1336,-3,3,76,121
+2007-01-12,United Arab Emirates,Iran,0,2,Friendly,the United Arab Emirates,-7,7,1482,1790,-2,2,88,21
+2007-01-13,Indonesia,Laos,3,1,Southeast Asian Championship,Singapore,7,-7,1290,913,1,0,133,197
+2007-01-13,Qatar,Oman,1,1,Friendly,Qatar,-2,2,1545,1566,0,1,73,66
+2007-01-13,Singapore,Vietnam,0,0,Southeast Asian Championship,Singapore,-9,9,1281,1233,-1,5,134,146
+2007-01-14,Armenia,Panama,1,1,Friendly,the United States,3,-3,1389,1499,0,0,106,84
+2007-01-14,Guadeloupe,Cuba,2,1,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,30,-30,1411,1547,5,-10,102,72
+2007-01-14,Malaysia,Myanmar,0,0,Southeast Asian Championship,Thailand,-1,1,1186,1178,0,0,158,167
+2007-01-14,Saint Vincent and the Grenadines,Guyana,2,0,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,28,-28,1385,1302,7,-8,108,130
+2007-01-14,Thailand,Philippines,4,0,Southeast Asian Championship,Thailand,1,-1,1343,760,0,0,119,211
+2007-01-14,Venezuela,Sweden,2,0,Friendly,Venezuela,21,-21,1648,1849,4,-1,50,14
+2007-01-15,Haiti,Barbados,2,0,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,18,-18,1497,1318,5,-2,85,123
+2007-01-15,Indonesia,Vietnam,1,1,Southeast Asian Championship,Singapore,-3,3,1287,1236,-1,0,134,146
+2007-01-15,Singapore,Laos,11,0,Southeast Asian Championship,Singapore,7,-7,1288,906,1,0,133,197
+2007-01-15,Trinidad and Tobago,Martinique,5,1,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,14,-14,1550,1359,4,-3,72,114
+2007-01-16,Cuba,Saint Vincent and the Grenadines,3,0,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,20,-20,1567,1365,8,-4,65,112
+2007-01-16,Guyana,Guadeloupe,4,3,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,26,-26,1328,1385,9,-5,121,107
+2007-01-16,Myanmar,Philippines,0,0,Southeast Asian Championship,Thailand,-17,17,1161,777,-1,1,168,210
+2007-01-16,Thailand,Malaysia,1,0,Southeast Asian Championship,Thailand,7,-7,1350,1179,1,-7,118,165
+2007-01-17,Kuwait,Yemen,1,1,Gulf Cup,the United Arab Emirates,-12,12,1460,1238,-3,4,95,147
+2007-01-17,Martinique,Barbados,3,2,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,18,-18,1377,1300,6,-6,108,130
+2007-01-17,Singapore,Indonesia,2,2,Southeast Asian Championship,Singapore,-6,6,1282,1293,-1,1,134,133
+2007-01-17,Trinidad and Tobago,Haiti,3,1,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,18,-18,1568,1479,7,-4,66,89
+2007-01-17,United Arab Emirates,Oman,1,2,Gulf Cup,the United Arab Emirates,-21,21,1461,1587,-5,5,94,61
+2007-01-17,Vietnam,Laos,9,0,Southeast Asian Championship,Singapore,13,-13,1249,893,2,-3,144,200
+2007-01-18,Cuba,Guyana,0,0,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,-12,12,1555,1340,-5,0,72,121
+2007-01-18,Ecuador,Sweden,2,1,Friendly,Ecuador,10,-10,1771,1839,2,-2,28,16
+2007-01-18,Guadeloupe,Saint Vincent and the Grenadines,1,0,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,19,-19,1404,1346,4,-5,103,118
+2007-01-18,Iraq,Qatar,1,0,Gulf Cup,the United Arab Emirates,17,-17,1616,1528,2,-4,55,78
+2007-01-18,Saudi Arabia,Bahrain,2,1,Gulf Cup,the United Arab Emirates,15,-15,1603,1475,3,-3,57,89
+2007-01-20,Haiti,Guadeloupe,3,1,Caribbean Cup,Trinidad and Tobago,24,-24,1503,1380,4,-4,84,107
+2007-01-20,Oman,Kuwait,2,1,Gulf Cup,the United Arab Emirates,13,-13,1600,1447,2,-1,59,96
+2007-01-20,Trinidad and Tobago,Cuba,3,1,Caribbean Cup,Trinidad and Tobago,21,-21,1589,1534,5,-4,61,76
+2007-01-20,United Arab Emirates,Yemen,2,1,Gulf Cup,the United Arab Emirates,5,-5,1466,1233,1,0,93,147
+2007-01-21,Bahrain,Iraq,1,1,Gulf Cup,the United Arab Emirates,8,-8,1483,1608,1,0,88,55
+2007-01-21,Ecuador,Sweden,1,1,Friendly,Ecuador,-1,1,1770,1840,0,0,28,16
+2007-01-21,Qatar,Saudi Arabia,1,1,Gulf Cup,the United Arab Emirates,4,-4,1532,1599,1,-2,77,59
+2007-01-23,Cuba,Guadeloupe,2,1,Caribbean Cup,Trinidad and Tobago,12,-12,1546,1368,3,-4,73,111
+2007-01-23,Malaysia,Singapore,1,1,Southeast Asian Championship,Malaysia,0,0,1179,1282,0,0,165,134
+2007-01-23,Oman,Yemen,2,1,Gulf Cup,the United Arab Emirates,4,-4,1604,1229,1,-3,57,150
+2007-01-23,Trinidad and Tobago,Haiti,1,2,Caribbean Cup,Trinidad and Tobago,-30,30,1559,1533,-9,7,70,77
+2007-01-23,United Arab Emirates,Kuwait,3,2,Gulf Cup,the United Arab Emirates,13,-13,1479,1434,3,-2,90,98
+2007-01-24,Bahrain,Qatar,2,1,Gulf Cup,the United Arab Emirates,23,-23,1506,1509,5,-3,83,81
+2007-01-24,Saudi Arabia,Iraq,1,0,Gulf Cup,the United Arab Emirates,21,-21,1620,1587,4,-6,55,61
+2007-01-24,Vietnam,Thailand,0,2,Southeast Asian Championship,Vietnam,-30,30,1219,1380,-8,10,152,107
+2007-01-24,Zanzibar,Northern Cyprus,2,1,Friendly,Zanzibar,14,-14,1225,1455,2,-2,151,95
+2007-01-27,Oman,Bahrain,1,0,Gulf Cup,the United Arab Emirates,15,-15,1619,1491,2,-5,55,88
+2007-01-27,Singapore,Malaysia,1,1,Southeast Asian Championship,Singapore,-11,11,1271,1190,-4,7,138,158
+2007-01-27,United Arab Emirates,Saudi Arabia,1,0,Gulf Cup,the United Arab Emirates,22,-22,1501,1598,5,-3,85,58
+2007-01-28,Thailand,Vietnam,0,0,Southeast Asian Championship,Thailand,-13,13,1367,1232,-5,6,112,146
+2007-01-30,United Arab Emirates,Oman,1,0,Gulf Cup,the United Arab Emirates,21,-21,1522,1598,5,-2,80,57
+2007-01-31,Panama,Trinidad and Tobago,2,1,Friendly,Panama,9,-9,1508,1550,2,-2,84,72
+2007-01-31,Singapore,Thailand,2,1,Southeast Asian Championship,Singapore,20,-20,1291,1347,4,-5,134,117
+2007-02-03,Poland,Estonia,4,0,Friendly,Spain,4,-4,1783,1402,1,0,24,102
+2007-02-04,Costa Rica,Trinidad and Tobago,4,0,Friendly,Costa Rica,10,-10,1644,1540,1,-3,51,75
+2007-02-04,Thailand,Singapore,1,1,Southeast Asian Championship,Thailand,-8,8,1339,1299,-4,3,121,131
+2007-02-06,Botswana,Namibia,1,0,Friendly,Botswana,5,-5,1308,1198,1,-1,128,157
+2007-02-06,Bulgaria,Latvia,2,0,Friendly tournament,Cyprus,9,-9,1744,1478,2,-1,36,90
+2007-02-06,Cyprus,Hungary,2,1,Friendly tournament,Cyprus,14,-14,1520,1571,4,-2,81,64
+2007-02-06,Denmark,Australia,3,1,Friendly,England,9,-9,1911,1752,-1,-3,9,34
+2007-02-06,Ghana,Nigeria,4,1,Friendly,England,19,-19,1771,1762,7,-6,27,31
+2007-02-06,Ivory Coast,Guinea,1,0,Friendly,France,5,-5,1779,1569,2,-2,25,66
+2007-02-06,Mali,Lithuania,3,1,Friendly,France,13,-13,1570,1492,5,-1,65,87
+2007-02-06,Northern Ireland,Wales,0,0,Friendly,Northern Ireland,-2,2,1534,1579,0,1,76,62
+2007-02-06,Portugal,Brazil,2,0,Friendly,England,22,-22,1918,2058,1,-1,8,2
+2007-02-06,South Korea,Greece,1,0,Friendly,England,14,-14,1694,1823,1,0,44,17
+2007-02-07,Albania,Macedonia,0,1,Friendly,Albania,-12,12,1497,1544,-2,3,85,75
+2007-02-07,Algeria,Libya,2,1,Friendly,Algeria,8,-8,1420,1433,1,-2,100,98
+2007-02-07,Andorra,Armenia,0,0,Friendly,Andorra,5,-5,1097,1384,1,-1,175,106
+2007-02-07,Belgium,Czechia,0,2,Friendly,Belgium,-10,10,1662,1894,0,-1,47,12
+2007-02-07,China,Kazakhstan,2,1,Friendly,China,2,-2,1604,1325,0,0,56,122
+2007-02-07,Colombia,Uruguay,1,3,Friendly,Colombia,-18,18,1772,1840,-5,4,26,14
+2007-02-07,Croatia,Norway,2,1,Friendly,Croatia,4,-4,1900,1763,0,-1,10,30
+2007-02-07,Cyprus,Bulgaria,0,3,Friendly tournament,Cyprus,-17,17,1503,1761,-3,4,84,32
+2007-02-07,Egypt,Sweden,2,0,Friendly,Egypt,16,-16,1739,1824,2,-1,39,17
+2007-02-07,England,Spain,0,1,Friendly,England,-15,15,1945,1898,0,1,7,11
+2007-02-07,France,Argentina,0,1,Friendly,France,-15,15,2045,1994,-1,1,2,4
+2007-02-07,Georgia,Turkey,1,0,Friendly,Georgia,16,-16,1543,1827,3,-1,76,16
+2007-02-07,Germany,Switzerland,3,1,Friendly,Germany,6,-6,1982,1840,0,0,6,14
+2007-02-07,Hungary,Latvia,2,0,Friendly tournament,Cyprus,17,-17,1588,1461,3,-3,61,93
+2007-02-07,Iran,Belarus,2,2,Friendly,Iran,-7,7,1783,1570,0,4,21,64
+2007-02-07,Israel,Ukraine,1,1,Friendly,Israel,0,0,1714,1804,0,0,43,20
+2007-02-07,Luxembourg,Gambia,2,1,Friendly,Luxembourg,16,-16,1009,1326,2,-2,185,121
+2007-02-07,Malta,Austria,1,1,Friendly,Malta,7,-7,1265,1622,0,0,141,54
+2007-02-07,Morocco,Tunisia,1,1,Friendly,Morocco,-3,3,1657,1642,0,1,48,51
+2007-02-07,Netherlands,Russia,4,1,Friendly,the Netherlands,5,-5,1994,1772,0,0,4,26
+2007-02-07,New Zealand,Tahiti,0,0,Friendly,New Zealand,-8,8,1507,1247,-1,0,83,145
+2007-02-07,Poland,Slovakia,2,2,Friendly,Spain,-2,2,1781,1719,2,0,22,42
+2007-02-07,Romania,Moldova,2,0,Friendly,Romania,1,-1,1870,1419,0,-1,13,101
+2007-02-07,San Marino,Ireland,1,2,European Championship qualifier,San Marino,-1,1,937,1747,0,-1,193,36
+2007-02-07,Senegal,Benin,2,1,Friendly,France,2,-2,1652,1273,0,-1,49,138
+2007-02-07,Slovenia,Estonia,1,0,Friendly,Slovenia,4,-4,1566,1398,3,-1,67,103
+2007-02-07,Togo,Cameroon,2,2,Friendly,Togo,6,-6,1442,1779,1,0,96,23
+2007-02-07,United States,Mexico,2,0,Friendly,the United States,13,-13,1778,1808,5,0,25,19
+2007-02-07,Uzbekistan,Azerbaijan,0,0,Friendly,Uzbekistan,-7,7,1565,1358,-5,1,68,114
+2007-02-07,Venezuela,Chile,0,1,Friendly,Venezuela,-10,10,1638,1745,-2,2,52,37
+2007-02-08,El Salvador,Belize,2,1,CONCACAF Champ q & UNCAF Cup,El Salvador,4,-4,1376,1090,2,0,108,176
+2007-02-08,Guatemala,Nicaragua,1,0,CONCACAF Champ q & UNCAF Cup,El Salvador,2,-2,1547,1027,1,0,72,184
+2007-02-09,China,Kazakhstan,1,0,Friendly,China,2,-2,1606,1323,0,-1,56,123
+2007-02-09,Costa Rica,Honduras,3,1,CONCACAF Champ q & UNCAF Cup,El Salvador,38,-38,1682,1702,4,-5,46,43
+2007-02-09,New Zealand,Tahiti,0,0,Friendly,New Zealand,-8,8,1499,1255,-1,1,84,144
+2007-02-10,El Salvador,Nicaragua,2,1,CONCACAF Champ q & UNCAF Cup,El Salvador,3,-3,1379,1024,1,0,107,184
+2007-02-10,Guatemala,Belize,1,0,CONCACAF Champ q & UNCAF Cup,El Salvador,3,-3,1550,1087,0,-1,72,177
+2007-02-11,Honduras,Panama,1,1,CONCACAF Champ q & UNCAF Cup,El Salvador,-10,10,1692,1518,-1,1,44,81
+2007-02-12,El Salvador,Guatemala,0,0,CONCACAF Champ q & UNCAF Cup,El Salvador,4,-4,1383,1546,0,0,107,72
+2007-02-12,Nicaragua,Belize,4,2,CONCACAF Champ q & UNCAF Cup,El Salvador,35,-35,1059,1052,5,-3,179,180
+2007-02-13,Lesotho,Swaziland,0,1,Friendly,Lesotho,-11,11,1110,1193,-3,4,172,158
+2007-02-13,Panama,Costa Rica,1,0,CONCACAF Champ q & UNCAF Cup,El Salvador,29,-29,1547,1653,9,-3,72,49
+2007-02-15,Honduras,Nicaragua,9,1,CONCACAF Champ q & UNCAF Cup,El Salvador,2,-2,1694,1057,1,0,43,179
+2007-02-16,El Salvador,Costa Rica,0,2,UNCAF Nations Cup,El Salvador,-16,16,1367,1669,-4,2,111,47
+2007-02-16,Panama,Guatemala,2,0,UNCAF Nations Cup,El Salvador,30,-30,1577,1516,8,-8,64,81
+2007-02-18,Costa Rica,Panama,1,1,UNCAF Nations Cup,El Salvador,-5,5,1664,1582,0,1,47,63
+2007-02-18,El Salvador,Guatemala,0,1,UNCAF Nations Cup,El Salvador,-17,17,1350,1533,-5,2,116,79
+2007-02-22,Benin,Chad,0,1,Friendly,Benin,-13,13,1260,1290,-3,1,141,135
+2007-02-28,Mexico,Venezuela,3,1,Friendly,the United States,8,-8,1816,1630,0,-1,19,53
+2007-03-05,Congo,Equatorial Guinea,2,1,CEMAC Cup,Chad,10,-10,1377,1172,4,-4,107,167
+2007-03-06,Chad,Central African Republic,3,2,CEMAC Cup,Chad,11,-11,1301,1206,5,-2,130,155
+2007-03-07,Azerbaijan,Uzbekistan,1,0,Alma TV Cup,Kazakhstan,23,-23,1381,1542,6,-7,107,76
+2007-03-07,Congo,Gabon,2,2,CEMAC Cup,Chad,1,-1,1378,1388,-1,0,108,105
+2007-03-07,Kazakhstan,Kyrgyzstan,2,0,Alma TV Cup,Kazakhstan,10,-10,1333,1191,2,-2,121,158
+2007-03-09,Equatorial Guinea,Gabon,1,1,CEMAC Cup,Chad,11,-11,1183,1377,6,-2,161,107
+2007-03-09,Kazakhstan,Azerbaijan,1,0,Alma TV Cup,Kazakhstan,13,-13,1346,1368,4,-4,117,111
+2007-03-09,Uzbekistan,Kyrgyzstan,6,0,Alma TV Cup,Kazakhstan,7,-7,1549,1184,4,-2,72,160
+2007-03-11,Azerbaijan,Kyrgyzstan,1,0,Alma TV Cup,Kazakhstan,8,-8,1376,1176,2,-6,109,166
+2007-03-11,Chad,Gabon,1,2,CEMAC Cup,Chad,-21,21,1280,1398,-5,4,135,103
+2007-03-11,Kazakhstan,Uzbekistan,1,1,Alma TV Cup,Kazakhstan,4,-4,1350,1545,1,-1,116,73
+2007-03-12,Congo,Central African Republic,4,1,CEMAC Cup,Chad,19,-19,1397,1187,2,-3,105,158
+2007-03-13,South Africa,Swaziland,1,1,Friendly,South Africa,-8,8,1465,1201,-1,1,91,155
+2007-03-15,Chad,Central African Republic,1,0,CEMAC Cup,Chad,10,-10,1290,1177,0,-7,135,165
+2007-03-16,Congo,Gabon,1,0,CEMAC Cup,Chad,20,-20,1417,1378,3,-4,102,107
+2007-03-18,Swaziland,Lesotho,0,1,Friendly,Swaziland,-15,15,1186,1125,-2,3,157,169
+2007-03-20,Libya,Mauritania,0,0,Friendly,Libya,-8,8,1425,1194,0,1,98,156
+2007-03-21,Mauritius,Ivory Coast,0,3,Friendly,Mauritius,-3,3,1254,1782,-2,1,144,22
+2007-03-22,Switzerland,Jamaica,2,0,Friendly,the United States,6,-6,1846,1602,0,-1,14,56
+2007-03-24,Albania,Slovenia,0,0,European Championship qualifier,Albania,-2,2,1495,1568,1,0,84,68
+2007-03-24,Algeria,Cape Verde,2,0,African Nations Cup qualifier,Algeria,15,-15,1435,1309,3,-1,97,124
+2007-03-24,Austria,Ghana,1,1,Friendly,Austria,1,-1,1623,1770,0,0,54,28
+2007-03-24,Brazil,Chile,4,0,Friendly,Sweden,5,-5,2063,1740,0,1,1,36
+2007-03-24,Burkina Faso,Mozambique,1,1,African Nations Cup qualifier,Burkina Faso,-12,12,1409,1286,-2,3,101,134
+2007-03-24,Cameroon,Liberia,3,1,African Nations Cup qualifier,Cameroon,2,-2,1781,1267,0,0,24,138
+2007-03-24,Chad,South Africa,0,3,African Nations Cup qualifier,Chad,-28,28,1262,1493,-5,6,140,85
+2007-03-24,China,Australia,0,2,Friendly,China,-13,13,1593,1765,-4,5,59,30
+2007-03-24,Costa Rica,New Zealand,4,0,Friendly,Costa Rica,7,-7,1671,1492,0,-2,47,86
+2007-03-24,Croatia,Macedonia,2,1,European Championship qualifier,Croatia,3,-3,1903,1541,0,-1,10,76
+2007-03-24,Cyprus,Slovakia,1,3,European Championship qualifier,Cyprus,-20,20,1483,1739,-6,4,89,37
+2007-03-24,Czechia,Germany,1,2,European Championship qualifier,Czechia,-21,21,1873,2003,-1,2,13,4
+2007-03-24,Estonia,Russia,0,2,European Championship qualifier,Estonia,-10,10,1388,1782,-1,4,105,22
+2007-03-24,Faroe Islands,Ukraine,0,2,European Championship qualifier,the Faroe Islands,-3,3,1176,1807,-1,1,165,19
+2007-03-24,Gambia,Guinea,0,2,African Nations Cup qualifier,The Gambia,-18,18,1308,1587,-4,5,126,62
+2007-03-24,Greece,Turkey,1,4,European Championship qualifier,Greece,-44,44,1779,1871,-7,2,25,14
+2007-03-24,Guadeloupe,Trinidad and Tobago,2,2,Friendly,Guadeloupe,2,-2,1370,1538,-1,0,113,77
+2007-03-24,Haiti,Panama,3,0,Friendly,the United States,20,-20,1553,1562,7,-7,72,70
+2007-03-24,Honduras,El Salvador,2,0,Friendly,the United States,4,-4,1698,1346,0,-1,43,117
+2007-03-24,Ireland,Wales,1,0,European Championship qualifier,Ireland,7,-7,1754,1572,2,-2,34,66
+2007-03-24,Israel,England,0,0,European Championship qualifier,Israel,7,-7,1721,1938,0,0,42,7
+2007-03-24,Japan,Peru,2,0,Friendly,Japan,7,-7,1733,1624,1,-1,39,53
+2007-03-24,Kazakhstan,Serbia,2,1,European Championship qualifier,Kazakhstan,34,-34,1384,1727,10,-9,106,41
+2007-03-24,Liechtenstein,Northern Ireland,1,4,European Championship qualifier,Liechtenstein,-10,10,1104,1544,-2,3,173,75
+2007-03-24,Lithuania,France,0,1,European Championship qualifier,Lithuania,-3,3,1489,2048,-1,0,88,2
+2007-03-24,Luxembourg,Belarus,1,2,European Championship qualifier,Luxembourg,-3,3,1006,1573,-1,0,186,65
+2007-03-24,Moldova,Malta,1,1,European Championship qualifier,Moldova,-12,12,1407,1277,-1,3,102,137
+2007-03-24,Montenegro,Hungary,2,1,Friendly,Montenegro,5,-5,1682,1583,1,-3,45,64
+2007-03-24,Netherlands,Romania,0,0,European Championship qualifier,the Netherlands,-11,11,1983,1881,-2,1,6,12
+2007-03-24,Nigeria,Uganda,1,0,African Nations Cup qualifier,Nigeria,3,-3,1765,1389,1,1,30,104
+2007-03-24,Norway,Bosnia and Herzegovina,1,2,European Championship qualifier,Norway,-34,34,1729,1597,-10,12,40,58
+2007-03-24,Poland,Azerbaijan,5,0,European Championship qualifier,Poland,4,-4,1785,1372,2,-3,21,112
+2007-03-24,Portugal,Belgium,4,0,European Championship qualifier,Portugal,9,-9,1927,1653,0,-2,8,50
+2007-03-24,Qatar,Iran,0,1,Friendly,Qatar,-5,5,1504,1788,0,1,82,20
+2007-03-24,Scotland,Georgia,2,1,European Championship qualifier,Scotland,6,-6,1743,1537,4,-3,35,79
+2007-03-24,Senegal,Tanzania,4,0,African Nations Cup qualifier,Senegal,6,-6,1658,1308,2,-1,48,126
+2007-03-24,Seychelles,Tunisia,0,3,African Nations Cup qualifier,the Seychelles,-5,5,1105,1647,1,0,172,51
+2007-03-24,South Korea,Uruguay,0,2,Friendly,South Korea,-13,13,1681,1853,-3,0,46,15
+2007-03-24,Spain,Denmark,2,1,European Championship qualifier,Spain,15,-15,1913,1896,2,-2,9,11
+2007-03-24,Sri Lanka,Malaysia,1,4,Friendly,Sri Lanka,-11,11,940,1201,-1,2,192,155
+2007-03-24,Taiwan,Uzbekistan,0,1,Friendly,Taiwan,-1,1,936,1546,-1,0,194,73
+2007-03-24,Togo,Sierra Leone,3,1,African Nations Cup qualifier,Togo,12,-12,1454,1282,0,-2,96,135
+2007-03-24,Venezuela,Cuba,3,1,Friendly,Venezuela,8,-8,1638,1538,1,-5,52,77
+2007-03-25,Angola,Eritrea,6,1,African Nations Cup qualifier,Angola,3,-3,1594,1116,1,0,59,170
+2007-03-25,Barbados,Guatemala,0,0,Friendly,Barbados,4,-4,1304,1529,1,0,129,80
+2007-03-25,Bermuda,Canada,0,3,Friendly,Bermuda,-5,5,1170,1594,0,2,167,59
+2007-03-25,Botswana,Burundi,1,0,African Nations Cup qualifier,Botswana,12,-12,1320,1245,3,-2,123,144
+2007-03-25,Colombia,Switzerland,3,1,Friendly,the United States,18,-18,1790,1828,7,0,20,16
+2007-03-25,Congo,Zambia,0,0,African Nations Cup qualifier,Congo,2,-2,1419,1543,0,-1,100,75
+2007-03-25,Egypt,Mauritania,3,0,African Nations Cup qualifier,Egypt,2,-2,1741,1192,1,-1,36,158
+2007-03-25,Equatorial Guinea,Rwanda,3,1,African Nations Cup qualifier,Equatorial Guinea,31,-31,1214,1267,6,-5,153,137
+2007-03-25,Kenya,Swaziland,2,0,African Nations Cup qualifier,Kenya,13,-13,1327,1173,1,-8,122,166
+2007-03-25,Lesotho,Niger,3,1,African Nations Cup qualifier,Lesotho,37,-37,1162,1267,1,-8,168,137
+2007-03-25,Libya,Namibia,2,1,African Nations Cup qualifier,Libya,5,-5,1430,1193,0,-1,99,157
+2007-03-25,Madagascar,Ivory Coast,0,3,African Nations Cup qualifier,Madagascar,-4,4,1176,1786,0,-1,163,23
+2007-03-25,Mali,Benin,1,1,African Nations Cup qualifier,Mali,-17,17,1553,1277,-4,6,71,135
+2007-03-25,Mauritius,Sudan,1,2,African Nations Cup qualifier,Mauritius,-19,19,1235,1382,-1,6,145,108
+2007-03-25,Mexico,Paraguay,2,1,Friendly,Mexico,6,-6,1822,1755,0,-1,18,33
+2007-03-25,Northern Mariana Islands,Guam,2,3,E Asian Champ q & Marianas Cup,the Northern Mariana Islands,-31,31,605,562,0,3,223,229
+2007-03-25,United States,Ecuador,3,1,Friendly,the United States,10,-10,1788,1760,5,-4,21,32
+2007-03-25,Zimbabwe,Morocco,1,1,African Nations Cup qualifier,Zimbabwe,5,-5,1464,1652,2,-1,92,50
+2007-03-26,Jamaica,Panama,1,1,Friendly,Jamaica,-4,4,1598,1566,0,1,55,68
+2007-03-26,Sri Lanka,Malaysia,2,1,Friendly,Sri Lanka,14,-14,954,1187,1,-2,191,158
+2007-03-27,Brazil,Ghana,1,0,Friendly,Sweden,3,-3,2066,1767,0,0,1,28
+2007-03-27,China,Uzbekistan,3,1,Friendly,Macao,13,-13,1606,1533,6,-6,55,79
+2007-03-27,Honduras,El Salvador,2,0,Friendly,the United States,3,-3,1701,1343,0,-2,43,119
+2007-03-28,Azerbaijan,Finland,1,0,European Championship qualifier,Azerbaijan,31,-31,1403,1653,11,-4,102,48
+2007-03-28,Bulgaria,Albania,0,0,European Championship qualifier,Bulgaria,-16,16,1745,1511,-3,2,34,82
+2007-03-28,Chile,Costa Rica,1,1,Friendly,Chile,-5,5,1735,1676,-1,1,38,46
+2007-03-28,Colombia,Paraguay,2,0,Friendly,Colombia,9,-9,1799,1746,1,0,19,33
+2007-03-28,Czechia,Cyprus,1,0,European Championship qualifier,Czechia,2,-2,1875,1481,0,0,13,89
+2007-03-28,England,Andorra,3,0,European Championship qualifier,Spain,1,-1,1939,1096,0,0,7,175
+2007-03-28,France,Austria,1,0,Friendly,France,1,-1,2049,1622,0,0,2,54
+2007-03-28,Georgia,Faroe Islands,3,1,European Championship qualifier,Georgia,4,-4,1541,1172,3,-3,75,166
+2007-03-28,Germany,Denmark,0,1,Friendly,Germany,-15,15,1988,1911,-2,1,6,10
+2007-03-28,Hungary,Moldova,2,0,European Championship qualifier,Hungary,10,-10,1593,1397,2,-2,62,104
+2007-03-28,Ireland,Slovakia,1,0,European Championship qualifier,Ireland,14,-14,1768,1725,6,-4,28,42
+2007-03-28,Israel,Estonia,4,0,European Championship qualifier,Israel,6,-6,1727,1382,1,-2,41,107
+2007-03-28,Italy,Scotland,2,0,European Championship qualifier,Italy,6,-6,2025,1737,0,-1,3,36
+2007-03-28,Liechtenstein,Latvia,1,0,European Championship qualifier,Liechtenstein,33,-33,1137,1428,3,-5,170,99
+2007-03-28,Malta,Greece,0,1,European Championship qualifier,Malta,-4,4,1273,1783,-1,3,136,24
+2007-03-28,Mexico,Ecuador,4,2,Friendly,the United States,12,-12,1834,1748,2,0,16,32
+2007-03-28,Norway,Turkey,2,2,European Championship qualifier,Germany,8,-8,1737,1863,4,0,36,14
+2007-03-28,Northern Ireland,Sweden,2,1,European Championship qualifier,Northern Ireland,30,-30,1574,1794,7,-3,66,20
+2007-03-28,Poland,Armenia,1,0,European Championship qualifier,Poland,2,-2,1787,1382,2,-1,22,107
+2007-03-28,Romania,Luxembourg,3,0,European Championship qualifier,Romania,0,0,1881,1006,0,0,12,186
+2007-03-28,Serbia,Portugal,1,1,European Championship qualifier,Serbia,6,-6,1733,1921,2,0,39,8
+2007-03-28,Slovenia,Netherlands,0,1,European Championship qualifier,Slovenia,-6,6,1562,1989,-3,1,70,5
+2007-03-28,South Africa,Bolivia,0,1,Friendly,South Africa,-11,11,1482,1576,-3,4,88,65
+2007-03-28,Spain,Iceland,1,0,European Championship qualifier,Spain,2,-2,1915,1494,0,-1,9,84
+2007-03-28,Ukraine,Lithuania,1,0,European Championship qualifier,Ukraine,3,-3,1810,1486,1,2,18,86
+2007-03-28,United States,Guatemala,0,0,Friendly,the United States,-8,8,1780,1537,-6,1,27,79
+2007-03-28,Venezuela,New Zealand,5,0,Friendly,Venezuela,8,-8,1646,1484,0,-1,52,87
+2007-03-28,Wales,San Marino,3,0,European Championship qualifier,Wales,1,-1,1573,936,-1,0,67,193
+2007-04-01,Guam,Northern Mariana Islands,9,0,E Asian Champ q & Marianas Cup,Guam,42,-42,604,563,6,-5,223,228
+2007-04-04,Angola,Congo,0,0,Friendly,Angola,-7,7,1587,1426,-2,0,62,100
+2007-04-17,El Salvador,Haiti,0,1,Friendly,El Salvador,-7,7,1336,1560,-2,1,121,71
+2007-04-18,Argentina,Chile,0,0,Friendly,Argentina,-8,8,1986,1743,-2,3,6,35
+2007-04-19,Honduras,Haiti,1,3,Friendly,Honduras,-24,24,1677,1584,-2,6,45,65
+2007-04-24,Seychelles,Reunion,2,0,Friendly,the Seychelles,18,-18,1123,1261,2,-7,171,141
+2007-04-26,Mauritius,Reunion,1,1,Friendly,Mauritius,-2,2,1233,1263,0,1,145,140
+2007-04-28,Mozambique,Seychelles,2,0,COSAFA Cup,Mozambique,11,-11,1297,1112,1,-1,131,172
+2007-04-28,Zimbabwe,Madagascar,1,0,COSAFA Cup,Mozambique,6,-6,1470,1170,0,-3,92,166
+2007-04-29,DR Congo,Ethiopia,2,0,African Nations Cup qualifier,DR Congo,17,-17,1479,1382,2,-3,91,106
+2007-04-29,Madagascar,Seychelles,5,0,COSAFA Cup,Mozambique,33,-33,1203,1079,10,-4,156,176
+2007-04-29,Mozambique,Zimbabwe,0,0,COSAFA Cup,Mozambique,4,-4,1301,1466,1,-1,130,93
+2007-05-09,Chile,Cuba,3,0,Friendly,Chile,5,-5,1748,1533,3,-2,32,79
+2007-05-09,Panama,Colombia,0,4,Friendly,Panama,-12,12,1554,1811,-1,1,71,18
+2007-05-16,Chile,Cuba,2,0,Friendly,Chile,4,-4,1752,1529,0,-1,32,80
+2007-05-16,Thailand,China,1,0,Friendly,Thailand,14,-14,1353,1592,4,-6,116,61
+2007-05-17,Guadeloupe,Dominica,2,0,Friendly,Guadeloupe,2,-2,1372,987,0,0,114,188
+2007-05-20,Guadeloupe,Dominica,1,1,Friendly,Guadeloupe,-9,9,1363,996,0,0,114,188
+2007-05-21,Eritrea,Sudan,1,0,Friendly,Eritrea,14,-14,1130,1368,0,-7,171,113
+2007-05-23,Ecuador,Ireland,1,1,Friendly,the United States,1,-1,1749,1767,0,0,33,28
+2007-05-23,Haiti,Chile,0,0,Friendly,Haiti,2,-2,1586,1750,0,0,65,32
+2007-05-25,Venezuela,Honduras,2,1,Friendly,Venezuela,8,-8,1654,1669,4,-1,48,46
+2007-05-25,Zimbabwe,Lesotho,1,1,Friendly,Zimbabwe,-8,8,1458,1170,0,1,93,167
+2007-05-26,Bolivia,Ireland,1,1,Friendly,the United States,5,-5,1581,1762,0,-3,66,31
+2007-05-26,Eritrea,Sudan,1,1,Friendly,Eritrea,4,-4,1134,1364,0,0,171,113
+2007-05-26,Malawi,South Africa,0,0,COSAFA Cup,Swaziland,9,-9,1318,1473,1,-3,124,91
+2007-05-26,Namibia,Zambia,1,2,Friendly,Namibia,-4,4,1189,1547,-1,0,158,74
+2007-05-26,Swaziland,Mauritius,0,0,COSAFA Cup,Swaziland,-2,2,1171,1235,-1,0,166,145
+2007-05-26,Uganda,Tanzania,1,1,Friendly,Uganda,-5,5,1384,1313,0,1,104,126
+2007-05-26,Wales,New Zealand,2,2,Friendly,Wales,-5,5,1568,1489,-1,1,69,86
+2007-05-27,Botswana,Libya,0,0,Friendly,Botswana,0,0,1320,1430,0,0,123,98
+2007-05-27,Kenya,Nigeria,0,1,Friendly,Kenya,-3,3,1324,1768,0,1,122,28
+2007-05-27,Rwanda,Burundi,1,0,Friendly,Rwanda,7,-7,1274,1238,1,0,135,144
+2007-05-27,South Africa,Mauritius,2,0,COSAFA Cup,Swaziland,12,-12,1485,1223,3,-7,88,152
+2007-05-27,Swaziland,Malawi,1,0,COSAFA Cup,Swaziland,23,-23,1194,1295,9,-7,157,131
+2007-05-28,Congo,DR Congo,2,1,Friendly,Congo,9,-9,1435,1470,4,-1,96,92
+2007-05-28,Trinidad and Tobago,Haiti,1,0,Digicel Shield,Trinidad and Tobago,13,-13,1551,1573,3,-2,74,67
+2007-05-29,Zimbabwe,Burkina Faso,1,1,Friendly,Zimbabwe,-4,4,1454,1413,-1,0,94,101
+2007-05-30,Austria,Scotland,0,1,Friendly,Austria,-10,10,1612,1747,0,3,54,34
+2007-05-30,Haiti,Saint Vincent and the Grenadines,3,0,Digicel Shield,Trinidad and Tobago,11,-11,1584,1335,2,-3,65,121
+2007-06-01,England,Brazil,1,1,Friendly,England,1,-1,1940,2065,0,0,7,1
+2007-06-01,Ethiopia,DR Congo,1,0,African Nations Cup qualifier,Ethiopia,19,-19,1401,1451,3,-3,103,95
+2007-06-01,Indonesia,Hong Kong,3,0,Friendly,Indonesia,11,-11,1304,1237,4,-1,128,144
+2007-06-01,Japan,Montenegro,2,0,Kirin Cup,Japan,13,-13,1746,1669,4,-2,35,45
+2007-06-01,Venezuela,Canada,2,2,Friendly,Venezuela,-4,4,1650,1598,-3,4,51,55
+2007-06-02,Albania,Luxembourg,2,0,European Championship qualifier,Albania,2,-2,1513,1004,0,0,82,186
+2007-06-02,Australia,Uruguay,1,2,Friendly,Australia,-10,10,1755,1863,-2,1,32,14
+2007-06-02,Austria,Paraguay,0,0,Friendly,Austria,1,-1,1613,1745,-1,-1,55,36
+2007-06-02,Azerbaijan,Poland,1,3,European Championship qualifier,Azerbaijan,-10,10,1393,1797,-4,1,106,21
+2007-06-02,Belarus,Bulgaria,0,2,European Championship qualifier,Belarus,-24,24,1549,1769,-6,9,74,28
+2007-06-02,Belgium,Portugal,1,2,European Championship qualifier,Belgium,-11,11,1642,1932,-3,0,51,8
+2007-06-02,Bosnia and Herzegovina,Turkey,3,2,European Championship qualifier,Bosnia and Herzegovina,29,-29,1626,1834,7,-2,52,16
+2007-06-02,Cape Verde,Algeria,2,2,African Nations Cup qualifier,Cape Verde,1,-1,1310,1434,0,0,126,96
+2007-06-02,Costa Rica,Chile,2,0,Friendly,Costa Rica,14,-14,1690,1736,1,-8,43,40
+2007-06-02,Denmark,Sweden,3,3,European Championship qualifier,Denmark,-11,11,1900,1805,-1,1,11,19
+2007-06-02,Eritrea,Angola,1,1,African Nations Cup qualifier,Eritrea,15,-15,1149,1572,0,-6,171,68
+2007-06-02,Estonia,Croatia,0,1,European Championship qualifier,Estonia,-3,3,1379,1906,0,1,107,10
+2007-06-02,Faroe Islands,Italy,1,2,European Championship qualifier,the Faroe Islands,-1,1,1171,2026,0,0,166,3
+2007-06-02,Finland,Serbia,0,2,European Championship qualifier,Finland,-32,32,1621,1765,-6,10,54,30
+2007-06-02,France,Ukraine,2,0,European Championship qualifier,France,7,-7,2056,1803,0,-1,2,20
+2007-06-02,Germany,San Marino,6,0,European Championship qualifier,Germany,0,0,1988,936,0,0,5,193
+2007-06-02,Greece,Hungary,2,0,European Championship qualifier,Greece,10,-10,1793,1583,2,-4,22,64
+2007-06-02,Honduras,Trinidad and Tobago,3,1,Friendly,Honduras,7,-7,1676,1544,1,-1,44,75
+2007-06-02,Iceland,Liechtenstein,1,1,European Championship qualifier,Iceland,-17,17,1477,1154,-6,0,90,170
+2007-06-02,Kazakhstan,Armenia,1,2,European Championship qualifier,Kazakhstan,-26,26,1358,1408,-9,5,114,102
+2007-06-02,Latvia,Spain,0,2,European Championship qualifier,Latvia,-6,6,1422,1921,2,0,98,9
+2007-06-02,Lithuania,Georgia,1,0,European Championship qualifier,Lithuania,17,-17,1503,1524,3,-4,84,80
+2007-06-02,Macedonia,Israel,1,2,European Championship qualifier,Macedonia,-15,15,1526,1742,-3,4,79,37
+2007-06-02,Mexico,Iran,4,0,Friendly,Mexico,11,-11,1845,1777,1,-6,15,27
+2007-06-02,Morocco,Zimbabwe,2,0,African Nations Cup qualifier,Morocco,9,-9,1661,1445,3,-2,47,95
+2007-06-02,Namibia,Libya,1,0,African Nations Cup qualifier,Namibia,28,-28,1217,1402,7,-4,152,103
+2007-06-02,Norway,Malta,4,0,European Championship qualifier,Norway,3,-3,1740,1270,0,0,39,136
+2007-06-02,Russia,Andorra,4,0,European Championship qualifier,Russia,1,-1,1783,1095,0,0,25,174
+2007-06-02,Rwanda,Equatorial Guinea,2,0,African Nations Cup qualifier,Rwanda,17,-17,1291,1197,2,-4,133,157
+2007-06-02,Slovenia,Romania,1,2,European Championship qualifier,Slovenia,-9,9,1553,1890,-2,0,72,12
+2007-06-02,South Africa,Chad,4,0,African Nations Cup qualifier,South Africa,10,-10,1495,1252,3,-1,85,142
+2007-06-02,South Korea,Netherlands,0,2,Friendly,South Korea,-7,7,1674,1996,-2,0,45,4
+2007-06-02,Sudan,Mauritius,3,0,African Nations Cup qualifier,Sudan,14,-14,1378,1209,5,-2,108,154
+2007-06-02,Switzerland,Argentina,1,1,Friendly,Switzerland,2,-2,1830,1984,0,0,17,6
+2007-06-02,Tanzania,Senegal,1,1,African Nations Cup qualifier,Tanzania,12,-12,1325,1646,3,-3,122,50
+2007-06-02,Tunisia,Seychelles,4,0,African Nations Cup qualifier,Tunisia,2,-2,1649,1077,3,0,49,176
+2007-06-02,Uganda,Nigeria,2,1,African Nations Cup qualifier,Uganda,33,-33,1417,1735,5,-13,100,41
+2007-06-02,United States,China,4,1,Friendly,the United States,6,-6,1786,1586,4,-1,23,62
+2007-06-02,Wales,Czechia,0,0,European Championship qualifier,Wales,11,-11,1579,1864,3,0,66,13
+2007-06-02,Zambia,Congo,3,0,African Nations Cup qualifier,Zambia,16,-16,1563,1419,6,-3,69,99
+2007-06-03,Benin,Mali,0,0,African Nations Cup qualifier,Benin,9,-9,1286,1544,1,-2,134,74
+2007-06-03,Burundi,Botswana,1,0,African Nations Cup qualifier,Rwanda,25,-25,1263,1295,3,-7,140,131
+2007-06-03,Colombia,Montenegro,1,0,Kirin Cup,Japan,9,-9,1820,1660,0,-1,18,47
+2007-06-03,Guinea,Gambia,2,2,African Nations Cup qualifier,Guinea,-16,16,1571,1324,-8,3,68,124
+2007-06-03,Ivory Coast,Madagascar,5,0,African Nations Cup qualifier,Ivory Coast,2,-2,1788,1201,0,-1,23,157
+2007-06-03,Liberia,Cameroon,1,2,African Nations Cup qualifier,Liberia,-3,3,1264,1784,-2,1,139,25
+2007-06-03,Mauritania,Egypt,1,1,African Nations Cup qualifier,Mauritania,17,-17,1209,1724,5,-4,154,42
+2007-06-03,Mozambique,Burkina Faso,3,1,African Nations Cup qualifier,Mozambique,31,-31,1332,1382,8,-5,122,106
+2007-06-03,Niger,Lesotho,2,0,African Nations Cup qualifier,Niger,15,-15,1282,1155,2,-2,135,169
+2007-06-03,Peru,Ecuador,2,1,Friendly,Spain,13,-13,1637,1736,1,-5,52,38
+2007-06-03,Sierra Leone,Togo,0,1,African Nations Cup qualifier,Sierra Leone,-16,16,1266,1470,-4,1,138,92
+2007-06-03,Swaziland,Kenya,0,0,African Nations Cup qualifier,Swaziland,2,-2,1196,1322,-1,-2,159,125
+2007-06-05,Argentina,Algeria,4,3,Friendly,Spain,1,-1,1985,1433,0,-1,6,97
+2007-06-05,Brazil,Turkey,0,0,Friendly,Germany,-6,6,2059,1840,0,1,1,15
+2007-06-05,Jamaica,Chile,0,1,Friendly,Jamaica,-9,9,1589,1745,-3,3,59,35
+2007-06-05,Japan,Colombia,0,0,Kirin Cup,Japan,-1,1,1745,1821,-1,0,35,18
+2007-06-05,Kuwait,Portugal,1,1,Friendly,Kuwait,8,-8,1442,1924,0,0,96,8
+2007-06-05,Mexico,Paraguay,0,1,Friendly,Mexico,-15,15,1830,1760,-1,3,16,32
+2007-06-06,Andorra,Israel,0,2,European Championship qualifier,Andorra,-2,2,1093,1744,0,-2,174,39
+2007-06-06,Armenia,Poland,1,0,European Championship qualifier,Armenia,34,-34,1442,1763,5,-9,96,30
+2007-06-06,Bosnia and Herzegovina,Malta,1,0,European Championship qualifier,Bosnia and Herzegovina,3,-3,1629,1267,1,0,52,136
+2007-06-06,Bulgaria,Belarus,2,1,European Championship qualifier,Bulgaria,5,-5,1774,1544,1,0,27,73
+2007-06-06,Canada,Costa Rica,2,1,CONCACAF Championship,the United States,31,-31,1629,1659,4,-4,52,47
+2007-06-06,Croatia,Russia,0,0,European Championship qualifier,Croatia,-11,11,1895,1794,-1,4,11,22
+2007-06-06,Ecuador,Peru,2,0,Friendly,Spain,11,-11,1747,1626,3,-2,36,54
+2007-06-06,Estonia,England,0,3,European Championship qualifier,Estonia,-5,5,1374,1945,-4,0,111,7
+2007-06-06,Faroe Islands,Scotland,0,2,European Championship qualifier,the Faroe Islands,-4,4,1167,1751,-1,-1,167,35
+2007-06-06,Finland,Belgium,2,0,European Championship qualifier,Finland,23,-23,1644,1619,3,-4,51,55
+2007-06-06,France,Georgia,1,0,European Championship qualifier,France,1,-1,2057,1523,0,0,2,80
+2007-06-06,Germany,Slovakia,2,1,European Championship qualifier,Germany,4,-4,1992,1721,0,-1,5,42
+2007-06-06,Greece,Moldova,2,1,European Championship qualifier,Greece,2,-2,1795,1395,1,-1,21,105
+2007-06-06,Guadeloupe,Haiti,1,1,CONCACAF Championship,the United States,14,-14,1377,1570,4,-5,109,67
+2007-06-06,Kazakhstan,Azerbaijan,1,1,European Championship qualifier,Kazakhstan,-4,4,1354,1397,-1,1,115,104
+2007-06-06,Latvia,Denmark,0,2,European Championship qualifier,Latvia,-6,6,1416,1906,-3,1,101,10
+2007-06-06,Liechtenstein,Spain,0,2,European Championship qualifier,Liechtenstein,-1,1,1153,1922,0,0,170,9
+2007-06-06,Lithuania,Italy,0,2,European Championship qualifier,Lithuania,-5,5,1498,2031,0,0,84,3
+2007-06-06,Luxembourg,Albania,0,3,European Championship qualifier,Luxembourg,-6,6,998,1519,-1,0,187,82
+2007-06-06,Norway,Hungary,4,0,European Championship qualifier,Norway,14,-14,1754,1569,4,-5,34,68
+2007-06-06,Romania,Slovenia,2,0,European Championship qualifier,Romania,4,-4,1894,1549,0,0,12,72
+2007-06-06,Sweden,Iceland,5,0,European Championship qualifier,Sweden,6,-6,1811,1471,0,-1,19,91
+2007-06-06,Thailand,Netherlands,1,3,Friendly,Thailand,-1,1,1352,1997,0,0,116,4
+2007-06-07,El Salvador,Trinidad and Tobago,2,1,CONCACAF Championship,the United States,38,-38,1374,1506,9,-9,111,82
+2007-06-07,United States,Guatemala,1,0,CONCACAF Championship,the United States,6,-6,1792,1531,1,0,23,76
+2007-06-08,Jordan,Iraq,1,1,Friendly,Jordan,-2,2,1552,1589,-1,1,71,59
+2007-06-08,Mexico,Cuba,2,1,CONCACAF Championship,the United States,8,-8,1838,1521,0,-3,16,80
+2007-06-08,Panama,Honduras,3,2,CONCACAF Championship,the United States,33,-33,1587,1643,9,-8,61,51
+2007-06-09,Burkina Faso,Mali,0,1,Friendly,Burkina Faso,-8,8,1374,1552,-4,2,110,71
+2007-06-09,Costa Rica,Haiti,1,1,CONCACAF Championship,the United States,-6,6,1653,1576,0,3,46,65
+2007-06-09,Guadeloupe,Canada,2,1,CONCACAF Championship,the United States,41,-41,1418,1588,9,-8,100,60
+2007-06-09,Guatemala,El Salvador,1,0,CONCACAF Championship,the United States,14,-14,1545,1360,2,-3,74,114
+2007-06-09,Tanzania,Zambia,1,1,Friendly,Tanzania,4,-4,1329,1559,0,0,123,70
+2007-06-09,United States,Trinidad and Tobago,2,0,CONCACAF Championship,the United States,7,-7,1799,1499,2,-1,21,83
+2007-06-10,Cuba,Panama,2,2,CONCACAF Championship,the United States,5,-5,1526,1582,3,-1,77,62
+2007-06-10,Honduras,Mexico,2,1,CONCACAF Championship,the United States,38,-38,1681,1800,8,-4,43,20
+2007-06-10,Kenya,Rwanda,2,0,Friendly,Kenya,10,-10,1332,1281,3,-2,122,135
+2007-06-10,Malawi,Senegal,2,3,Friendly,Malawi,-4,4,1291,1650,-1,1,132,48
+2007-06-11,Canada,Haiti,2,0,CONCACAF Championship,the United States,36,-36,1624,1540,6,-10,54,75
+2007-06-11,Costa Rica,Guadeloupe,1,0,CONCACAF Championship,the United States,10,-10,1663,1408,2,-2,45,102
+2007-06-12,Guatemala,Trinidad and Tobago,1,1,CONCACAF Championship,the United States,-3,3,1542,1502,-1,0,74,83
+2007-06-12,Jordan,Iraq,0,0,Friendly,Jordan,-2,2,1550,1591,-1,0,71,59
+2007-06-12,Kuwait,Egypt,1,1,Friendly,Kuwait,5,-5,1447,1719,1,-1,95,42
+2007-06-12,Reunion,Gabon,0,3,Friendly,Reunion,-17,17,1246,1395,-3,1,143,106
+2007-06-12,United States,El Salvador,4,0,CONCACAF Championship,the United States,4,-4,1803,1356,2,-1,19,115
+2007-06-13,Honduras,Cuba,5,0,CONCACAF Championship,the United States,29,-29,1710,1497,0,-7,43,84
+2007-06-13,Mexico,Panama,1,0,CONCACAF Championship,the United States,11,-11,1811,1571,3,-4,18,66
+2007-06-15,Kosovo,Saudi Arabia,1,0,Friendly,Turkey,16,-16,1390,1582,2,-4,108,61
+2007-06-16,Algeria,Guinea,0,2,African Nations Cup qualifier,Algeria,-27,27,1406,1598,-4,8,102,58
+2007-06-16,Botswana,Mauritania,2,1,African Nations Cup qualifier,Botswana,10,-10,1305,1199,4,-3,127,157
+2007-06-16,Burkina Faso,Tanzania,0,1,African Nations Cup qualifier,Burkina Faso,-28,28,1346,1357,-7,10,118,114
+2007-06-16,Canada,Guatemala,3,0,CONCACAF Championship,the United States,34,-34,1658,1508,6,-6,48,80
+2007-06-16,Cape Verde,Gambia,0,0,African Nations Cup qualifier,Cape Verde,-5,5,1305,1329,0,1,127,124
+2007-06-16,Eritrea,Kenya,1,0,African Nations Cup qualifier,Eritrea,25,-25,1174,1307,5,-4,166,126
+2007-06-16,Iran,Iraq,0,0,West Asian Championship,Jordan,-10,10,1767,1601,-1,1,27,57
+2007-06-16,Malawi,Morocco,0,1,African Nations Cup qualifier,Malawi,-7,7,1284,1668,-1,1,133,45
+2007-06-16,Namibia,DR Congo,1,1,African Nations Cup qualifier,Namibia,7,-7,1224,1444,0,-2,152,96
+2007-06-16,Seychelles,Sudan,0,2,African Nations Cup qualifier,the Seychelles,-14,14,1063,1392,-2,1,178,108
+2007-06-16,Syria,Lebanon,1,0,West Asian Championship,Jordan,13,-13,1485,1338,2,-3,88,121
+2007-06-16,Tunisia,Mauritius,2,0,African Nations Cup qualifier,Tunisia,3,-3,1652,1206,1,-1,49,155
+2007-06-16,United States,Panama,2,1,CONCACAF Championship,the United States,6,-6,1809,1565,0,-2,20,68
+2007-06-16,Zambia,Chad,1,1,African Nations Cup qualifier,Zambia,-16,16,1543,1268,-4,6,73,136
+2007-06-17,Angola,Swaziland,3,0,African Nations Cup qualifier,Angola,4,-4,1576,1192,1,1,65,158
+2007-06-17,Benin,Togo,4,1,African Nations Cup qualifier,Benin,43,-43,1329,1427,8,-6,124,98
+2007-06-17,Cameroon,Rwanda,2,1,African Nations Cup qualifier,Cameroon,1,-1,1785,1280,0,1,25,134
+2007-06-17,Congo,South Africa,1,1,African Nations Cup qualifier,Congo,-1,1,1418,1496,-2,0,100,85
+2007-06-17,Guadeloupe,Honduras,2,1,CONCACAF Championship,the United States,43,-43,1451,1667,8,-2,93,45
+2007-06-17,Liberia,Equatorial Guinea,0,0,African Nations Cup qualifier,Liberia,-9,9,1255,1206,-1,3,141,155
+2007-06-17,Libya,Ethiopia,3,1,African Nations Cup qualifier,Libya,22,-22,1424,1379,4,-5,99,109
+2007-06-17,Macao,Mongolia,0,0,East Asian Championship qualifier,Macao,-7,7,801,784,0,0,207,210
+2007-06-17,Madagascar,Gabon,0,2,African Nations Cup qualifier,Madagascar,-22,22,1179,1417,-7,5,163,101
+2007-06-17,Mali,Sierra Leone,6,0,African Nations Cup qualifier,Mali,8,-8,1560,1258,0,-1,69,140
+2007-06-17,Mexico,Costa Rica,1,0,CONCACAF Championship,the United States,15,-15,1826,1648,1,-4,17,50
+2007-06-17,Mozambique,Senegal,0,0,African Nations Cup qualifier,Mozambique,11,-11,1343,1639,3,-2,120,52
+2007-06-17,Niger,Nigeria,1,3,African Nations Cup qualifier,Niger,-7,7,1275,1742,-1,0,135,40
+2007-06-17,Taiwan,Guam,10,0,East Asian Championship qualifier,Macao,14,-14,950,590,1,-2,192,225
+2007-06-18,Iraq,Palestine,1,0,West Asian Championship,Jordan,5,-5,1606,1262,0,-2,57,139
+2007-06-18,Jordan,Syria,0,1,West Asian Championship,Jordan,-29,29,1521,1514,-8,8,78,80
+2007-06-18,Malaysia,Cambodia,6,0,Friendly,Malaysia,3,-3,1190,811,0,0,159,205
+2007-06-19,Hong Kong,Taiwan,1,1,East Asian Championship qualifier,Macao,-14,14,1223,964,-8,1,152,191
+2007-06-19,Lesotho,Uganda,0,0,African Nations Cup qualifier,Lesotho,9,-9,1164,1408,1,-2,169,103
+2007-06-19,North Korea,Mongolia,7,0,East Asian Championship qualifier,Macao,2,-2,1483,782,0,0,89,210
+2007-06-20,Bolivia,Paraguay,0,0,Chaco Peace Cup,Bolivia,3,-3,1584,1757,1,0,62,32
+2007-06-20,Iran,Palestine,2,0,West Asian Championship,Jordan,3,-3,1770,1259,0,0,27,139
+2007-06-20,Jordan,Lebanon,3,0,West Asian Championship,Jordan,11,-11,1532,1327,3,-3,75,125
+2007-06-21,Hong Kong,Guam,15,1,East Asian Championship qualifier,Macao,3,-3,1226,587,2,0,150,225
+2007-06-21,Indonesia,Jamaica,2,1,Friendly,Indonesia,15,-15,1319,1574,4,-5,126,65
+2007-06-21,Macao,North Korea,1,7,East Asian Championship qualifier,Macao,-3,3,798,1486,-1,0,208,89
+2007-06-21,Malaysia,United Arab Emirates,1,3,Friendly,Malaysia,-6,6,1184,1528,0,2,159,76
+2007-06-21,Mexico,Guadeloupe,1,0,CONCACAF Championship,the United States,5,-5,1831,1446,1,-1,16,94
+2007-06-21,United States,Canada,2,1,CONCACAF Championship,the United States,10,-10,1819,1648,1,-2,19,49
+2007-06-22,Iraq,Syria,3,0,West Asian Championship,Jordan,26,-26,1632,1488,4,-8,53,88
+2007-06-22,Jordan,Iran,0,1,West Asian Championship,Jordan,-12,12,1520,1782,-3,1,78,26
+2007-06-23,Colombia,Ecuador,3,1,Friendly,Colombia,8,-8,1829,1739,0,-4,18,40
+2007-06-23,Mongolia,Guam,5,2,East Asian Championship qualifier,Macao,17,-17,799,570,3,-2,207,227
+2007-06-24,Indonesia,Oman,0,1,Friendly,Indonesia,-5,5,1314,1603,-2,0,128,58
+2007-06-24,Iran,Iraq,2,1,West Asian Championship,Jordan,12,-12,1794,1620,3,-2,23,55
+2007-06-24,Macao,Taiwan,2,7,East Asian Championship qualifier,Macao,-32,32,766,996,-2,3,211,188
+2007-06-24,North Korea,Hong Kong,1,0,East Asian Championship qualifier,Macao,7,-7,1493,1219,-1,-2,90,152
+2007-06-24,Saudi Arabia,United Arab Emirates,2,0,Friendly,Singapore,13,-13,1595,1515,2,-4,60,79
+2007-06-24,Singapore,North Korea,2,1,Friendly tournament,Singapore,19,-19,1318,1474,6,-1,126,90
+2007-06-24,United States,Mexico,2,1,CONCACAF Championship,the United States,19,-19,1838,1812,3,-3,16,19
+2007-06-24,Vietnam,Jamaica,3,0,Friendly,Vietnam,28,-28,1260,1546,5,-5,139,70
+2007-06-25,Qatar,Turkmenistan,1,0,Friendly,Qatar,4,-4,1508,1370,1,-1,80,112
+2007-06-26,Peru,Uruguay,3,0,Copa America,Venezuela,70,-70,1696,1793,11,-10,43,24
+2007-06-26,Venezuela,Bolivia,2,2,Copa America,Venezuela,-11,11,1639,1595,-4,2,52,60
+2007-06-27,Bahrain,United Arab Emirates,2,2,Friendly,Malaysia,1,-1,1492,1514,0,0,86,79
+2007-06-27,Chile,Ecuador,3,2,Copa America,Venezuela,25,-25,1770,1714,8,-2,28,42
+2007-06-27,Mexico,Brazil,2,0,Copa America,Venezuela,60,-60,1872,1999,5,-2,13,3
+2007-06-27,Singapore,Saudi Arabia,1,2,Friendly tournament,Singapore,-8,8,1310,1603,-2,2,128,58
+2007-06-28,Argentina,United States,4,1,Copa America,Venezuela,26,-26,2011,1812,3,-2,3,18
+2007-06-28,Malaysia,Jamaica,0,2,Friendly,Malaysia,-5,5,1179,1551,-3,1,162,69
+2007-06-28,North Korea,Oman,2,2,Friendly tournament,Singapore,5,-5,1479,1598,0,-1,90,59
+2007-06-28,Paraguay,Colombia,5,0,Copa America,Venezuela,60,-60,1817,1769,16,-11,17,29
+2007-06-29,South Korea,Iraq,3,0,Friendly,South Korea,10,-10,1684,1610,0,-2,44,57
+2007-06-30,Singapore,Australia,0,3,Friendly,Singapore,-4,4,1306,1759,-1,0,129,34
+2007-06-30,Thailand,Qatar,1,1,Friendly,Thailand,2,-2,1354,1506,1,-1,116,81
+2007-06-30,Uruguay,Bolivia,1,0,Copa America,Venezuela,12,-12,1805,1583,4,-1,20,62
+2007-06-30,Venezuela,Peru,2,0,Copa America,Venezuela,33,-33,1672,1663,8,-4,44,47
+2007-06-30,Vietnam,Bahrain,5,3,Friendly,Vietnam,20,-20,1280,1472,5,-4,134,90
+2007-07-01,Brazil,Chile,3,0,Copa America,Venezuela,18,-18,2017,1752,1,-7,3,35
+2007-07-01,Mexico,Ecuador,2,1,Copa America,Venezuela,14,-14,1886,1700,0,0,13,42
+2007-07-01,Oman,Saudi Arabia,1,1,Friendly tournament,Singapore,0,0,1598,1603,0,0,59,58
+2007-07-01,United Arab Emirates,North Korea,1,0,Friendly,Singapore,9,-9,1523,1470,3,-2,76,91
+2007-07-02,Argentina,Colombia,4,2,Copa America,Venezuela,15,-15,2026,1754,1,-5,3,33
+2007-07-02,Iran,Jamaica,8,1,Friendly,Iran,5,-5,1799,1546,2,-2,21,71
+2007-07-02,Paraguay,United States,3,1,Copa America,Venezuela,37,-37,1854,1775,2,-8,15,26
+2007-07-02,Thailand,Qatar,2,0,Friendly,Thailand,17,-17,1371,1489,4,-4,112,85
+2007-07-02,Uzbekistan,Iraq,2,0,Friendly,South Korea,18,-18,1551,1592,5,-3,69,60
+2007-07-03,Bolivia,Peru,2,2,Copa America,Venezuela,6,-6,1589,1657,1,-1,61,48
+2007-07-03,Venezuela,Uruguay,0,0,Copa America,Venezuela,2,-2,1674,1803,0,0,44,19
+2007-07-04,Brazil,Ecuador,1,0,Copa America,Venezuela,7,-7,2024,1693,0,0,4,42
+2007-07-04,Chile,Mexico,0,0,Copa America,Venezuela,9,-9,1761,1877,3,0,32,13
+2007-07-04,Gibraltar,Bermuda,2,0,Island Games,Greece,37,-37,1126,1133,3,-4,172,171
+2007-07-04,North Korea,Saudi Arabia,1,1,Friendly,Singapore,4,-4,1474,1599,2,0,89,57
+2007-07-05,Argentina,Paraguay,1,0,Copa America,Venezuela,14,-14,2040,1840,1,0,2,15
+2007-07-05,Colombia,United States,1,0,Copa America,Venezuela,27,-27,1781,1748,8,-10,26,36
+2007-07-05,South Korea,Uzbekistan,2,1,Friendly,South Korea,4,-4,1688,1547,0,-1,43,70
+2007-07-06,Malawi,Namibia,1,2,Independence Tournament,Malawi,-21,21,1263,1245,-5,6,138,145
+2007-07-07,Brazil,Chile,6,1,Copa America,Venezuela,18,-18,2042,1743,2,-6,2,38
+2007-07-07,Thailand,Iraq,1,1,Asian Cup,Thailand,8,-8,1379,1584,3,-2,109,62
+2007-07-07,Venezuela,Uruguay,1,4,Copa America,Venezuela,-40,40,1634,1843,-9,4,53,15
+2007-07-08,Argentina,Peru,4,0,Copa America,Venezuela,9,-9,2049,1648,1,-1,2,48
+2007-07-08,Australia,Oman,1,1,Asian Cup,Thailand,-11,11,1748,1609,-2,1,34,57
+2007-07-08,Mexico,Paraguay,6,0,Copa America,Venezuela,47,-47,1924,1793,5,-7,8,23
+2007-07-08,Vietnam,United Arab Emirates,2,0,Asian Cup,Vietnam,52,-52,1332,1471,10,-14,123,90
+2007-07-09,Japan,Qatar,1,1,Asian Cup,Vietnam,-16,16,1729,1505,-3,4,39,80
+2007-07-10,Brazil,Uruguay,2,2,Copa America,Venezuela,-13,13,2029,1856,-1,0,4,15
+2007-07-10,Indonesia,Bahrain,2,1,Asian Cup,Indonesia,29,-29,1343,1443,8,-7,120,96
+2007-07-10,Malaysia,China,1,5,Asian Cup,Malaysia,-14,14,1165,1600,-5,3,167,58
+2007-07-11,Argentina,Mexico,3,0,Copa America,Venezuela,29,-29,2078,1895,1,-3,1,11
+2007-07-11,Iran,Uzbekistan,2,1,Asian Cup,Malaysia,9,-9,1808,1538,1,-4,19,74
+2007-07-11,Saudi Arabia,South Korea,1,1,Asian Cup,Indonesia,6,-6,1605,1682,1,0,58,43
+2007-07-12,Thailand,Oman,2,0,Asian Cup,Thailand,51,-51,1430,1558,11,-11,98,68
+2007-07-12,Vietnam,Qatar,1,1,Asian Cup,Vietnam,5,-5,1337,1500,1,-1,123,81
+2007-07-13,Iraq,Australia,3,1,Asian Cup,Thailand,54,-54,1638,1694,8,-7,53,41
+2007-07-13,Japan,United Arab Emirates,3,1,Asian Cup,Vietnam,14,-14,1743,1457,3,-1,36,90
+2007-07-13,Solomon Islands,Papua New Guinea,2,1,Friendly,the Solomon Islands,2,-2,1348,1040,0,0,118,183
+2007-07-14,Indonesia,Saudi Arabia,1,2,Asian Cup,Indonesia,-14,14,1329,1619,-4,2,124,56
+2007-07-14,Malaysia,Uzbekistan,0,5,Asian Cup,Malaysia,-17,17,1148,1555,-3,5,170,69
+2007-07-14,Mexico,Uruguay,3,1,Copa America,Venezuela,33,-33,1928,1823,3,-2,8,17
+2007-07-15,Bahrain,South Korea,2,1,Asian Cup,Indonesia,40,-40,1483,1642,9,-8,87,51
+2007-07-15,Brazil,Argentina,3,0,Copa America,Venezuela,50,-50,2079,2028,3,-3,1,4
+2007-07-15,China,Iran,2,2,Asian Cup,Malaysia,13,-13,1613,1795,1,-1,58,20
+2007-07-16,Iraq,Oman,0,0,Asian Cup,Thailand,-6,6,1632,1564,-1,1,54,67
+2007-07-16,Thailand,Australia,0,4,Asian Cup,Thailand,-26,26,1404,1720,-7,1,105,40
+2007-07-16,United Arab Emirates,Qatar,2,1,Asian Cup,Vietnam,28,-28,1485,1472,5,-9,86,90
+2007-07-16,Vietnam,Japan,1,4,Asian Cup,Vietnam,-13,13,1324,1756,-5,4,127,32
+2007-07-17,New Caledonia,Vanuatu,5,3,Friendly,New Caledonia,13,-13,1195,1219,3,-5,158,151
+2007-07-18,Indonesia,South Korea,0,1,Asian Cup,Indonesia,-11,11,1318,1653,-4,5,127,46
+2007-07-18,Malaysia,Iran,0,2,Asian Cup,Malaysia,-3,3,1145,1798,0,0,170,20
+2007-07-18,Saudi Arabia,Bahrain,4,0,Asian Cup,Indonesia,29,-29,1648,1454,8,-5,48,92
+2007-07-18,Uzbekistan,China,3,0,Asian Cup,Malaysia,51,-51,1606,1562,10,-10,59,68
+2007-07-19,Madagascar,Mayotte,2,2,Friendly,Madagascar,-2,2,1177,1210,1,0,161,154
+2007-07-19,New Caledonia,Vanuatu,0,2,Friendly,New Caledonia,-18,18,1177,1237,-3,5,161,146
+2007-07-21,Australia,Japan,1,1,Asian Cup,Vietnam,3,-3,1723,1753,1,-1,39,33
+2007-07-21,Botswana,Zambia,0,0,Friendly,Botswana,4,-4,1309,1539,2,-1,129,74
+2007-07-21,Iraq,Vietnam,2,0,Asian Cup,Thailand,11,-11,1643,1313,2,-2,53,128
+2007-07-22,Iran,South Korea,0,0,Asian Cup,Malaysia,-10,10,1788,1663,-3,0,23,46
+2007-07-22,Saudi Arabia,Uzbekistan,2,1,Asian Cup,Indonesia,22,-22,1670,1584,5,-2,43,61
+2007-07-25,Iraq,South Korea,0,0,Asian Cup,Malaysia,1,-1,1644,1662,1,0,52,46
+2007-07-25,Saudi Arabia,Japan,3,2,Asian Cup,Vietnam,31,-31,1701,1722,1,-6,42,39
+2007-07-28,Angola,Lesotho,2,0,COSAFA Cup,Botswana,5,-5,1581,1159,1,-1,62,168
+2007-07-28,Botswana,Namibia,1,0,COSAFA Cup,Botswana,11,-11,1320,1234,3,-1,126,146
+2007-07-28,Japan,South Korea,0,0,Asian Cup,Indonesia,-4,4,1718,1666,-2,0,41,46
+2007-07-29,Botswana,Angola,0,0,COSAFA Cup,Botswana,9,-9,1329,1572,3,-2,123,64
+2007-07-29,Iraq,Saudi Arabia,1,0,Asian Cup,Indonesia,29,-29,1673,1672,9,-2,43,44
+2007-07-29,Madagascar,DR Congo,0,0,Friendly,Madagascar,4,-4,1181,1440,0,-1,161,97
+2007-07-29,Namibia,Lesotho,3,2,COSAFA Cup,Botswana,16,-16,1250,1143,2,-2,144,170
+2007-08-10,Comoros,Reunion,1,1,Indian Ocean Games,Madagascar,12,-12,872,1234,0,-1,204,146
+2007-08-10,Seychelles,Mayotte,2,1,Indian Ocean Games,Madagascar,21,-21,1084,1189,2,-4,176,158
+2007-08-12,Madagascar,Reunion,0,0,Indian Ocean Games,Madagascar,-2,2,1179,1236,0,0,161,146
+2007-08-12,Mayotte,Mauritius,1,0,Indian Ocean Games,Madagascar,16,-16,1205,1190,3,-4,155,158
+2007-08-14,Madagascar,Comoros,3,0,Indian Ocean Games,Madagascar,5,-5,1184,867,2,0,159,204
+2007-08-14,Mauritius,Seychelles,3,0,Indian Ocean Games,Madagascar,18,-18,1208,1066,4,-1,154,177
+2007-08-16,Madagascar,Mayotte,4,0,Indian Ocean Games,Madagascar,22,-22,1206,1183,5,-3,154,159
+2007-08-16,Reunion,Mauritius,1,0,Indian Ocean Games,Madagascar,14,-14,1250,1194,2,-3,144,157
+2007-08-17,India,Cambodia,6,0,Nehru Gold Cup,India,11,-11,1055,800,1,-1,180,206
+2007-08-18,Madagascar,Reunion,0,0,Indian Ocean Games,Madagascar,-2,2,1204,1252,-1,0,155,144
+2007-08-18,Mauritius,Mayotte,1,1,Indian Ocean Games,Madagascar,0,0,1194,1183,0,0,157,159
+2007-08-18,Syria,Bangladesh,2,0,Nehru Gold Cup,India,4,-4,1492,1004,1,0,84,185
+2007-08-19,Kyrgyzstan,Cambodia,4,3,Nehru Gold Cup,India,4,-4,1180,796,2,-2,162,208
+2007-08-20,India,Bangladesh,1,0,Nehru Gold Cup,India,12,-12,1067,992,3,-4,177,189
+2007-08-20,Mozambique,Zimbabwe,0,0,Friendly,Mozambique,0,0,1343,1445,0,0,120,95
+2007-08-20,Myanmar,Lesotho,1,0,Independence Tournament,Malaysia,14,-14,1175,1129,2,-1,165,171
+2007-08-21,Benin,Gabon,2,2,Friendly,France,2,-2,1331,1415,0,-1,123,102
+2007-08-21,Ghana,Senegal,1,1,Friendly,England,-4,4,1763,1643,-1,0,29,54
+2007-08-21,Syria,Kyrgyzstan,4,1,Nehru Gold Cup,India,10,-10,1502,1170,4,-4,80,166
+2007-08-22,Albania,Malta,3,0,Friendly,Albania,4,-4,1523,1263,3,0,75,137
+2007-08-22,Armenia,Portugal,1,1,European Championship qualifier,Armenia,16,-16,1458,1908,5,-1,91,10
+2007-08-22,Austria,Czechia,1,1,Friendly,Austria,4,-4,1617,1860,0,0,58,14
+2007-08-22,Bangladesh,Cambodia,1,1,Nehru Gold Cup,India,-10,10,982,806,0,2,189,206
+2007-08-22,Belarus,Israel,2,1,Friendly,Belarus,13,-13,1557,1731,3,-3,69,38
+2007-08-22,Belgium,Serbia,3,2,European Championship qualifier,Belgium,23,-23,1642,1742,2,-6,55,34
+2007-08-22,Bosnia and Herzegovina,Croatia,3,5,Friendly,Bosnia and Herzegovina,-8,8,1621,1903,-1,1,57,11
+2007-08-22,Brazil,Algeria,2,0,Friendly,France,1,-1,2080,1405,0,-1,1,105
+2007-08-22,Bulgaria,Wales,0,1,Friendly,Bulgaria,-17,17,1757,1596,-4,2,31,60
+2007-08-22,Colombia,Mexico,1,0,Friendly,the United States,14,-14,1795,1914,6,-1,20,9
+2007-08-22,Costa Rica,Peru,1,1,Friendly,Costa Rica,-3,3,1645,1651,-2,2,52,48
+2007-08-22,Denmark,Ireland,0,4,Friendly,Denmark,-30,30,1876,1792,-2,10,13,21
+2007-08-22,DR Congo,Angola,3,1,Friendly,DR Congo,16,-16,1456,1556,5,-6,92,70
+2007-08-22,Ecuador,Bolivia,1,0,Friendly,Ecuador,5,-5,1698,1584,0,-2,42,62
+2007-08-22,Egypt,Ivory Coast,0,0,Friendly,France,2,-2,1721,1786,0,-2,40,25
+2007-08-22,El Salvador,Honduras,2,0,Friendly,El Salvador,23,-23,1379,1644,6,-7,110,53
+2007-08-22,England,Germany,1,2,Friendly,England,-12,12,1933,2004,0,2,7,4
+2007-08-22,Estonia,Andorra,2,1,European Championship qualifier,Estonia,4,-4,1378,1089,0,0,112,175
+2007-08-22,Finland,Kazakhstan,2,1,European Championship qualifier,Finland,4,-4,1648,1350,4,1,49,116
+2007-08-22,Greece,Spain,2,3,Friendly,Greece,-9,9,1786,1931,-5,2,25,8
+2007-08-22,Hungary,Italy,3,1,Friendly,Hungary,27,-27,1596,2004,5,-1,60,4
+2007-08-22,Iceland,Canada,1,1,Friendly,Iceland,2,-2,1473,1646,1,-1,89,51
+2007-08-22,Japan,Cameroon,2,0,Friendly,Japan,14,-14,1732,1771,4,-2,37,27
+2007-08-22,Latvia,Moldova,1,2,Friendly,Latvia,-13,13,1403,1408,-6,4,107,103
+2007-08-22,Lesotho,Laos,3,1,Independence Tournament,Malaysia,9,-9,1138,884,1,-1,170,201
+2007-08-22,Lithuania,Turkmenistan,2,1,Friendly,Lithuania,4,-4,1502,1366,3,-1,79,114
+2007-08-22,Luxembourg,Georgia,0,0,Friendly,Luxembourg,8,-8,1006,1515,1,-2,185,78
+2007-08-22,Macedonia,Nigeria,0,0,Friendly,Macedonia,3,-3,1529,1739,1,1,74,36
+2007-08-22,Mali,Burkina Faso,3,2,Friendly,France,5,-5,1565,1341,3,-1,66,120
+2007-08-22,Montenegro,Slovenia,1,1,Friendly,Montenegro,-5,5,1655,1554,1,-1,47,71
+2007-08-22,Norway,Argentina,2,1,Friendly,Norway,15,-15,1769,2013,4,1,28,3
+2007-08-22,Northern Ireland,Liechtenstein,3,1,European Championship qualifier,Northern Ireland,3,-3,1577,1150,-1,0,64,168
+2007-08-22,Panama,Guatemala,2,1,Friendly,Panama,6,-6,1571,1502,1,0,65,79
+2007-08-22,Paraguay,Venezuela,1,1,Friendly,Paraguay,-6,6,1787,1640,-2,-1,24,56
+2007-08-22,Romania,Turkey,2,0,Friendly,Romania,9,-9,1903,1831,2,-1,11,16
+2007-08-22,Russia,Poland,2,2,Friendly,Russia,-4,4,1790,1767,-1,0,22,29
+2007-08-22,San Marino,Cyprus,0,1,European Championship qualifier,San Marino,-3,3,933,1484,0,0,194,87
+2007-08-22,Scotland,South Africa,1,0,Friendly,Scotland,2,-2,1753,1494,1,0,32,84
+2007-08-22,Slovakia,France,0,1,Friendly,Slovakia,-4,4,1717,2061,-2,0,41,2
+2007-08-22,Sudan,Libya,1,0,Friendly,Sudan,8,-8,1400,1416,0,-1,108,100
+2007-08-22,Sweden,United States,1,0,Friendly,Sweden,6,-6,1817,1742,0,0,18,34
+2007-08-22,Switzerland,Netherlands,2,1,Friendly,Switzerland,12,-12,1842,1985,1,-1,15,6
+2007-08-22,Tajikistan,Azerbaijan,2,3,Friendly,Tajikistan,-12,12,1346,1409,-4,4,118,102
+2007-08-22,Togo,Zambia,3,1,Friendly,Togo,16,-16,1443,1523,0,-1,98,75
+2007-08-22,Tunisia,Guinea,1,1,Friendly,Tunisia,-4,4,1648,1602,0,0,49,59
+2007-08-22,Ukraine,Uzbekistan,2,1,Friendly,Ukraine,3,-3,1806,1581,0,-2,19,63
+2007-08-23,India,Syria,2,3,Nehru Gold Cup,India,-5,5,1062,1507,-2,0,179,79
+2007-08-24,Kyrgyzstan,Bangladesh,3,0,Nehru Gold Cup,India,18,-18,1188,964,7,-2,159,191
+2007-08-25,Fiji,Tuvalu,16,0,Oceania Cup qual & S Pacific Games,Samoa,5,-5,1320,749,1,0,127,213
+2007-08-25,Myanmar,Laos,1,0,Independence Tournament,Malaysia,5,-5,1180,879,1,-1,164,202
+2007-08-25,New Caledonia,Tahiti,1,0,World Cup & Oce Cup q & S Pac G,Samoa,24,-24,1201,1231,7,-5,156,147
+2007-08-25,Samoa,Vanuatu,0,4,World Cup & Oce Cup q & S Pac G,Samoa,-5,5,678,1242,0,1,218,145
+2007-08-25,Solomon Islands,Eastern Samoa,12,1,World Cup & Oce Cup q & S Pac G,Samoa,0,0,1348,373,0,0,117,236
+2007-08-25,Syria,Cambodia,5,1,Nehru Gold Cup,India,1,-1,1508,805,0,0,79,206
+2007-08-26,India,Kyrgyzstan,3,0,Nehru Gold Cup,India,38,-38,1100,1150,4,-7,175,167
+2007-08-27,Fiji,Cook Islands,4,0,World Cup & Oce Cup q & S Pac G,Samoa,2,-2,1322,671,0,-1,127,220
+2007-08-27,New Caledonia,Tuvalu,1,0,Oceania Cup qual & S Pacific Games,Samoa,3,-3,1204,746,1,0,155,213
+2007-08-27,Samoa,Eastern Samoa,7,0,World Cup & Oce Cup q & S Pac G,Samoa,8,-8,686,365,0,0,218,236
+2007-08-27,Solomon Islands,Tonga,4,0,World Cup & Oce Cup q & S Pac G,Samoa,2,-2,1350,713,1,0,116,214
+2007-08-29,India,Syria,1,0,Nehru Gold Cup,India,34,-34,1134,1474,4,-8,171,87
+2007-08-29,New Caledonia,Cook Islands,3,0,World Cup & Oce Cup q & S Pac G,Samoa,3,-3,1207,668,1,-1,154,221
+2007-08-29,Samoa,Tonga,2,1,World Cup & Oce Cup q & S Pac G,Samoa,16,-16,702,697,2,-4,216,218
+2007-08-29,Tahiti,Tuvalu,1,1,Oceania Cup qual & S Pacific Games,Samoa,-18,18,1213,764,-5,1,152,212
+2007-08-29,Vanuatu,Eastern Samoa,15,0,World Cup & Oce Cup q & S Pac G,Samoa,1,-1,1243,364,0,0,145,236
+2007-09-01,Cook Islands,Tuvalu,4,1,Oceania Cup qual & S Pacific Games,Samoa,44,-44,712,720,6,-1,215,213
+2007-09-01,Fiji,Tahiti,4,0,World Cup & Oce Cup q & S Pac G,Samoa,26,-26,1348,1187,9,-7,118,159
+2007-09-01,Solomon Islands,Vanuatu,2,0,World Cup & Oce Cup q & S Pac G,Samoa,21,-21,1371,1222,2,-5,114,150
+2007-09-01,Tanzania,Uganda,1,0,Friendly,Tanzania,9,-9,1366,1399,0,-5,115,108
+2007-09-01,Tonga,Eastern Samoa,4,0,World Cup & Oce Cup q & S Pac G,Samoa,10,-10,707,354,2,0,216,236
+2007-09-03,Fiji,New Caledonia,1,1,World Cup & Oce Cup q & S Pac G,Samoa,-8,8,1340,1215,-3,1,121,152
+2007-09-03,Samoa,Solomon Islands,0,3,World Cup & Oce Cup q & S Pac G,Samoa,-3,3,699,1374,0,0,218,114
+2007-09-03,Tahiti,Cook Islands,1,0,World Cup & Oce Cup q & S Pac G,Samoa,2,-2,1189,710,0,0,159,215
+2007-09-03,Vanuatu,Tonga,4,1,World Cup & Oce Cup q & S Pac G,Samoa,3,-3,1225,704,1,-1,149,217
+2007-09-05,Fiji,Vanuatu,3,0,World Cup & Oce Cup q & S Pac G,Samoa,24,-24,1364,1201,5,-6,116,155
+2007-09-05,New Caledonia,Solomon Islands,3,2,World Cup & Oce Cup q & S Pac G,Samoa,29,-29,1244,1345,7,-5,145,119
+2007-09-07,Austria,Japan,0,0,Continents Tournament,Austria,1,-1,1618,1731,0,0,58,37
+2007-09-07,Bahrain,Jordan,1,3,Friendly,Bahrain,-16,16,1438,1536,-4,3,98,74
+2007-09-07,New Caledonia,Fiji,1,0,South Pacific Games,Samoa,27,-27,1271,1337,9,-5,136,121
+2007-09-07,Switzerland,Chile,2,1,Continents Tournament,Austria,11,-11,1853,1732,0,-3,15,36
+2007-09-07,Vanuatu,Solomon Islands,2,0,World Cup & Oce Cup q & S Pac G,Samoa,42,-42,1243,1303,9,-14,146,133
+2007-09-08,Belarus,Romania,1,3,European Championship qualifier,Belarus,-12,12,1545,1915,-2,2,71,9
+2007-09-08,Croatia,Estonia,2,0,European Championship qualifier,Croatia,2,-2,1905,1376,0,1,11,111
+2007-09-08,Cyprus,Armenia,3,1,Friendly,Cyprus,10,-10,1494,1448,3,-1,83,92
+2007-09-08,DR Congo,Libya,1,1,African Nations Cup qualifier,DR Congo,-8,8,1448,1424,0,-1,92,101
+2007-09-08,Ecuador,El Salvador,5,1,Friendly,Ecuador,3,-3,1701,1376,0,-1,42,111
+2007-09-08,England,Israel,3,0,European Championship qualifier,England,10,-10,1943,1721,0,-2,7,39
+2007-09-08,Ethiopia,Namibia,2,3,African Nations Cup qualifier,Ethiopia,-32,32,1347,1282,-6,10,116,135
+2007-09-08,Gabon,Ivory Coast,0,0,African Nations Cup qualifier,Gabon,13,-13,1428,1773,2,-4,99,29
+2007-09-08,Georgia,Ukraine,1,1,European Championship qualifier,Georgia,10,-10,1525,1796,3,-1,75,20
+2007-09-08,Ghana,Morocco,2,0,Friendly,France,11,-11,1774,1657,2,-2,28,47
+2007-09-08,Hungary,Bosnia and Herzegovina,1,0,European Championship qualifier,Hungary,16,-16,1612,1605,2,-2,58,59
+2007-09-08,Iceland,Spain,1,1,European Championship qualifier,Iceland,15,-15,1488,1916,3,0,86,8
+2007-09-08,Italy,France,0,0,European Championship qualifier,Italy,-2,2,2002,2063,-1,0,5,2
+2007-09-08,Kazakhstan,Tajikistan,1,1,Friendly,Kazakhstan,-3,3,1347,1349,0,2,116,115
+2007-09-08,Kenya,Angola,2,1,African Nations Cup qualifier,Kenya,28,-28,1335,1528,8,-4,121,74
+2007-09-08,Latvia,Northern Ireland,1,0,European Championship qualifier,Latvia,24,-24,1427,1553,6,-5,100,69
+2007-09-08,Luxembourg,Slovenia,0,3,European Championship qualifier,Luxembourg,-5,5,1001,1559,-1,3,186,68
+2007-09-08,Malta,Turkey,2,2,European Championship qualifier,Malta,17,-17,1280,1814,2,-2,136,18
+2007-09-08,Moldova,Norway,0,1,European Championship qualifier,Moldova,-7,7,1401,1776,-4,2,107,26
+2007-09-08,Netherlands,Bulgaria,2,0,European Championship qualifier,the Netherlands,8,-8,1993,1749,0,-1,6,32
+2007-09-08,Nigeria,Lesotho,2,0,African Nations Cup qualifier,Nigeria,1,-1,1740,1137,1,0,34,170
+2007-09-08,Peru,Colombia,2,2,Friendly,Peru,1,-1,1652,1794,-1,-1,49,21
+2007-09-08,Portugal,Poland,2,2,European Championship qualifier,Portugal,-12,12,1896,1779,-2,4,12,25
+2007-09-08,Russia,Macedonia,3,0,European Championship qualifier,Russia,8,-8,1798,1521,3,-3,19,78
+2007-09-08,Rwanda,Liberia,4,0,African Nations Cup qualifier,Rwanda,25,-25,1305,1230,3,-4,131,147
+2007-09-08,San Marino,Czechia,0,3,European Championship qualifier,San Marino,-1,1,932,1861,-1,0,195,14
+2007-09-08,Scotland,Lithuania,3,1,European Championship qualifier,Scotland,7,-7,1760,1495,1,-3,31,82
+2007-09-08,Senegal,Burkina Faso,5,1,African Nations Cup qualifier,Senegal,7,-7,1650,1334,3,-4,51,123
+2007-09-08,Serbia,Finland,0,0,European Championship qualifier,Serbia,-10,10,1732,1658,-2,3,35,46
+2007-09-08,Slovakia,Ireland,2,2,European Championship qualifier,Slovakia,-1,1,1716,1793,0,-1,41,22
+2007-09-08,Sweden,Denmark,0,0,European Championship qualifier,Sweden,-2,2,1815,1878,1,0,17,13
+2007-09-08,Tanzania,Mozambique,0,1,African Nations Cup qualifier,Tanzania,-27,27,1339,1370,-5,5,119,113
+2007-09-08,Uganda,Niger,3,1,African Nations Cup qualifier,Uganda,13,-13,1412,1262,5,-6,103,141
+2007-09-08,Venezuela,Paraguay,3,2,Friendly,Venezuela,11,-11,1651,1776,6,-2,50,26
+2007-09-08,Wales,Germany,0,2,European Championship qualifier,Wales,-9,9,1587,2013,-1,1,61,3
+2007-09-09,Burundi,Egypt,0,0,African Nations Cup qualifier,Burundi,15,-15,1278,1706,2,-2,137,41
+2007-09-09,Chad,Congo,1,1,African Nations Cup qualifier,Chad,3,-3,1271,1415,0,-1,138,103
+2007-09-09,Costa Rica,Honduras,0,0,Central American Independence Cup,the United States,0,0,1645,1644,1,1,53,54
+2007-09-09,Equatorial Guinea,Cameroon,1,0,African Nations Cup qualifier,Equatorial Guinea,37,-37,1243,1734,9,-4,145,34
+2007-09-09,Gambia,Algeria,2,1,African Nations Cup qualifier,The Gambia,19,-19,1348,1386,9,-4,116,109
+2007-09-09,Guinea,Cape Verde,4,0,African Nations Cup qualifier,Guinea,7,-7,1609,1298,1,-3,59,134
+2007-09-09,Mauritius,Seychelles,1,1,African Nations Cup qualifier,Mauritius,-12,12,1182,1078,-5,1,162,177
+2007-09-09,Mexico,Panama,1,0,Friendly,Mexico,1,-1,1915,1570,1,0,9,64
+2007-09-09,South Africa,Zambia,1,3,African Nations Cup qualifier,South Africa,-36,36,1458,1559,-7,8,90,68
+2007-09-09,Sudan,Tunisia,3,2,African Nations Cup qualifier,Sudan,28,-28,1428,1620,9,-4,99,56
+2007-09-09,Swaziland,Eritrea,0,0,African Nations Cup qualifier,Swaziland,-7,7,1185,1181,0,2,158,163
+2007-09-09,United States,Brazil,2,4,Friendly,the United States,-6,6,1736,2086,0,0,33,1
+2007-09-09,Zimbabwe,Malawi,3,1,African Nations Cup qualifier,Zimbabwe,10,-10,1455,1253,5,-4,91,143
+2007-09-11,Australia,Argentina,0,1,Friendly,Australia,-5,5,1718,2018,-1,0,39,3
+2007-09-11,Austria,Chile,0,2,Continents Tournament,Austria,-22,22,1596,1754,-3,5,60,30
+2007-09-11,Japan,Switzerland,4,3,Continents Tournament,Austria,20,-20,1751,1833,5,0,32,15
+2007-09-11,Saudi Arabia,Ghana,5,0,Friendly,Saudi Arabia,20,-20,1692,1754,1,-2,43,30
+2007-09-12,Albania,Netherlands,0,1,European Championship qualifier,Albania,-4,4,1519,1997,0,0,77,6
+2007-09-12,Andorra,Croatia,0,6,European Championship qualifier,Andorra,-1,1,1088,1906,0,0,176,11
+2007-09-12,Azerbaijan,Georgia,1,1,Friendly,Azerbaijan,0,0,1409,1525,-1,0,106,76
+2007-09-12,Bosnia and Herzegovina,Moldova,0,1,European Championship qualifier,Bosnia and Herzegovina,-34,34,1571,1435,-6,8,65,99
+2007-09-12,Brazil,Mexico,3,1,Friendly,the United States,8,-8,2094,1907,0,-1,1,10
+2007-09-12,Bulgaria,Luxembourg,3,0,European Championship qualifier,Bulgaria,1,-1,1750,1000,0,0,33,186
+2007-09-12,Canada,Costa Rica,1,1,Friendly,Canada,-3,3,1643,1648,-2,2,54,51
+2007-09-12,Colombia,Paraguay,1,0,Friendly,Colombia,7,-7,1801,1769,2,-3,19,29
+2007-09-12,Cyprus,San Marino,3,0,European Championship qualifier,Cyprus,2,-2,1496,930,-1,0,84,195
+2007-09-12,Czechia,Ireland,1,0,European Championship qualifier,Czechia,11,-11,1872,1782,0,-2,14,24
+2007-09-12,Denmark,Liechtenstein,4,0,European Championship qualifier,Denmark,1,-1,1879,1149,0,-1,13,168
+2007-09-12,England,Russia,3,0,European Championship qualifier,England,14,-14,1957,1784,0,-4,7,23
+2007-09-12,Finland,Poland,0,0,European Championship qualifier,Finland,1,-1,1659,1778,-1,-1,47,26
+2007-09-12,France,Scotland,0,1,European Championship qualifier,France,-36,36,2027,1796,0,9,2,20
+2007-09-12,Germany,Romania,3,1,Friendly,Germany,7,-7,2020,1908,1,0,3,9
+2007-09-12,Honduras,Ecuador,2,1,Friendly,Honduras,9,-9,1653,1692,5,1,49,41
+2007-09-12,Iceland,Northern Ireland,2,1,European Championship qualifier,Iceland,18,-18,1506,1535,6,-3,79,73
+2007-09-12,Kazakhstan,Belgium,2,2,European Championship qualifier,Kazakhstan,10,-10,1357,1632,2,-1,115,56
+2007-09-12,Lithuania,Faroe Islands,2,1,European Championship qualifier,Lithuania,3,-3,1498,1164,0,0,82,166
+2007-09-12,Macedonia,Estonia,1,1,European Championship qualifier,Macedonia,-12,12,1509,1388,0,2,78,109
+2007-09-12,Malta,Armenia,0,1,Friendly,Malta,-8,8,1272,1456,-1,2,137,91
+2007-09-12,Montenegro,Sweden,1,2,Friendly,Montenegro,-8,8,1647,1823,-4,0,52,17
+2007-09-12,Norway,Greece,2,2,European Championship qualifier,Norway,-5,5,1771,1791,-2,3,28,21
+2007-09-12,Peru,Bolivia,2,0,Friendly,Peru,8,-8,1660,1576,3,0,46,62
+2007-09-12,Portugal,Serbia,1,1,European Championship qualifier,Portugal,-13,13,1883,1745,0,3,12,34
+2007-09-12,Singapore,United Arab Emirates,1,1,Friendly,Singapore,2,-2,1308,1483,0,0,130,86
+2007-09-12,Slovakia,Wales,2,5,European Championship qualifier,Slovakia,-55,55,1661,1642,-5,6,45,55
+2007-09-12,Slovenia,Belarus,1,0,European Championship qualifier,Slovenia,14,-14,1573,1531,4,-2,64,74
+2007-09-12,South Africa,Uruguay,0,0,Friendly,South Africa,6,-6,1464,1817,0,-2,90,18
+2007-09-12,Spain,Latvia,2,0,European Championship qualifier,Spain,2,-2,1918,1425,0,-1,8,102
+2007-09-12,Turkey,Hungary,3,0,European Championship qualifier,Turkey,10,-10,1824,1602,2,-2,16,59
+2007-09-12,Ukraine,Italy,1,2,European Championship qualifier,Ukraine,-14,14,1782,2016,-4,0,24,5
+2007-09-12,Venezuela,Panama,1,1,Friendly,Venezuela,-5,5,1646,1575,-3,1,53,63
+2007-09-17,Qatar,Oman,1,1,Friendly,Qatar,0,0,1472,1564,0,0,89,67
+2007-09-23,United Arab Emirates,Lebanon,1,1,Friendly,the United Arab Emirates,-6,6,1477,1333,0,2,86,125
+2007-09-29,South Africa,Botswana,1,0,COSAFA Cup,South Africa,8,-8,1472,1321,1,0,89,127
+2007-09-29,Zambia,Mozambique,3,0,COSAFA Cup,South Africa,18,-18,1577,1352,7,-2,62,115
+2007-10-02,Oman,Maldives,1,0,Friendly,Oman,1,-1,1565,1030,1,0,67,184
+2007-10-03,Thailand,United Arab Emirates,1,1,Friendly,Thailand,-1,1,1403,1478,0,0,107,86
+2007-10-04,Bahrain,Singapore,3,1,Friendly,Bahrain,6,-6,1444,1302,1,-3,97,133
+2007-10-08,Bangladesh,Tajikistan,1,1,World Cup qualifier,Bangladesh,14,-14,978,1335,1,-6,190,122
+2007-10-08,Lebanon,India,4,1,World Cup qualifier,Lebanon,11,-11,1344,1123,7,-2,118,173
+2007-10-08,Oman,Nepal,2,0,World Cup qualifier,Oman,1,-1,1566,893,0,0,67,199
+2007-10-08,Singapore,Palestine,4,0,World Cup qualifier,Qatar,33,-33,1335,1226,11,-10,122,151
+2007-10-08,Syria,Afghanistan,3,0,World Cup qualifier,Syria,1,-1,1475,809,0,0,87,205
+2007-10-08,Thailand,Macao,6,1,World Cup qualifier,Thailand,1,-1,1404,765,0,0,107,211
+2007-10-08,Vietnam,United Arab Emirates,0,1,World Cup qualifier,Vietnam,-16,16,1297,1494,-5,1,134,85
+2007-10-08,Yemen,Maldives,3,0,World Cup qualifier,Yemen,11,-11,1240,1019,4,0,146,184
+2007-10-11,Cambodia,Turkmenistan,0,1,World Cup qualifier,Cambodia,-3,3,802,1369,0,0,206,113
+2007-10-12,Sierra Leone,Benin,0,2,African Nations Cup qualifier,Sierra Leone,-32,32,1226,1363,-9,13,150,114
+2007-10-12,Togo,Mali,0,2,African Nations Cup qualifier,Togo,-28,28,1415,1593,-5,7,103,61
+2007-10-13,Argentina,Chile,2,0,World Cup qualifier,Argentina,7,-7,2025,1747,1,-3,3,33
+2007-10-13,Armenia,Serbia,0,0,European Championship qualifier,Armenia,10,-10,1466,1735,0,-2,91,36
+2007-10-13,Azerbaijan,Portugal,0,2,European Championship qualifier,Azerbaijan,-6,6,1403,1889,-1,0,107,12
+2007-10-13,Belarus,Luxembourg,0,1,European Championship qualifier,Belarus,-39,39,1492,1039,-10,2,84,184
+2007-10-13,Belgium,Finland,0,0,European Championship qualifier,Belgium,-4,4,1628,1663,1,1,55,46
+2007-10-13,Croatia,Israel,1,0,European Championship qualifier,Croatia,6,-6,1912,1715,1,-1,10,39
+2007-10-13,Cyprus,Wales,3,1,European Championship qualifier,Cyprus,34,-34,1530,1608,10,-3,74,58
+2007-10-13,Denmark,Spain,1,3,European Championship qualifier,Denmark,-35,35,1844,1953,-1,0,14,8
+2007-10-13,Ecuador,Venezuela,0,1,World Cup qualifier,Ecuador,-28,28,1664,1674,-4,11,45,42
+2007-10-13,Egypt,Botswana,1,0,African Nations Cup qualifier,Egypt,2,-2,1708,1319,0,0,40,128
+2007-10-13,El Salvador,Costa Rica,2,2,Friendly,El Salvador,5,-5,1381,1643,1,-2,111,53
+2007-10-13,England,Estonia,3,0,European Championship qualifier,England,1,-1,1958,1387,0,0,7,109
+2007-10-13,Faroe Islands,France,0,6,European Championship qualifier,the Faroe Islands,-1,1,1163,2028,0,0,166,2
+2007-10-13,Greece,Bosnia and Herzegovina,3,2,European Championship qualifier,Greece,5,-5,1796,1566,0,2,21,65
+2007-10-13,Hungary,Malta,2,0,European Championship qualifier,Hungary,5,-5,1607,1267,0,-1,59,138
+2007-10-13,Iceland,Latvia,2,4,European Championship qualifier,Iceland,-44,44,1462,1469,-13,11,92,90
+2007-10-13,Ireland,Germany,0,0,European Championship qualifier,Ireland,8,-8,1790,2012,2,-2,22,5
+2007-10-13,Italy,Georgia,2,0,European Championship qualifier,Italy,2,-2,2018,1523,1,-1,4,77
+2007-10-13,Liechtenstein,Sweden,0,3,European Championship qualifier,Liechtenstein,-2,2,1147,1825,0,0,168,17
+2007-10-13,Mauritania,Burundi,2,1,African Nations Cup qualifier,Mauritania,19,-19,1218,1259,2,-4,154,140
+2007-10-13,Moldova,Turkey,1,1,European Championship qualifier,Moldova,14,-14,1449,1810,3,-3,95,19
+2007-10-13,Peru,Paraguay,0,0,World Cup qualifier,Peru,1,-1,1661,1768,-2,1,48,28
+2007-10-13,Poland,Kazakhstan,3,1,European Championship qualifier,Poland,3,-3,1781,1354,1,0,25,115
+2007-10-13,Romania,Netherlands,1,0,European Championship qualifier,Romania,19,-19,1927,1978,0,0,9,6
+2007-10-13,Scotland,Ukraine,3,1,European Championship qualifier,Scotland,20,-20,1816,1762,2,-5,18,29
+2007-10-13,Slovakia,San Marino,7,0,European Championship qualifier,Slovakia,1,-1,1662,929,-2,0,47,195
+2007-10-13,Slovenia,Albania,0,0,European Championship qualifier,Slovenia,-8,8,1565,1527,-2,1,68,76
+2007-10-13,Switzerland,Austria,3,1,Friendly,Switzerland,4,-4,1837,1592,0,-1,15,61
+2007-10-13,Uruguay,Bolivia,5,0,World Cup qualifier,Uruguay,10,-10,1827,1566,2,-1,16,65
+2007-10-13,Uzbekistan,Taiwan,9,0,World Cup qualifier,Uzbekistan,2,-2,1583,994,0,-1,62,188
+2007-10-14,Colombia,Brazil,0,0,World Cup qualifier,Colombia,10,-10,1811,2084,1,0,19,1
+2007-10-14,Honduras,Panama,1,0,Friendly,Honduras,5,-5,1658,1570,0,0,50,64
+2007-10-14,Madagascar,Comoros,6,2,World Cup and African Cup qualifier,Madagascar,6,-6,1210,861,0,0,156,204
+2007-10-14,Mexico,Nigeria,2,2,Friendly,Mexico,-6,6,1901,1746,0,0,11,34
+2007-10-14,Senegal,Guinea,3,1,Friendly,France,13,-13,1663,1596,5,-2,46,59
+2007-10-15,Macao,Thailand,1,7,World Cup qualifier,Macao,-4,4,761,1408,0,0,211,106
+2007-10-16,Bahrain,Libya,2,0,Friendly,Bahrain,10,-10,1454,1414,4,-2,95,104
+2007-10-16,Croatia,Slovakia,3,0,Friendly,Croatia,4,-4,1916,1658,0,-1,10,49
+2007-10-16,Qatar,Iraq,3,2,Friendly,Qatar,13,-13,1485,1660,2,-5,86,48
+2007-10-16,Venezuela,Argentina,0,2,World Cup qualifier,Venezuela,-11,11,1663,2036,-2,1,44,2
+2007-10-17,Albania,Bulgaria,1,1,European Championship qualifier,Albania,7,-7,1534,1743,0,-4,76,36
+2007-10-17,Austria,Ivory Coast,3,2,Friendly,Austria,12,-12,1604,1761,2,-5,59,31
+2007-10-17,Azerbaijan,Serbia,1,6,European Championship qualifier,Azerbaijan,-17,17,1386,1752,-1,3,108,33
+2007-10-17,Belgium,Armenia,3,0,European Championship qualifier,Belgium,13,-13,1641,1453,1,-4,54,95
+2007-10-17,Bolivia,Colombia,0,0,World Cup qualifier,Bolivia,8,-8,1574,1803,1,-1,64,20
+2007-10-17,Bosnia and Herzegovina,Norway,0,2,European Championship qualifier,Bosnia and Herzegovina,-21,21,1545,1792,-8,6,73,21
+2007-10-17,Brazil,Ecuador,5,0,World Cup qualifier,Brazil,4,-4,2088,1660,0,-3,1,46
+2007-10-17,Chile,Peru,2,0,World Cup qualifier,Chile,15,-15,1762,1646,3,-5,30,52
+2007-10-17,Costa Rica,Haiti,1,1,Friendly,Costa Rica,-5,5,1638,1545,-2,-2,55,73
+2007-10-17,Denmark,Latvia,3,1,European Championship qualifier,Denmark,4,-4,1848,1465,0,0,14,90
+2007-10-17,El Salvador,Trinidad and Tobago,0,0,Friendly,El Salvador,1,-1,1382,1501,1,-2,110,81
+2007-10-17,Estonia,Montenegro,0,1,Friendly,Estonia,-6,6,1381,1653,-2,1,111,51
+2007-10-17,Fiji,New Zealand,0,2,World Cup qualifier and Oceania Cup,Fiji,-32,32,1305,1521,-7,7,129,78
+2007-10-17,Finland,Spain,0,0,Friendly,Finland,5,-5,1668,1948,2,1,42,7
+2007-10-17,France,Lithuania,2,0,European Championship qualifier,France,2,-2,2030,1496,0,-2,3,83
+2007-10-17,Georgia,Scotland,2,0,European Championship qualifier,Georgia,45,-45,1568,1771,11,-9,66,27
+2007-10-17,Germany,Czechia,0,3,European Championship qualifier,Germany,-56,56,1956,1928,-1,4,6,9
+2007-10-17,Guatemala,Mexico,3,2,Friendly,the United States,18,-18,1520,1883,0,-2,79,13
+2007-10-17,Ireland,Cyprus,1,1,European Championship qualifier,Ireland,-16,16,1774,1546,-4,3,26,71
+2007-10-17,Israel,Belarus,2,1,Friendly,Israel,3,-3,1718,1489,1,0,38,84
+2007-10-17,Italy,South Africa,2,0,Friendly,Italy,1,-1,2019,1471,0,0,4,89
+2007-10-17,Japan,Egypt,4,1,Afro-Asian Cup,Japan,27,-27,1778,1681,6,-1,25,41
+2007-10-17,Kazakhstan,Portugal,1,2,European Championship qualifier,Kazakhstan,-3,3,1351,1892,-1,0,116,12
+2007-10-17,Liechtenstein,Iceland,3,0,European Championship qualifier,Liechtenstein,54,-54,1201,1408,11,-13,157,105
+2007-10-17,Luxembourg,Romania,0,2,European Championship qualifier,Luxembourg,-1,1,1038,1928,0,0,184,9
+2007-10-17,Macedonia,Andorra,3,0,European Championship qualifier,Macedonia,3,-3,1512,1085,-2,0,80,176
+2007-10-17,Malta,Moldova,2,3,European Championship qualifier,Malta,-15,15,1252,1464,-3,5,141,91
+2007-10-17,Morocco,Namibia,2,0,Friendly,Morocco,2,-2,1659,1280,3,0,48,135
+2007-10-17,Netherlands,Slovenia,2,0,European Championship qualifier,the Netherlands,3,-3,1981,1562,1,0,5,68
+2007-10-17,Paraguay,Uruguay,1,0,World Cup qualifier,Paraguay,18,-18,1786,1809,5,-1,23,17
+2007-10-17,Poland,Hungary,0,1,Friendly,Poland,-17,17,1764,1624,-3,1,28,57
+2007-10-17,Russia,England,2,1,European Championship qualifier,Russia,24,-24,1808,1934,5,-1,19,8
+2007-10-17,San Marino,Wales,1,2,European Championship qualifier,San Marino,-1,1,928,1609,0,-1,195,58
+2007-10-17,Sierra Leone,Guinea-Bissau,1,0,World Cup and African Cup qualifier,Sierra Leone,14,-14,1240,1213,5,-5,145,154
+2007-10-17,Sweden,Northern Ireland,1,1,European Championship qualifier,Sweden,-16,16,1809,1551,0,3,17,70
+2007-10-17,Switzerland,United States,0,1,Friendly,Switzerland,-15,15,1822,1751,0,1,15,34
+2007-10-17,Turkey,Greece,0,1,European Championship qualifier,Turkey,-26,26,1784,1822,-4,6,24,15
+2007-10-17,United Arab Emirates,Tunisia,0,1,Friendly,the United Arab Emirates,-9,9,1485,1629,-2,0,85,56
+2007-10-17,Ukraine,Faroe Islands,5,0,European Championship qualifier,Ukraine,1,-1,1763,1162,0,-1,29,167
+2007-10-18,Kyrgyzstan,Jordan,2,0,World Cup qualifier,Kyrgyzstan,50,-50,1200,1486,10,-9,158,84
+2007-10-21,Bahrain,Malaysia,4,1,World Cup qualifier,Bahrain,6,-6,1460,1139,2,0,92,169
+2007-10-21,China,Myanmar,7,0,World Cup qualifier,China,5,-5,1567,1175,1,-1,67,167
+2007-10-21,Hong Kong,East Timor,3,2,World Cup qualifier,Indonesia,1,-1,1220,593,0,0,152,223
+2007-10-21,Mongolia,North Korea,1,4,World Cup qualifier,Mongolia,-2,2,797,1476,-1,1,208,87
+2007-10-21,Sri Lanka,Qatar,0,1,World Cup qualifier,Sri Lanka,-3,3,951,1488,0,1,192,84
+2007-10-22,Pakistan,Iraq,0,7,World Cup qualifier,Pakistan,-2,2,895,1662,0,0,198,46
+2007-10-24,South Africa,Zambia,0,0,COSAFA Cup,South Africa,0,0,1471,1577,0,0,89,63
+2007-10-26,Syria,Afghanistan,2,1,World Cup qualifier,Tajikistan,1,-1,1476,808,1,0,87,205
+2007-10-28,China,Myanmar,4,0,World Cup qualifier,Malaysia,7,-7,1574,1168,3,0,64,167
+2007-10-28,Hong Kong,East Timor,8,1,World Cup qualifier,Hong Kong,1,-1,1221,592,1,-1,151,224
+2007-10-28,Iraq,Pakistan,0,0,World Cup qualifier,Syria,-20,20,1642,915,-7,1,53,197
+2007-10-28,Jordan,Kyrgyzstan,2,0,World Cup qualifier,Jordan,6,-6,1492,1194,1,0,84,158
+2007-10-28,Malaysia,Bahrain,0,0,World Cup qualifier,Malaysia,11,-11,1150,1449,0,-3,169,95
+2007-10-28,Maldives,Yemen,2,0,World Cup qualifier,the Maldives,40,-40,1059,1200,5,-12,180,157
+2007-10-28,Nepal,Oman,0,2,World Cup qualifier,Nepal,-2,2,891,1568,0,1,199,67
+2007-10-28,North Korea,Mongolia,5,1,World Cup qualifier,North Korea,1,-1,1477,796,0,0,87,208
+2007-10-28,Qatar,Sri Lanka,5,0,World Cup qualifier,Qatar,2,-2,1490,949,-1,0,85,192
+2007-10-28,Taiwan,Uzbekistan,0,2,World Cup qualifier,Taiwan,-3,3,991,1586,0,0,188,62
+2007-10-28,Tajikistan,Bangladesh,5,0,World Cup qualifier,Tajikistan,5,-5,1340,973,2,0,120,190
+2007-10-28,Turkmenistan,Cambodia,4,1,World Cup qualifier,Turkmenistan,1,-1,1370,801,0,0,113,206
+2007-10-28,United Arab Emirates,Vietnam,5,0,World Cup qualifier,the United Arab Emirates,13,-13,1498,1284,5,0,81,134
+2007-10-30,India,Lebanon,2,2,World Cup qualifier,India,7,-7,1130,1337,1,-3,172,122
+2007-10-31,Bhutan,Tibet,2,2,Sikkim Governor's Gold Cup,India,5,-5,564,664,2,0,228,221
+2007-11-02,Bhutan,Tibet,3,0,Sikkim Governor's Gold Cup,India,34,-34,598,630,5,-1,223,222
+2007-11-02,Saudi Arabia,Namibia,1,0,Friendly,Saudi Arabia,1,-1,1693,1279,0,0,40,135
+2007-11-09,Indonesia,Syria,1,4,World Cup qualifier,Indonesia,-29,29,1289,1505,-5,8,133,80
+2007-11-09,Saudi Arabia,Estonia,2,0,Friendly,Saudi Arabia,3,-3,1696,1378,0,0,40,111
+2007-11-09,Singapore,Tajikistan,2,0,World Cup qualifier,Singapore,22,-22,1357,1318,8,-8,115,127
+2007-11-09,Yemen,Thailand,1,1,World Cup qualifier,Yemen,6,-6,1206,1402,1,-1,156,106
+2007-11-10,Hong Kong,Turkmenistan,0,0,World Cup qualifier,Hong Kong,3,-3,1224,1367,0,0,151,113
+2007-11-11,Saint Martin,British Virgin Islands,0,1,Friendly,Saint Martin,-15,15,987,914,-2,0,188,198
+2007-11-13,Egypt,United Arab Emirates,3,0,Pan-Arab Games,Egypt,11,-11,1692,1487,0,-5,41,87
+2007-11-14,French Guiana,Guadeloupe,2,3,Friendly,French Guiana,-6,6,1205,1452,-2,3,156,95
+2007-11-14,Saudi Arabia,Sudan,2,0,Pan-Arab Games,Egypt,11,-11,1707,1417,0,-1,40,100
+2007-11-16,Austria,England,0,1,Friendly,Austria,-4,4,1600,1938,0,0,59,8
+2007-11-16,Djibouti,Somalia,1,0,World Cup and African Cup qualifier,Djibouti,23,-23,822,926,2,-3,205,195
+2007-11-16,Egypt,Sudan,5,0,Pan-Arab Games,Egypt,8,-8,1700,1409,0,-4,41,104
+2007-11-16,France,Morocco,2,2,Friendly,France,-9,9,2021,1668,0,5,3,42
+2007-11-16,Libya,United Arab Emirates,2,0,Pan-Arab Games,Egypt,36,-36,1450,1451,7,-8,96,95
+2007-11-16,Qatar,Georgia,1,2,Friendly,Qatar,-11,11,1479,1579,-1,4,86,63
+2007-11-17,Albania,Belarus,2,4,European Championship qualifier,Albania,-42,42,1492,1531,-10,6,85,79
+2007-11-17,Andorra,Estonia,0,2,European Championship qualifier,Andorra,-15,15,1070,1393,-2,4,178,107
+2007-11-17,Angola,Ivory Coast,2,1,Friendly,France,16,-16,1544,1745,1,-3,75,34
+2007-11-17,Argentina,Bolivia,3,0,World Cup qualifier,Argentina,3,-3,2039,1571,0,-2,2,67
+2007-11-17,Australia,Nigeria,1,0,Friendly,England,11,-11,1729,1735,0,-1,38,36
+2007-11-17,Benin,United Arab Emirates,1,0,Friendly tournament,Ghana,19,-19,1382,1432,4,-4,110,99
+2007-11-17,Bulgaria,Romania,1,0,European Championship qualifier,Bulgaria,25,-25,1768,1903,9,-1,27,10
+2007-11-17,Colombia,Venezuela,1,0,World Cup qualifier,Colombia,8,-8,1811,1655,3,-2,17,47
+2007-11-17,Comoros,Madagascar,0,4,World Cup and African Cup qualifier,the Comoros,-14,14,847,1224,0,3,204,151
+2007-11-17,Czechia,Slovakia,3,1,European Championship qualifier,Czechia,6,-6,1934,1652,0,-1,9,49
+2007-11-17,Fiji,New Caledonia,3,3,World Cup qualifier and Oceania Cup,Fiji,-9,9,1296,1280,-4,1,132,135
+2007-11-17,Finland,Azerbaijan,2,1,European Championship qualifier,Finland,4,-4,1672,1382,0,-2,42,110
+2007-11-17,Germany,Cyprus,4,0,European Championship qualifier,Germany,4,-4,1960,1542,-1,-5,7,76
+2007-11-17,Greece,Malta,5,0,European Championship qualifier,Greece,2,-2,1824,1250,1,-1,14,142
+2007-11-17,Guinea-Bissau,Sierra Leone,0,0,World Cup and African Cup qualifier,Guinea-Bissau,-4,4,1209,1244,-1,2,154,143
+2007-11-17,Honduras,Guatemala,1,0,Friendly,the United States,6,-6,1664,1514,2,-2,46,80
+2007-11-17,Israel,Russia,2,1,European Championship qualifier,Israel,19,-19,1737,1789,3,-3,35,22
+2007-11-17,Latvia,Liechtenstein,4,1,European Championship qualifier,Latvia,8,-8,1473,1193,0,-1,89,158
+2007-11-17,Lithuania,Ukraine,2,0,European Championship qualifier,Lithuania,43,-43,1539,1720,6,-10,77,39
+2007-11-17,Macedonia,Croatia,2,0,European Championship qualifier,Macedonia,51,-51,1563,1865,9,-2,70,13
+2007-11-17,Moldova,Hungary,3,0,European Championship qualifier,Moldova,41,-41,1505,1583,9,-5,81,62
+2007-11-17,Netherlands,Luxembourg,1,0,European Championship qualifier,the Netherlands,0,0,1981,1038,0,0,5,185
+2007-11-17,Norway,Turkey,1,2,European Championship qualifier,Norway,-26,26,1766,1810,-7,6,28,18
+2007-11-17,Northern Ireland,Denmark,2,1,European Championship qualifier,Northern Ireland,30,-30,1581,1818,7,-2,63,16
+2007-11-17,Paraguay,Ecuador,5,1,World Cup qualifier,Paraguay,16,-16,1802,1644,3,-4,20,51
+2007-11-17,Poland,Belgium,2,0,European Championship qualifier,Poland,13,-13,1777,1628,3,-2,25,56
+2007-11-17,Portugal,Armenia,1,0,European Championship qualifier,Portugal,2,-2,1894,1451,1,-1,11,94
+2007-11-17,Scotland,Italy,1,2,European Championship qualifier,Scotland,-12,12,1759,2031,-3,1,30,3
+2007-11-17,Senegal,Mali,3,2,Friendly,France,8,-8,1671,1585,2,0,43,61
+2007-11-17,South Africa,United States,0,1,Nelson Mandela Challenge Cup,South Africa,-8,8,1463,1759,-2,4,90,30
+2007-11-17,Spain,Sweden,3,0,European Championship qualifier,Spain,14,-14,1962,1795,1,-4,6,21
+2007-11-17,Tunisia,Namibia,2,0,Friendly,Tunisia,2,-2,1631,1277,1,-1,55,136
+2007-11-17,Vanuatu,New Zealand,1,2,World Cup qualifier and Oceania Cup,Vanuatu,-13,13,1230,1534,-3,-1,146,78
+2007-11-17,Wales,Ireland,2,2,European Championship qualifier,Wales,4,-4,1613,1770,1,0,57,26
+2007-11-18,Ghana,Togo,2,0,Friendly tournament,Ghana,3,-3,1757,1412,0,-1,32,102
+2007-11-18,Jamaica,El Salvador,3,0,Friendly,Jamaica,6,-6,1552,1376,0,-4,72,114
+2007-11-18,Libya,Saudi Arabia,2,1,Pan-Arab Games,Egypt,33,-33,1483,1674,8,-1,87,41
+2007-11-18,Peru,Brazil,1,1,World Cup qualifier,Peru,15,-15,1661,2073,3,0,47,1
+2007-11-18,Saint Kitts and Nevis,Antigua and Barbuda,3,0,Challenge Cup,Saint Kitts and Nevis,9,-9,1239,1057,1,-1,145,180
+2007-11-18,Swaziland,Malawi,0,3,Friendly,Swaziland,-19,19,1166,1272,-7,3,167,137
+2007-11-18,Syria,Indonesia,7,0,World Cup qualifier,Syria,13,-13,1518,1276,1,-3,80,136
+2007-11-18,Tajikistan,Singapore,1,1,World Cup qualifier,Tajikistan,-3,3,1315,1360,0,0,127,115
+2007-11-18,Thailand,Yemen,1,0,World Cup qualifier,Thailand,6,-6,1408,1200,2,-1,104,156
+2007-11-18,Turkmenistan,Hong Kong,3,0,World Cup qualifier,Turkmenistan,14,-14,1381,1210,3,-2,111,153
+2007-11-18,United Arab Emirates,Sudan,2,0,Pan-Arab Games,Egypt,28,-28,1460,1381,7,-7,92,111
+2007-11-18,Uruguay,Chile,2,2,World Cup qualifier,Uruguay,-8,8,1801,1770,-1,3,20,26
+2007-11-20,Algeria,Mali,3,2,Friendly,France,15,-15,1401,1570,2,-5,106,66
+2007-11-20,Colombia,Argentina,2,1,World Cup qualifier,Colombia,27,-27,1838,2012,3,-2,14,4
+2007-11-20,Guinea,Angola,3,0,Friendly,France,15,-15,1611,1529,1,-4,58,79
+2007-11-20,South Africa,Canada,2,0,Friendly,South Africa,18,-18,1481,1625,3,-4,88,56
+2007-11-20,Switzerland,Nigeria,0,1,Friendly,Switzerland,-15,15,1807,1750,-3,2,18,34
+2007-11-20,Venezuela,Bolivia,5,3,World Cup qualifier,Venezuela,15,-15,1670,1556,4,-4,44,71
+2007-11-21,Andorra,Russia,0,1,European Championship qualifier,Andorra,-1,1,1069,1790,0,0,178,22
+2007-11-21,Armenia,Kazakhstan,0,1,European Championship qualifier,Armenia,-30,30,1421,1381,-5,8,101,109
+2007-11-21,Austria,Tunisia,0,0,Friendly,Austria,-2,2,1598,1633,0,0,59,54
+2007-11-21,Azerbaijan,Belgium,0,1,European Championship qualifier,Azerbaijan,-12,12,1370,1640,-6,3,115,52
+2007-11-21,Belarus,Netherlands,2,1,European Championship qualifier,Belarus,35,-35,1566,1946,11,-1,67,6
+2007-11-21,Brazil,Uruguay,2,1,World Cup qualifier,Brazil,4,-4,2077,1797,0,-1,1,21
+2007-11-21,Chile,Paraguay,0,3,World Cup qualifier,Chile,-42,42,1728,1844,-13,5,39,14
+2007-11-21,Cyprus,Czechia,0,2,European Championship qualifier,Cyprus,-9,9,1533,1943,-3,2,78,7
+2007-11-21,Denmark,Iceland,3,0,European Championship qualifier,Denmark,4,-4,1822,1404,-1,-1,17,105
+2007-11-21,Ecuador,Peru,5,1,World Cup qualifier,Ecuador,29,-29,1673,1632,8,-7,43,55
+2007-11-21,Egypt,Libya,0,0,Pan-Arab Games,Egypt,-14,14,1686,1497,-1,3,41,84
+2007-11-21,England,Croatia,2,3,European Championship qualifier,England,-29,29,1909,1894,-1,2,9,11
+2007-11-21,Equatorial Guinea,Niger,1,1,Friendly,Equatorial Guinea,-2,2,1241,1264,0,1,144,138
+2007-11-21,Georgia,Lithuania,0,2,European Championship qualifier,Georgia,-41,41,1538,1580,-14,16,77,60
+2007-11-21,Germany,Wales,0,0,European Championship qualifier,Germany,-17,17,1943,1630,0,1,7,56
+2007-11-21,Ghana,Benin,4,2,Friendly tournament,Ghana,3,-3,1760,1379,3,-3,29,112
+2007-11-21,Hungary,Greece,1,2,European Championship qualifier,Hungary,-12,12,1571,1836,-3,-1,64,16
+2007-11-21,Israel,Macedonia,1,0,European Championship qualifier,Israel,7,-7,1744,1556,1,-2,35,71
+2007-11-21,Italy,Faroe Islands,3,1,European Championship qualifier,Italy,0,0,2031,1162,0,0,2,168
+2007-11-21,Jamaica,Guatemala,2,0,Friendly,Jamaica,9,-9,1561,1505,3,0,69,81
+2007-11-21,Malta,Norway,1,4,European Championship qualifier,Malta,-6,6,1244,1772,0,2,142,27
+2007-11-21,Morocco,Senegal,3,0,Friendly,France,18,-18,1686,1653,4,-6,41,49
+2007-11-21,New Caledonia,Fiji,4,0,World Cup qualifier and Oceania Cup,New Caledonia,36,-36,1316,1260,7,-7,127,139
+2007-11-21,New Zealand,Vanuatu,4,1,World Cup qualifier and Oceania Cup,New Zealand,8,-8,1542,1222,3,-4,74,151
+2007-11-21,Oman,Kenya,2,2,Friendly,Oman,-7,7,1561,1342,-1,2,69,121
+2007-11-21,Panama,Costa Rica,1,1,Friendly,Panama,-1,1,1569,1639,0,0,66,53
+2007-11-21,Portugal,Finland,0,0,European Championship qualifier,Portugal,-15,15,1879,1687,-2,2,13,40
+2007-11-21,Qatar,Ivory Coast,1,6,Friendly,Qatar,-11,11,1468,1756,-2,3,91,32
+2007-11-21,Romania,Albania,6,1,European Championship qualifier,Romania,4,-4,1907,1488,0,-2,10,87
+2007-11-21,San Marino,Slovakia,0,5,European Championship qualifier,San Marino,-2,2,926,1654,0,2,194,48
+2007-11-21,Saudi Arabia,United Arab Emirates,1,1,Pan-Arab Games,Egypt,-11,11,1663,1471,-6,-7,47,99
+2007-11-21,Serbia,Poland,2,2,European Championship qualifier,Serbia,-4,4,1748,1781,-1,0,34,25
+2007-11-21,Slovenia,Bulgaria,0,2,European Championship qualifier,Slovenia,-21,21,1541,1789,-5,5,75,23
+2007-11-21,Spain,Northern Ireland,1,0,European Championship qualifier,Spain,2,-2,1964,1579,1,1,5,61
+2007-11-21,Sweden,Latvia,2,1,European Championship qualifier,Sweden,3,-3,1798,1470,1,1,20,90
+2007-11-21,Tanzania,Zambia,1,0,Friendly,Tanzania,14,-14,1353,1563,4,-4,117,68
+2007-11-21,Togo,United Arab Emirates,5,0,Friendly tournament,Ghana,35,-35,1447,1436,5,-7,97,99
+2007-11-21,Turkey,Bosnia and Herzegovina,1,0,European Championship qualifier,Turkey,4,-4,1814,1541,-1,-2,18,75
+2007-11-21,Ukraine,France,2,2,European Championship qualifier,Ukraine,10,-10,1730,2011,2,-1,37,4
+2007-11-21,Uzbekistan,Estonia,0,0,Friendly,Uzbekistan,-7,7,1579,1400,-1,0,61,107
+2007-11-22,Oman,Kenya,1,1,Friendly,Oman,-7,7,1554,1349,-3,2,72,119
+2007-11-24,Libya,Sudan,3,0,Pan-Arab Games,Egypt,24,-24,1521,1357,4,-7,80,116
+2007-11-24,Serbia,Kazakhstan,1,0,European Championship qualifier,Serbia,3,-3,1751,1378,1,-2,33,111
+2007-11-25,Egypt,Saudi Arabia,2,1,Pan-Arab Games,Egypt,13,-13,1699,1650,1,-3,40,50
+2007-11-27,South Africa,Lesotho,5,0,Friendly,South Africa,3,-3,1484,1134,0,0,88,170
+2007-11-30,Sudan,Eritrea,1,0,Friendly,Sudan,3,-3,1360,1178,1,0,115,164
+2007-12-01,Antigua and Barbuda,Saint Kitts and Nevis,2,0,Challenge Cup,Antigua and Barbuda,28,-28,1085,1211,4,-7,176,152
+2007-12-02,Guinea-Bissau,Sierra Leone,2,0,Amilcar Cabral Cup,Guinea-Bissau,24,-24,1233,1220,10,-9,144,151
+2007-12-03,Cape Verde,Gambia,0,0,Amilcar Cabral Cup,Guinea-Bissau,3,-3,1301,1345,0,-1,132,121
+2007-12-03,Sudan,Eritrea,1,0,Friendly,Sudan,3,-3,1363,1175,0,-1,115,165
+2007-12-07,Guinea-Bissau,Cape Verde,1,1,Amilcar Cabral Cup,Guinea-Bissau,-2,2,1231,1303,-1,1,145,131
+2007-12-08,Tanzania,Kenya,2,1,CECAFA Cup,Tanzania,14,-14,1367,1335,2,-4,115,123
+2007-12-09,Rwanda,Eritrea,2,1,CECAFA Cup,Tanzania,13,-13,1318,1162,2,-2,127,167
+2007-12-09,Sudan,Zanzibar,2,2,CECAFA Cup,Tanzania,-8,8,1355,1233,-1,4,117,144
+2007-12-09,Uganda,Djibouti,7,0,CECAFA Cup,Tanzania,3,-3,1415,819,1,0,102,205
+2007-12-10,Burundi,Somalia,3,0,CECAFA Cup,Tanzania,9,-9,1268,917,2,-2,138,196
+2007-12-11,Eritrea,Djibouti,3,2,CECAFA Cup,Tanzania,5,-5,1167,814,1,0,166,205
+2007-12-11,Oman,Jordan,0,3,Friendly,Oman,-25,25,1529,1517,-6,4,78,82
+2007-12-11,Uganda,Rwanda,2,0,CECAFA Cup,Tanzania,22,-22,1437,1296,3,-5,99,132
+2007-12-12,Burundi,Kenya,1,0,CECAFA Cup,Tanzania,24,-24,1292,1311,5,-5,133,128
+2007-12-12,Tanzania,Somalia,1,0,CECAFA Cup,Tanzania,2,-2,1369,915,0,0,115,196
+2007-12-13,Rwanda,Djibouti,9,0,CECAFA Cup,Tanzania,6,-6,1302,808,0,0,132,205
+2007-12-13,Zanzibar,Ethiopia,3,1,CECAFA Cup,Tanzania,40,-40,1273,1307,7,-9,137,128
+2007-12-14,Bermuda,Saint Kitts and Nevis,1,2,Friendly,Bermuda,-11,11,1122,1222,-2,3,173,150
+2007-12-14,Eritrea,Uganda,3,2,CECAFA Cup,Tanzania,33,-33,1200,1404,10,-5,156,104
+2007-12-14,Kenya,Somalia,2,0,CECAFA Cup,Tanzania,6,-6,1317,909,2,-2,125,198
+2007-12-15,Ethiopia,Sudan,0,0,CECAFA Cup,Tanzania,3,-3,1310,1352,0,0,128,117
+2007-12-15,Tanzania,Burundi,0,0,CECAFA Cup,Tanzania,-9,9,1360,1301,0,0,115,133
+2007-12-16,Bermuda,Saint Kitts and Nevis,4,2,Friendly,Bermuda,15,-15,1137,1207,3,-4,170,154
+2007-12-16,Oman,Tajikistan,4,2,Friendly,Oman,4,-4,1533,1311,1,0,77,127
+2007-12-17,Burundi,Eritrea,2,1,CECAFA Cup,Tanzania,14,-14,1315,1186,6,-4,127,160
+2007-12-17,Tanzania,Sudan,1,2,CECAFA Cup,Tanzania,-26,26,1334,1378,-7,6,122,111
+2007-12-18,Kenya,Uganda,1,1,CECAFA Cup,Tanzania,5,-5,1322,1399,1,-3,124,107
+2007-12-18,Rwanda,Zanzibar,0,0,CECAFA Cup,Tanzania,-2,2,1300,1275,0,0,133,137
+2007-12-19,Sudan,Burundi,2,1,CECAFA Cup,Tanzania,16,-16,1394,1299,3,-6,108,133
+2007-12-20,Rwanda,Uganda,1,0,CECAFA Cup,Tanzania,26,-26,1326,1373,8,-7,124,114
+2007-12-22,Rwanda,Sudan,2,2,CECAFA Cup,Tanzania,4,-4,1330,1390,0,-1,124,108
+2007-12-22,Thailand,Uzbekistan,3,2,King's Cup,Thailand,18,-18,1426,1561,2,-7,101,68
+2007-12-22,Uganda,Burundi,2,0,CECAFA Cup,Tanzania,24,-24,1397,1275,7,-3,107,136
+2007-12-23,Gambia,Sierra Leone,2,1,Friendly,The Gambia,4,-4,1349,1216,0,-1,118,152
+2007-12-24,North Korea,Uzbekistan,2,2,King's Cup,Thailand,4,-4,1481,1557,0,-1,89,69
+2007-12-26,Thailand,North Korea,1,0,King's Cup,Thailand,13,-13,1439,1468,2,-1,99,90

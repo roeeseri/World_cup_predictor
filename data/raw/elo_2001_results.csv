@@ -1,0 +1,1016 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2001-01-04,Kenya,Zambia,2,1,Friendly,Kenya,11,-11,1339,1444,3,-5,119,91
+2001-01-06,Costa Rica,Guatemala,5,2,World Cup qualifier,the United States,32,-32,1638,1543,5,-6,53,67
+2001-01-06,Egypt,United Arab Emirates,2,1,Friendly,Egypt,4,-4,1686,1542,0,0,42,68
+2001-01-06,Namibia,Lesotho,1,0,Friendly tournament,Swaziland,10,-10,1336,1186,4,-2,120,158
+2001-01-06,Qatar,Jordan,3,1,Friendly,Qatar,10,-10,1505,1459,2,-1,76,81
+2001-01-06,Swaziland,Angola,1,0,Friendly tournament,Swaziland,23,-23,1194,1445,7,-8,156,90
+2001-01-07,Angola,Lesotho,2,0,Friendly tournament,Swaziland,8,-8,1453,1178,4,-2,86,160
+2001-01-07,Swaziland,Namibia,2,1,Friendly tournament,Swaziland,17,-17,1211,1319,3,-4,153,124
+2001-01-07,Togo,Burkina Faso,1,1,Friendly,Togo,-3,3,1419,1418,-5,2,101,102
+2001-01-09,Egypt,Zambia,3,1,Friendly,Egypt,4,-4,1690,1440,0,0,42,91
+2001-01-09,Swaziland,Lesotho,2,2,Friendly,Swaziland,-4,4,1207,1182,-1,1,154,159
+2001-01-12,Algeria,Burundi,2,1,African Nations Cup qualifier,Algeria,8,-8,1515,1369,1,0,74,113
+2001-01-12,Bosnia and Herzegovina,Bangladesh,2,0,Millenium Cup,India,2,-2,1550,1019,1,0,65,186
+2001-01-12,Qatar,Kuwait,1,0,Friendly,Qatar,10,-10,1515,1610,2,0,74,57
+2001-01-13,Burkina Faso,Angola,1,0,African Nations Cup qualifier,Burkina Faso,16,-16,1434,1437,9,-5,93,91
+2001-01-13,India,Iceland,0,3,Millenium Cup,India,-5,5,1085,1600,0,0,176,59
+2001-01-13,Kenya,Gabon,2,1,African Nations Cup qualifier,Kenya,19,-19,1358,1396,2,-3,117,108
+2001-01-13,Mauritius,South Africa,1,1,African Nations Cup qualifier,Mauritius,15,-15,1242,1651,4,-3,144,51
+2001-01-13,Namibia,Madagascar,2,2,African Nations Cup qualifier,Namibia,2,-2,1321,1456,0,-2,124,85
+2001-01-13,Nigeria,Zambia,1,0,African Nations Cup qualifier,Nigeria,4,-4,1705,1436,0,-1,40,92
+2001-01-13,Tunisia,Morocco,0,1,African Nations Cup qualifier,Tunisia,-24,24,1613,1686,-2,7,56,43
+2001-01-13,Uganda,Senegal,1,1,African Nations Cup qualifier,Uganda,-5,5,1431,1459,-2,4,95,81
+2001-01-14,DR Congo,Ghana,2,1,African Nations Cup qualifier,DR Congo,18,-18,1467,1491,7,-2,80,78
+2001-01-14,Egypt,Libya,4,0,African Nations Cup qualifier,Egypt,9,-9,1699,1437,1,-2,41,91
+2001-01-14,Guinea,Togo,0,0,African Nations Cup qualifier,Guinea,-10,10,1492,1429,0,5,77,97
+2001-01-14,Liberia,Congo,5,1,African Nations Cup qualifier,Liberia,27,-27,1449,1395,10,-11,87,108
+2001-01-14,Zimbabwe,Lesotho,1,2,African Nations Cup qualifier,Zimbabwe,-36,36,1442,1218,-10,7,89,152
+2001-01-16,Jordan,Hong Kong,2,0,Millenium Cup,India,9,-9,1468,1200,1,-2,80,156
+2001-01-17,China,Egypt,0,0,Ancient Civilizations Cup,Iran,1,-1,1680,1698,0,0,44,41
+2001-01-17,Israel,Uzbekistan,2,0,Friendly,Israel,4,-4,1679,1455,1,-3,45,85
+2001-01-17,Kuwait,Syria,2,0,Friendly,Qatar,12,-12,1622,1516,2,-1,55,72
+2001-01-19,Iran,China,4,0,Ancient Civilizations Cup,Iran,16,-16,1759,1664,4,-4,28,48
+2001-01-20,Ivory Coast,Sudan,2,0,African Nations Cup qualifier,Ivory Coast,7,-7,1579,1320,0,-1,61,124
+2001-01-20,Mali,Guinea,0,1,Friendly,Mali,-11,11,1405,1503,-3,1,105,76
+2001-01-21,Madagascar,Mayotte,1,0,Friendly,Madagascar,2,-2,1458,1212,1,0,83,153
+2001-01-21,Saint Kitts,Antigua and Barbuda,2,0,Leeward Islands Tournament,the US VirgIslands,19,-19,1244,1145,6,-2,144,166
+2001-01-23,Burkina Faso,Mali,0,2,Friendly,Burkina Faso,-20,20,1414,1425,-10,8,104,97
+2001-01-23,Egypt,North Korea,1,0,Friendly,Egypt,2,-2,1700,1447,0,-1,41,88
+2001-01-23,Thailand,Kuwait,5,4,Friendly,Thailand,10,-10,1546,1612,3,-2,67,57
+2001-01-24,Mexico,Bulgaria,0,2,Friendly,Mexico,-25,25,1799,1687,-3,7,20,43
+2001-01-24,Norway,South Korea,3,2,Carlsberg Cup,Hong Kong,13,-13,1817,1751,3,-5,17,31
+2001-01-25,Benin,Cameroon,1,3,Friendly,Benin,-3,3,1237,1722,0,0,147,34
+2001-01-26,Algeria,Namibia,1,0,World Cup qualifier,Algeria,6,-6,1521,1315,2,-2,72,125
+2001-01-27,Botswana,Swaziland,1,2,Friendly tournament,Botswana,-15,15,1084,1222,-1,3,176,151
+2001-01-27,Grenada,Trinidad and Tobago,1,2,Friendly,Grenada,-4,4,1293,1653,-1,0,133,52
+2001-01-27,Jamaica,Bolivia,3,0,Friendly,the United States,19,-19,1576,1576,2,0,60,60
+2001-01-27,Madagascar,Ivory Coast,1,0,World Cup qualifier,Madagascar,21,-21,1479,1558,4,-1,79,62
+2001-01-27,Nigeria,Sudan,3,0,World Cup qualifier,Nigeria,4,-4,1709,1316,1,-1,39,124
+2001-01-27,Paraguay,South Korea,1,1,Carlsberg Cup,Hong Kong,-5,5,1861,1756,0,3,12,28
+2001-01-27,Singapore,Thailand,1,1,Mikasa Challenge Cup,Singapore,7,-7,1269,1539,1,-3,139,70
+2001-01-27,South Africa,Burkina Faso,1,0,World Cup qualifier,South Africa,5,-5,1656,1409,0,-1,51,105
+2001-01-27,United States,China,2,1,Friendly,the United States,4,-4,1812,1660,1,-1,18,50
+2001-01-28,Angola,Libya,3,1,World Cup qualifier,Angola,22,-22,1459,1415,9,-10,82,101
+2001-01-28,Antigua and Barbuda,British Virgin Islands,1,1,Friendly,Antigua and Barbuda,-8,8,1137,848,0,1,166,204
+2001-01-28,Botswana,Lesotho,2,1,Friendly tournament,Botswana,16,-16,1100,1202,1,-2,175,155
+2001-01-28,Congo,Tunisia,1,2,World Cup qualifier,Congo,-13,13,1382,1626,-4,1,112,55
+2001-01-28,Egypt,Morocco,0,0,World Cup qualifier,Egypt,-6,6,1694,1692,0,2,41,42
+2001-01-28,Ghana,Liberia,1,3,World Cup qualifier,Ghana,-42,42,1449,1491,-9,10,87,77
+2001-01-28,Guinea,Malawi,1,1,World Cup qualifier,Guinea,-15,15,1488,1261,-2,2,78,141
+2001-01-28,Jamaica,Bulgaria,0,0,Friendly,Jamaica,0,0,1576,1687,-1,-1,61,44
+2001-01-28,Jordan,North Korea,1,0,Friendly,Jordan,7,-7,1475,1440,2,-2,79,90
+2001-01-28,Madagascar,Ivory Coast,1,3,World Cup qualifier,Madagascar,-32,32,1447,1590,-9,2,88,60
+2001-01-28,Togo,Cameroon,0,2,World Cup qualifier,Togo,-15,15,1414,1737,-7,1,103,33
+2001-01-29,Grenada,Trinidad and Tobago,0,2,Friendly,Grenada,-5,5,1288,1658,-2,1,135,51
+2001-01-30,Jordan,North Korea,0,2,Friendly,Jordan,-21,21,1454,1461,-7,9,86,81
+2001-01-30,Saudi Arabia,Syria,1,0,Friendly,Saudi Arabia,4,-4,1682,1512,1,-2,45,75
+2001-01-30,Thailand,Kyrgyzstan,3,1,Friendly,Thailand,2,-2,1541,1172,1,0,69,163
+2001-01-31,Colombia,Mexico,3,2,Friendly,the United States,11,-11,1778,1788,2,-1,23,21
+2001-01-31,Lebanon,Iraq,0,0,Friendly,Lebanon,3,-3,1423,1618,2,0,97,56
+2001-01-31,Sweden,Faroe Islands,0,0,Nordic Championship,Sweden,-15,15,1812,1215,-2,3,17,153
+2001-02-01,Sweden,Finland,0,1,Nordic Championship,Sweden,-26,26,1786,1636,-4,4,21,54
+2001-02-03,Kuwait,Bahrain,2,1,World Cup qualifier,Singapore,6,-6,1618,1290,1,-2,57,134
+2001-02-03,Puerto Rico,British Virgin Islands,1,2,CONCACAF Champ & Carib Cup qual,Puerto Rico,-29,29,887,877,-2,4,198,200
+2001-02-03,Saudi Arabia,Uganda,3,1,Friendly,Saudi Arabia,4,-4,1686,1427,0,0,45,94
+2001-02-03,Singapore,Kyrgyzstan,0,1,World Cup qualifier,Singapore,-30,30,1239,1202,-7,7,146,156
+2001-02-03,United States,Colombia,0,1,Friendly,the United States,-14,14,1798,1792,-1,3,18,20
+2001-02-04,Senegal,Mali,1,0,Friendly,Senegal,6,-6,1465,1419,1,-4,81,99
+2001-02-05,Fiji,Malaysia,4,1,Friendly,Fiji,8,-8,1432,1293,1,-3,94,131
+2001-02-06,Bahrain,Kyrgyzstan,1,0,World Cup qualifier,Singapore,15,-15,1305,1187,7,-3,127,159
+2001-02-06,Singapore,Kuwait,1,1,World Cup qualifier,Singapore,13,-13,1252,1605,4,-1,142,58
+2001-02-06,Saint Martin,Montserrat,3,1,CONCACAF Champ & Carib Cup qual,Sint Maarten,3,-3,1104,603,2,0,172,221
+2001-02-07,Fiji,Malaysia,2,0,Friendly,Fiji,6,-6,1438,1287,3,-3,91,135
+2001-02-08,Anguilla,Montserrat,4,1,CONCACAF Champ & Carib Cup qual,Saint Martin,45,-45,542,558,0,-3,225,224
+2001-02-08,Bangladesh,Vietnam,0,0,World Cup qualifier,Saudi Arabia,12,-12,1031,1240,0,-4,186,146
+2001-02-08,Morocco,South Korea,1,1,Friendship Tournament,the United Arab Emirates,3,-3,1695,1753,1,-3,41,31
+2001-02-08,Saudi Arabia,Mongolia,6,0,World Cup qualifier,Saudi Arabia,0,0,1686,859,0,0,45,203
+2001-02-09,Fiji,Malaysia,1,2,Friendly,Fiji,-16,16,1422,1303,-5,6,96,129
+2001-02-09,Kuwait,Kyrgyzstan,3,0,World Cup qualifier,Singapore,6,-6,1611,1181,0,-1,58,160
+2001-02-09,Singapore,Bahrain,1,2,World Cup qualifier,Singapore,-23,23,1229,1328,-7,4,149,123
+2001-02-10,China,Qatar,1,1,King's Cup,Thailand,-6,6,1654,1521,-2,2,52,72
+2001-02-10,Saudi Arabia,Bangladesh,3,0,World Cup qualifier,Saudi Arabia,1,-1,1687,1030,1,0,44,186
+2001-02-10,Saint Martin,Anguilla,3,1,CONCACAF Champ & Carib Cup qual,Saint Martin,1,-1,1105,541,0,0,172,225
+2001-02-10,Thailand,Sweden,1,4,King's Cup,Thailand,-16,16,1525,1802,-2,4,71,18
+2001-02-10,Vietnam,Mongolia,1,0,World Cup qualifier,Saudi Arabia,4,-4,1244,855,3,0,142,203
+2001-02-11,British Virgin Islands,Puerto Rico,0,0,CONCACAF Champ & Carib Cup qual,the British VirgIslands,-5,5,872,892,-1,1,201,197
+2001-02-11,Swaziland,Zambia,0,0,COSAFA Cup,Swaziland,6,-6,1228,1430,1,-1,150,93
+2001-02-11,United Arab Emirates,South Korea,1,4,Friendship Tournament,the United Arab Emirates,-18,18,1524,1771,-3,5,71,26
+2001-02-12,Armenia,Uzbekistan,2,0,Albena-Mobitel Tournament,Bulgaria,27,-27,1414,1428,7,-8,103,93
+2001-02-12,Bangladesh,Mongolia,3,0,World Cup qualifier,Saudi Arabia,19,-19,1049,836,2,-2,184,205
+2001-02-12,China,Sweden,2,2,King's Cup,Thailand,6,-6,1660,1796,2,-1,50,19
+2001-02-12,Saudi Arabia,Vietnam,5,0,World Cup qualifier,Saudi Arabia,3,-3,1690,1241,0,-3,44,145
+2001-02-12,Thailand,Qatar,1,3,King's Cup,Thailand,-29,29,1496,1550,-6,7,76,65
+2001-02-14,Georgia,Ukraine,0,0,Friendly,Georgia,2,-2,1554,1728,-1,0,65,34
+2001-02-14,Israel,Moldova,1,0,Friendly,Israel,2,-2,1681,1413,-1,-3,47,104
+2001-02-14,Qatar,Sweden,0,0,King's Cup,Thailand,9,-9,1559,1787,2,-3,63,22
+2001-02-14,Thailand,China,1,5,King's Cup,Thailand,-23,23,1473,1683,-2,4,78,46
+2001-02-14,United Arab Emirates,Morocco,1,1,Friendship Tournament,the United Arab Emirates,3,-3,1527,1692,1,-1,70,42
+2001-02-15,Kuwait,Finland,4,3,Friendly,Kuwait,8,-8,1619,1628,1,-1,57,55
+2001-02-15,Saudi Arabia,Mongolia,6,0,World Cup qualifier,Saudi Arabia,0,0,1690,836,0,0,44,205
+2001-02-15,Uzbekistan,Azerbaijan,2,1,Friendly,Bulgaria,6,-6,1434,1260,2,-1,91,140
+2001-02-15,Vietnam,Bangladesh,4,0,World Cup qualifier,Saudi Arabia,19,-19,1260,1030,5,-2,140,186
+2001-02-17,Saudi Arabia,Bangladesh,6,0,World Cup qualifier,Saudi Arabia,1,-1,1691,1029,1,0,43,186
+2001-02-17,Sweden,China,3,0,King's Cup,Thailand,19,-19,1806,1664,4,-3,18,49
+2001-02-17,Thailand,Qatar,2,0,King's Cup,Thailand,22,-22,1495,1537,2,-6,76,69
+2001-02-17,Vietnam,Mongolia,4,0,World Cup qualifier,Saudi Arabia,6,-6,1266,830,1,0,139,205
+2001-02-18,Oman,Finland,1,2,Friendly,Oman,-5,5,1313,1633,-2,1,126,54
+2001-02-19,Bangladesh,Mongolia,2,2,World Cup qualifier,Saudi Arabia,-10,10,1019,840,0,0,186,205
+2001-02-19,Saudi Arabia,Vietnam,4,0,World Cup qualifier,Saudi Arabia,3,-3,1694,1263,2,1,41,138
+2001-02-19,Saint Kitts and Nevis,Saint Lucia,2,0,Friendly,Saint Kitts and Nevis,12,-12,1256,1259,0,-3,143,141
+2001-02-20,Oman,Finland,0,2,Friendly,Oman,-7,7,1306,1640,-1,1,127,53
+2001-02-21,Bahrain,Kyrgyzstan,2,1,World Cup qualifier,Kuwait,12,-12,1340,1169,3,-3,120,163
+2001-02-21,Kuwait,Singapore,1,0,World Cup qualifier,Kuwait,2,-2,1621,1227,0,-1,57,150
+2001-02-21,Macao,Hong Kong,0,2,Friendly,Macao,-10,10,965,1210,0,2,191,155
+2001-02-21,Martinique,Saint Lucia,4,2,Friendly,Martinique,7,-7,1360,1252,1,-2,117,143
+2001-02-21,Panama,Guatemala,2,2,Friendly,Panama,2,-2,1392,1541,1,0,109,67
+2001-02-23,Libya,Togo,3,3,World Cup qualifier,Libya,-6,6,1409,1420,-4,3,105,99
+2001-02-24,Bahrain,Singapore,2,0,World Cup qualifier,Kuwait,21,-21,1361,1206,4,-6,116,156
+2001-02-24,Burkina Faso,Zimbabwe,1,2,World Cup qualifier,Burkina Faso,-24,24,1385,1466,-6,7,111,82
+2001-02-24,Kuwait,Kyrgyzstan,2,0,World Cup qualifier,Kuwait,2,-2,1623,1167,0,0,57,163
+2001-02-24,Morocco,Senegal,0,0,World Cup qualifier,Morocco,-15,15,1677,1480,-3,2,46,79
+2001-02-24,Namibia,Egypt,1,1,World Cup qualifier,Namibia,13,-13,1328,1681,1,-3,124,44
+2001-02-25,Antigua and Barbuda,Saint Lucia,0,1,Friendly,Antigua and Barbuda,-10,10,1127,1262,-3,4,169,139
+2001-02-25,Cameroon,Zambia,1,0,World Cup qualifier,Cameroon,4,-4,1741,1426,0,-1,33,94
+2001-02-25,Cayman Islands,Trinidad and Tobago,0,3,Friendly,the Cayman Islands,-3,3,1128,1661,0,-1,168,52
+2001-02-25,Liberia,Sierra Leone,1,0,World Cup qualifier,Liberia,8,-8,1499,1336,1,-1,76,121
+2001-02-25,Malawi,South Africa,1,2,World Cup qualifier,Malawi,-6,6,1255,1662,-4,1,143,51
+2001-02-25,Oman,Maldives,5,0,Friendly,Oman,2,-2,1308,872,0,0,127,200
+2001-02-25,Sudan,Ghana,1,0,World Cup qualifier,Sudan,22,-22,1338,1427,5,-4,120,92
+2001-02-25,Tunisia,DR Congo,6,0,World Cup qualifier,Tunisia,16,-16,1642,1451,3,-6,53,87
+2001-02-26,Cyprus,Lithuania,1,2,Friendly tournament,Cyprus,-25,25,1524,1412,-5,5,71,105
+2001-02-26,Romania,Ukraine,1,0,Friendly tournament,Cyprus,11,-11,1837,1717,1,-1,14,35
+2001-02-27,Algeria,Slovakia,1,1,Friendly,Algeria,4,-4,1525,1751,1,-1,71,31
+2001-02-27,France,Germany,1,0,Friendly,France,3,-3,2113,1879,0,0,1,11
+2001-02-27,Kuwait,Bahrain,0,1,World Cup qualifier,Kuwait,-36,36,1587,1397,-3,8,60,108
+2001-02-27,Kyrgyzstan,Singapore,1,1,World Cup qualifier,Kuwait,2,-2,1169,1204,0,0,163,156
+2001-02-27,Oman,Maldives,2,0,Friendly,Oman,1,-1,1309,871,0,-2,127,202
+2001-02-28,Belgium,San Marino,10,1,World Cup qualifier,Belgium,0,0,1784,937,1,0,22,193
+2001-02-28,Bosnia and Herzegovina,Hungary,1,1,Friendly,Bosnia and Herzegovina,1,-1,1551,1670,0,-1,65,48
+2001-02-28,Colombia,Australia,3,2,Friendly,Colombia,7,-7,1799,1771,1,-1,20,25
+2001-02-28,Costa Rica,Honduras,2,2,World Cup qualifier,Costa Rica,-2,2,1636,1713,0,3,55,35
+2001-02-28,Croatia,Austria,1,0,Friendly,Croatia,4,-4,1892,1715,0,0,10,34
+2001-02-28,Cyprus,Ukraine,4,3,Friendly tournament,Cyprus,19,-19,1543,1698,6,-4,66,39
+2001-02-28,England,Spain,3,0,Friendly,England,18,-18,1870,1944,1,0,12,7
+2001-02-28,Greece,Russia,3,3,Friendly,Greece,1,-1,1708,1834,2,0,38,15
+2001-02-28,Italy,Argentina,1,2,Friendly,Italy,-13,13,2002,2018,-1,2,5,3
+2001-02-28,Jamaica,Trinidad and Tobago,1,0,World Cup qualifier,Jamaica,19,-19,1595,1642,2,0,59,52
+2001-02-28,Jordan,Bulgaria,0,2,Friendly,Jordan,-10,10,1444,1697,-3,3,88,40
+2001-02-28,Liechtenstein,Latvia,0,2,Friendly,Liechtenstein,-6,6,1070,1422,-4,5,181,96
+2001-02-28,Luxembourg,Finland,0,1,Friendly,Luxembourg,-2,2,1175,1642,0,2,162,52
+2001-02-28,Macedonia,Czechia,1,1,Friendly,Macedonia,7,-7,1533,1910,0,0,70,8
+2001-02-28,Malta,Sweden,0,3,Friendly,Malta,-2,2,1233,1808,0,-1,148,19
+2001-02-28,Netherlands,Turkey,0,0,Friendly,the Netherlands,-8,8,1990,1762,0,1,6,29
+2001-02-28,Northern Ireland,Norway,0,4,Friendly,Northern Ireland,-9,9,1507,1826,-1,0,74,16
+2001-02-28,Poland,Switzerland,4,0,Friendly,Cyprus,16,-16,1778,1696,4,-4,23,41
+2001-02-28,Portugal,Andorra,3,0,World Cup qualifier,Portugal,0,0,2018,1052,0,0,3,183
+2001-02-28,Romania,Lithuania,3,0,Friendly tournament,Cyprus,4,-4,1841,1408,0,-1,14,106
+2001-02-28,Slovenia,Uruguay,0,2,Friendly,Slovenia,-15,15,1648,1771,-1,4,51,25
+2001-02-28,United States,Mexico,2,0,World Cup qualifier,the United States,21,-21,1819,1767,2,-6,17,28
+2001-03-01,Saint Kitts and Nevis,Dominican Republic,2,1,CONCACAF Champ & Carib Cup qual,Antigua and Barbuda,12,-12,1268,1100,4,-3,138,174
+2001-03-03,Antigua and Barbuda,Dominican Republic,2,3,CONCACAF Champ & Carib Cup qual,Antigua and Barbuda,-27,27,1100,1127,-5,5,174,169
+2001-03-03,United States,Brazil,1,2,Friendly,the United States,-7,7,1812,2030,0,0,17,2
+2001-03-04,Antigua and Barbuda,Saint Kitts and Nevis,2,2,CONCACAF Champ & Carib Cup qual,Antigua and Barbuda,4,-4,1104,1264,2,0,172,138
+2001-03-04,Hong Kong,Palestine,1,1,World Cup qualifier,Hong Kong,-3,3,1207,1260,0,1,154,141
+2001-03-04,Jordan,Lebanon,0,0,Friendly,Jordan,-3,3,1441,1426,0,1,88,94
+2001-03-04,Qatar,Malaysia,5,1,World Cup qualifier,Hong Kong,15,-15,1552,1288,4,-5,65,134
+2001-03-06,Guatemala,El Salvador,1,1,Friendly,Guatemala,-5,5,1536,1462,-1,2,69,82
+2001-03-07,Honduras,Peru,0,0,Friendly,the United States,-1,1,1712,1672,-1,0,36,47
+2001-03-07,Jordan,Hungary,1,1,Friendly,Jordan,4,-4,1445,1666,0,0,88,48
+2001-03-07,Lebanon,Syria,2,2,Friendly,Lebanon,0,0,1426,1512,0,0,94,73
+2001-03-07,Mexico,Brazil,3,3,Friendly,Mexico,4,-4,1771,2026,3,0,25,2
+2001-03-08,Hong Kong,Malaysia,0,2,World Cup qualifier,Hong Kong,-32,32,1175,1320,-7,8,161,126
+2001-03-08,Qatar,Palestine,2,1,World Cup qualifier,Hong Kong,6,-6,1558,1254,2,-2,63,143
+2001-03-10,Botswana,Swaziland,1,0,Friendly tournament,Lesotho,20,-20,1120,1208,5,-4,170,153
+2001-03-10,DR Congo,Ivory Coast,1,2,World Cup qualifier,DR Congo,-18,18,1433,1608,-6,2,92,58
+2001-03-10,Kenya,Uganda,1,0,Friendly,Kenya,9,-9,1367,1418,2,-9,117,101
+2001-03-10,Lesotho,Mozambique,0,0,Friendly tournament,Lesotho,-3,3,1199,1225,0,1,156,150
+2001-03-10,Senegal,Namibia,4,0,World Cup qualifier,Senegal,14,-14,1494,1314,1,0,78,125
+2001-03-10,Sierra Leone,Sudan,0,2,World Cup qualifier,Sierra Leone,-38,38,1298,1376,-10,6,131,114
+2001-03-10,Zambia,Libya,2,0,World Cup qualifier,Zambia,20,-20,1446,1389,7,-6,87,111
+2001-03-11,Egypt,Algeria,5,2,World Cup qualifier,Egypt,13,-13,1694,1512,2,0,42,72
+2001-03-11,Ghana,Nigeria,0,0,World Cup qualifier,Ghana,10,-10,1437,1699,3,-1,90,38
+2001-03-11,Hong Kong,Qatar,0,2,World Cup qualifier,Hong Kong,-10,10,1165,1568,-2,0,163,63
+2001-03-11,Lesotho,Swaziland,2,1,Friendly tournament,Lesotho,11,-11,1210,1197,3,-3,153,156
+2001-03-11,Mozambique,Botswana,3,1,Friendly tournament,Lesotho,16,-16,1241,1104,4,-2,146,172
+2001-03-11,Palestine,Malaysia,1,0,World Cup qualifier,Hong Kong,24,-24,1278,1296,6,-8,137,132
+2001-03-11,Togo,Angola,1,1,World Cup qualifier,Togo,-3,3,1417,1462,-2,2,101,82
+2001-03-11,Zimbabwe,Malawi,2,0,World Cup qualifier,Zimbabwe,9,-9,1475,1246,1,-1,80,143
+2001-03-12,Grenada,Dominica,8,3,Windward Islands Tournament,Grenada,11,-11,1299,1120,6,-2,129,169
+2001-03-12,Saint Vincent and the Grenadines,Saint Lucia,2,0,Windward Islands Tournament,Grenada,24,-24,1266,1238,5,-5,139,146
+2001-03-14,Grenada,Saint Lucia,4,3,Windward Islands Tournament,Grenada,9,-9,1308,1229,2,-3,127,149
+2001-03-14,Panama,El Salvador,1,0,Friendly,Panama,9,-9,1401,1453,3,-2,106,84
+2001-03-14,Saint Vincent and the Grenadines,Dominica,2,0,Windward Islands Tournament,Grenada,14,-14,1280,1106,2,-1,137,170
+2001-03-16,Dominica,Saint Lucia,1,1,Windward Islands Tournament,Grenada,5,-5,1111,1224,0,-1,170,150
+2001-03-16,Grenada,Saint Vincent and the Grenadines,1,1,Windward Islands Tournament,Grenada,-5,5,1303,1285,-1,1,128,136
+2001-03-17,Botswana,Malawi,0,1,COSAFA Cup,Botswana,-18,18,1086,1264,-3,3,175,140
+2001-03-18,Gabon,Mali,2,0,Friendly,Gabon,12,-12,1408,1407,5,-7,104,106
+2001-03-18,Grenada,Saint Vincent and the Grenadines,2,0,Windward Islands Tournament,Grenada,15,-15,1318,1270,4,-3,124,139
+2001-03-18,Saint Lucia,Dominica,1,0,Windward Islands Tournament,Grenada,10,-10,1234,1101,2,-4,148,174
+2001-03-19,Egypt,Estonia,3,3,Friendly,Egypt,-8,8,1686,1376,-2,2,44,114
+2001-03-20,Palestine,Hong Kong,1,0,World Cup qualifier,Qatar,14,-14,1292,1151,3,-1,134,164
+2001-03-20,Qatar,Malaysia,0,0,World Cup qualifier,Qatar,-16,16,1552,1312,-2,6,65,127
+2001-03-21,Honduras,Chile,3,1,Friendly,Honduras,11,-11,1723,1702,2,-2,34,37
+2001-03-21,Saint Lucia,Martinique,1,1,Friendly,Saint Lucia,1,-1,1235,1359,0,0,148,120
+2001-03-23,Guyana,Barbados,2,2,Friendly,Guyana,4,-4,1076,1327,1,0,177,123
+2001-03-23,Hong Kong,Malaysia,2,1,World Cup qualifier,Qatar,29,-29,1180,1283,4,-9,160,136
+2001-03-23,Libya,Egypt,2,0,African Nations Cup qualifier,Libya,45,-45,1434,1641,20,-10,91,54
+2001-03-23,Qatar,Palestine,2,1,World Cup qualifier,Qatar,4,-4,1556,1288,2,-1,63,135
+2001-03-24,Armenia,Wales,2,2,World Cup qualifier,Armenia,2,-2,1416,1554,1,-2,101,65
+2001-03-24,Azerbaijan,Moldova,0,0,World Cup qualifier,Azerbaijan,3,-3,1263,1410,1,-1,142,104
+2001-03-24,Bosnia and Herzegovina,Austria,1,1,World Cup qualifier,Bosnia and Herzegovina,4,-4,1555,1711,2,0,64,35
+2001-03-24,British Virgin Islands,US Virgin Islands,2,0,Friendly,the British VirgIslands,5,-5,877,707,0,-1,200,214
+2001-03-24,Bulgaria,Iceland,2,1,World Cup qualifier,Bulgaria,10,-10,1707,1590,2,-1,38,60
+2001-03-24,Croatia,Latvia,4,1,World Cup qualifier,Croatia,3,-3,1895,1419,1,-3,9,99
+2001-03-24,Cyprus,Ireland,0,4,World Cup qualifier,Cyprus,-21,21,1522,1832,-4,4,71,14
+2001-03-24,England,Finland,2,1,World Cup qualifier,England,5,-5,1875,1637,0,-2,12,53
+2001-03-24,France,Japan,5,0,Friendly,France,3,-3,2116,1792,0,-1,1,22
+2001-03-24,Gabon,Kenya,1,1,African Nations Cup qualifier,Gabon,-8,8,1400,1375,-3,1,108,116
+2001-03-24,Germany,Albania,2,1,World Cup qualifier,Germany,2,-2,1881,1499,0,-1,11,76
+2001-03-24,Hungary,Lithuania,1,1,World Cup qualifier,Hungary,-15,15,1651,1423,-3,9,50,96
+2001-03-24,Lesotho,Zimbabwe,0,1,African Nations Cup qualifier,Lesotho,-11,11,1199,1486,-2,0,155,80
+2001-03-24,Luxembourg,Faroe Islands,0,2,World Cup qualifier,Luxembourg,-35,35,1140,1250,-3,7,165,144
+2001-03-24,Madagascar,Namibia,1,2,African Nations Cup qualifier,Madagascar,-32,32,1415,1346,-16,4,102,121
+2001-03-24,Malta,Denmark,0,5,World Cup qualifier,Malta,-6,6,1227,1783,-1,0,150,24
+2001-03-24,Morocco,Tunisia,2,0,African Nations Cup qualifier,Morocco,19,-19,1696,1623,5,-5,40,56
+2001-03-24,Netherlands,Andorra,5,0,World Cup qualifier,Spain,0,0,1990,1052,0,0,6,183
+2001-03-24,Norway,Poland,2,3,World Cup qualifier,Norway,-28,28,1798,1806,-5,4,21,19
+2001-03-24,Northern Ireland,Czechia,0,1,World Cup qualifier,Northern Ireland,-6,6,1501,1916,-1,0,75,8
+2001-03-24,Romania,Italy,0,2,World Cup qualifier,Romania,-25,25,1816,2027,-2,3,16,2
+2001-03-24,Russia,Slovenia,1,1,World Cup qualifier,Russia,-14,14,1820,1662,0,1,15,49
+2001-03-24,Scotland,Belgium,2,2,World Cup qualifier,Scotland,-3,3,1742,1787,0,-1,32,23
+2001-03-24,Senegal,Uganda,3,0,African Nations Cup qualifier,Senegal,19,-19,1513,1399,6,-9,72,109
+2001-03-24,South Africa,Mauritius,3,0,African Nations Cup qualifier,South Africa,3,-3,1665,1239,2,-2,47,146
+2001-03-24,Spain,Liechtenstein,5,0,World Cup qualifier,Spain,0,0,1944,1070,0,0,7,181
+2001-03-24,Sweden,Macedonia,1,0,World Cup qualifier,Sweden,4,-4,1812,1529,2,2,17,68
+2001-03-24,Trinidad and Tobago,Guatemala,3,1,Friendly,Trinidad and Tobago,7,-7,1649,1529,0,1,51,68
+2001-03-24,Turkey,Slovakia,1,1,World Cup qualifier,Turkey,-6,6,1756,1757,-2,1,31,30
+2001-03-24,Ukraine,Belarus,0,0,World Cup qualifier,Ukraine,-16,16,1682,1437,-5,10,44,89
+2001-03-24,Yugoslavia,Switzerland,1,1,World Cup qualifier,Yugoslavia,-14,14,1883,1710,-1,5,10,36
+2001-03-24,Zambia,Nigeria,1,1,African Nations Cup qualifier,Zambia,8,-8,1454,1691,3,-4,84,42
+2001-03-25,Angola,Burkina Faso,2,0,African Nations Cup qualifier,Angola,16,-16,1478,1369,1,-3,81,115
+2001-03-25,Burundi,Algeria,0,1,African Nations Cup qualifier,Burundi,-18,18,1351,1530,-3,5,120,68
+2001-03-25,Congo,Liberia,0,1,African Nations Cup qualifier,Congo,-19,19,1363,1518,-4,3,117,73
+2001-03-25,Ghana,DR Congo,3,0,African Nations Cup qualifier,Ghana,25,-25,1462,1408,6,-10,83,104
+2001-03-25,Guyana,Barbados,1,2,Friendly,Guyana,-6,6,1070,1333,-3,0,180,124
+2001-03-25,Malaysia,Palestine,4,3,World Cup qualifier,Qatar,20,-20,1303,1268,7,-4,129,139
+2001-03-25,Mexico,Jamaica,4,0,World Cup qualifier,Mexico,13,-13,1784,1582,1,-2,24,61
+2001-03-25,Qatar,Hong Kong,3,0,World Cup qualifier,Qatar,4,-4,1560,1176,0,-1,63,161
+2001-03-25,Sudan,Ivory Coast,0,0,African Nations Cup qualifier,Sudan,7,-7,1383,1601,2,0,112,58
+2001-03-27,Colombia,Bolivia,2,0,World Cup qualifier,Colombia,8,-8,1807,1568,1,0,19,62
+2001-03-27,Oman,United Arab Emirates,2,1,Friendly,Oman,13,-13,1322,1514,2,-2,125,73
+2001-03-27,Peru,Chile,3,1,World Cup qualifier,Peru,24,-24,1696,1678,7,-7,39,46
+2001-03-28,Albania,England,1,3,World Cup qualifier,Albania,-10,10,1489,1885,-1,1,78,11
+2001-03-28,Argentina,Venezuela,5,0,World Cup qualifier,Argentina,1,-1,2019,1412,1,1,3,101
+2001-03-28,Austria,Israel,2,1,World Cup qualifier,Austria,13,-13,1724,1668,1,-2,34,47
+2001-03-28,Belarus,Norway,2,1,World Cup qualifier,Belarus,33,-33,1470,1765,8,-7,82,28
+2001-03-28,Bulgaria,Northern Ireland,4,3,World Cup qualifier,Bulgaria,6,-6,1713,1495,2,0,36,76
+2001-03-28,Costa Rica,Trinidad and Tobago,3,0,World Cup qualifier,Costa Rica,26,-26,1662,1623,4,-4,50,55
+2001-03-28,Cyprus,Estonia,2,2,World Cup qualifier,Cyprus,-12,12,1510,1388,-4,1,75,112
+2001-03-28,Czechia,Denmark,0,0,World Cup qualifier,Czechia,-12,12,1904,1795,-1,4,9,21
+2001-03-28,Ecuador,Brazil,1,0,World Cup qualifier,Ecuador,32,-32,1723,1994,7,-3,35,6
+2001-03-28,Georgia,Romania,0,2,World Cup qualifier,Georgia,-17,17,1537,1833,-2,2,67,14
+2001-03-28,Greece,Germany,2,4,World Cup qualifier,Greece,-24,24,1684,1905,-6,3,43,8
+2001-03-28,Honduras,United States,1,2,World Cup qualifier,Honduras,-21,21,1702,1833,-4,3,38,14
+2001-03-28,Ireland,Andorra,3,0,World Cup qualifier,Spain,1,-1,1833,1051,0,0,14,183
+2001-03-28,Italy,Lithuania,4,0,World Cup qualifier,Italy,1,-1,2028,1422,0,0,2,95
+2001-03-28,Liechtenstein,Bosnia and Herzegovina,0,3,World Cup qualifier,Liechtenstein,-7,7,1063,1562,-1,1,181,63
+2001-03-28,Macedonia,Turkey,1,2,World Cup qualifier,Macedonia,-13,13,1516,1769,-2,4,71,27
+2001-03-28,Martinique,Guadeloupe,4,1,Friendly,Martinique,12,-12,1371,1323,4,-2,115,124
+2001-03-28,Moldova,Sweden,0,2,World Cup qualifier,Moldova,-9,9,1401,1821,-2,0,105,17
+2001-03-28,Poland,Armenia,4,0,World Cup qualifier,Poland,4,-4,1810,1412,1,-1,19,101
+2001-03-28,Portugal,Netherlands,2,2,World Cup qualifier,Portugal,-7,7,2011,1997,0,1,4,5
+2001-03-28,Russia,Faroe Islands,1,0,World Cup qualifier,Russia,1,-1,1821,1249,-2,0,17,144
+2001-03-28,Scotland,San Marino,4,0,World Cup qualifier,Scotland,0,0,1742,937,0,1,32,192
+2001-03-28,Slovakia,Azerbaijan,3,1,World Cup qualifier,Slovakia,2,-2,1759,1261,1,-1,29,143
+2001-03-28,Slovenia,Yugoslavia,1,1,World Cup qualifier,Slovenia,7,-7,1669,1876,3,-3,46,13
+2001-03-28,Spain,France,2,1,Friendly,Spain,12,-12,1956,2104,0,0,7,1
+2001-03-28,Sri Lanka,Cambodia,1,0,Friendly,Sri Lanka,9,-9,898,937,2,0,196,192
+2001-03-28,Switzerland,Luxembourg,5,0,World Cup qualifier,Switzerland,2,-2,1712,1138,-1,0,37,165
+2001-03-28,Uruguay,Paraguay,0,1,World Cup qualifier,Uruguay,-21,21,1750,1882,-5,1,31,12
+2001-03-28,Wales,Ukraine,1,1,World Cup qualifier,Wales,2,-2,1556,1680,0,0,65,44
+2001-04-01,Maldives,Cambodia,6,0,World Cup qualifier,the Maldives,38,-38,909,899,7,-4,195,196
+2001-04-02,United Arab Emirates,Sri Lanka,6,0,Friendly,the United Arab Emirates,1,-1,1515,897,0,0,72,197
+2001-04-04,Barbados,Grenada,2,1,CONCACAF Champ & Carib Cup qual,Suriname,19,-19,1352,1299,3,-4,120,130
+2001-04-04,British Virgin Islands,Cayman Islands,2,2,CONCACAF Champ & Carib Cup qual,Martinique,12,-12,889,1116,1,-2,200,169
+2001-04-04,Cuba,Dominica,3,1,CONCACAF Champ & Carib Cup qual,Guyana,6,-6,1475,1095,1,1,82,173
+2001-04-04,Guyana,Saint Martin,2,0,CONCACAF Champ & Carib Cup qual,Guyana,24,-24,1094,1081,6,-7,174,177
+2001-04-04,Lebanon,Bahrain,1,1,Friendly,Lebanon,-4,4,1422,1401,0,5,94,105
+2001-04-04,Martinique,Saint Vincent and the Grenadines,3,0,CONCACAF Champ & Carib Cup qual,Martinique,17,-17,1388,1253,3,-5,112,143
+2001-04-04,Suriname,Aruba,5,0,CONCACAF Champ & Carib Cup qual,Suriname,8,-8,1286,992,1,-1,136,189
+2001-04-05,Haiti,Panama,1,1,Friendly,Haiti,-3,3,1398,1404,-5,0,110,105
+2001-04-05,Oman,Sudan,0,1,Friendly,Oman,-11,11,1311,1394,-1,3,126,111
+2001-04-06,Cayman Islands,Saint Vincent and the Grenadines,1,1,CONCACAF Champ & Carib Cup qual,Martinique,8,-8,1124,1245,1,-1,168,144
+2001-04-06,Cuba,Saint Martin,1,0,CONCACAF Champ & Carib Cup qual,Guyana,4,-4,1479,1077,1,1,81,176
+2001-04-06,Grenada,Aruba,4,2,CONCACAF Champ & Carib Cup qual,Suriname,9,-9,1308,983,3,-1,127,190
+2001-04-06,Guyana,Dominica,2,0,CONCACAF Champ & Carib Cup qual,Guyana,22,-22,1116,1073,4,-5,170,178
+2001-04-06,Martinique,British Virgin Islands,6,0,CONCACAF Champ & Carib Cup qual,Martinique,3,-3,1391,886,1,0,112,200
+2001-04-06,Suriname,Barbados,2,2,CONCACAF Champ & Carib Cup qual,Suriname,-2,2,1284,1354,0,0,136,120
+2001-04-07,Brunei,Yemen,0,5,World Cup qualifier,Brunei,-11,11,745,1192,-1,2,210,157
+2001-04-07,Fiji,Eastern Samoa,13,0,World Cup qualifier,Australia,0,0,1422,441,-1,0,95,227
+2001-04-07,Haiti,Panama,0,0,Friendly,Haiti,-3,3,1395,1407,0,0,110,105
+2001-04-07,Mali,Liberia,3,0,West African Nations Cup qualifier,Mali,36,-36,1443,1482,14,-10,90,80
+2001-04-07,Mauritania,Cape Verde,0,1,West African Nations Cup qualifier,Mauritania,-17,17,1173,1352,-4,2,161,121
+2001-04-07,Oman,Sudan,1,1,Friendly,Oman,0,0,1311,1394,0,0,126,111
+2001-04-07,Tonga,Samoa,1,0,World Cup qualifier,Australia,24,-24,664,684,1,-3,217,216
+2001-04-08,Barbados,Aruba,5,2,CONCACAF Champ & Carib Cup qual,Suriname,7,-7,1361,976,0,0,120,190
+2001-04-08,Guyana,Cuba,0,3,CONCACAF Champ & Carib Cup qual,Guyana,-13,13,1103,1492,-2,5,172,76
+2001-04-08,India,United Arab Emirates,1,0,World Cup qualifier,India,35,-35,1120,1480,6,-10,169,81
+2001-04-08,Indonesia,Maldives,5,0,World Cup qualifier,Indonesia,3,-3,1364,906,1,0,118,195
+2001-04-08,Martinique,Cayman Islands,1,1,CONCACAF Champ & Carib Cup qual,Martinique,-16,16,1375,1140,-2,3,114,165
+2001-04-08,Mauritius,Namibia,1,0,COSAFA Cup,Mauritius,20,-20,1259,1326,3,0,143,123
+2001-04-08,Saint Martin,Dominica,3,2,CONCACAF Champ & Carib Cup qual,Guyana,20,-20,1097,1053,1,-4,175,182
+2001-04-08,Saint Vincent and the Grenadines,British Virgin Islands,6,0,CONCACAF Champ & Carib Cup qual,Martinique,10,-10,1255,876,0,-1,144,201
+2001-04-08,Suriname,Grenada,3,1,CONCACAF Champ & Carib Cup qual,Suriname,24,-24,1308,1284,9,-9,127,136
+2001-04-09,Australia,Tonga,22,0,World Cup qualifier,Australia,0,0,1771,664,0,0,25,217
+2001-04-09,Samoa,Eastern Samoa,8,0,World Cup qualifier,Australia,19,-19,703,422,2,0,214,227
+2001-04-10,Haiti,US Virgin Islands,12,1,CONCACAF Champ & Carib Cup qual,Haiti,1,-1,1396,706,0,0,110,213
+2001-04-10,Saint Lucia,Guadeloupe,3,2,CONCACAF Champ & Carib Cup qual,Haiti,25,-25,1260,1298,6,-7,143,131
+2001-04-11,Australia,Eastern Samoa,31,0,World Cup qualifier,Australia,0,0,1771,422,0,0,25,227
+2001-04-11,Fiji,Samoa,6,1,World Cup qualifier,Australia,1,-1,1423,702,0,0,95,214
+2001-04-11,Mexico,Chile,1,0,Friendly,Mexico,5,-5,1789,1673,1,0,23,45
+2001-04-12,Guadeloupe,US Virgin Islands,11,0,CONCACAF Champ & Carib Cup qual,Haiti,4,-4,1302,702,2,0,129,213
+2001-04-12,Haiti,Saint Lucia,3,2,CONCACAF Champ & Carib Cup qual,Haiti,8,-8,1404,1252,4,-2,106,145
+2001-04-12,Iraq,Macao,8,0,World Cup qualifier,Iraq,1,-1,1619,964,0,0,57,191
+2001-04-12,Kazakhstan,Nepal,6,0,World Cup qualifier,Iraq,2,-2,1440,783,0,0,91,207
+2001-04-14,Australia,Fiji,2,0,World Cup qualifier,Australia,4,-4,1775,1419,0,-3,25,98
+2001-04-14,Brunei,United Arab Emirates,0,12,World Cup qualifier,Brunei,-3,3,742,1483,0,1,210,80
+2001-04-14,Haiti,Guadeloupe,2,0,CONCACAF Champ & Carib Cup qual,Haiti,14,-14,1418,1288,6,-6,100,135
+2001-04-14,Iraq,Nepal,9,1,World Cup qualifier,Iraq,0,0,1619,783,0,0,57,207
+2001-04-14,Kazakhstan,Macao,3,0,World Cup qualifier,Iraq,4,-4,1444,960,1,0,90,191
+2001-04-14,Saint Lucia,US Virgin Islands,14,1,CONCACAF Champ & Carib Cup qual,Haiti,5,-5,1257,697,1,-2,144,215
+2001-04-14,Tonga,Eastern Samoa,5,0,World Cup qualifier,Australia,16,-16,680,406,0,0,217,227
+2001-04-15,Cambodia,Maldives,1,1,World Cup qualifier,Cambodia,-5,5,894,911,-2,0,198,195
+2001-04-15,India,Yemen,1,1,World Cup qualifier,India,-2,2,1118,1194,0,0,169,157
+2001-04-16,Australia,Samoa,11,0,World Cup qualifier,Australia,0,0,1775,702,0,0,25,213
+2001-04-16,Bahrain,Oman,0,1,Friendly,Bahrain,-15,15,1386,1326,-6,2,113,123
+2001-04-16,Fiji,Tonga,8,1,World Cup qualifier,Australia,1,-1,1420,679,0,0,98,217
+2001-04-16,Iraq,Kazakhstan,1,1,World Cup qualifier,Iraq,-13,13,1606,1457,0,4,57,86
+2001-04-16,Nepal,Macao,4,1,World Cup qualifier,Iraq,51,-51,834,909,1,-4,206,195
+2001-04-18,Costa Rica,Venezuela,2,2,Friendly,Costa Rica,-8,8,1654,1420,0,5,50,98
+2001-04-21,Burkina Faso,Malawi,4,2,World Cup qualifier,Burkina Faso,14,-14,1383,1250,2,-6,114,145
+2001-04-21,Iraq,Macao,5,0,World Cup qualifier,Kazakhstan,1,-1,1607,908,0,0,57,195
+2001-04-21,Kazakhstan,Nepal,4,0,World Cup qualifier,Kazakhstan,1,-1,1458,833,0,0,86,206
+2001-04-21,Morocco,Namibia,3,0,World Cup qualifier,Morocco,4,-4,1700,1322,0,-2,39,125
+2001-04-21,Senegal,Algeria,3,0,World Cup qualifier,Senegal,27,-27,1540,1503,5,-5,66,73
+2001-04-21,Sierra Leone,Nigeria,1,0,World Cup qualifier,Sierra Leone,34,-34,1332,1657,8,-7,123,49
+2001-04-21,Zambia,Angola,1,1,World Cup qualifier,Zambia,-4,4,1450,1482,-2,1,89,81
+2001-04-22,Cameroon,Libya,1,0,World Cup qualifier,Cameroon,4,-4,1745,1430,1,-2,32,94
+2001-04-22,China,Maldives,10,1,World Cup qualifier,China,1,-1,1665,910,1,0,47,194
+2001-04-22,DR Congo,Madagascar,1,0,World Cup qualifier,DR Congo,15,-15,1423,1400,10,-4,95,107
+2001-04-22,Indonesia,Cambodia,6,0,World Cup qualifier,Indonesia,3,-3,1367,891,1,-1,117,199
+2001-04-22,Ivory Coast,Congo,2,0,World Cup qualifier,Ivory Coast,8,-8,1609,1355,1,-1,57,120
+2001-04-22,Liberia,Sudan,2,0,World Cup qualifier,Liberia,15,-15,1497,1379,7,-4,74,114
+2001-04-22,Mozambique,Lesotho,1,0,Friendly,Mozambique,6,-6,1247,1193,0,-2,147,157
+2001-04-23,Iraq,Nepal,4,2,World Cup qualifier,Kazakhstan,1,-1,1608,832,0,0,58,206
+2001-04-23,Kazakhstan,Macao,5,0,World Cup qualifier,Kazakhstan,2,-2,1460,906,0,0,86,195
+2001-04-23,Turkmenistan,Jordan,2,0,World Cup qualifier,Uzbekistan,32,-32,1454,1413,9,-13,87,103
+2001-04-23,Uzbekistan,Taiwan,7,0,World Cup qualifier,Uzbekistan,5,-5,1439,1033,0,0,92,184
+2001-04-24,Belize,Nicaragua,2,0,Friendly,Belize,6,-6,1082,918,0,0,177,193
+2001-04-24,Chile,Uruguay,0,1,World Cup qualifier,Chile,-21,21,1652,1771,-7,4,51,27
+2001-04-24,Ecuador,Paraguay,2,1,World Cup qualifier,Ecuador,23,-23,1746,1859,4,-1,31,13
+2001-04-24,Egypt,Canada,3,0,LG Cup,Egypt,18,-18,1659,1614,5,-2,47,56
+2001-04-24,Georgia,Israel,3,2,Friendly,Georgia,11,-11,1548,1657,2,-2,66,48
+2001-04-24,Panama,Haiti,2,0,Friendly,Panama,11,-11,1418,1407,4,-4,101,105
+2001-04-24,South Korea,Iran,1,0,LG Cup,Egypt,14,-14,1785,1745,1,-3,25,32
+2001-04-24,Venezuela,Colombia,2,2,World Cup qualifier,Venezuela,14,-14,1434,1793,5,-1,93,21
+2001-04-25,Austria,Liechtenstein,2,0,World Cup qualifier,Austria,1,-1,1725,1062,0,0,35,180
+2001-04-25,Bolivia,Argentina,3,3,World Cup qualifier,Bolivia,15,-15,1583,2004,1,0,61,3
+2001-04-25,Brazil,Peru,1,1,World Cup qualifier,Brazil,-16,16,1978,1712,0,4,6,36
+2001-04-25,Croatia,Greece,2,2,Friendly,Croatia,-7,7,1888,1691,0,0,10,42
+2001-04-25,Czechia,Belgium,1,1,Friendly,Czechia,-6,6,1898,1793,0,3,9,21
+2001-04-25,Denmark,Slovenia,3,0,Friendly,Denmark,7,-7,1802,1662,0,-2,20,46
+2001-04-25,France,Portugal,4,0,Friendly,France,9,-9,2113,2002,0,0,1,4
+2001-04-25,Hungary,Finland,0,0,Friendly,Hungary,-3,3,1648,1640,1,0,51,53
+2001-04-25,Ireland,Andorra,3,1,World Cup qualifier,Ireland,0,0,1833,1051,-3,0,17,183
+2001-04-25,Italy,South Africa,1,0,Friendly,Italy,1,-1,2029,1664,0,0,2,45
+2001-04-25,Jamaica,Honduras,1,1,World Cup qualifier,Jamaica,1,-1,1583,1701,0,0,61,38
+2001-04-25,Jordan,Taiwan,2,0,World Cup qualifier,Uzbekistan,6,-6,1419,1027,3,-1,100,185
+2001-04-25,Kazakhstan,Iraq,1,1,World Cup qualifier,Kazakhstan,3,-3,1463,1605,2,0,84,58
+2001-04-25,Latvia,San Marino,1,1,World Cup qualifier,Latvia,-19,19,1400,956,-5,0,105,191
+2001-04-25,Lebanon,Philippines,3,0,Friendly,Lebanon,0,0,1422,718,0,0,97,211
+2001-04-25,Malta,Iceland,1,4,World Cup qualifier,Malta,-13,13,1214,1603,-1,0,151,59
+2001-04-25,Moldova,Estonia,0,0,Friendly,Moldova,-3,3,1398,1391,-3,1,109,110
+2001-04-25,Nepal,Macao,6,1,World Cup qualifier,Kazakhstan,48,-48,880,858,6,-8,200,203
+2001-04-25,Netherlands,Cyprus,4,0,World Cup qualifier,the Netherlands,2,-2,1999,1508,0,-1,5,73
+2001-04-25,Norway,Bulgaria,2,1,Friendly,Norway,6,-6,1771,1707,2,-1,27,37
+2001-04-25,Poland,Scotland,1,1,Friendly,Poland,-4,4,1806,1746,0,4,19,30
+2001-04-25,Romania,Slovakia,0,0,Friendly,Romania,-5,5,1828,1764,-4,1,18,29
+2001-04-25,Spain,Japan,1,0,Friendly,Spain,4,-4,1960,1788,0,-1,7,23
+2001-04-25,Switzerland,Sweden,0,2,Friendly,Switzerland,-15,15,1697,1836,-3,1,40,16
+2001-04-25,Trinidad and Tobago,Mexico,1,1,World Cup qualifier,Trinidad and Tobago,4,-4,1627,1785,0,-1,54,24
+2001-04-25,Turkey,Albania,0,2,Friendly,Turkey,-27,27,1742,1516,-6,8,34,70
+2001-04-25,United States,Costa Rica,1,0,World Cup qualifier,the United States,7,-7,1840,1647,-1,-2,15,52
+2001-04-25,Uzbekistan,Turkmenistan,1,0,World Cup qualifier,Uzbekistan,15,-15,1454,1439,5,-5,87,92
+2001-04-25,Yugoslavia,Russia,0,1,World Cup qualifier,Yugoslavia,-28,28,1848,1849,-2,4,14,13
+2001-04-26,Belize,Nicaragua,2,1,Friendly,Belize,4,-4,1086,914,1,0,176,193
+2001-04-26,Canada,Iran,1,0,LG Cup,Egypt,20,-20,1634,1725,2,-2,54,34
+2001-04-26,Egypt,South Korea,1,2,LG Cup,Egypt,-14,14,1645,1799,-5,3,52,21
+2001-04-26,United Arab Emirates,India,1,0,World Cup qualifier,the United Arab Emirates,3,-3,1486,1115,1,-1,80,170
+2001-04-27,Turkmenistan,Taiwan,5,0,World Cup qualifier,Uzbekistan,7,-7,1446,1020,1,0,91,185
+2001-04-27,Uzbekistan,Jordan,2,2,World Cup qualifier,Uzbekistan,-7,7,1447,1426,-3,4,90,96
+2001-04-27,Yemen,Brunei,1,0,World Cup qualifier,Yemen,2,-2,1196,740,0,0,156,210
+2001-04-28,Bangladesh,Bhutan,3,1,Friendly,Bangladesh,1,-1,1020,560,1,0,185,223
+2001-04-28,Congo,Madagascar,2,0,World Cup qualifier,Congo,25,-25,1380,1375,7,-10,113,115
+2001-04-28,Maldives,China,0,1,World Cup qualifier,the Maldives,-1,1,909,1666,0,0,194,44
+2001-04-29,Cambodia,Indonesia,0,2,World Cup qualifier,Cambodia,-6,6,885,1373,0,0,198,118
+2001-04-29,Mozambique,South Africa,0,3,COSAFA Cup,Mozambique,-10,10,1237,1674,0,1,147,44
+2001-04-30,Oman,Laos,12,0,World Cup qualifier,Oman,5,-5,1331,892,0,-1,124,196
+2001-04-30,Syria,Philippines,12,0,World Cup qualifier,Syria,1,-1,1513,717,0,0,72,211
+2001-05-03,Jordan,Taiwan,6,0,World Cup qualifier,Jordan,4,-4,1430,1016,2,-1,94,186
+2001-05-03,Uzbekistan,Turkmenistan,5,2,World Cup qualifier,Jordan,35,-35,1482,1411,8,-12,82,103
+2001-05-04,Algeria,Morocco,1,2,World Cup qualifier,Algeria,-15,15,1488,1715,-4,3,78,36
+2001-05-04,Oman,Laos,7,0,World Cup qualifier,Oman,4,-4,1335,888,1,-1,123,197
+2001-05-04,Syria,Philippines,5,1,World Cup qualifier,Syria,0,0,1513,717,0,0,72,211
+2001-05-04,United Arab Emirates,Brunei,4,0,World Cup qualifier,the United Arab Emirates,1,-1,1487,739,0,0,80,210
+2001-05-04,Yemen,India,3,3,World Cup qualifier,Yemen,-10,10,1186,1125,-1,1,157,169
+2001-05-05,Jordan,Turkmenistan,1,2,World Cup qualifier,Jordan,-27,27,1403,1438,-10,11,104,92
+2001-05-05,Madagascar,Tunisia,0,2,World Cup qualifier,Madagascar,-18,18,1357,1641,-5,3,120,53
+2001-05-05,Nigeria,Liberia,2,0,World Cup qualifier,Nigeria,11,-11,1668,1486,2,-7,45,81
+2001-05-05,Sierra Leone,Ghana,1,1,World Cup qualifier,Sierra Leone,2,-2,1334,1460,0,-1,124,87
+2001-05-05,South Africa,Zimbabwe,2,1,World Cup qualifier,South Africa,6,-6,1680,1480,1,-2,43,83
+2001-05-05,Saint Kitts and Nevis,Puerto Rico,2,0,Friendly,Saint Kitts and Nevis,2,-2,1266,890,0,0,139,196
+2001-05-05,Uzbekistan,Taiwan,4,0,World Cup qualifier,Jordan,5,-5,1487,1011,3,-1,79,187
+2001-05-06,Angola,Cameroon,2,0,World Cup qualifier,Angola,43,-43,1525,1702,12,-6,70,38
+2001-05-06,Cambodia,China,0,4,World Cup qualifier,Cambodia,-1,1,884,1667,0,0,198,46
+2001-05-06,Congo,DR Congo,1,1,World Cup qualifier,Congo,-3,3,1377,1426,-2,-1,115,97
+2001-05-06,Egypt,Senegal,1,0,World Cup qualifier,Egypt,9,-9,1654,1531,3,-1,49,68
+2001-05-06,Maldives,Indonesia,0,2,World Cup qualifier,the Maldives,-7,7,902,1380,0,4,194,113
+2001-05-06,Saint Kitts and Nevis,Puerto Rico,4,1,Friendly,Saint Kitts and Nevis,2,-2,1268,888,1,0,138,196
+2001-05-06,Togo,Zambia,3,2,World Cup qualifier,Togo,16,-16,1433,1434,6,-2,95,92
+2001-05-07,Jordan,Uzbekistan,1,1,World Cup qualifier,Jordan,-1,1,1402,1488,0,2,104,78
+2001-05-07,Oman,Philippines,7,0,World Cup qualifier,Oman,1,-1,1336,716,0,0,123,211
+2001-05-07,Syria,Laos,11,0,World Cup qualifier,Syria,2,-2,1515,886,0,-1,73,197
+2001-05-07,Turkmenistan,Taiwan,1,0,World Cup qualifier,Jordan,3,-3,1441,1008,0,0,91,187
+2001-05-09,Estonia,Finland,1,1,Friendly,Estonia,4,-4,1395,1636,0,0,109,54
+2001-05-09,Georgia,Azerbaijan,1,0,Friendly,Georgia,2,-2,1550,1259,0,0,66,141
+2001-05-10,Trinidad and Tobago,Grenada,5,3,Friendly,Trinidad and Tobago,2,-2,1629,1282,0,0,56,136
+2001-05-11,Oman,Philippines,2,0,World Cup qualifier,Oman,1,-1,1337,715,0,-1,123,212
+2001-05-11,Syria,Laos,9,0,World Cup qualifier,Syria,1,-1,1516,885,2,0,71,197
+2001-05-11,Yemen,United Arab Emirates,2,1,World Cup qualifier,Yemen,30,-30,1216,1457,6,-6,151,87
+2001-05-12,Brunei,India,0,1,World Cup qualifier,Brunei,-6,6,733,1131,0,1,210,168
+2001-05-13,China,Indonesia,5,1,World Cup qualifier,China,7,-7,1674,1373,1,-4,45,117
+2001-05-13,Lebanon,Pakistan,6,0,World Cup qualifier,Lebanon,1,-1,1423,811,0,0,98,207
+2001-05-13,Thailand,Sri Lanka,4,2,World Cup qualifier,Lebanon,2,-2,1497,895,0,0,75,195
+2001-05-15,Jamaica,Martinique,1,0,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,9,-9,1592,1366,1,-3,60,118
+2001-05-15,Lebanon,Sri Lanka,4,0,World Cup qualifier,Lebanon,2,-2,1425,893,0,0,98,195
+2001-05-15,Thailand,Pakistan,3,0,World Cup qualifier,Lebanon,1,-1,1498,810,0,0,75,207
+2001-05-15,Trinidad and Tobago,Barbados,5,0,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,9,-9,1638,1352,2,-1,54,120
+2001-05-16,Cuba,Suriname,4,3,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,10,-10,1502,1298,2,-4,75,131
+2001-05-16,Haiti,Saint Kitts and Nevis,7,2,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,25,-25,1432,1243,7,-8,96,146
+2001-05-17,Lebanon,Thailand,1,2,World Cup qualifier,Lebanon,-22,22,1403,1520,-4,5,103,71
+2001-05-17,Martinique,Barbados,3,1,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,29,-29,1395,1323,9,-4,109,124
+2001-05-17,Pakistan,Sri Lanka,3,3,World Cup qualifier,Lebanon,5,-5,815,888,0,0,207,195
+2001-05-17,Trinidad and Tobago,Jamaica,2,1,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,12,-12,1650,1580,3,-2,51,62
+2001-05-18,Cuba,Saint Kitts and Nevis,1,1,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,-13,13,1489,1256,-1,3,77,143
+2001-05-18,Haiti,Suriname,1,1,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,-7,7,1425,1305,-2,4,98,127
+2001-05-18,Syria,Oman,3,3,World Cup qualifier,Syria,-13,13,1503,1350,-3,0,75,122
+2001-05-18,United Arab Emirates,Yemen,3,2,World Cup qualifier,the United Arab Emirates,5,-5,1462,1211,2,-2,85,153
+2001-05-19,Jamaica,Barbados,2,1,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,7,-7,1587,1316,2,-1,60,125
+2001-05-19,Laos,Philippines,2,0,World Cup qualifier,Laos,10,-10,895,705,2,0,195,212
+2001-05-19,Trinidad and Tobago,Martinique,1,2,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,-35,35,1615,1430,-5,13,56,96
+2001-05-20,China,Cambodia,3,1,World Cup qualifier,China,0,0,1674,884,0,0,45,198
+2001-05-20,Cuba,Haiti,0,0,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,-4,4,1485,1429,-4,1,81,98
+2001-05-20,India,Brunei,5,0,World Cup qualifier,India,4,-4,1135,729,1,0,167,210
+2001-05-20,Lesotho,Swaziland,1,0,Friendly,Lesotho,7,-7,1200,1190,1,-1,156,157
+2001-05-20,Saint Kitts and Nevis,Suriname,4,0,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,43,-43,1299,1262,13,-13,130,140
+2001-05-20,Tunisia,Ivory Coast,1,1,World Cup qualifier,Tunisia,-7,7,1634,1616,-1,1,54,56
+2001-05-22,Haiti,Martinique,5,0,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,40,-40,1469,1390,14,-15,84,111
+2001-05-22,Singapore,New Zealand,3,0,Tiger Bay Challenge Trophy,Singapore,42,-42,1246,1498,8,-8,147,75
+2001-05-22,Trinidad and Tobago,Cuba,2,0,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,13,-13,1628,1472,1,-1,56,82
+2001-05-23,Costa Rica,Belize,4,0,CONCACAF Champ q & UNCAF Cup,Honduras,3,-3,1650,1083,1,-1,51,177
+2001-05-23,El Salvador,Nicaragua,3,0,CONCACAF Champ q & UNCAF Cup,Honduras,3,-3,1456,911,0,0,89,193
+2001-05-23,Honduras,Panama,1,2,CONCACAF Champ q & UNCAF Cup,Honduras,-36,36,1665,1454,-7,11,46,90
+2001-05-23,Macao,Mongolia,4,0,East Asian Games,Japan,36,-36,894,804,7,-1,196,207
+2001-05-24,Martinique,Cuba,1,0,CONCACAF Champ qual & Carib Cup,Trinidad and Tobago,25,-25,1415,1447,9,-9,102,91
+2001-05-25,Belize,Guatemala,3,3,CONCACAF Champ q & UNCAF Cup,Honduras,17,-17,1100,1512,2,-4,175,72
+2001-05-25,El Salvador,Panama,2,1,CONCACAF Champ q & UNCAF Cup,Honduras,20,-20,1476,1434,7,-4,81,93
+2001-05-25,England,Mexico,4,0,Friendly,England,9,-9,1894,1776,1,0,10,25
+2001-05-25,Honduras,Nicaragua,10,2,CONCACAF Champ q & UNCAF Cup,Honduras,1,-1,1666,910,0,0,46,193
+2001-05-25,Oman,Syria,2,0,World Cup qualifier,Oman,35,-35,1385,1468,9,-9,113,83
+2001-05-25,South Korea,Cameroon,0,0,Friendly,South Korea,-5,5,1794,1707,0,1,21,37
+2001-05-25,Trinidad and Tobago,Haiti,3,0,Caribbean Cup,Trinidad and Tobago,13,-13,1641,1456,3,-5,53,88
+2001-05-26,Lebanon,Pakistan,8,1,World Cup qualifier,Thailand,3,-3,1406,812,0,0,104,206
+2001-05-26,Philippines,Laos,1,1,World Cup qualifier,the Philippines,5,-5,710,890,0,-1,212,196
+2001-05-26,Thailand,Sri Lanka,3,0,World Cup qualifier,Thailand,1,-1,1521,887,0,-1,69,198
+2001-05-27,Costa Rica,Guatemala,1,1,CONCACAF Champ q & UNCAF Cup,Honduras,-8,8,1642,1520,-1,2,52,70
+2001-05-27,Honduras,El Salvador,1,1,CONCACAF Champ q & UNCAF Cup,Honduras,-14,14,1652,1490,-3,5,49,76
+2001-05-27,Indonesia,China,0,2,World Cup qualifier,Indonesia,-14,14,1359,1688,-1,2,119,42
+2001-05-27,Panama,Nicaragua,6,0,CONCACAF Champ q & UNCAF Cup,Honduras,4,-4,1438,906,0,0,93,193
+2001-05-28,Lebanon,Sri Lanka,5,0,World Cup qualifier,Thailand,4,-4,1410,883,0,-1,104,199
+2001-05-28,Thailand,Pakistan,6,0,World Cup qualifier,Thailand,1,-1,1522,811,0,0,69,206
+2001-05-29,Germany,Slovakia,2,0,Friendly,Germany,6,-6,1911,1758,0,0,8,29
+2001-05-30,Australia,Mexico,2,0,Confederations Cup,South Korea,38,-38,1813,1738,7,-7,19,32
+2001-05-30,Costa Rica,Panama,2,1,CONCACAF Champ q & UNCAF Cup,Honduras,9,-9,1651,1429,1,-5,51,98
+2001-05-30,El Salvador,Guatemala,0,0,CONCACAF Champ q & UNCAF Cup,Honduras,2,-2,1492,1518,0,1,76,69
+2001-05-30,South Korea,France,0,5,Confederations Cup,South Korea,-22,22,1772,2135,-4,0,25,1
+2001-05-30,Sri Lanka,Pakistan,3,1,World Cup qualifier,Thailand,24,-24,907,787,6,-1,193,207
+2001-05-30,Thailand,Lebanon,2,2,World Cup qualifier,Thailand,-11,11,1511,1421,-3,3,72,101
+2001-05-31,Brazil,Cameroon,2,0,Confederations Cup,Japan,13,-13,1991,1694,0,-2,6,39
+2001-05-31,Japan,Canada,3,0,Confederations Cup,Japan,16,-16,1804,1618,3,-1,21,56
+2001-06-01,Algeria,Angola,3,2,African Nations Cup qualifier,Algeria,16,-16,1504,1509,3,-4,74,72
+2001-06-01,Australia,France,1,0,Confederations Cup,South Korea,43,-43,1856,2092,6,0,13,1
+2001-06-01,El Salvador,Panama,1,1,CONCACAF Champ q & UNCAF Cup,Honduras,-4,4,1488,1433,-1,2,77,96
+2001-06-01,Guatemala,Costa Rica,2,0,CONCACAF Champ q & UNCAF Cup,Honduras,41,-41,1559,1610,4,-6,65,57
+2001-06-01,South Korea,Mexico,2,1,Confederations Cup,South Korea,16,-16,1788,1722,0,-2,25,34
+2001-06-02,Armenia,Belarus,0,0,World Cup qualifier,Armenia,-2,2,1410,1472,0,-1,104,83
+2001-06-02,Belgium,Latvia,3,1,World Cup qualifier,Belgium,3,-3,1796,1397,0,-2,23,108
+2001-06-02,Brazil,Canada,0,0,Confederations Cup,Japan,-20,20,1971,1638,0,2,6,53
+2001-06-02,Croatia,San Marino,4,0,World Cup qualifier,Croatia,0,0,1888,956,1,0,10,191
+2001-06-02,Denmark,Czechia,2,1,World Cup qualifier,Denmark,20,-20,1822,1878,2,-2,20,11
+2001-06-02,Estonia,Netherlands,2,4,World Cup qualifier,Estonia,-3,3,1392,2002,1,1,109,4
+2001-06-02,Faroe Islands,Switzerland,0,1,World Cup qualifier,the Faroe Islands,-5,5,1244,1702,-1,1,147,37
+2001-06-02,Finland,Germany,2,2,World Cup qualifier,Finland,9,-9,1645,1902,2,0,51,8
+2001-06-02,Gabon,Tunisia,1,1,African Nations Cup qualifier,Gabon,7,-7,1407,1627,0,-1,106,55
+2001-06-02,Georgia,Italy,1,2,World Cup qualifier,Georgia,-4,4,1546,2033,1,0,66,2
+2001-06-02,Greece,Albania,1,0,World Cup qualifier,Greece,7,-7,1698,1509,3,-1,38,70
+2001-06-02,Iceland,Malta,3,0,World Cup qualifier,Iceland,4,-4,1607,1210,1,-2,58,154
+2001-06-02,Ireland,Portugal,1,1,World Cup qualifier,Ireland,4,-4,1837,1998,-1,-1,19,5
+2001-06-02,Japan,Cameroon,2,0,Confederations Cup,Japan,17,-17,1821,1677,0,-5,21,44
+2001-06-02,Kenya,Morocco,1,1,African Nations Cup qualifier,Kenya,12,-12,1387,1703,6,-1,111,36
+2001-06-02,Liechtenstein,Israel,0,3,World Cup qualifier,Liechtenstein,-4,4,1058,1661,0,0,180,47
+2001-06-02,Macedonia,Moldova,2,2,World Cup qualifier,Macedonia,-11,11,1505,1409,-4,4,73,105
+2001-06-02,Nigeria,Madagascar,1,0,African Nations Cup qualifier,Nigeria,3,-3,1671,1354,0,0,45,120
+2001-06-02,Northern Ireland,Bulgaria,0,1,World Cup qualifier,Northern Ireland,-14,14,1481,1721,-4,2,80,35
+2001-06-02,Paraguay,Chile,1,0,World Cup qualifier,Paraguay,6,-6,1865,1646,0,-1,12,50
+2001-06-02,Peru,Ecuador,1,2,World Cup qualifier,Peru,-24,24,1688,1770,-4,1,40,28
+2001-06-02,Romania,Hungary,2,0,World Cup qualifier,Romania,10,-10,1838,1638,1,-2,18,53
+2001-06-02,Russia,Yugoslavia,1,1,World Cup qualifier,Russia,-6,6,1843,1854,-2,1,16,14
+2001-06-02,Slovenia,Luxembourg,2,0,World Cup qualifier,Slovenia,2,-2,1664,1136,0,0,46,166
+2001-06-02,Spain,Bosnia and Herzegovina,4,1,World Cup qualifier,Spain,4,-4,1964,1558,0,-2,7,65
+2001-06-02,Sweden,Slovakia,2,0,World Cup qualifier,Sweden,16,-16,1852,1742,2,-3,15,31
+2001-06-02,Turkey,Azerbaijan,3,0,World Cup qualifier,Turkey,2,-2,1744,1257,1,-1,30,142
+2001-06-02,Uganda,Togo,0,3,African Nations Cup qualifier,Uganda,-42,42,1357,1475,-11,14,119,82
+2001-06-02,Ukraine,Norway,0,0,World Cup qualifier,Ukraine,-1,1,1679,1772,0,0,43,26
+2001-06-02,Wales,Poland,1,2,World Cup qualifier,Wales,-12,12,1544,1818,-1,-2,67,22
+2001-06-02,Zambia,Namibia,0,0,African Nations Cup qualifier,Zambia,-11,11,1423,1333,-6,0,99,124
+2001-06-03,Argentina,Colombia,3,0,World Cup qualifier,Argentina,10,-10,2014,1783,0,-1,3,25
+2001-06-03,Bolivia,Venezuela,5,0,World Cup qualifier,Bolivia,15,-15,1598,1419,2,-5,60,99
+2001-06-03,Burundi,Burkina Faso,0,0,African Nations Cup qualifier,Burundi,-4,4,1347,1387,0,3,122,111
+2001-06-03,Congo,Mauritius,0,0,African Nations Cup qualifier,Congo,-11,11,1366,1270,-1,3,117,138
+2001-06-03,Costa Rica,El Salvador,1,1,CONCACAF Champ q & UNCAF Cup,Honduras,-7,7,1603,1495,-2,0,59,76
+2001-06-03,Egypt,Sudan,3,2,African Nations Cup qualifier,Egypt,4,-4,1658,1375,0,0,48,115
+2001-06-03,France,Mexico,4,0,Confederations Cup,South Korea,10,-10,2102,1712,0,-1,1,35
+2001-06-03,Gambia,Senegal,0,0,Friendly,The Gambia,4,-4,1303,1527,2,0,128,68
+2001-06-03,Guatemala,Panama,3,1,CONCACAF Champ q & UNCAF Cup,Honduras,20,-20,1579,1413,1,-6,63,102
+2001-06-03,Lesotho,DR Congo,0,0,African Nations Cup qualifier,Lesotho,7,-7,1207,1419,1,-1,155,99
+2001-06-03,Liberia,South Africa,1,1,African Nations Cup qualifier,Liberia,5,-5,1491,1675,2,-2,77,44
+2001-06-03,Libya,Ivory Coast,0,3,African Nations Cup qualifier,Libya,-27,27,1403,1643,-9,4,106,52
+2001-06-03,South Korea,Australia,1,0,Confederations Cup,South Korea,23,-23,1811,1833,2,-6,23,19
+2001-06-03,Zimbabwe,Ghana,1,2,African Nations Cup qualifier,Zimbabwe,-27,27,1453,1487,-8,8,89,80
+2001-06-04,Cameroon,Canada,2,0,Confederations Cup,Japan,33,-33,1710,1605,7,-3,36,57
+2001-06-04,Cuba,Belize,2,1,Friendly,Cuba,1,-1,1448,1099,0,0,91,175
+2001-06-04,Japan,Brazil,0,0,Confederations Cup,Japan,4,-4,1825,1967,1,0,20,6
+2001-06-04,Solomon Islands,Cook Islands,9,1,World Cup qualifier,New Zealand,3,-3,1303,713,1,0,129,211
+2001-06-04,Tahiti,Vanuatu,6,1,World Cup qualifier,New Zealand,22,-22,1320,1113,7,-3,125,170
+2001-06-06,Albania,Germany,0,2,World Cup qualifier,Albania,-9,9,1500,1911,-5,-1,75,9
+2001-06-06,Armenia,Poland,1,1,World Cup qualifier,Armenia,14,-14,1424,1804,8,-1,95,23
+2001-06-06,Azerbaijan,Slovakia,2,0,World Cup qualifier,Azerbaijan,54,-54,1311,1688,15,-8,127,39
+2001-06-06,Czechia,Northern Ireland,3,1,World Cup qualifier,Czechia,3,-3,1881,1478,0,-1,11,82
+2001-06-06,Denmark,Malta,2,1,World Cup qualifier,Denmark,1,-1,1823,1209,0,0,21,154
+2001-06-06,Estonia,Ireland,0,2,World Cup qualifier,Estonia,-7,7,1385,1844,-4,3,113,15
+2001-06-06,Faroe Islands,Yugoslavia,0,6,World Cup qualifier,the Faroe Islands,-4,4,1240,1858,0,0,147,13
+2001-06-06,Greece,England,0,2,World Cup qualifier,Greece,-22,22,1676,1916,-3,1,42,8
+2001-06-06,Hungary,Georgia,4,1,World Cup qualifier,Hungary,17,-17,1655,1529,5,-1,49,67
+2001-06-06,Iceland,Bulgaria,1,1,World Cup qualifier,Iceland,1,-1,1608,1720,0,1,56,33
+2001-06-06,Israel,Spain,1,1,World Cup qualifier,Israel,11,-11,1672,1953,2,0,45,7
+2001-06-06,Latvia,Croatia,0,1,World Cup qualifier,Latvia,-4,4,1393,1892,0,0,108,10
+2001-06-06,Lithuania,Romania,1,2,World Cup qualifier,Lithuania,-6,6,1416,1844,-5,2,101,15
+2001-06-06,Luxembourg,Russia,1,2,World Cup qualifier,Luxembourg,-1,1,1135,1844,0,0,166,15
+2001-06-06,New Zealand,Tahiti,5,0,World Cup qualifier,New Zealand,13,-13,1511,1307,5,-3,70,128
+2001-06-06,Norway,Belarus,1,1,World Cup qualifier,Norway,-16,16,1756,1488,-2,5,28,78
+2001-06-06,Portugal,Cyprus,6,0,World Cup qualifier,Portugal,3,-3,2001,1505,0,-1,5,73
+2001-06-06,San Marino,Belgium,1,4,World Cup qualifier,San Marino,-1,1,955,1797,0,0,191,24
+2001-06-06,Sweden,Moldova,6,0,World Cup qualifier,Sweden,4,-4,1856,1405,0,-1,14,105
+2001-06-06,Switzerland,Slovenia,0,1,World Cup qualifier,Switzerland,-28,28,1674,1692,-6,8,44,38
+2001-06-06,Turkey,Macedonia,3,3,World Cup qualifier,Turkey,-15,15,1729,1520,0,4,30,69
+2001-06-06,Ukraine,Wales,1,1,World Cup qualifier,Ukraine,-12,12,1667,1556,-4,1,47,66
+2001-06-06,Vanuatu,Cook Islands,8,1,World Cup qualifier,New Zealand,8,-8,1121,705,1,-1,169,212
+2001-06-07,France,Brazil,2,1,Confederations Cup,South Korea,16,-16,2118,1951,0,-1,1,7
+2001-06-07,Japan,Australia,1,0,Confederations Cup,Japan,19,-19,1844,1814,5,-2,15,21
+2001-06-07,United States,Ecuador,0,0,Friendly,the United States,-5,5,1835,1775,-1,1,19,26
+2001-06-08,New Zealand,Cook Islands,2,0,World Cup qualifier,New Zealand,0,0,1511,705,0,0,70,212
+2001-06-08,Solomon Islands,Vanuatu,7,2,World Cup qualifier,New Zealand,21,-21,1324,1100,5,-5,125,174
+2001-06-09,Australia,Brazil,1,0,Confederations Cup,South Korea,34,-34,1848,1917,6,0,15,7
+2001-06-10,Angola,Mauritius,1,0,COSAFA Cup,Angola,5,-5,1514,1265,2,-1,70,140
+2001-06-10,Guinea-Bissau,Ivory Coast,1,4,West African Nations Cup qualifier,Guinea-Bissau,-8,8,1178,1651,0,2,158,51
+2001-06-10,Jamaica,Cuba,4,1,Friendly,Jamaica,7,-7,1594,1441,0,-1,61,92
+2001-06-10,Japan,France,0,1,Confederations Cup,Japan,-13,13,1831,2131,-4,0,20,1
+2001-06-10,Kenya,Egypt,1,1,Friendly,Kenya,5,-5,1392,1653,1,-1,109,49
+2001-06-10,Panama,Trinidad and Tobago,0,0,Friendly,Panama,4,-4,1417,1637,2,0,101,54
+2001-06-10,Sierra Leone,Gambia,1,1,Friendly,Sierra Leone,-4,4,1330,1307,-1,2,124,129
+2001-06-11,New Zealand,Solomon Islands,5,1,World Cup qualifier,New Zealand,12,-12,1523,1312,2,-2,69,127
+2001-06-11,Tahiti,Cook Islands,6,0,World Cup qualifier,New Zealand,3,-3,1310,702,0,0,129,212
+2001-06-13,New Zealand,Vanuatu,7,0,World Cup qualifier,New Zealand,4,-4,1527,1096,1,-2,68,176
+2001-06-13,Tahiti,Solomon Islands,2,0,World Cup qualifier,New Zealand,30,-30,1340,1282,6,-9,123,136
+2001-06-16,Jamaica,United States,0,0,World Cup qualifier,Jamaica,8,-8,1602,1827,2,-1,59,20
+2001-06-16,Madagascar,Zambia,0,1,African Nations Cup qualifier,Madagascar,-22,22,1332,1445,-3,5,123,91
+2001-06-16,Mauritius,Liberia,0,2,African Nations Cup qualifier,Mauritius,-20,20,1245,1511,-6,5,146,72
+2001-06-16,Mexico,Costa Rica,1,2,World Cup qualifier,Mexico,-31,31,1681,1634,-8,5,42,54
+2001-06-16,Morocco,Gabon,0,1,African Nations Cup qualifier,Morocco,-36,36,1667,1443,-11,12,47,92
+2001-06-16,Namibia,Nigeria,0,2,African Nations Cup qualifier,Namibia,-12,12,1321,1683,-1,5,125,41
+2001-06-16,Trinidad and Tobago,Honduras,2,4,World Cup qualifier,Trinidad and Tobago,-37,37,1600,1689,-6,13,60,37
+2001-06-17,Angola,Burundi,2,1,African Nations Cup qualifier,Angola,7,-7,1521,1340,2,0,69,121
+2001-06-17,Burkina Faso,Algeria,1,0,African Nations Cup qualifier,Burkina Faso,21,-21,1408,1483,6,-7,105,82
+2001-06-17,DR Congo,Zimbabwe,2,1,African Nations Cup qualifier,DR Congo,16,-16,1435,1437,4,-6,96,95
+2001-06-17,Ghana,Lesotho,3,1,African Nations Cup qualifier,Ghana,6,-6,1493,1201,4,-1,77,156
+2001-06-17,Ivory Coast,Egypt,2,2,African Nations Cup qualifier,Ivory Coast,-5,5,1646,1658,0,2,51,48
+2001-06-17,South Africa,Congo,0,0,African Nations Cup qualifier,South Africa,-17,17,1658,1383,-4,2,48,115
+2001-06-17,Sudan,Libya,1,0,African Nations Cup qualifier,Sudan,16,-16,1391,1387,6,-5,109,111
+2001-06-17,Togo,Senegal,1,0,African Nations Cup qualifier,Togo,17,-17,1492,1510,5,-5,78,73
+2001-06-17,Tunisia,Kenya,4,1,African Nations Cup qualifier,Tunisia,9,-9,1636,1383,1,-6,54,115
+2001-06-20,Costa Rica,Jamaica,2,1,World Cup qualifier,Costa Rica,13,-13,1647,1589,4,-2,51,61
+2001-06-20,Honduras,Mexico,3,1,World Cup qualifier,Honduras,21,-21,1710,1660,3,-5,34,47
+2001-06-20,New Zealand,Australia,0,2,World Cup qualifier,New Zealand,-13,13,1514,1861,-2,2,70,13
+2001-06-20,United States,Trinidad and Tobago,2,0,World Cup qualifier,the United States,8,-8,1835,1592,1,0,19,60
+2001-06-21,Malaysia,Bahrain,2,4,Independence Tournament,Malaysia,-24,24,1279,1410,-7,7,138,105
+2001-06-22,Uzbekistan,Thailand,1,0,Independence Tournament,Malaysia,16,-16,1504,1495,5,-5,74,76
+2001-06-23,Bermuda,Trinidad and Tobago,0,5,Friendly,Bermuda,-10,10,1281,1602,-3,1,136,59
+2001-06-23,Bosnia and Herzegovina,Bahrain,1,0,Independence Tournament,Malaysia,9,-9,1567,1401,1,-3,64,108
+2001-06-24,Australia,New Zealand,4,1,World Cup qualifier,Australia,5,-5,1866,1509,1,-2,12,72
+2001-06-24,Belize,Cuba,3,2,Friendly,Belize,16,-16,1115,1425,4,-4,170,97
+2001-06-24,Lesotho,Zambia,1,2,COSAFA Cup,Lesotho,-12,12,1189,1457,-1,2,157,88
+2001-06-24,Thailand,India,2,0,Independence Tournament,Malaysia,5,-5,1500,1130,1,-1,75,167
+2001-06-25,Malaysia,Bosnia and Herzegovina,2,2,Independence Tournament,Malaysia,7,-7,1286,1560,4,0,134,64
+2001-06-26,Uzbekistan,India,2,1,Independence Tournament,Malaysia,3,-3,1507,1127,1,0,73,167
+2001-06-28,Paraguay,Yugoslavia,2,0,Kirin Cup,Japan,22,-22,1887,1836,2,-4,11,18
+2001-06-28,Uzbekistan,Bahrain,2,0,Independence Tournament,Malaysia,16,-16,1523,1385,5,-4,68,112
+2001-06-29,Libya,Angola,1,1,World Cup qualifier,Libya,2,-2,1389,1519,0,-1,111,70
+2001-06-30,Greenland,Tibet,4,1,Friendly,Denmark,5,-5,1001,680,0,0,188,216
+2001-06-30,Morocco,Egypt,1,0,World Cup qualifier,Morocco,14,-14,1681,1644,3,-6,42,54
+2001-06-30,Namibia,Algeria,0,4,World Cup qualifier,Namibia,-31,31,1290,1514,-7,11,132,71
+2001-06-30,Trinidad and Tobago,Jamaica,1,2,World Cup qualifier,Trinidad and Tobago,-26,26,1576,1615,-4,5,63,56
+2001-06-30,Uzbekistan,Bosnia and Herzegovina,2,1,Independence Tournament,Malaysia,17,-17,1540,1543,1,-2,67,66
+2001-07-01,Burkina Faso,South Africa,1,1,World Cup qualifier,Burkina Faso,8,-8,1416,1650,2,-3,103,51
+2001-07-01,Cameroon,Togo,2,0,World Cup qualifier,Cameroon,8,-8,1718,1484,0,-1,34,81
+2001-07-01,Honduras,Costa Rica,2,3,World Cup qualifier,Honduras,-29,29,1681,1676,-8,6,42,44
+2001-07-01,Ivory Coast,Madagascar,6,0,World Cup qualifier,Ivory Coast,7,-7,1653,1325,1,-1,50,124
+2001-07-01,Japan,Paraguay,2,0,Kirin Cup,Japan,20,-20,1851,1867,5,-1,15,12
+2001-07-01,Liberia,Ghana,1,2,World Cup qualifier,Liberia,-27,27,1484,1520,-9,10,81,69
+2001-07-01,Malawi,Swaziland,2,2,Independence Tournament,Malawi,-6,6,1244,1196,-2,0,146,156
+2001-07-01,Mexico,United States,1,0,World Cup qualifier,Mexico,24,-24,1684,1811,6,-2,41,21
+2001-07-01,Sudan,Nigeria,0,4,World Cup qualifier,Sudan,-19,19,1372,1702,-7,6,116,35
+2001-07-01,Tunisia,Congo,6,0,World Cup qualifier,Tunisia,10,-10,1646,1373,3,0,52,115
+2001-07-01,Uruguay,Brazil,1,0,World Cup qualifier,Uruguay,23,-23,1794,1894,2,-2,25,9
+2001-07-02,Ecuador,El Salvador,1,0,Friendly,the United States,3,-3,1778,1492,0,0,27,78
+2001-07-03,Latvia,Estonia,3,1,Baltic Cup,Latvia,16,-16,1409,1369,2,-5,106,116
+2001-07-04,Japan,Yugoslavia,1,0,Kirin Cup,Japan,10,-10,1861,1826,1,0,14,19
+2001-07-04,Lithuania,Estonia,5,2,Baltic Cup,Latvia,23,-23,1439,1346,9,-4,94,120
+2001-07-05,Latvia,Lithuania,4,1,Baltic Cup,Latvia,21,-21,1430,1418,9,-9,97,103
+2001-07-06,Malawi,Zambia,1,0,Independence Tournament,Malawi,20,-20,1264,1437,6,-5,140,93
+2001-07-07,Ecuador,Honduras,1,1,Friendly,the United States,-3,3,1775,1684,0,1,27,41
+2001-07-07,Gambia,Burkina Faso,1,0,West African Nations Cup qualifier,The Gambia,21,-21,1328,1395,4,-3,124,108
+2001-07-08,Zimbabwe,Swaziland,2,1,COSAFA Cup,Zimbabwe,5,-5,1442,1191,1,0,92,156
+2001-07-10,Singapore,Saudi Arabia,0,3,Friendly,Singapore,-4,4,1242,1698,-1,0,146,36
+2001-07-11,Chile,Ecuador,4,1,Copa America,Colombia,59,-59,1705,1716,17,-7,35,34
+2001-07-11,Colombia,Venezuela,2,0,Copa America,Colombia,5,-5,1788,1414,0,-3,26,105
+2001-07-12,Greenland,Falkland Islands,4,0,Island Games,the United Kingdom,7,-7,1008,593,1,0,187,223
+2001-07-12,Mexico,Brazil,1,0,Copa America,Colombia,39,-39,1723,1855,10,-5,32,14
+2001-07-12,Paraguay,Peru,3,3,Copa America,Colombia,-12,12,1855,1700,-2,1,14,38
+2001-07-13,Costa Rica,Honduras,1,0,Copa America,Colombia,26,-26,1702,1658,8,-6,37,49
+2001-07-13,Egypt,Namibia,8,2,World Cup qualifier,Egypt,6,-6,1650,1284,3,-2,52,134
+2001-07-13,Uruguay,Bolivia,1,0,Copa America,Colombia,12,-12,1806,1586,2,-1,23,61
+2001-07-14,Chile,Venezuela,1,0,Copa America,Colombia,8,-8,1713,1406,2,0,34,105
+2001-07-14,Colombia,Ecuador,1,0,Copa America,Colombia,14,-14,1802,1702,1,-1,25,36
+2001-07-14,Monaco,Tibet,2,1,Friendly,Germany,4,-4,904,676,0,-2,195,218
+2001-07-14,Senegal,Morocco,1,0,World Cup qualifier,Senegal,24,-24,1534,1657,5,-5,68,49
+2001-07-14,Sierra Leone,Liberia,0,1,World Cup qualifier,Sierra Leone,-17,17,1313,1501,-3,5,126,76
+2001-07-14,South Africa,Malawi,2,0,World Cup qualifier,South Africa,3,-3,1653,1261,1,-2,51,142
+2001-07-14,Zambia,Cameroon,2,2,World Cup qualifier,Zambia,10,-10,1447,1708,4,-1,90,35
+2001-07-15,Brazil,Peru,2,0,Copa America,Colombia,22,-22,1877,1678,3,-4,11,43
+2001-07-15,Congo,Ivory Coast,1,1,World Cup qualifier,Congo,10,-10,1383,1643,3,-4,111,55
+2001-07-15,DR Congo,Tunisia,0,3,World Cup qualifier,DR Congo,-24,24,1411,1670,-9,7,104,47
+2001-07-15,Ghana,Sudan,1,0,World Cup qualifier,Ghana,8,-8,1528,1364,0,-1,70,116
+2001-07-15,Mexico,Paraguay,0,0,Copa America,Colombia,9,-9,1732,1846,3,-1,29,15
+2001-07-15,Togo,Libya,2,0,World Cup qualifier,Togo,15,-15,1499,1374,3,-4,79,114
+2001-07-15,Zimbabwe,Burkina Faso,1,0,World Cup qualifier,Zimbabwe,12,-12,1454,1383,4,-3,89,111
+2001-07-16,Costa Rica,Uruguay,1,1,Copa America,Colombia,7,-7,1709,1799,1,-2,35,25
+2001-07-16,Honduras,Bolivia,2,0,Copa America,Colombia,30,-30,1688,1556,8,-3,41,64
+2001-07-17,Colombia,Chile,2,0,Copa America,Colombia,19,-19,1821,1694,3,-5,21,39
+2001-07-17,Ecuador,Venezuela,4,0,Copa America,Colombia,14,-14,1716,1392,3,-2,34,107
+2001-07-18,Brazil,Paraguay,3,1,Copa America,Colombia,34,-34,1911,1812,3,-6,8,21
+2001-07-18,Peru,Mexico,1,0,Copa America,Colombia,29,-29,1707,1703,8,-8,36,37
+2001-07-19,Costa Rica,Bolivia,4,0,Copa America,Colombia,27,-27,1736,1529,5,-4,29,68
+2001-07-19,Honduras,Uruguay,1,0,Copa America,Colombia,33,-33,1721,1766,9,-1,33,26
+2001-07-19,Malaysia,Saudi Arabia,0,4,Friendly,Malaysia,-5,5,1281,1703,-3,1,136,38
+2001-07-20,Cuba,Jamaica,0,0,Friendly,Cuba,3,-3,1428,1612,0,0,97,56
+2001-07-21,Algeria,Egypt,1,1,World Cup qualifier,Algeria,2,-2,1516,1648,0,1,73,52
+2001-07-21,Malawi,South Africa,1,0,COSAFA Cup,Malawi,34,-34,1295,1619,11,-3,131,55
+2001-07-21,Namibia,Senegal,0,5,World Cup qualifier,Namibia,-24,24,1260,1558,-9,3,142,64
+2001-07-22,Bosnia and Herzegovina,Iran,2,2,Friendly,Bosnia and Herzegovina,2,-2,1545,1723,0,-1,66,32
+2001-07-22,Mexico,Chile,2,0,Copa America,Colombia,37,-37,1740,1657,9,-8,29,49
+2001-07-22,Uruguay,Costa Rica,2,1,Copa America,Colombia,23,-23,1789,1713,0,-7,26,36
+2001-07-23,Colombia,Peru,3,0,Copa America,Colombia,20,-20,1841,1687,2,-5,18,43
+2001-07-23,Honduras,Brazil,2,0,Copa America,Colombia,56,-56,1777,1855,6,-6,27,14
+2001-07-23,Saudi Arabia,North Korea,1,0,Friendly,Malaysia,4,-4,1707,1457,1,0,38,87
+2001-07-24,Qatar,Macedonia,1,0,Friendly,France,9,-9,1569,1511,0,-2,63,73
+2001-07-25,Mexico,Uruguay,2,1,Copa America,Colombia,29,-29,1769,1760,3,-2,27,28
+2001-07-26,Colombia,Honduras,2,0,Copa America,Colombia,21,-21,1862,1756,6,-2,12,28
+2001-07-27,Jamaica,Martinique,0,0,Friendly tournament,Saint Kitts and Nevis,-8,8,1604,1423,-3,4,59,99
+2001-07-27,Libya,Zambia,2,4,World Cup qualifier,Libya,-32,32,1342,1479,-6,8,120,83
+2001-07-28,Honduras,Uruguay,2,2,Copa America,Colombia,0,0,1756,1760,0,0,28,27
+2001-07-28,Malawi,Zimbabwe,0,1,World Cup qualifier,Malawi,-17,17,1278,1471,-7,5,138,85
+2001-07-28,Saint Kitts and Nevis,Martinique,4,2,Friendly tournament,Saint Kitts and Nevis,24,-24,1323,1399,5,-7,125,106
+2001-07-29,Angola,Togo,1,1,World Cup qualifier,Angola,-7,7,1512,1506,-1,4,72,75
+2001-07-29,Colombia,Mexico,1,0,Copa America,Colombia,12,-12,1874,1757,1,-1,11,27
+2001-07-29,Ivory Coast,DR Congo,1,2,World Cup qualifier,Ivory Coast,-35,35,1608,1446,-1,11,55,92
+2001-07-29,Madagascar,Congo,1,0,World Cup qualifier,Madagascar,18,-18,1343,1365,4,-4,120,115
+2001-07-29,Nigeria,Ghana,3,0,World Cup qualifier,Nigeria,12,-12,1714,1516,3,0,36,70
+2001-07-29,Oman,Iraq,1,0,Friendly,Oman,13,-13,1398,1592,2,-2,107,59
+2001-07-29,Panama,Cuba,0,0,CONCACAF Championship qualifier,Panama,-5,5,1412,1433,-1,0,103,97
+2001-07-29,Sudan,Sierra Leone,3,0,World Cup qualifier,Sudan,21,-21,1385,1292,5,-3,110,130
+2001-07-30,Saint Kitts and Nevis,Jamaica,0,0,Friendly tournament,Saint Kitts and Nevis,7,-7,1330,1597,1,0,124,58
+2001-08-01,Grenada,Jamaica,2,0,Friendly,Grenada,23,-23,1305,1574,4,-5,129,63
+2001-08-01,Qatar,Iran,2,1,Friendly,Qatar,12,-12,1581,1711,3,-4,60,37
+2001-08-01,Saudi Arabia,Macedonia,1,1,Friendly,Saudi Arabia,-7,7,1700,1518,0,3,39,70
+2001-08-02,United Arab Emirates,Iraq,2,2,Friendly,the United Arab Emirates,1,-1,1463,1591,1,0,87,58
+2001-08-03,China,North Korea,2,2,Friendly tournament,China,-11,11,1677,1468,-2,3,43,86
+2001-08-03,Kuwait,Trinidad and Tobago,1,1,Friendly tournament,China,0,0,1587,1576,0,0,59,62
+2001-08-04,Colombia,Liberia,2,1,Friendly,the United States,2,-2,1876,1499,0,-2,11,79
+2001-08-05,China,Trinidad and Tobago,3,0,Friendly tournament,China,13,-13,1690,1563,3,-1,40,63
+2001-08-05,Cuba,Panama,1,0,CONCACAF Championship qualifier,Cuba,13,-13,1446,1399,5,-2,92,105
+2001-08-05,Kuwait,North Korea,1,1,Friendly tournament,China,-5,5,1582,1473,-1,1,60,85
+2001-08-05,Saudi Arabia,Qatar,1,2,Friendly,Saudi Arabia,-16,16,1684,1597,-4,2,43,58
+2001-08-08,Iran,Oman,5,2,LG Cup,Iran,4,-4,1715,1394,2,0,35,107
+2001-08-08,Saudi Arabia,United Arab Emirates,1,0,Friendly,Qatar,4,-4,1688,1459,2,-1,41,89
+2001-08-09,Brazil,Panama,5,0,Friendly,Brazil,2,-2,1857,1397,1,-1,14,106
+2001-08-10,Iran,Bosnia and Herzegovina,4,0,LG Cup,Iran,10,-10,1725,1535,3,-1,32,67
+2001-08-10,Qatar,Bahrain,1,1,Friendly,Qatar,-7,7,1590,1392,-1,2,59,108
+2001-08-13,Singapore,Thailand,0,5,Friendly,Singapore,-11,11,1231,1511,-4,3,150,74
+2001-08-14,Chile,Bolivia,2,2,World Cup qualifier,Chile,-12,12,1645,1541,-3,2,52,66
+2001-08-14,Venezuela,Uruguay,2,0,World Cup qualifier,Venezuela,49,-49,1441,1711,12,-11,96,37
+2001-08-15,Austria,Switzerland,1,2,Friendly,Austria,-14,14,1711,1688,-4,4,35,41
+2001-08-15,Bosnia and Herzegovina,Malta,2,0,Friendly,Bosnia and Herzegovina,2,-2,1537,1207,0,0,68,154
+2001-08-15,Brazil,Paraguay,2,0,World Cup qualifier,Brazil,18,-18,1875,1794,1,-3,13,24
+2001-08-15,Bulgaria,Macedonia,1,0,Friendly,Bulgaria,3,-3,1723,1515,1,-2,32,72
+2001-08-15,Czechia,South Korea,5,0,Friendly,Czechia,11,-11,1892,1800,0,-1,10,23
+2001-08-15,Ecuador,Argentina,0,2,World Cup qualifier,Ecuador,-15,15,1701,2029,-4,0,38,3
+2001-08-15,England,Netherlands,0,2,Friendly,England,-16,16,1900,2018,-1,0,8,4
+2001-08-15,Estonia,Cyprus,2,2,World Cup qualifier,Estonia,3,-3,1349,1502,0,0,119,77
+2001-08-15,Finland,Belgium,4,1,Friendly,Finland,20,-20,1665,1777,3,0,49,25
+2001-08-15,France,Denmark,1,0,Friendly,France,2,-2,2133,1821,0,0,1,20
+2001-08-15,Hungary,Germany,2,5,Friendly,Hungary,-10,10,1645,1921,-2,1,52,7
+2001-08-15,Iceland,Poland,1,1,Friendly,Iceland,3,-3,1611,1801,0,2,55,22
+2001-08-15,Ireland,Croatia,2,2,Friendly,Ireland,-1,1,1843,1893,1,0,15,9
+2001-08-15,Japan,Australia,3,0,AFC-OFC Challenge Cup,Japan,26,-26,1887,1840,2,-5,11,17
+2001-08-15,Latvia,Ukraine,0,1,Friendly,Latvia,-6,6,1424,1673,0,1,99,47
+2001-08-15,Lithuania,Israel,2,3,Friendly,Lithuania,-6,6,1412,1678,0,1,103,45
+2001-08-15,Luxembourg,Georgia,0,3,Friendly,Luxembourg,-5,5,1130,1534,0,0,166,69
+2001-08-15,Norway,Turkey,1,1,Friendly,Norway,-4,4,1752,1733,-1,-1,28,31
+2001-08-15,Portugal,Moldova,3,0,Friendly,Portugal,1,-1,2002,1404,0,0,5,104
+2001-08-15,Russia,Greece,0,0,Friendly,Russia,-6,6,1838,1682,-2,0,18,44
+2001-08-15,Slovakia,Iran,3,4,Friendly,Slovakia,-12,12,1676,1737,-5,1,46,30
+2001-08-15,Slovenia,Romania,2,2,Friendly,Slovenia,1,-1,1693,1843,0,1,39,15
+2001-08-15,Sweden,South Africa,3,0,Friendly,Sweden,4,-4,1860,1615,1,0,14,54
+2001-08-15,Yugoslavia,Faroe Islands,2,0,World Cup qualifier,Yugoslavia,1,-1,1827,1239,0,0,19,146
+2001-08-16,Colombia,Peru,0,1,World Cup qualifier,Colombia,-34,34,1842,1721,-4,10,16,33
+2001-08-16,Qatar,Oman,0,0,World Cup qualifier,Qatar,-14,14,1576,1408,-2,4,61,104
+2001-08-17,Iraq,Thailand,4,0,World Cup qualifier,Iraq,20,-20,1611,1491,3,-7,55,81
+2001-08-17,Saudi Arabia,Bahrain,1,1,World Cup qualifier,Saudi Arabia,-16,16,1672,1408,-5,5,47,104
+2001-08-17,United Arab Emirates,Uzbekistan,4,1,World Cup qualifier,the United Arab Emirates,33,-33,1492,1507,10,-7,79,74
+2001-08-18,Zambia,Angola,1,1,COSAFA Cup,Zambia,-4,4,1475,1516,-1,3,85,69
+2001-08-23,Bahrain,Iraq,2,0,World Cup qualifier,Bahrain,39,-39,1447,1572,12,-7,92,62
+2001-08-23,Mexico,Liberia,5,4,Friendly,Mexico,2,-2,1759,1497,0,0,26,78
+2001-08-24,Iran,Saudi Arabia,2,0,World Cup qualifier,Iran,17,-17,1754,1655,2,-3,28,50
+2001-08-25,China,United Arab Emirates,3,0,World Cup qualifier,China,11,-11,1701,1481,2,-5,39,84
+2001-08-25,Malawi,Zimbabwe,0,2,COSAFA Cup,Malawi,-22,22,1256,1493,-5,8,143,79
+2001-08-26,Uzbekistan,Qatar,2,1,World Cup qualifier,Uzbekistan,18,-18,1525,1558,5,-3,69,63
+2001-08-31,Oman,China,0,2,World Cup qualifier,Oman,-15,15,1393,1716,-4,5,109,34
+2001-08-31,Saudi Arabia,Iraq,1,0,World Cup qualifier,Bahrain,15,-15,1670,1557,3,-3,47,64
+2001-08-31,United Arab Emirates,Qatar,0,2,World Cup qualifier,the United Arab Emirates,-32,32,1449,1590,-7,5,91,58
+2001-09-01,Albania,Finland,0,2,World Cup qualifier,Albania,-24,24,1476,1689,-6,6,83,43
+2001-09-01,Belarus,Ukraine,0,2,World Cup qualifier,Belarus,-23,23,1465,1696,-5,4,87,42
+2001-09-01,Bosnia and Herzegovina,Israel,0,0,World Cup qualifier,Bosnia and Herzegovina,2,-2,1539,1676,0,-1,67,45
+2001-09-01,Chile,France,2,1,Friendly,Chile,18,-18,1663,2115,3,0,49,1
+2001-09-01,Denmark,Northern Ireland,1,1,World Cup qualifier,Denmark,-17,17,1804,1495,-1,5,21,79
+2001-09-01,Faroe Islands,Luxembourg,1,0,World Cup qualifier,the Faroe Islands,9,-9,1248,1121,1,-2,145,168
+2001-09-01,Georgia,Hungary,3,1,World Cup qualifier,Georgia,31,-31,1565,1614,6,-3,62,55
+2001-09-01,Germany,England,1,5,World Cup qualifier,Germany,-50,50,1871,1950,-4,1,11,7
+2001-09-01,Iceland,Czechia,3,1,World Cup qualifier,Iceland,44,-44,1655,1848,4,-4,51,14
+2001-09-01,Ireland,Netherlands,1,0,World Cup qualifier,Ireland,24,-24,1867,1994,1,-1,13,5
+2001-09-01,Lithuania,Italy,0,0,World Cup qualifier,Lithuania,18,-18,1430,2015,3,-1,101,3
+2001-09-01,Macedonia,Sweden,1,2,World Cup qualifier,Macedonia,-8,8,1507,1868,-1,1,74,12
+2001-09-01,Malta,Bulgaria,0,2,World Cup qualifier,Malta,-5,5,1202,1728,-1,-1,155,33
+2001-09-01,Moldova,Azerbaijan,2,0,World Cup qualifier,Moldova,15,-15,1419,1296,0,-2,105,130
+2001-09-01,Poland,Norway,3,0,World Cup qualifier,Poland,21,-21,1822,1731,3,-3,19,32
+2001-09-01,Portugal,Andorra,7,1,World Cup qualifier,Spain,0,0,2002,1051,1,0,4,183
+2001-09-01,Scotland,Croatia,0,0,World Cup qualifier,Scotland,3,-3,1749,1890,1,1,29,8
+2001-09-01,Slovakia,Turkey,0,1,World Cup qualifier,Slovakia,-22,22,1654,1755,-7,3,52,28
+2001-09-01,Slovenia,Russia,2,1,World Cup qualifier,Slovenia,23,-23,1716,1815,6,-2,35,20
+2001-09-01,Spain,Austria,4,0,World Cup qualifier,Spain,9,-9,1962,1702,0,-3,6,40
+2001-09-01,Switzerland,Yugoslavia,1,2,World Cup qualifier,Switzerland,-18,18,1670,1845,-4,4,46,15
+2001-09-01,Thailand,Iran,0,0,World Cup qualifier,Thailand,9,-9,1500,1745,4,-2,77,30
+2001-09-01,Trinidad and Tobago,Costa Rica,0,2,World Cup qualifier,Trinidad and Tobago,-26,26,1537,1739,-6,5,68,31
+2001-09-01,United States,Honduras,2,3,World Cup qualifier,the United States,-28,28,1783,1784,-4,3,25,24
+2001-09-01,Wales,Armenia,0,0,World Cup qualifier,Wales,-12,12,1544,1436,0,1,65,99
+2001-09-02,Jamaica,Mexico,1,2,World Cup qualifier,Jamaica,-15,15,1559,1774,-1,0,62,27
+2001-09-04,Chile,Venezuela,0,2,World Cup qualifier,Chile,-52,52,1611,1493,-6,17,55,80
+2001-09-04,Peru,Uruguay,0,2,World Cup qualifier,Peru,-39,39,1682,1750,-9,9,43,29
+2001-09-05,Argentina,Brazil,2,1,World Cup qualifier,Argentina,8,-8,2037,1867,0,-2,2,12
+2001-09-05,Austria,Bosnia and Herzegovina,2,0,World Cup qualifier,Austria,11,-11,1713,1528,1,-1,38,68
+2001-09-05,Azerbaijan,Macedonia,1,1,World Cup qualifier,Azerbaijan,6,-6,1302,1501,0,-3,130,77
+2001-09-05,Belarus,Poland,4,1,World Cup qualifier,Belarus,57,-57,1522,1765,17,-7,71,26
+2001-09-05,Belgium,Scotland,2,0,World Cup qualifier,Belgium,19,-19,1796,1730,3,-3,23,33
+2001-09-05,Bulgaria,Denmark,0,2,World Cup qualifier,Bulgaria,-32,32,1696,1836,-8,4,42,17
+2001-09-05,Colombia,Ecuador,0,0,World Cup qualifier,Colombia,-12,12,1830,1713,-2,2,19,38
+2001-09-05,Costa Rica,United States,2,0,World Cup qualifier,Costa Rica,25,-25,1764,1758,5,-3,27,28
+2001-09-05,Cyprus,Portugal,1,3,World Cup qualifier,Cyprus,-5,5,1497,2007,-3,0,79,4
+2001-09-05,Czechia,Malta,3,2,World Cup qualifier,Czechia,1,-1,1849,1201,-1,0,15,155
+2001-09-05,England,Albania,2,0,World Cup qualifier,England,2,-2,1952,1474,0,-2,7,86
+2001-09-05,Faroe Islands,Russia,0,3,World Cup qualifier,the Faroe Islands,-4,4,1244,1819,-1,0,146,20
+2001-09-05,Finland,Greece,5,1,World Cup qualifier,Finland,26,-26,1715,1656,6,-6,36,49
+2001-09-05,Georgia,Lithuania,2,0,World Cup qualifier,Georgia,12,-12,1577,1418,0,-3,61,104
+2001-09-05,Honduras,Jamaica,1,0,World Cup qualifier,Honduras,5,-5,1789,1554,0,-2,24,64
+2001-09-05,Hungary,Romania,0,2,World Cup qualifier,Hungary,-19,19,1595,1862,-3,2,57,14
+2001-09-05,Italy,Morocco,1,0,Friendly,Italy,1,-1,2016,1656,0,0,3,49
+2001-09-05,Liechtenstein,Spain,0,2,World Cup qualifier,Liechtenstein,-1,1,1057,1963,0,0,180,6
+2001-09-05,Luxembourg,Switzerland,0,3,World Cup qualifier,Luxembourg,-5,5,1116,1675,-1,1,169,45
+2001-09-05,Mexico,Trinidad and Tobago,3,0,World Cup qualifier,Mexico,9,-9,1783,1528,2,0,25,68
+2001-09-05,Netherlands,Estonia,5,0,World Cup qualifier,the Netherlands,1,-1,1995,1348,0,0,5,119
+2001-09-05,Norway,Wales,3,2,World Cup qualifier,Norway,6,-6,1737,1538,2,0,31,65
+2001-09-05,Northern Ireland,Iceland,3,0,World Cup qualifier,Northern Ireland,41,-41,1536,1614,13,-3,66,53
+2001-09-05,Paraguay,Bolivia,5,1,World Cup qualifier,Paraguay,9,-9,1803,1532,2,-1,21,67
+2001-09-05,San Marino,Croatia,0,4,World Cup qualifier,San Marino,-1,1,954,1891,0,0,191,8
+2001-09-05,Slovakia,Moldova,4,2,World Cup qualifier,Slovakia,8,-8,1662,1411,3,0,48,105
+2001-09-05,Turkey,Sweden,1,2,World Cup qualifier,Turkey,-19,19,1736,1887,-4,3,32,9
+2001-09-05,Ukraine,Armenia,3,0,World Cup qualifier,Ukraine,8,-8,1704,1428,0,-1,41,100
+2001-09-05,Yugoslavia,Slovenia,1,1,World Cup qualifier,Yugoslavia,-12,12,1833,1728,-3,1,18,34
+2001-09-06,Bahrain,Thailand,1,1,World Cup qualifier,Bahrain,-3,3,1444,1503,-2,1,95,77
+2001-09-07,Iraq,Iran,1,2,World Cup qualifier,Iraq,-15,15,1542,1760,-1,2,64,28
+2001-09-07,Qatar,China,1,1,World Cup qualifier,Qatar,1,-1,1591,1715,0,0,58,35
+2001-09-07,Saudi Arabia,United Arab Emirates,0,2,Friendly,Saudi Arabia,-26,26,1644,1475,-5,7,51,85
+2001-09-08,Uzbekistan,Oman,5,0,World Cup qualifier,Uzbekistan,17,-17,1542,1376,6,-4,64,113
+2001-09-13,South Korea,Nigeria,2,2,Friendly,South Korea,-5,5,1795,1719,-1,2,23,35
+2001-09-14,Iran,Bahrain,0,0,World Cup qualifier,Iran,-17,17,1743,1461,-2,4,30,91
+2001-09-14,Oman,United Arab Emirates,1,1,World Cup qualifier,Oman,0,0,1376,1475,0,0,113,85
+2001-09-14,Qatar,Iraq,0,0,Friendly,Qatar,-4,4,1587,1546,0,0,58,64
+2001-09-15,China,Uzbekistan,2,0,World Cup qualifier,China,10,-10,1725,1532,1,-2,35,67
+2001-09-15,Thailand,Saudi Arabia,1,3,World Cup qualifier,Thailand,-26,26,1477,1670,-7,5,84,46
+2001-09-16,Angola,Zimbabwe,0,0,COSAFA Cup,Angola,-7,7,1509,1500,-2,2,74,78
+2001-09-16,South Korea,Nigeria,2,1,Friendly,South Korea,5,-5,1800,1714,1,-1,22,37
+2001-09-21,Bahrain,Saudi Arabia,0,4,World Cup qualifier,Bahrain,-26,26,1435,1696,-7,4,98,42
+2001-09-21,Oman,Qatar,0,3,World Cup qualifier,Oman,-24,24,1352,1611,-4,4,117,54
+2001-09-22,Thailand,Iraq,1,1,World Cup qualifier,Thailand,-2,2,1475,1548,-1,0,85,64
+2001-09-22,Uzbekistan,United Arab Emirates,0,1,World Cup qualifier,Uzbekistan,-28,28,1504,1503,-9,8,76,77
+2001-09-27,United Arab Emirates,China,0,1,World Cup qualifier,the United Arab Emirates,-13,13,1490,1738,-6,4,83,31
+2001-09-28,Iraq,Bahrain,1,0,World Cup qualifier,Iraq,9,-9,1557,1426,1,-2,63,100
+2001-09-28,Qatar,Uzbekistan,2,2,World Cup qualifier,Qatar,-11,11,1600,1515,-3,3,57,73
+2001-09-28,Saudi Arabia,Iran,2,2,World Cup qualifier,Saudi Arabia,-3,3,1693,1746,-1,0,43,30
+2001-09-29,Thailand,Oman,2,0,Friendly,Thailand,7,-7,1482,1345,0,-2,85,119
+2001-09-30,Zimbabwe,Angola,0,1,COSAFA Cup,Zimbabwe,-25,25,1475,1534,-7,7,85,67
+2001-10-04,Qatar,United Arab Emirates,1,2,World Cup qualifier,Qatar,-31,31,1569,1521,-5,10,62,72
+2001-10-04,Senegal,Japan,2,0,Friendly,France,26,-26,1584,1861,4,-5,58,14
+2001-10-05,Bahrain,Qatar,1,0,Friendly,Bahrain,11,-11,1437,1558,2,0,98,62
+2001-10-05,Iran,Thailand,1,0,World Cup qualifier,Iran,4,-4,1750,1478,1,0,29,84
+2001-10-05,Saudi Arabia,Iraq,2,1,World Cup qualifier,Jordan,13,-13,1706,1544,2,-1,41,64
+2001-10-06,Armenia,Norway,1,4,World Cup qualifier,Armenia,-16,16,1412,1753,-4,3,104,29
+2001-10-06,Bolivia,Ecuador,1,5,World Cup qualifier,Bolivia,-29,29,1503,1742,-10,5,78,33
+2001-10-06,Croatia,Belgium,1,0,World Cup qualifier,Croatia,10,-10,1901,1786,0,-1,8,24
+2001-10-06,Czechia,Bulgaria,6,0,World Cup qualifier,Czechia,16,-16,1865,1680,3,0,12,43
+2001-10-06,Denmark,Iceland,6,0,World Cup qualifier,Denmark,12,-12,1848,1602,2,-3,15,56
+2001-10-06,England,Greece,2,2,World Cup qualifier,England,-16,16,1936,1672,0,4,7,45
+2001-10-06,France,Algeria,4,1,Friendly,France,1,-1,2116,1515,0,0,1,73
+2001-10-06,Germany,Finland,0,0,World Cup qualifier,Germany,-13,13,1858,1728,-4,-1,14,37
+2001-10-06,Ireland,Cyprus,4,0,World Cup qualifier,Ireland,5,-5,1872,1492,1,-2,10,81
+2001-10-06,Italy,Hungary,1,0,World Cup qualifier,Italy,2,-2,2018,1593,0,0,3,57
+2001-10-06,Malta,Northern Ireland,0,1,World Cup qualifier,Malta,-8,8,1193,1544,0,1,155,65
+2001-10-06,Moldova,Turkey,0,3,World Cup qualifier,Moldova,-15,15,1396,1751,-3,3,108,30
+2001-10-06,Netherlands,Andorra,4,0,World Cup qualifier,the Netherlands,0,0,1995,1051,0,0,5,183
+2001-10-06,Poland,Ukraine,1,1,World Cup qualifier,Poland,-9,9,1756,1713,-2,3,28,39
+2001-10-06,Portugal,Estonia,5,0,World Cup qualifier,Portugal,1,-1,2008,1347,0,0,4,118
+2001-10-06,Romania,Georgia,1,1,World Cup qualifier,Romania,-16,16,1846,1593,-3,4,16,57
+2001-10-06,Russia,Switzerland,4,0,World Cup qualifier,Russia,15,-15,1834,1660,2,-2,18,48
+2001-10-06,Scotland,Latvia,2,1,World Cup qualifier,Scotland,4,-4,1734,1420,-1,0,35,101
+2001-10-06,Slovenia,Faroe Islands,3,0,World Cup qualifier,Slovenia,2,-2,1730,1242,-1,0,36,146
+2001-10-06,Venezuela,Peru,3,0,World Cup qualifier,Venezuela,44,-44,1537,1638,14,-7,67,51
+2001-10-06,Wales,Belarus,1,0,World Cup qualifier,Wales,14,-14,1552,1508,1,-5,64,76
+2001-10-06,Yugoslavia,Luxembourg,6,2,World Cup qualifier,Yugoslavia,1,-1,1834,1115,0,0,18,169
+2001-10-07,Bosnia and Herzegovina,Liechtenstein,5,0,World Cup qualifier,Bosnia and Herzegovina,3,-3,1531,1054,-1,-1,70,181
+2001-10-07,Brazil,Chile,2,0,World Cup qualifier,Brazil,7,-7,1874,1604,1,-2,10,55
+2001-10-07,China,Oman,1,0,World Cup qualifier,China,2,-2,1740,1343,0,0,34,119
+2001-10-07,Costa Rica,Mexico,0,0,World Cup qualifier,Costa Rica,-5,5,1759,1788,0,2,26,23
+2001-10-07,Honduras,Trinidad and Tobago,0,1,World Cup qualifier,Honduras,-36,36,1753,1564,-5,7,28,62
+2001-10-07,Japan,Nigeria,2,2,Friendly,England,-4,4,1857,1718,-1,0,14,38
+2001-10-07,Macedonia,Slovakia,0,5,World Cup qualifier,Macedonia,-33,33,1468,1695,-9,4,88,43
+2001-10-07,Paraguay,Argentina,2,2,World Cup qualifier,Paraguay,7,-7,1810,2030,0,0,21,2
+2001-10-07,Sweden,Azerbaijan,3,0,World Cup qualifier,Sweden,1,-1,1888,1301,0,0,9,130
+2001-10-07,Uruguay,Colombia,1,1,World Cup qualifier,Uruguay,-1,1,1749,1831,-1,0,32,20
+2001-10-07,United States,Jamaica,2,1,World Cup qualifier,the United States,6,-6,1764,1548,2,-2,25,65
+2001-10-12,Iran,Iraq,2,1,World Cup qualifier,Iran,6,-6,1756,1538,4,-1,27,67
+2001-10-12,Morocco,Gambia,2,0,Friendly tournament,Mali,6,-6,1662,1322,1,0,48,125
+2001-10-13,China,Qatar,3,0,World Cup qualifier,China,12,-12,1752,1546,3,-2,31,65
+2001-10-13,Oman,Uzbekistan,4,2,World Cup qualifier,Oman,36,-36,1379,1479,6,-9,113,82
+2001-10-13,Thailand,Bahrain,0,1,World Cup qualifier,Thailand,-28,28,1450,1465,-10,9,93,89
+2001-10-14,Mali,Morocco,2,1,Friendly tournament,Mali,20,-20,1463,1642,6,-2,90,50
+2001-10-16,Algeria,Burkina Faso,2,0,Friendly,Algeria,6,-6,1521,1377,2,-2,71,113
+2001-10-16,Thailand,Bahrain,1,1,World Cup qualifier,Thailand,-5,5,1445,1470,-2,2,96,87
+2001-10-18,Kuwait,Qatar,0,1,Friendly,Kuwait,-14,14,1568,1560,-1,2,61,63
+2001-10-19,United Arab Emirates,Oman,2,2,World Cup qualifier,the United Arab Emirates,-12,12,1509,1391,-2,3,73,109
+2001-10-19,Uzbekistan,China,1,0,World Cup qualifier,Uzbekistan,29,-29,1508,1723,7,-6,75,37
+2001-10-21,Bahamas,Haiti,0,2,Friendly,the Bahamas,-1,1,841,1457,0,0,206,92
+2001-10-21,Bahrain,Iran,3,1,World Cup qualifier,Bahrain,45,-45,1515,1711,14,-14,73,41
+2001-10-21,Saudi Arabia,Thailand,4,1,World Cup qualifier,Saudi Arabia,8,-8,1714,1437,4,-2,38,98
+2001-10-24,Kenya,Uganda,0,0,Castle Lager Cup,Tanzania,-1,1,1382,1358,0,0,112,117
+2001-10-24,Tanzania,DR Congo,2,2,Castle Lager Cup,Tanzania,5,-5,1231,1441,1,-2,150,96
+2001-10-25,Iran,United Arab Emirates,1,0,World Cup qualifier,Iran,6,-6,1717,1503,3,-4,38,78
+2001-10-27,Israel,Austria,1,1,World Cup qualifier,Israel,-4,4,1672,1717,0,2,45,38
+2001-10-27,Tanzania,Kenya,3,1,Castle Lager Cup,Tanzania,26,-26,1257,1356,8,-5,142,117
+2001-10-27,Uganda,DR Congo,1,0,Castle Lager Cup,Tanzania,19,-19,1377,1422,5,-3,112,99
+2001-10-31,Mexico,El Salvador,4,1,Friendly,Mexico,3,-3,1791,1489,0,0,23,81
+2001-10-31,United Arab Emirates,Iran,0,3,World Cup qualifier,the United Arab Emirates,-24,24,1479,1741,-5,5,83,33
+2001-11-03,Guinea-Bissau,Benin,7,2,Amilcar Cabral Cup,Mali,47,-47,1225,1190,7,-9,151,157
+2001-11-03,Mali,Mauritania,3,2,Amilcar Cabral Cup,Mali,4,-4,1467,1169,0,0,90,161
+2001-11-05,Benin,Mauritania,2,0,Amilcar Cabral Cup,Mali,28,-28,1218,1141,6,-3,151,164
+2001-11-05,Mali,Guinea-Bissau,2,0,Amilcar Cabral Cup,Mali,7,-7,1474,1218,4,0,86,151
+2001-11-07,Bolivia,Brazil,3,1,World Cup qualifier,Bolivia,50,-50,1553,1824,14,-10,64,20
+2001-11-07,Cape Verde,Gambia,1,1,Amilcar Cabral Cup,Mali,-2,2,1350,1324,0,0,118,125
+2001-11-07,Colombia,Chile,3,1,World Cup qualifier,Colombia,8,-8,1839,1596,3,-1,17,56
+2001-11-07,Ecuador,Uruguay,1,1,World Cup qualifier,Ecuador,-5,5,1737,1754,-1,3,33,28
+2001-11-07,Guinea-Bissau,Mauritania,1,0,Amilcar Cabral Cup,Mali,16,-16,1234,1125,1,-3,150,167
+2001-11-07,Japan,Italy,1,1,Friendly,Japan,2,-2,1859,2016,2,0,12,3
+2001-11-07,Mali,Benin,0,0,Amilcar Cabral Cup,Mali,-15,15,1459,1233,-5,0,91,151
+2001-11-08,Argentina,Peru,2,0,World Cup qualifier,Argentina,3,-3,2033,1635,0,0,2,51
+2001-11-08,South Korea,Senegal,0,1,Friendly,South Korea,-17,17,1783,1601,-1,3,23,56
+2001-11-08,Venezuela,Paraguay,3,1,World Cup qualifier,Venezuela,44,-44,1581,1766,9,-3,60,24
+2001-11-09,Mali,Gambia,0,1,Amilcar Cabral Cup,Mali,-32,32,1427,1356,-7,8,98,117
+2001-11-10,Austria,Turkey,0,1,World Cup qualifier,Austria,-24,24,1693,1775,-4,7,43,24
+2001-11-10,Belgium,Czechia,1,0,World Cup qualifier,Belgium,19,-19,1805,1846,1,-3,21,14
+2001-11-10,Denmark,Netherlands,1,1,Friendly,Denmark,1,-1,1849,1994,1,0,13,5
+2001-11-10,England,Sweden,1,1,Friendly,England,-4,4,1932,1892,0,1,7,8
+2001-11-10,Greece,Estonia,4,2,Friendly,Greece,2,-2,1674,1345,0,0,45,120
+2001-11-10,Ireland,Iran,2,0,World Cup qualifier,Ireland,13,-13,1885,1728,1,-3,9,35
+2001-11-10,Slovenia,Romania,2,1,World Cup qualifier,Slovenia,21,-21,1751,1825,3,-4,32,19
+2001-11-10,South Africa,Egypt,1,0,Friendly,South Africa,8,-8,1623,1640,0,-1,52,50
+2001-11-10,South Korea,Croatia,2,0,Friendly,South Korea,16,-16,1799,1885,1,-1,22,9
+2001-11-10,Ukraine,Germany,1,1,World Cup qualifier,Ukraine,3,-3,1716,1855,2,1,39,12
+2001-11-11,Australia,France,1,1,Friendly,Australia,5,-5,1845,2111,0,0,15,1
+2001-11-11,Jamaica,Costa Rica,0,1,World Cup qualifier,Jamaica,-14,14,1534,1773,-2,2,69,25
+2001-11-11,Mali,Guinea-Bissau,2,1,Amilcar Cabral Cup,Mali,6,-6,1433,1228,0,-2,98,152
+2001-11-11,Mexico,Honduras,3,0,World Cup qualifier,Mexico,22,-22,1813,1731,2,-4,21,34
+2001-11-11,Trinidad and Tobago,United States,0,0,World Cup qualifier,Trinidad and Tobago,6,-6,1570,1758,1,-1,62,27
+2001-11-13,South Korea,Croatia,1,1,Friendly,South Korea,0,0,1799,1885,0,0,23,9
+2001-11-14,Brazil,Venezuela,3,0,World Cup qualifier,Brazil,9,-9,1833,1572,2,-1,18,61
+2001-11-14,Chile,Ecuador,0,0,World Cup qualifier,Chile,2,-2,1598,1735,0,1,57,31
+2001-11-14,Czechia,Belgium,0,1,World Cup qualifier,Czechia,-28,28,1818,1833,-6,4,20,18
+2001-11-14,Estonia,Kazakhstan,0,0,Friendly,Estonia,1,-1,1346,1462,0,1,120,89
+2001-11-14,Germany,Ukraine,4,1,World Cup qualifier,Germany,14,-14,1869,1702,0,-2,12,41
+2001-11-14,Greece,Cyprus,1,2,Friendly,Greece,-17,17,1657,1509,-3,5,48,75
+2001-11-14,Hungary,Macedonia,5,0,Friendly,Hungary,9,-9,1602,1459,4,-2,54,90
+2001-11-14,Latvia,Russia,1,3,Friendly,Latvia,-4,4,1416,1838,-2,1,103,16
+2001-11-14,Malta,Canada,2,1,Friendly,Malta,17,-17,1210,1588,1,-5,155,59
+2001-11-14,Morocco,Zambia,1,0,Friendly,Morocco,4,-4,1646,1471,0,-3,49,87
+2001-11-14,Paraguay,Colombia,0,4,World Cup qualifier,Paraguay,-40,40,1726,1879,-10,5,36,11
+2001-11-14,Peru,Bolivia,1,1,World Cup qualifier,Peru,-10,10,1625,1563,0,1,51,64
+2001-11-14,Poland,Cameroon,0,0,Friendly,Poland,-4,4,1752,1712,-2,1,30,40
+2001-11-14,Portugal,Angola,5,1,Friendly,Portugal,1,-1,2009,1533,0,-1,4,70
+2001-11-14,Romania,Slovenia,1,1,World Cup qualifier,Romania,-9,9,1816,1760,-2,4,21,27
+2001-11-14,Spain,Mexico,1,0,Friendly,Spain,4,-4,1967,1809,0,-1,6,22
+2001-11-14,Turkey,Austria,5,0,World Cup qualifier,Turkey,21,-21,1796,1672,0,-1,24,44
+2001-11-14,Uruguay,Argentina,1,1,World Cup qualifier,Uruguay,9,-9,1763,2024,3,0,26,2
+2001-11-15,Iran,Ireland,1,0,World Cup qualifier,Iran,23,-23,1751,1862,3,-3,31,12
+2001-11-20,Australia,Uruguay,1,0,World Cup qualifier,Australia,10,-10,1855,1753,1,-2,14,28
+2001-11-21,Ethiopia,Zambia,1,2,Friendly,Ethiopia,-10,10,1357,1481,-2,4,116,83
+2001-11-25,Uruguay,Australia,3,0,World Cup qualifier,Uruguay,35,-35,1788,1820,3,-5,25,19
+2001-11-28,Tunisia,Togo,1,0,Friendly,Tunisia,4,-4,1674,1502,2,0,44,79
+2001-11-29,Oman,Kuwait,1,1,Friendly,Oman,2,-2,1393,1566,0,0,109,63
+2001-12-05,Algeria,Ghana,1,1,Friendly,Algeria,-3,3,1518,1519,-1,1,73,72
+2001-12-05,Mali,Ivory Coast,0,3,Friendly,Mali,-14,14,1419,1622,-3,0,101,53
+2001-12-08,Rwanda,Somalia,3,0,CECAFA Cup,Rwanda,9,-9,1322,1062,1,0,126,179
+2001-12-09,South Korea,United States,1,0,Friendly,South Korea,6,-6,1805,1752,0,-1,23,29
+2001-12-09,Tanzania,Burundi,2,1,CECAFA Cup,Rwanda,25,-25,1282,1315,8,-4,134,127
+2001-12-09,Uganda,Djibouti,10,1,CECAFA Cup,Rwanda,6,-6,1383,877,0,-1,112,202
+2001-12-10,Kenya,Eritrea,2,1,CECAFA Cup,Rwanda,12,-12,1368,1195,3,0,114,156
+2001-12-11,Burundi,Djibouti,3,1,CECAFA Cup,Rwanda,4,-4,1319,873,1,-1,126,203
+2001-12-11,Tanzania,Uganda,1,0,CECAFA Cup,Rwanda,26,-26,1308,1357,6,-4,128,116
+2001-12-12,Kenya,Somalia,3,0,CECAFA Cup,Rwanda,10,-10,1378,1052,1,-3,112,182
+2001-12-12,Morocco,Mali,1,1,Friendly,Morocco,-7,7,1639,1426,-1,3,50,98
+2001-12-12,Rwanda,Eritrea,1,0,CECAFA Cup,Rwanda,9,-9,1331,1186,1,-2,124,158
+2001-12-13,Bahrain,Oman,2,2,Friendly,Bahrain,-6,6,1509,1399,0,3,74,106
+2001-12-13,Ethiopia,Zanzibar,5,0,CECAFA Cup,Rwanda,21,-21,1378,1157,4,-3,112,162
+2001-12-13,Tanzania,Djibouti,4,1,CECAFA Cup,Rwanda,5,-5,1313,868,0,-1,128,204
+2001-12-14,Burundi,Uganda,2,0,CECAFA Cup,Rwanda,33,-33,1352,1324,8,-9,118,126
+2001-12-14,Eritrea,Somalia,0,0,CECAFA Cup,Rwanda,-7,7,1179,1059,0,3,158,179
+2001-12-15,Botswana,Namibia,3,2,Friendly tournament,Botswana,18,-18,1104,1242,6,-4,171,146
+2001-12-15,El Salvador,Haiti,0,0,Friendly,the United States,-1,1,1488,1458,0,0,81,91
+2001-12-15,Rwanda,Kenya,0,0,CECAFA Cup,Rwanda,-3,3,1328,1381,-1,0,125,112
+2001-12-16,Botswana,Lesotho,1,0,Friendly tournament,Botswana,14,-14,1118,1175,3,-2,168,159
+2001-12-16,Burkina Faso,Togo,1,2,Friendly,Burkina Faso,-9,9,1368,1511,0,5,114,74
+2001-12-17,Kenya,Eritrea,1,0,CECAFA Cup,Rwanda,10,-10,1391,1169,2,-2,110,159
+2001-12-18,Burundi,Ethiopia,2,2,CECAFA Cup,Rwanda,1,-1,1353,1377,0,0,118,113
+2001-12-18,Rwanda,Uganda,3,2,CECAFA Cup,Rwanda,14,-14,1342,1310,3,-2,122,128
+2001-12-20,Rwanda,Ethiopia,0,1,CECAFA Cup,Rwanda,-24,24,1318,1401,-3,7,125,106
+2001-12-22,Ethiopia,Kenya,2,1,CECAFA Cup,Rwanda,19,-19,1420,1372,5,-2,101,113
+2001-12-22,Togo,Burkina Faso,1,0,Friendly,Togo,4,-4,1515,1364,0,-1,74,115
+2001-12-23,Oman,Syria,2,0,Friendly,Oman,14,-14,1413,1454,2,-3,105,91
+2001-12-25,Mali,Ghana,1,1,Friendly,Mali,0,0,1426,1519,0,0,98,72
+2001-12-25,Oman,Syria,1,0,Friendly,Oman,8,-8,1421,1446,5,-1,100,92
+2001-12-26,Senegal,Burkina Faso,2,4,Friendly,Senegal,-26,26,1575,1390,-4,3,60,112
+2001-12-28,Mali,Burkina Faso,2,1,Friendly,Mali,6,-6,1432,1384,0,-1,98,113
+2001-12-29,Kuwait,Syria,0,0,Friendly,Kuwait,-6,6,1560,1452,-1,0,64,92
+2001-12-30,Benin,Togo,1,1,Friendly,Benin,5,-5,1238,1510,2,0,148,74
+2001-12-30,Oman,Macedonia,2,0,Friendly,Oman,12,-12,1433,1447,2,-3,98,92
+2001-12-30,Qatar,Egypt,2,2,Friendly,Qatar,-1,1,1559,1641,-1,0,65,49
+2001-12-30,Saudi Arabia,Zimbabwe,0,2,Friendly,Saudi Arabia,-26,26,1688,1501,-3,5,42,80
+2001-12-30,Senegal,Algeria,1,0,Friendly,Senegal,6,-6,1581,1512,1,0,59,73
+2001-12-30,Tunisia,Liberia,7,2,Friendly,Tunisia,7,-7,1681,1490,1,-1,43,81
+2001-12-31,Kuwait,Syria,2,2,Friendly,Kuwait,-5,5,1555,1457,-1,1,65,90
