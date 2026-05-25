@@ -1,0 +1,1115 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2008-01-02,Kuwait,Lebanon,3,2,Friendly,Kuwait,5,-5,1452,1332,3,-3,94,123
+2008-01-05,Egypt,Namibia,3,0,Friendly,Egypt,2,-2,1701,1275,0,-1,40,135
+2008-01-06,Tunisia,Zambia,1,2,Friendly,Tunisia,-15,15,1618,1578,-3,5,57,62
+2008-01-08,Tunisia,Zambia,1,0,Friendly,Tunisia,6,-6,1624,1572,0,-1,57,63
+2008-01-09,Nigeria,Sudan,2,0,Friendly,Spain,3,-3,1753,1387,1,-1,33,109
+2008-01-10,Egypt,Mali,1,0,Friendly,the United Arab Emirates,6,-6,1707,1564,0,-2,40,67
+2008-01-10,Qatar,Iran,0,0,Friendly,Qatar,6,-6,1474,1782,1,0,89,24
+2008-01-10,United Arab Emirates,China,0,0,Dubai Challenge,the United Arab Emirates,2,-2,1438,1572,0,0,100,62
+2008-01-11,Guinea,Sudan,6,0,Friendly,Spain,9,-9,1620,1378,0,-2,58,111
+2008-01-12,Kuwait,Ivory Coast,0,2,Friendly,Kuwait,-7,7,1445,1763,-4,3,98,29
+2008-01-12,Morocco,Zambia,2,0,Friendly,Morocco,7,-7,1693,1565,1,-4,41,66
+2008-01-12,Senegal,Namibia,3,1,Friendly,Senegal,2,-2,1655,1273,1,-2,47,137
+2008-01-13,Angola,Egypt,3,3,Friendly,Portugal,5,-5,1534,1702,2,0,77,40
+2008-01-13,Barbados,Antigua and Barbuda,3,2,Friendly,Barbados,3,-3,1307,1082,0,0,130,176
+2008-01-13,Costa Rica,Sweden,0,1,Friendly,Costa Rica,-8,8,1631,1806,-1,0,54,20
+2008-01-13,Guyana,Saint Vincent and the Grenadines,1,0,Friendly,Guyana,7,-7,1347,1328,1,-4,118,124
+2008-01-13,South Africa,Mozambique,2,0,Friendly,South Africa,6,-6,1490,1346,1,-2,87,119
+2008-01-13,Syria,Qatar,0,0,Friendly,Syria,-4,4,1514,1478,-1,0,82,89
+2008-01-16,Bahrain,Kuwait,1,0,Friendly,Bahrain,7,-7,1456,1438,3,-1,92,99
+2008-01-16,Bermuda,Puerto Rico,0,2,Friendly,Bermuda,-27,27,1110,910,-4,3,174,198
+2008-01-16,Morocco,Angola,2,1,Friendly,Morocco,4,-4,1697,1530,0,-2,41,79
+2008-01-16,Senegal,Benin,2,1,Friendly,Burkina Faso,3,-3,1658,1376,0,-3,47,113
+2008-01-16,South Africa,Botswana,2,1,Friendly,South Africa,3,-3,1493,1316,0,0,87,126
+2008-01-18,Bermuda,Puerto Rico,0,1,Friendly,Bermuda,-17,17,1093,927,-1,4,175,194
+2008-01-18,Dominica,Guadeloupe,0,3,Friendly,Dominica,-4,4,992,1456,0,3,186,92
+2008-01-19,United States,Sweden,2,0,Friendly,the United States,13,-13,1772,1793,4,-1,27,21
+2008-01-20,China,Lebanon,0,0,Friendly,China,-8,8,1564,1340,-4,3,66,119
+2008-01-20,Ghana,Guinea,2,1,African Nations Cup,Ghana,10,-10,1770,1610,2,0,29,58
+2008-01-20,Guyana,Grenada,1,2,Friendly,Guyana,-16,16,1331,1199,-4,4,122,157
+2008-01-21,Ivory Coast,Nigeria,1,0,African Nations Cup,Ghana,24,-24,1787,1729,7,-4,24,37
+2008-01-21,Mali,Benin,1,0,African Nations Cup,Ghana,13,-13,1577,1363,4,-2,62,115
+2008-01-21,Morocco,Namibia,5,1,African Nations Cup,Ghana,8,-8,1705,1265,1,-2,40,139
+2008-01-22,Belize,El Salvador,0,1,Friendly,Belize,-4,4,1048,1380,0,3,182,110
+2008-01-22,Egypt,Cameroon,4,2,African Nations Cup,Ghana,41,-41,1743,1693,6,-6,35,41
+2008-01-22,Zambia,Sudan,3,0,African Nations Cup,Ghana,22,-22,1587,1356,6,-6,60,116
+2008-01-23,Angola,South Africa,1,1,African Nations Cup,Ghana,-3,3,1527,1496,0,0,79,87
+2008-01-23,Bahrain,Syria,1,2,Friendly,Bahrain,-11,11,1445,1525,-5,2,97,80
+2008-01-23,Senegal,Tunisia,2,2,African Nations Cup,Ghana,-2,2,1656,1626,0,1,47,56
+2008-01-24,Ghana,Namibia,1,0,African Nations Cup,Ghana,1,-1,1771,1264,0,0,30,139
+2008-01-24,Guinea,Morocco,3,2,African Nations Cup,Ghana,32,-32,1642,1673,7,-2,51,42
+2008-01-24,Iraq,Jordan,1,1,Friendly,the United Arab Emirates,-3,3,1639,1520,-2,0,53,82
+2008-01-24,Singapore,Kuwait,2,0,Friendly,Oman,18,-18,1378,1420,4,-3,111,102
+2008-01-25,Ivory Coast,Benin,4,1,African Nations Cup,Ghana,7,-7,1794,1356,3,0,21,115
+2008-01-25,Mali,Nigeria,0,0,African Nations Cup,Ghana,10,-10,1587,1719,3,-2,60,39
+2008-01-26,Bahrain,Yemen,2,1,Friendly,Bahrain,2,-2,1447,1198,1,-1,96,157
+2008-01-26,Cameroon,Zambia,5,1,African Nations Cup,Ghana,33,-33,1726,1554,1,-11,39,71
+2008-01-26,Egypt,Sudan,3,0,African Nations Cup,Ghana,9,-9,1752,1347,2,-2,33,117
+2008-01-26,Haiti,El Salvador,0,0,Friendly,Haiti,-6,6,1539,1386,-3,1,75,109
+2008-01-26,Japan,Chile,0,0,Friendly,Japan,-4,4,1774,1732,0,2,27,36
+2008-01-26,Puerto Rico,Trinidad and Tobago,2,2,Friendly,Puerto Rico,9,-9,936,1492,1,-2,193,87
+2008-01-27,Angola,Senegal,3,1,African Nations Cup,Ghana,51,-51,1578,1605,16,-11,63,58
+2008-01-27,China,Syria,2,1,Friendly,China,6,-6,1570,1519,1,-2,65,82
+2008-01-27,Oman,Singapore,2,0,Friendly,Oman,6,-6,1539,1372,1,-2,76,113
+2008-01-27,Saint Vincent and the Grenadines,Guyana,2,2,Friendly,Saint Vincent and the Grenadines,-3,3,1325,1334,0,2,124,120
+2008-01-27,Tunisia,South Africa,3,1,African Nations Cup,Ghana,24,-24,1650,1472,8,-3,49,89
+2008-01-28,Ghana,Morocco,2,0,African Nations Cup,Ghana,18,-18,1789,1655,6,-4,24,46
+2008-01-28,Guinea,Namibia,1,1,African Nations Cup,Ghana,-20,20,1622,1284,-6,6,57,133
+2008-01-28,Jordan,Lebanon,4,1,Friendly,Jordan,6,-6,1526,1334,1,0,80,119
+2008-01-29,Haiti,El Salvador,0,0,Friendly,Haiti,-6,6,1533,1392,-2,1,78,108
+2008-01-29,Ivory Coast,Mali,3,0,African Nations Cup,Ghana,20,-20,1814,1567,3,-6,18,66
+2008-01-29,Nigeria,Benin,2,0,African Nations Cup,Ghana,8,-8,1727,1348,1,-1,39,116
+2008-01-29,Trinidad and Tobago,Guyana,2,1,Friendly,Trinidad and Tobago,4,-4,1496,1330,0,-3,86,122
+2008-01-30,Cameroon,Sudan,3,0,African Nations Cup,Ghana,9,-9,1735,1338,3,-1,37,118
+2008-01-30,Egypt,Zambia,1,1,African Nations Cup,Ghana,-13,13,1739,1567,-3,6,36,66
+2008-01-30,Iran,Costa Rica,0,0,Friendly,Iran,-6,6,1776,1637,-2,1,28,53
+2008-01-30,Japan,Bosnia and Herzegovina,3,0,Friendly,Japan,4,-4,1778,1537,1,-2,27,76
+2008-01-30,Martinique,Canada,0,1,Friendly,Martinique,-6,6,1371,1631,-1,1,113,55
+2008-01-30,Oman,Kuwait,1,1,Friendly,Oman,-6,6,1533,1426,-1,1,77,101
+2008-01-30,Saudi Arabia,Luxembourg,2,1,Friendly,Saudi Arabia,0,0,1650,1038,0,0,49,185
+2008-01-30,South Korea,Chile,0,1,Friendly,South Korea,-11,11,1655,1743,-1,1,45,35
+2008-01-31,Angola,Tunisia,0,0,African Nations Cup,Ghana,5,-5,1583,1645,2,-2,60,51
+2008-01-31,Jordan,Singapore,2,1,Friendly,Jordan,4,-4,1530,1368,0,-2,80,114
+2008-01-31,Senegal,South Africa,1,1,African Nations Cup,Ghana,-9,9,1596,1481,-1,1,59,88
+2008-01-31,United Arab Emirates,Iraq,0,1,Friendly,the United Arab Emirates,-7,7,1431,1646,0,2,99,50
+2008-02-02,Belarus,Iceland,2,0,Friendly tournament,Malta,13,-13,1579,1391,6,-4,62,108
+2008-02-02,Malta,Armenia,0,1,Friendly tournament,Malta,-12,12,1232,1433,-1,3,144,99
+2008-02-03,Azerbaijan,Kazakhstan,0,0,Friendly,Turkey,0,0,1370,1378,0,0,113,111
+2008-02-03,Bermuda,Cayman Islands,1,1,World Cup qualifier,Bermuda,-11,11,1082,991,0,2,175,187
+2008-02-03,Ghana,Nigeria,2,1,African Nations Cup,Ghana,14,-14,1803,1713,3,0,21,40
+2008-02-03,Ivory Coast,Guinea,5,0,African Nations Cup,Ghana,25,-25,1839,1597,3,-1,15,58
+2008-02-03,Venezuela,Haiti,1,0,Friendly,Venezuela,4,-4,1674,1529,1,-3,42,80
+2008-02-04,Armenia,Belarus,2,1,Friendly tournament,Malta,21,-21,1454,1558,4,-7,95,69
+2008-02-04,Cameroon,Tunisia,3,2,African Nations Cup,Ghana,19,-19,1754,1626,4,-5,33,56
+2008-02-04,Egypt,Angola,2,1,African Nations Cup,Ghana,14,-14,1753,1569,2,-4,34,64
+2008-02-04,Malta,Iceland,1,0,Friendly tournament,Malta,18,-18,1250,1373,1,-3,143,111
+2008-02-06,Argentina,Guatemala,5,0,Friendly,the United States,2,-2,2014,1503,0,1,3,82
+2008-02-06,Aruba,Antigua and Barbuda,0,3,World Cup qualifier,Aruba,-30,30,903,1112,-5,1,199,174
+2008-02-06,Australia,Qatar,3,0,World Cup qualifier,Australia,8,-8,1737,1470,1,-3,38,92
+2008-02-06,Austria,Germany,0,3,Friendly,Austria,-7,7,1591,1950,-2,0,59,7
+2008-02-06,Belize,Saint Kitts and Nevis,3,1,World Cup qualifier,Guatemala,43,-43,1091,1164,6,-12,176,166
+2008-02-06,Bolivia,Peru,2,1,Friendly,Bolivia,9,-9,1565,1623,2,-3,69,56
+2008-02-06,Burundi,Rwanda,0,0,Friendly,Burundi,-1,1,1274,1331,-1,1,137,121
+2008-02-06,China,Iraq,1,1,World Cup qualifier,the United Arab Emirates,4,-4,1574,1642,2,-1,61,51
+2008-02-06,Croatia,Netherlands,0,3,Friendly,Croatia,-20,20,1874,1966,-1,0,12,6
+2008-02-06,Cyprus,Ukraine,1,1,Friendly,Cyprus,3,-3,1536,1727,2,-1,75,39
+2008-02-06,Dominica,Barbados,1,1,World Cup qualifier,Dominica,11,-11,1003,1296,0,-2,186,132
+2008-02-06,El Salvador,Anguilla,12,0,World Cup qualifier,El Salvador,0,0,1392,541,-1,0,108,231
+2008-02-06,England,Switzerland,2,1,Friendly,England,5,-5,1914,1802,1,-2,8,22
+2008-02-06,Georgia,Latvia,1,3,Friendly,Georgia,-22,22,1516,1492,-5,3,80,87
+2008-02-06,Greece,Finland,2,1,Friendly tournament,Cyprus,9,-9,1845,1678,3,-1,14,42
+2008-02-06,Honduras,Paraguay,2,0,Friendly,Honduras,18,-18,1682,1826,3,-4,41,18
+2008-02-06,Hungary,Slovakia,1,1,Friendly,Cyprus,2,-2,1573,1652,0,-2,62,49
+2008-02-06,Iceland,Armenia,2,0,Friendly tournament,Malta,28,-28,1401,1426,7,-6,104,101
+2008-02-06,Iran,Syria,0,0,World Cup qualifier,Iran,-15,15,1761,1534,-2,4,30,78
+2008-02-06,Ireland,Brazil,0,1,Friendly,Ireland,-5,5,1765,2082,2,0,29,1
+2008-02-06,Israel,Romania,1,0,Friendly,Israel,12,-12,1756,1895,4,0,32,10
+2008-02-06,Italy,Portugal,3,1,Friendly,Switzerland,9,-9,2040,1870,0,0,2,13
+2008-02-06,Jamaica,Costa Rica,1,1,Friendly,Jamaica,-1,1,1560,1638,-3,-1,71,53
+2008-02-06,Japan,Thailand,4,1,World Cup qualifier,Japan,5,-5,1783,1434,0,0,27,99
+2008-02-06,Jordan,North Korea,0,1,World Cup qualifier,Jordan,-29,29,1501,1497,-5,6,84,85
+2008-02-06,Lebanon,Uzbekistan,0,1,World Cup qualifier,Lebanon,-13,13,1321,1570,-6,6,125,64
+2008-02-06,Macedonia,Serbia,1,1,Friendly,Macedonia,3,-3,1559,1748,-1,-1,72,36
+2008-02-06,Malta,Belarus,0,1,Friendly tournament,Malta,-7,7,1243,1565,0,0,143,69
+2008-02-06,Moldova,Kazakhstan,1,0,Friendly,Turkey,6,-6,1511,1372,2,-1,81,111
+2008-02-06,Nicaragua,Netherlands Antilles,0,1,World Cup qualifier,Nicaragua,-23,23,1034,1135,-4,3,185,170
+2008-02-06,Northern Ireland,Bulgaria,0,1,Friendly,Northern Ireland,-7,7,1572,1796,-2,2,63,23
+2008-02-06,Oman,Bahrain,0,1,World Cup qualifier,Oman,-30,30,1503,1477,-5,6,82,91
+2008-02-06,Poland,Czechia,2,0,Friendly tournament,Cyprus,32,-32,1813,1911,7,-2,19,9
+2008-02-06,Saudi Arabia,Singapore,2,0,World Cup qualifier,Saudi Arabia,6,-6,1656,1362,3,0,46,114
+2008-02-06,Slovenia,Denmark,1,2,Friendly,Slovenia,-5,5,1536,1827,-1,1,75,17
+2008-02-06,South Korea,Turkmenistan,4,0,World Cup qualifier,South Korea,8,-8,1663,1373,0,-1,45,110
+2008-02-06,Spain,France,1,0,Friendly,Spain,8,-8,1972,2003,0,0,5,4
+2008-02-06,Trinidad and Tobago,Guadeloupe,0,0,Friendly,Trinidad and Tobago,-4,4,1492,1460,-1,-1,87,93
+2008-02-06,Turkey,Sweden,0,0,Friendly,Turkey,-3,3,1811,1796,-1,0,20,23
+2008-02-06,Turks and Caicos Islands,Saint Lucia,2,1,World Cup qualifier,Turks and Caicos Islands,34,-34,830,1149,3,-7,205,169
+2008-02-06,United Arab Emirates,Kuwait,2,0,World Cup qualifier,the United Arab Emirates,21,-21,1452,1405,4,-1,96,103
+2008-02-06,Uruguay,Colombia,2,2,Friendly,Uruguay,-2,2,1795,1840,-3,1,25,15
+2008-02-06,United States,Mexico,2,2,Friendly,the United States,0,0,1772,1883,1,1,28,11
+2008-02-06,Venezuela,Haiti,1,1,Friendly,Venezuela,-6,6,1668,1535,-2,3,44,77
+2008-02-06,Wales,Norway,3,0,Friendly,Wales,20,-20,1650,1752,5,-6,50,35
+2008-02-07,Egypt,Ivory Coast,4,1,African Nations Cup,Ghana,54,-54,1807,1785,14,-11,20,27
+2008-02-07,Ghana,Cameroon,0,1,African Nations Cup,Ghana,-35,35,1768,1789,-9,7,30,26
+2008-02-09,Ghana,Ivory Coast,4,2,African Nations Cup,Ghana,29,-29,1797,1756,8,-6,22,33
+2008-02-09,Mozambique,Lesotho,1,0,Friendly tournament,Swaziland,7,-7,1353,1127,2,-1,115,172
+2008-02-09,Swaziland,Botswana,1,4,Friendly tournament,Swaziland,-22,22,1144,1338,-4,8,169,118
+2008-02-10,Botswana,Mozambique,1,0,Friendly tournament,Swaziland,16,-16,1354,1337,3,-4,115,119
+2008-02-10,Egypt,Cameroon,1,0,African Nations Cup,Ghana,24,-24,1831,1765,4,-2,16,29
+2008-02-10,Saint Vincent and the Grenadines,Grenada,1,2,Friendly,Saint Vincent and the Grenadines,-16,16,1309,1215,-5,2,129,153
+2008-02-10,Swaziland,Lesotho,2,2,Friendly tournament,Swaziland,-5,5,1139,1132,0,1,169,171
+2008-02-17,China,South Korea,2,3,East Asian Championship,China,-21,21,1553,1684,-11,4,72,41
+2008-02-17,Japan,North Korea,1,1,East Asian Championship,China,-14,14,1769,1511,-1,4,28,81
+2008-02-20,China,Japan,0,1,East Asian Championship,China,-14,14,1539,1783,-1,1,73,27
+2008-02-20,North Korea,South Korea,1,1,East Asian Championship,China,9,-9,1520,1675,1,-2,80,43
+2008-02-22,Guyana,Cuba,2,1,Friendly,Guyana,12,-12,1342,1485,5,-3,118,89
+2008-02-23,China,North Korea,3,1,East Asian Championship,China,20,-20,1559,1500,2,-5,71,85
+2008-02-23,Japan,South Korea,1,1,East Asian Championship,China,-6,6,1777,1681,0,1,27,42
+2008-02-24,Guyana,Cuba,0,0,Friendly,Guyana,1,-1,1343,1484,0,0,118,89
+2008-02-27,Dominican Republic,Haiti,1,2,Friendly,the Dominican Republic,-2,2,1071,1537,0,3,179,74
+2008-02-27,Poland,Estonia,2,0,Friendly,Poland,1,-1,1814,1399,0,0,19,106
+2008-02-28,Dominican Republic,Haiti,0,2,Friendly,the Dominican Republic,-3,3,1068,1540,-1,0,180,74
+2008-02-29,Guadeloupe,Saint Vincent and the Grenadines,1,2,Friendly,Guadeloupe,-16,16,1444,1325,-5,5,98,124
+2008-03-04,Qatar,Bahrain,1,2,Friendly,Qatar,-13,13,1457,1490,0,3,92,88
+2008-03-09,Mauritius,Madagascar,1,2,Independence Tournament,Mauritius,-17,17,1165,1241,-2,5,164,144
+2008-03-11,South Africa,Zimbabwe,2,1,Friendly,South Africa,7,-7,1488,1448,2,-2,89,95
+2008-03-13,Saint Vincent and the Grenadines,Barbados,0,2,Friendly,Saint Vincent and the Grenadines,-20,20,1305,1316,-6,6,130,126
+2008-03-14,British Virgin Islands,US Virgin Islands,0,0,Friendly,the British VirgIslands,-8,8,906,666,-1,0,198,221
+2008-03-15,British Virgin Islands,US Virgin Islands,1,1,Friendly,the British VirgIslands,-8,8,898,674,-1,1,199,220
+2008-03-15,China,Thailand,3,3,Friendly,China,-6,6,1553,1440,-1,0,72,99
+2008-03-15,Grenada,Barbados,1,1,Friendly,Grenada,0,0,1215,1316,0,0,153,126
+2008-03-16,Iceland,Faroe Islands,3,0,Friendly,Iceland,4,-4,1405,1158,1,0,103,166
+2008-03-16,Qatar,Jordan,2,1,Friendly,Qatar,8,-8,1465,1493,0,-1,92,85
+2008-03-19,Oman,United Arab Emirates,1,1,Friendly,Oman,-4,4,1499,1456,-2,1,84,93
+2008-03-19,Trinidad and Tobago,El Salvador,1,0,Friendly,Trinidad and Tobago,5,-5,1497,1387,1,-1,85,109
+2008-03-21,Bahrain,Iran,1,0,Friendly,Bahrain,15,-15,1505,1746,6,-5,82,36
+2008-03-21,Kuwait,Iraq,0,0,Friendly,Kuwait,4,-4,1409,1638,0,-1,103,52
+2008-03-22,Singapore,Australia,0,0,Friendly,Singapore,7,-7,1369,1730,0,0,114,38
+2008-03-22,Uzbekistan,Jordan,4,1,Friendly,Uzbekistan,9,-9,1579,1484,2,-3,61,90
+2008-03-23,Venezuela,El Salvador,1,0,Friendly,Venezuela,2,-2,1670,1385,0,0,45,109
+2008-03-25,DR Congo,Gabon,0,0,Friendly,France,-1,1,1447,1429,-1,0,96,100
+2008-03-25,Guinea,Togo,2,0,Friendly,France,9,-9,1606,1438,0,-2,57,99
+2008-03-25,Nepal,Pakistan,2,1,Friendly,Nepal,8,-8,899,907,1,-1,199,197
+2008-03-26,Algeria,DR Congo,1,1,Friendly,France,1,-1,1402,1446,-1,0,106,96
+2008-03-26,Andorra,Latvia,0,3,Friendly,Andorra,-5,5,1064,1497,0,-3,179,90
+2008-03-26,Antigua and Barbuda,Aruba,1,0,World Cup qualifier,Antigua and Barbuda,6,-6,1118,897,0,-2,174,200
+2008-03-26,Armenia,Kazakhstan,1,0,Friendly,the Netherlands,8,-8,1434,1364,2,-2,99,113
+2008-03-26,Austria,Netherlands,3,4,Friendly,Austria,-3,3,1588,1969,-1,0,60,6
+2008-03-26,Bahamas,British Virgin Islands,1,1,World Cup qualifier,the Bahamas,-4,4,870,902,0,2,203,198
+2008-03-26,Bahrain,Japan,1,0,World Cup qualifier,Bahrain,29,-29,1534,1748,5,-5,77,32
+2008-03-26,Barbados,Dominica,1,0,World Cup qualifier,Barbados,3,-3,1319,1000,2,0,124,186
+2008-03-26,Belarus,Turkey,2,2,Friendly,Belarus,4,-4,1569,1807,4,2,64,18
+2008-03-26,Belgium,Morocco,1,4,Friendly,Belgium,-22,22,1618,1677,-3,4,54,43
+2008-03-26,Bosnia and Herzegovina,Macedonia,2,2,Friendly,Bosnia and Herzegovina,-2,2,1535,1561,-1,2,76,69
+2008-03-26,Botswana,Zimbabwe,0,1,Friendly,Botswana,-10,10,1344,1458,-1,1,116,94
+2008-03-26,Brazil,Sweden,1,0,Friendly,England,3,-3,2085,1793,0,0,1,23
+2008-03-26,Bulgaria,Finland,2,1,Friendly,Bulgaria,4,-4,1800,1674,4,-1,19,44
+2008-03-26,China,Australia,0,0,World Cup qualifier,China,4,-4,1557,1726,1,-1,71,39
+2008-03-26,Denmark,Czechia,1,1,Friendly,Denmark,0,0,1827,1911,2,1,15,8
+2008-03-26,Ecuador,Haiti,3,1,Friendly,Ecuador,6,-6,1679,1534,2,-3,42,77
+2008-03-26,Egypt,Argentina,0,2,Friendly,Egypt,-11,11,1820,2025,-1,0,17,3
+2008-03-26,El Salvador,Anguilla,4,0,World Cup qualifier,the United States,1,-1,1386,540,-1,0,110,231
+2008-03-26,Estonia,Canada,2,0,Friendly,Estonia,20,-20,1419,1611,3,-2,103,56
+2008-03-26,France,England,1,0,Friendly,France,5,-5,2008,1909,0,-1,4,9
+2008-03-26,Greece,Portugal,2,1,Friendly,Germany,11,-11,1856,1859,0,0,14,13
+2008-03-26,Grenada,US Virgin Islands,10,0,World Cup qualifier,Grenada,3,-3,1218,671,2,-1,151,221
+2008-03-26,Honduras,Colombia,2,1,Friendly,the United States,14,-14,1696,1826,0,-1,41,16
+2008-03-26,Hungary,Slovenia,0,1,Friendly,Hungary,-14,14,1559,1550,-8,3,70,73
+2008-03-26,Israel,Chile,1,0,Friendly,Israel,7,-7,1763,1736,2,2,30,35
+2008-03-26,Jamaica,Trinidad and Tobago,2,2,Friendly,Jamaica,-4,4,1556,1501,-2,-2,72,88
+2008-03-26,Kuwait,Iran,2,2,World Cup qualifier,Kuwait,12,-12,1421,1734,1,-2,102,38
+2008-03-26,Lithuania,Azerbaijan,1,0,Friendly,Lithuania,3,-3,1583,1367,-1,1,61,112
+2008-03-26,Luxembourg,Wales,0,2,Friendly,Luxembourg,-1,1,1037,1651,0,2,184,48
+2008-03-26,Malta,Liechtenstein,7,1,Friendly,Malta,13,-13,1256,1180,1,-3,142,161
+2008-03-26,Mexico,Ghana,2,1,Friendly,England,8,-8,1891,1789,0,-3,11,25
+2008-03-26,Montenegro,Norway,3,1,Friendly,Montenegro,15,-15,1668,1737,2,0,46,34
+2008-03-26,Namibia,Malawi,1,3,Friendly,Namibia,-20,20,1264,1292,-6,5,139,133
+2008-03-26,North Korea,South Korea,0,0,World Cup qualifier,China,10,-10,1510,1671,-1,-3,85,45
+2008-03-26,Netherlands Antilles,Nicaragua,2,0,World Cup qualifier,the Netherlands Antilles,14,-14,1149,1020,1,0,169,185
+2008-03-26,Northern Ireland,Georgia,4,1,Friendly,Northern Ireland,10,-10,1582,1506,1,-6,62,86
+2008-03-26,Peru,Costa Rica,3,1,Friendly,Peru,11,-11,1634,1627,6,0,50,52
+2008-03-26,Poland,United States,0,3,Friendly,Poland,-24,24,1790,1796,-5,7,24,21
+2008-03-26,Puerto Rico,Dominican Republic,1,0,World Cup qualifier,Puerto Rico,22,-22,958,1046,1,-1,192,181
+2008-03-26,Qatar,Iraq,2,0,World Cup qualifier,Qatar,36,-36,1501,1602,4,-6,88,58
+2008-03-26,Romania,Russia,3,0,Friendly,Romania,8,-8,1903,1782,0,-1,10,27
+2008-03-26,Scotland,Croatia,1,1,Friendly,Scotland,0,0,1759,1874,0,0,31,12
+2008-03-26,Singapore,Lebanon,2,0,World Cup qualifier,Singapore,18,-18,1387,1303,5,-5,109,130
+2008-03-26,Slovakia,Iceland,1,2,Friendly,Slovakia,-18,18,1634,1423,-1,3,50,101
+2008-03-26,South Africa,Paraguay,3,0,Friendly,South Africa,28,-28,1516,1798,6,-2,82,20
+2008-03-26,Spain,Italy,1,0,Friendly,Spain,9,-9,1981,2031,0,0,5,2
+2008-03-26,Saint Kitts and Nevis,Belize,1,1,World Cup qualifier,Saint Kitts and Nevis,-9,9,1155,1100,-1,0,166,176
+2008-03-26,Saint Lucia,Turks and Caicos Islands,2,0,World Cup qualifier,Saint Lucia,5,-5,1154,825,1,0,167,205
+2008-03-26,Sudan,Liberia,0,2,Friendly,Sudan,-23,23,1315,1253,-7,5,126,143
+2008-03-26,Suriname,Montserrat,7,1,World Cup qualifier,Trinidad and Tobago,2,-2,1234,537,-1,0,147,232
+2008-03-26,Switzerland,Germany,0,4,Friendly,Switzerland,-16,16,1786,1966,-5,0,26,7
+2008-03-26,Syria,United Arab Emirates,1,1,World Cup qualifier,Syria,-9,9,1525,1465,-1,0,79,93
+2008-03-26,Thailand,Oman,0,1,World Cup qualifier,Thailand,-22,22,1418,1521,-6,5,104,80
+2008-03-26,Tunisia,Ivory Coast,2,0,Friendly,France,20,-20,1646,1736,6,-3,49,35
+2008-03-26,Turkmenistan,Jordan,0,2,World Cup qualifier,Turkmenistan,-29,29,1344,1513,-6,7,116,83
+2008-03-26,Uganda,Libya,1,1,Friendly,Uganda,1,-1,1398,1520,0,-2,107,81
+2008-03-26,Ukraine,Serbia,2,0,Friendly,Ukraine,12,-12,1739,1736,6,0,33,35
+2008-03-26,Uzbekistan,Saudi Arabia,3,0,World Cup qualifier,Uzbekistan,33,-33,1612,1623,6,-7,55,53
+2008-03-26,Venezuela,Bolivia,0,1,Friendly,Venezuela,-15,15,1655,1580,-2,5,47,63
+2008-03-27,Nepal,Pakistan,0,2,Friendly,Nepal,-19,19,880,926,-2,3,201,194
+2008-03-30,Bahamas,British Virgin Islands,2,2,World Cup qualifier,the Bahamas,-4,4,866,906,0,0,203,198
+2008-03-30,Cayman Islands,Bermuda,1,3,World Cup qualifier,the Cayman Islands,-31,31,960,1113,-4,2,191,175
+2008-04-02,Sri Lanka,Guam,5,1,Asian Cup & Asian Challenge Cup qual,Taiwan,8,-8,957,562,0,-2,193,230
+2008-04-02,Taiwan,Pakistan,1,2,Asian Cup & Asian Challenge Cup qual,Taiwan,-29,29,962,955,-3,0,190,194
+2008-04-04,Sri Lanka,Pakistan,7,1,Asian Cup & Asian Challenge Cup qual,Taiwan,42,-42,999,913,6,-2,187,196
+2008-04-04,Taiwan,Guam,4,1,Asian Cup & Asian Challenge Cup qual,Taiwan,4,-4,966,558,-1,0,191,230
+2008-04-04,Yemen,Tanzania,2,1,Friendly,Yemen,11,-11,1209,1323,1,-2,155,122
+2008-04-06,Pakistan,Guam,9,2,Asian Cup & Asian Challenge Cup qual,Taiwan,10,-10,923,548,0,0,196,230
+2008-04-06,Taiwan,Sri Lanka,2,2,Asian Cup & Asian Challenge Cup qual,Taiwan,-4,4,962,1003,0,1,191,186
+2008-04-09,Lebanon,Maldives,4,0,Asian Cup qualifier,Lebanon,9,-9,1312,1050,3,0,127,180
+2008-04-16,Mexico,China,1,0,Friendly,the United States,3,-3,1894,1554,0,-1,11,72
+2008-04-23,China,El Salvador,2,2,Friendly,the United States,-4,4,1550,1390,0,2,72,108
+2008-04-23,Guatemala,Haiti,1,0,Friendly,Guatemala,8,-8,1511,1526,3,-1,84,78
+2008-04-23,Maldives,Lebanon,1,2,Asian Cup qualifier,the Maldives,-11,11,1039,1323,-3,5,183,122
+2008-04-24,Oman,Liberia,1,0,Friendly,Oman,2,-2,1523,1251,0,-1,80,144
+2008-04-25,Indonesia,Yemen,1,0,Friendly,Indonesia,6,-6,1282,1203,0,-1,135,156
+2008-04-27,Northern Mariana Islands,Guam,2,3,Marianas Cup,the Northern Mariana Islands,-20,20,543,568,-2,2,230,228
+2008-04-27,Oman,Kyrgyzstan,2,0,Friendly,Oman,2,-2,1525,1192,1,0,79,157
+2008-04-27,Trinidad and Tobago,Grenada,2,0,Friendly,Trinidad and Tobago,3,-3,1504,1215,0,-2,88,153
+2008-04-30,Colombia,Venezuela,5,2,Friendly,Colombia,6,-6,1832,1649,1,-1,15,48
+2008-04-30,Liberia,Sierra Leone,3,1,Friendly,Liberia,9,-9,1260,1207,3,-2,141,154
+2008-05-03,Oman,Yemen,0,0,Friendly,Oman,-8,8,1517,1211,-2,3,81,153
+2008-05-05,Afghanistan,Bangladesh,0,0,Asian Cup & Asian Challenge Cup qual,Kyrgyzstan,9,-9,817,964,0,-1,206,190
+2008-05-07,Kyrgyzstan,Afghanistan,0,1,Asian Cup & Asian Challenge Cup qual,Kyrgyzstan,-38,38,1154,855,-9,2,166,204
+2008-05-09,Kyrgyzstan,Bangladesh,2,1,Asian Cup & Asian Challenge Cup qual,Kyrgyzstan,6,-6,1160,958,2,-2,164,192
+2008-05-10,Syria,Oman,2,1,Friendly,Syria,7,-7,1532,1510,1,-4,78,85
+2008-05-11,Trinidad and Tobago,Barbados,3,0,Friendly,Trinidad and Tobago,6,-6,1510,1313,3,-2,85,127
+2008-05-13,Philippines,Brunei,1,0,Asian Cup & Asian Challenge Cup qual,the Philippines,11,-11,788,702,0,-3,210,217
+2008-05-13,Tajikistan,Bhutan,3,1,Asian Cup & Asian Challenge Cup qual,the Philippines,1,-1,1312,597,0,0,128,223
+2008-05-15,Bhutan,Brunei,1,1,Asian Cup & Asian Challenge Cup qual,the Philippines,6,-6,603,696,0,-2,223,219
+2008-05-15,Philippines,Tajikistan,0,0,Asian Cup & Asian Challenge Cup qual,the Philippines,17,-17,805,1295,2,-4,208,132
+2008-05-17,Philippines,Bhutan,3,0,Asian Cup & Asian Challenge Cup qual,the Philippines,10,-10,815,593,1,0,207,223
+2008-05-17,Syria,Iraq,2,1,Friendly,Syria,9,-9,1541,1593,3,-1,75,59
+2008-05-17,Tajikistan,Brunei,4,0,Asian Cup & Asian Challenge Cup qual,the Philippines,2,-2,1297,694,0,0,132,219
+2008-05-18,Antigua and Barbuda,Saint Lucia,6,1,Friendly,Antigua and Barbuda,16,-16,1134,1138,3,-3,171,170
+2008-05-18,Oman,Turkmenistan,2,1,Friendly,Oman,4,-4,1514,1340,3,-2,82,118
+2008-05-19,Greece,Cyprus,2,0,Friendly,Greece,2,-2,1858,1534,0,-1,14,77
+2008-05-20,Thailand,Nepal,7,0,Friendly,Thailand,1,-1,1419,879,1,0,103,201
+2008-05-20,Turkey,Slovakia,1,0,Friendly,Germany,5,-5,1812,1629,0,-1,18,51
+2008-05-21,Mozambique,Lesotho,2,3,Friendly,Mozambique,-17,17,1320,1149,-5,3,124,169
+2008-05-21,Netherlands Antilles,Suriname,2,1,Chippie Polar Cup,the Netherlands Antilles,14,-14,1163,1220,4,-3,164,150
+2008-05-22,Ivory Coast,Paraguay,1,1,Kirin Cup,Japan,3,-3,1739,1795,2,-1,33,21
+2008-05-22,Libya,Zambia,2,2,Friendly,Libya,-2,2,1518,1569,0,3,80,64
+2008-05-22,Yemen,Sudan,1,1,Friendly,Yemen,0,0,1211,1315,0,0,153,126
+2008-05-23,Australia,Ghana,1,0,Friendly,Australia,9,-9,1735,1780,1,-2,38,27
+2008-05-23,Austria,Cuba,4,1,Friendly,Austria,8,-8,1596,1476,2,0,58,92
+2008-05-23,Honduras,Belize,2,0,Friendly,Honduras,1,-1,1697,1099,0,0,41,177
+2008-05-23,Qatar,Kuwait,1,1,Friendly,Qatar,-5,5,1496,1426,-1,1,90,101
+2008-05-23,Russia,Kazakhstan,6,0,Friendly,Russia,2,-2,1784,1362,1,0,26,113
+2008-05-23,Swaziland,Lesotho,1,1,Friendly,Swaziland,-3,3,1136,1152,-1,1,171,168
+2008-05-24,Cape Verde,Burkina Faso,1,0,Friendly,Portugal,11,-11,1314,1323,3,-1,127,120
+2008-05-24,Croatia,Moldova,1,0,Friendly,Croatia,1,-1,1875,1510,0,-1,12,85
+2008-05-24,Hungary,Greece,3,2,Friendly,Hungary,15,-15,1574,1843,6,0,64,14
+2008-05-24,India,Taiwan,3,0,Friendly,India,6,-6,1136,956,2,-3,171,193
+2008-05-24,Ireland,Serbia,1,1,Friendly,Ireland,-4,4,1761,1740,-2,3,30,33
+2008-05-24,Japan,Ivory Coast,1,0,Kirin Cup,Japan,10,-10,1758,1729,0,-6,32,39
+2008-05-24,Nepal,Macao,3,2,Asian Cup & Asian Challenge Cup qual,Cambodia,13,-13,892,748,1,-1,200,212
+2008-05-24,Netherlands,Ukraine,3,0,Friendly,the Netherlands,5,-5,1974,1734,0,-4,6,37
+2008-05-24,Saudi Arabia,Syria,1,0,Friendly,Saudi Arabia,5,-5,1628,1536,2,0,51,75
+2008-05-24,Switzerland,Slovakia,2,0,Friendly,Switzerland,6,-6,1792,1623,1,-2,24,53
+2008-05-25,China,Jordan,2,0,Friendly,China,9,-9,1559,1504,1,-5,71,88
+2008-05-25,Iran,Zambia,3,2,Friendly,Iran,4,-4,1738,1565,3,-4,34,69
+2008-05-25,Tanzania,Malawi,1,1,Friendly,Tanzania,-4,4,1319,1296,-4,0,124,133
+2008-05-25,Thailand,Iraq,2,1,Friendly,Thailand,12,-12,1431,1581,3,-2,100,62
+2008-05-25,Uruguay,Turkey,3,2,Friendly,Germany,10,-10,1805,1802,3,-1,18,19
+2008-05-26,Cambodia,Nepal,0,1,Asian Cup & Asian Challenge Cup qual,Cambodia,-21,21,780,913,-1,3,210,197
+2008-05-26,Macedonia,Poland,1,1,Friendly,Germany,6,-6,1567,1784,2,0,68,25
+2008-05-26,Sweden,Slovenia,1,0,Friendly,Sweden,2,-2,1795,1548,1,0,22,73
+2008-05-27,Austria,Nigeria,1,1,Friendly,Austria,0,0,1596,1713,0,0,58,40
+2008-05-27,Czechia,Lithuania,2,0,Friendly,Czechia,2,-2,1913,1581,0,-1,8,61
+2008-05-27,Estonia,Georgia,1,1,Friendly,Estonia,0,0,1419,1506,0,0,104,87
+2008-05-27,France,Ecuador,2,0,Friendly,France,2,-2,2010,1677,0,0,4,42
+2008-05-27,Germany,Belarus,2,2,Friendly,Germany,-9,9,1957,1578,0,1,7,64
+2008-05-27,India,Taiwan,2,2,Friendly,India,-7,7,1129,963,-2,3,173,190
+2008-05-27,Japan,Paraguay,0,0,Kirin Cup,Japan,-3,3,1755,1798,0,1,32,21
+2008-05-27,Libya,Liberia,4,2,Friendly,Libya,3,-3,1521,1257,0,-1,80,142
+2008-05-27,Luxembourg,Cape Verde,1,1,Friendly,Luxembourg,5,-5,1042,1309,2,-2,182,129
+2008-05-27,Montenegro,Kazakhstan,3,0,Friendly,Montenegro,3,-3,1671,1359,1,0,45,113
+2008-05-27,Poland,Albania,1,0,Friendly,Germany,3,-3,1787,1485,0,0,25,91
+2008-05-27,Qatar,Lebanon,2,1,Friendly,Qatar,3,-3,1499,1320,1,-2,89,122
+2008-05-27,Saudi Arabia,Kuwait,2,1,Friendly,Saudi Arabia,3,-3,1631,1423,0,0,51,102
+2008-05-28,Cambodia,Macao,3,1,Asian Cup & Asian Challenge Cup qual,Cambodia,19,-19,799,729,1,0,209,212
+2008-05-28,England,United States,2,0,Friendly,England,7,-7,1916,1789,1,-3,8,25
+2008-05-28,Iceland,Wales,0,1,Friendly,Iceland,-6,6,1417,1657,-2,0,104,47
+2008-05-28,Moldova,Armenia,2,2,Friendly,Moldova,-5,5,1505,1439,-3,1,87,98
+2008-05-28,Norway,Uruguay,2,2,Friendly,Norway,-1,1,1736,1806,1,0,34,18
+2008-05-28,Russia,Serbia,2,1,Friendly,Germany,9,-9,1793,1731,3,-5,23,38
+2008-05-28,Singapore,Bahrain,0,1,Friendly,Singapore,-9,9,1378,1543,0,3,110,74
+2008-05-29,Ireland,Colombia,1,0,Friendly,England,12,-12,1773,1820,2,-1,28,16
+2008-05-29,Netherlands,Denmark,1,1,Friendly,the Netherlands,-6,6,1968,1833,0,1,6,15
+2008-05-29,South Africa,Swaziland,1,0,Friendly,South Africa,1,-1,1517,1135,0,0,81,171
+2008-05-29,Turkey,Finland,2,0,Friendly,Germany,10,-10,1812,1664,1,-2,18,46
+2008-05-30,Austria,Malta,5,1,Friendly,Austria,3,-3,1599,1253,0,0,58,143
+2008-05-30,Czechia,Scotland,3,1,Friendly,Czechia,6,-6,1919,1753,1,-1,8,32
+2008-05-30,El Salvador,Guatemala,0,0,Friendly,the United States,3,-3,1393,1508,0,-2,108,85
+2008-05-30,Honduras,Venezuela,1,1,Friendly,the United States,-1,1,1696,1650,0,0,41,48
+2008-05-30,Italy,Belgium,3,1,Friendly,Italy,1,-1,2032,1617,0,0,2,54
+2008-05-30,Latvia,Estonia,1,0,Baltic Cup,Latvia,8,-8,1505,1411,3,-2,87,105
+2008-05-30,Switzerland,Liechtenstein,3,0,Friendly,Switzerland,1,-1,1793,1179,1,0,23,160
+2008-05-31,Botswana,Madagascar,0,0,World Cup and African Cup qualifier,Botswana,-11,11,1333,1252,-3,1,119,144
+2008-05-31,Brazil,Canada,3,2,Friendly,the United States,1,-1,2086,1610,0,0,1,56
+2008-05-31,Cameroon,Cape Verde,2,0,World Cup and African Cup qualifier,Cameroon,2,-2,1767,1307,0,3,29,126
+2008-05-31,France,Paraguay,0,0,Friendly,France,-7,7,2003,1805,0,1,4,20
+2008-05-31,Germany,Serbia,2,1,Friendly,Germany,3,-3,1960,1728,0,-1,7,39
+2008-05-31,Hungary,Croatia,1,1,Friendly,Hungary,5,-5,1579,1870,1,0,64,12
+2008-05-31,Lithuania,Estonia,1,0,Baltic Cup,Latvia,8,-8,1589,1403,1,-1,60,106
+2008-05-31,Malawi,Djibouti,8,1,World Cup and African Cup qualifier,Malawi,3,-3,1299,805,1,0,132,208
+2008-05-31,Morocco,Ethiopia,3,0,World Cup and African Cup qualifier,Morocco,4,-4,1681,1306,0,0,42,128
+2008-05-31,Namibia,Kenya,2,1,World Cup and African Cup qualifier,Namibia,18,-18,1282,1304,4,-9,135,130
+2008-05-31,Portugal,Georgia,2,0,Friendly,Portugal,2,-2,1861,1504,0,-3,13,89
+2008-05-31,Romania,Montenegro,4,0,Friendly,Romania,5,-5,1908,1666,0,0,10,44
+2008-05-31,Rwanda,Mauritania,3,0,World Cup and African Cup qualifier,Rwanda,16,-16,1347,1202,3,-5,116,156
+2008-05-31,Senegal,Algeria,1,0,World Cup and African Cup qualifier,Senegal,6,-6,1602,1396,1,-1,58,107
+2008-05-31,South Korea,Jordan,2,2,World Cup qualifier,South Korea,-13,13,1658,1517,-2,8,46,81
+2008-05-31,Spain,Peru,2,1,Friendly,Spain,1,-1,1982,1633,0,0,5,50
+2008-05-31,Tanzania,Mauritius,1,1,World Cup and African Cup qualifier,Tanzania,-12,12,1307,1177,-2,2,126,161
+2008-05-31,Togo,Zambia,1,0,World Cup and African Cup qualifier,Ghana,27,-27,1465,1538,6,-5,93,75
+2008-05-31,Uganda,Niger,1,0,World Cup and African Cup qualifier,Uganda,8,-8,1406,1256,2,-3,105,142
+2008-06-01,Angola,Benin,3,0,World Cup and African Cup qualifier,Angola,10,-10,1579,1338,4,-4,62,119
+2008-06-01,Armenia,Greece,0,0,Friendly,Germany,8,-8,1447,1835,2,0,97,14
+2008-06-01,Australia,Iraq,1,0,World Cup qualifier,Australia,8,-8,1743,1573,2,-6,34,68
+2008-06-01,Bosnia and Herzegovina,Azerbaijan,1,0,Friendly,Bosnia and Herzegovina,4,-4,1539,1363,2,0,75,112
+2008-06-01,Burundi,Seychelles,1,0,World Cup and African Cup qualifier,Burundi,6,-6,1280,1072,1,0,137,178
+2008-06-01,Egypt,DR Congo,2,1,World Cup and African Cup qualifier,Egypt,2,-2,1822,1444,0,-1,16,98
+2008-06-01,Equatorial Guinea,Sierra Leone,2,0,World Cup and African Cup qualifier,Equatorial Guinea,19,-19,1260,1188,6,-3,140,157
+2008-06-01,Ghana,Libya,3,0,World Cup and African Cup qualifier,Ghana,8,-8,1788,1513,2,-3,25,83
+2008-06-01,Guinea,Zimbabwe,0,0,World Cup and African Cup qualifier,Guinea,-12,12,1594,1470,-2,2,59,93
+2008-06-01,Ivory Coast,Mozambique,1,0,World Cup and African Cup qualifier,Ivory Coast,2,-2,1731,1318,0,-1,38,122
+2008-06-01,Latvia,Lithuania,2,1,Baltic Cup,Latvia,14,-14,1519,1575,7,-7,80,67
+2008-06-01,Liberia,Gambia,1,1,World Cup and African Cup qualifier,Liberia,0,0,1257,1349,-1,-1,142,115
+2008-06-01,Mali,Congo,4,2,World Cup and African Cup qualifier,Mali,11,-11,1578,1404,4,-1,64,105
+2008-06-01,Netherlands,Wales,2,0,Friendly,the Netherlands,3,-3,1971,1654,0,0,6,47
+2008-06-01,Nigeria,South Africa,2,0,World Cup and African Cup qualifier,Nigeria,9,-9,1722,1508,0,-4,40,85
+2008-06-01,Panama,Guatemala,1,0,Friendly,the United States,8,-8,1577,1500,0,-3,66,89
+2008-06-01,Poland,Denmark,1,1,Friendly,Poland,-2,2,1785,1835,0,1,26,14
+2008-06-01,Sweden,Ukraine,0,1,Friendly,Sweden,-14,14,1781,1748,-5,4,27,33
+2008-06-01,Trinidad and Tobago,England,0,3,Friendly,Trinidad and Tobago,-5,5,1505,1921,-2,1,86,8
+2008-06-01,Tunisia,Burkina Faso,1,2,World Cup and African Cup qualifier,Tunisia,-37,37,1609,1360,-7,7,56,113
+2008-06-02,Finland,Belarus,1,1,Friendly,Finland,-5,5,1659,1583,0,4,45,60
+2008-06-02,Iran,United Arab Emirates,0,0,World Cup qualifier,Iran,-16,16,1722,1481,-4,2,39,92
+2008-06-02,Japan,Oman,3,0,World Cup qualifier,Japan,9,-9,1764,1505,1,-3,30,85
+2008-06-02,Qatar,China,0,0,World Cup qualifier,Qatar,-2,2,1497,1561,0,-1,90,71
+2008-06-02,Saudi Arabia,Lebanon,4,1,World Cup qualifier,Saudi Arabia,6,-6,1637,1314,1,-3,49,124
+2008-06-02,Singapore,Uzbekistan,3,7,World Cup qualifier,Singapore,-24,24,1354,1636,-4,4,114,50
+2008-06-02,Syria,Kuwait,1,0,World Cup qualifier,Syria,9,-9,1545,1414,3,0,74,102
+2008-06-02,Thailand,Bahrain,2,3,World Cup qualifier,Thailand,-19,19,1412,1562,-3,3,103,70
+2008-06-02,Turkmenistan,North Korea,0,0,World Cup qualifier,Turkmenistan,4,-4,1344,1506,1,0,117,84
+2008-06-03,France,Colombia,1,0,Friendly,France,3,-3,2006,1817,0,0,4,17
+2008-06-03,India,Nepal,4,0,South Asian Championship,the Maldives,17,-17,1146,896,3,-3,170,200
+2008-06-03,Jamaica,Saint Vincent and the Grenadines,5,1,Friendly,Jamaica,4,-4,1560,1301,0,-2,72,131
+2008-06-03,Maldives,Pakistan,3,0,South Asian Championship,the Maldives,16,-16,1055,907,4,-1,180,197
+2008-06-04,Andorra,Azerbaijan,1,2,Friendly,Andorra,-5,5,1059,1368,0,0,179,111
+2008-06-04,Argentina,Mexico,4,1,Friendly,the United States,11,-11,2036,1883,1,0,2,11
+2008-06-04,Bangladesh,Bhutan,1,1,South Asian Championship,Sri Lanka,-16,16,942,609,-1,0,193,223
+2008-06-04,Canada,Panama,2,2,Friendly,the United States,-1,1,1609,1578,0,1,55,65
+2008-06-04,Chile,Guatemala,2,0,Friendly,Chile,4,-4,1740,1496,0,-1,35,90
+2008-06-04,Estonia,Faroe Islands,4,3,Friendly,Estonia,2,-2,1405,1156,1,0,105,166
+2008-06-04,Honduras,Puerto Rico,4,0,World Cup qualifier,Honduras,1,-1,1697,957,0,0,41,192
+2008-06-04,Russia,Lithuania,4,1,Friendly,Germany,8,-8,1801,1567,1,-1,21,68
+2008-06-04,Spain,United States,1,0,Friendly,Spain,3,-3,1985,1786,0,-1,5,25
+2008-06-04,Sri Lanka,Afghanistan,2,2,South Asian Championship,Sri Lanka,-12,12,991,867,-1,1,187,203
+2008-06-04,Trinidad and Tobago,Guyana,3,0,Friendly,Trinidad and Tobago,6,-6,1511,1337,2,-1,83,119
+2008-06-05,India,Pakistan,2,1,South Asian Championship,the Maldives,8,-8,1154,899,2,-1,168,198
+2008-06-05,Maldives,Nepal,4,1,South Asian Championship,the Maldives,13,-13,1068,883,1,-1,179,201
+2008-06-06,Afghanistan,Bangladesh,2,2,South Asian Championship,Sri Lanka,4,-4,871,938,0,0,203,193
+2008-06-06,Algeria,Liberia,3,0,World Cup and African Cup qualifier,Algeria,14,-14,1410,1243,3,-4,104,146
+2008-06-06,Bermuda,Barbados,2,1,Friendly,Bermuda,13,-13,1126,1300,1,-6,174,131
+2008-06-06,Djibouti,Egypt,0,4,World Cup and African Cup qualifier,Djibouti,0,0,805,1822,0,0,208,16
+2008-06-06,Indonesia,Malaysia,1,1,Friendly,Indonesia,-6,6,1276,1156,-2,4,137,166
+2008-06-06,Sri Lanka,Bhutan,2,0,South Asian Championship,Sri Lanka,4,-4,995,605,0,0,187,223
+2008-06-06,Venezuela,Brazil,2,0,Friendly,the United States,28,-28,1678,2058,5,0,43,1
+2008-06-07,Bahrain,Thailand,1,1,World Cup qualifier,Bahrain,-12,12,1550,1424,0,3,70,100
+2008-06-07,Burkina Faso,Burundi,2,0,World Cup and African Cup qualifier,Burkina Faso,16,-16,1376,1264,2,-2,110,138
+2008-06-07,Cape Verde,Tanzania,1,0,World Cup and African Cup qualifier,Cape Verde,14,-14,1321,1293,3,-8,122,133
+2008-06-07,Chad,Mali,1,2,World Cup qualifier,Chad,-9,9,1262,1587,0,5,139,60
+2008-06-07,Chile,Panama,0,0,Friendly,Chile,-6,6,1734,1584,0,4,35,61
+2008-06-07,China,Qatar,0,1,World Cup qualifier,China,-29,29,1532,1526,-7,10,78,79
+2008-06-07,Cuba,Saint Vincent and the Grenadines,1,0,Friendly,Cuba,3,-3,1479,1298,1,-1,92,131
+2008-06-07,Honduras,Haiti,3,1,Friendly,Honduras,5,-5,1702,1521,0,-2,41,81
+2008-06-07,Iraq,Australia,1,0,World Cup qualifier,the United Arab Emirates,29,-29,1602,1714,10,-6,57,40
+2008-06-07,Jordan,South Korea,0,1,World Cup qualifier,Jordan,-18,18,1499,1676,-8,2,89,45
+2008-06-07,Kenya,Guinea,2,0,World Cup and African Cup qualifier,Kenya,45,-45,1349,1549,13,-12,115,71
+2008-06-07,Libya,Gabon,1,0,World Cup and African Cup qualifier,Libya,10,-10,1523,1419,2,-1,80,101
+2008-06-07,Maldives,India,0,1,South Asian Championship,the Maldives,-21,21,1047,1175,-1,6,180,163
+2008-06-07,Mauritania,Morocco,1,4,World Cup and African Cup qualifier,Mauritania,-7,7,1195,1688,0,0,155,42
+2008-06-07,Nepal,Pakistan,4,1,South Asian Championship,the Maldives,37,-37,920,862,5,-6,196,204
+2008-06-07,North Korea,Turkmenistan,1,0,World Cup qualifier,North Korea,7,-7,1513,1337,0,-2,85,119
+2008-06-07,Oman,Japan,1,1,World Cup qualifier,Oman,9,-9,1514,1755,2,-1,84,31
+2008-06-07,Portugal,Turkey,2,0,European Championship,Switzerland,32,-32,1893,1780,2,-8,11,26
+2008-06-07,Saudi Arabia,Lebanon,2,1,World Cup qualifier,Saudi Arabia,3,-3,1640,1311,0,-2,49,126
+2008-06-07,Seychelles,Tunisia,0,2,World Cup and African Cup qualifier,the Seychelles,-4,4,1068,1613,0,0,178,55
+2008-06-07,Sierra Leone,Nigeria,0,1,World Cup and African Cup qualifier,Sierra Leone,-3,3,1185,1725,-1,0,158,39
+2008-06-07,South Africa,Equatorial Guinea,4,1,World Cup and African Cup qualifier,South Africa,8,-8,1516,1252,1,-3,83,143
+2008-06-07,Switzerland,Czechia,0,1,European Championship,Switzerland,-23,23,1770,1942,-5,1,28,8
+2008-06-07,Trinidad and Tobago,Jamaica,1,1,Friendly,Trinidad and Tobago,-1,1,1510,1561,-3,3,86,69
+2008-06-07,United Arab Emirates,Iran,0,1,World Cup qualifier,the United Arab Emirates,-12,12,1469,1734,-2,4,94,35
+2008-06-07,Uzbekistan,Singapore,1,0,World Cup qualifier,Uzbekistan,4,-4,1640,1350,1,0,49,114
+2008-06-08,Antigua and Barbuda,Saint Kitts and Nevis,2,0,Friendly,Antigua and Barbuda,12,-12,1146,1143,2,-3,171,172
+2008-06-08,Austria,Croatia,0,1,European Championship,Austria,-14,14,1585,1884,-2,0,61,13
+2008-06-08,Benin,Uganda,4,1,World Cup and African Cup qualifier,Benin,32,-32,1370,1374,6,-5,112,110
+2008-06-08,Bhutan,Afghanistan,3,1,South Asian Championship,Sri Lanka,49,-49,654,822,1,-4,222,206
+2008-06-08,Congo,Sudan,1,0,World Cup and African Cup qualifier,Congo,10,-10,1414,1305,3,0,104,125
+2008-06-08,DR Congo,Malawi,1,0,World Cup and African Cup qualifier,DR Congo,8,-8,1452,1291,2,-2,96,132
+2008-06-08,Ethiopia,Rwanda,1,2,World Cup and African Cup qualifier,Ethiopia,-23,23,1283,1370,-7,5,134,112
+2008-06-08,Gambia,Senegal,0,0,World Cup and African Cup qualifier,The Gambia,8,-8,1357,1594,-2,-1,117,58
+2008-06-08,Germany,Poland,2,0,European Championship,Austria,20,-20,1980,1765,1,-5,6,29
+2008-06-08,Ghana,Lesotho,3,2,World Cup and African Cup qualifier,South Africa,1,-1,1789,1151,-1,0,23,170
+2008-06-08,Kuwait,Syria,4,2,World Cup qualifier,Kuwait,33,-33,1447,1512,6,-13,97,86
+2008-06-08,Madagascar,Ivory Coast,0,0,World Cup and African Cup qualifier,Madagascar,16,-16,1268,1715,5,-2,138,39
+2008-06-08,Mauritius,Cameroon,0,3,World Cup and African Cup qualifier,Mauritius,-4,4,1173,1771,-2,2,163,27
+2008-06-08,Mexico,Peru,4,0,Friendly,the United States,7,-7,1890,1626,0,-1,12,52
+2008-06-08,Mozambique,Botswana,1,2,World Cup and African Cup qualifier,Mozambique,-25,25,1293,1358,-7,5,130,116
+2008-06-08,Niger,Angola,1,2,World Cup and African Cup qualifier,Niger,-9,9,1247,1588,-4,6,145,59
+2008-06-08,Sri Lanka,Bangladesh,1,0,South Asian Championship,Sri Lanka,12,-12,1007,926,1,0,186,193
+2008-06-08,Swaziland,Togo,2,1,World Cup and African Cup qualifier,Swaziland,32,-32,1167,1433,7,-5,165,100
+2008-06-08,Trinidad and Tobago,Guyana,2,0,Friendly,Trinidad and Tobago,5,-5,1515,1332,3,-2,83,121
+2008-06-08,United States,Argentina,0,0,Friendly,the United States,4,-4,1790,2032,1,0,22,2
+2008-06-08,Zimbabwe,Namibia,2,0,World Cup and African Cup qualifier,Zimbabwe,10,-10,1480,1272,1,-2,92,137
+2008-06-09,Bermuda,Barbados,3,0,Friendly,Bermuda,21,-21,1147,1279,3,-7,171,134
+2008-06-09,France,Romania,0,0,European Championship,Switzerland,-7,7,1999,1915,0,0,4,10
+2008-06-09,Netherlands,Italy,3,0,European Championship,Switzerland,51,-51,2022,1981,4,-4,3,6
+2008-06-09,Netherlands Antilles,Venezuela,0,1,Friendly,the Netherlands Antilles,-2,2,1161,1680,0,0,166,43
+2008-06-10,Grenada,Jamaica,2,1,Friendly,Grenada,16,-16,1231,1545,4,-3,147,72
+2008-06-10,Spain,Russia,4,1,European Championship,Austria,23,-23,2008,1778,1,-5,4,25
+2008-06-10,Sweden,Greece,2,0,European Championship,Austria,43,-43,1824,1792,9,-7,15,21
+2008-06-11,India,Bhutan,2,1,South Asian Championship,the Maldives,2,-2,1177,652,1,0,161,222
+2008-06-11,Indonesia,Vietnam,1,0,Friendly,Indonesia,7,-7,1283,1277,3,-3,132,135
+2008-06-11,Portugal,Czechia,3,1,European Championship,Switzerland,43,-43,1936,1899,3,-3,8,11
+2008-06-11,Sri Lanka,Maldives,0,1,South Asian Championship,Sri Lanka,-23,23,984,1070,-2,2,188,178
+2008-06-11,Switzerland,Turkey,1,2,European Championship,Switzerland,-31,31,1739,1811,-5,6,33,18
+2008-06-12,Austria,Poland,1,1,European Championship,Austria,6,-6,1591,1759,2,-1,59,29
+2008-06-12,Croatia,Germany,2,1,European Championship,Austria,32,-32,1916,1948,3,0,10,7
+2008-06-13,Djibouti,DR Congo,0,6,World Cup and African Cup qualifier,Djibouti,-3,3,802,1455,0,1,208,95
+2008-06-13,Italy,Romania,1,1,European Championship,Switzerland,-5,5,1976,1920,1,1,5,10
+2008-06-13,Mauritania,Ethiopia,0,1,World Cup and African Cup qualifier,Mauritania,-21,21,1174,1304,-7,6,162,126
+2008-06-13,Netherlands,France,4,1,European Championship,Switzerland,41,-41,2063,1958,2,-1,1,6
+2008-06-14,Bahrain,Oman,1,1,World Cup qualifier,Bahrain,-7,7,1543,1521,-3,5,72,79
+2008-06-14,Botswana,Ivory Coast,1,1,World Cup and African Cup qualifier,Botswana,13,-13,1371,1702,1,-1,115,40
+2008-06-14,Chad,Congo,2,1,World Cup qualifier,Chad,23,-23,1285,1391,7,-6,133,110
+2008-06-14,China,Iraq,1,2,World Cup qualifier,China,-22,22,1510,1624,-6,5,83,52
+2008-06-14,Gabon,Ghana,2,0,World Cup and African Cup qualifier,Gabon,50,-50,1469,1739,8,-9,94,33
+2008-06-14,Gambia,Algeria,1,0,World Cup and African Cup qualifier,The Gambia,17,-17,1374,1393,3,-3,114,108
+2008-06-14,Grenada,Costa Rica,2,2,World Cup qualifier,Grenada,14,-14,1245,1613,2,-4,145,55
+2008-06-14,Guatemala,Saint Lucia,6,0,World Cup qualifier,Guatemala,6,-6,1502,1132,3,0,87,174
+2008-06-14,Kenya,Zimbabwe,2,0,World Cup and African Cup qualifier,Kenya,33,-33,1382,1447,6,-5,113,97
+2008-06-14,Kuwait,United Arab Emirates,2,3,World Cup qualifier,Kuwait,-24,24,1423,1493,-4,6,101,88
+2008-06-14,Malawi,Egypt,1,0,World Cup and African Cup qualifier,Malawi,37,-37,1328,1785,11,-7,121,23
+2008-06-14,Maldives,India,1,0,South Asian Championship,Sri Lanka,26,-26,1096,1151,0,-9,178,169
+2008-06-14,Namibia,Guinea,1,2,World Cup and African Cup qualifier,Namibia,-11,11,1261,1560,-3,3,140,67
+2008-06-14,Niger,Benin,0,2,World Cup and African Cup qualifier,Niger,-28,28,1219,1398,-6,5,151,107
+2008-06-14,North Korea,Jordan,2,0,World Cup qualifier,North Korea,20,-20,1533,1479,8,-3,77,92
+2008-06-14,Peru,Colombia,1,1,World Cup qualifier,Peru,5,-5,1631,1812,1,2,51,15
+2008-06-14,Puerto Rico,Honduras,2,2,World Cup qualifier,Puerto Rico,19,-19,976,1683,3,-2,189,43
+2008-06-14,Qatar,Australia,1,3,World Cup qualifier,Qatar,-23,23,1503,1737,-8,5,86,35
+2008-06-14,Russia,Greece,1,0,European Championship,Austria,26,-26,1804,1766,6,-4,19,26
+2008-06-14,Rwanda,Morocco,3,1,World Cup and African Cup qualifier,Rwanda,47,-47,1417,1641,10,-8,102,50
+2008-06-14,Seychelles,Burkina Faso,2,3,World Cup and African Cup qualifier,the Seychelles,-9,9,1059,1385,0,-3,179,112
+2008-06-14,Sierra Leone,South Africa,1,0,World Cup and African Cup qualifier,Sierra Leone,32,-32,1217,1484,5,-9,152,91
+2008-06-14,Singapore,Saudi Arabia,0,2,World Cup qualifier,Singapore,-15,15,1335,1655,-1,2,119,47
+2008-06-14,Spain,Sweden,2,1,European Championship,Austria,13,-13,2021,1811,0,-1,4,16
+2008-06-14,Sudan,Mali,3,2,World Cup and African Cup qualifier,Sudan,30,-30,1335,1557,6,-7,119,68
+2008-06-14,Suriname,Guyana,1,0,World Cup qualifier,Suriname,21,-21,1241,1311,4,-4,147,125
+2008-06-14,Syria,Iran,0,2,World Cup qualifier,Syria,-20,20,1492,1754,-3,5,89,30
+2008-06-14,Tanzania,Cameroon,0,0,World Cup and African Cup qualifier,Tanzania,16,-16,1309,1755,4,-2,126,29
+2008-06-14,Thailand,Japan,0,3,World Cup qualifier,Thailand,-15,15,1409,1770,-4,5,105,25
+2008-06-14,Turkmenistan,South Korea,1,3,World Cup qualifier,Turkmenistan,-12,12,1325,1688,-2,3,122,42
+2008-06-14,Uganda,Angola,3,1,World Cup and African Cup qualifier,Uganda,40,-40,1414,1548,6,-9,104,69
+2008-06-14,Uruguay,Venezuela,1,1,World Cup qualifier,Uruguay,-11,11,1795,1691,-2,2,21,41
+2008-06-14,Uzbekistan,Lebanon,3,0,World Cup qualifier,Uzbekistan,5,-5,1645,1306,0,-3,49,127
+2008-06-14,Vanuatu,New Caledonia,1,1,World Cup qualifier and Oceania Cup,Vanuatu,0,0,1222,1316,0,-1,150,124
+2008-06-15,Argentina,Ecuador,1,1,World Cup qualifier,Argentina,-17,17,2015,1694,-1,3,4,41
+2008-06-15,Bolivia,Chile,0,2,World Cup qualifier,Bolivia,-25,25,1555,1759,-5,8,68,29
+2008-06-15,Burundi,Tunisia,0,1,World Cup and African Cup qualifier,Burundi,-8,8,1256,1621,-2,0,141,55
+2008-06-15,Equatorial Guinea,Nigeria,0,1,World Cup and African Cup qualifier,Equatorial Guinea,-4,4,1248,1729,-2,1,145,38
+2008-06-15,Haiti,Netherlands Antilles,0,0,World Cup qualifier,Haiti,-17,17,1504,1178,-4,3,83,162
+2008-06-15,Jamaica,Bahamas,7,0,World Cup qualifier,Jamaica,1,-1,1546,865,0,0,71,202
+2008-06-15,Liberia,Senegal,2,2,World Cup and African Cup qualifier,Liberia,12,-12,1255,1582,4,-3,142,61
+2008-06-15,Libya,Lesotho,1,0,World Cup and African Cup qualifier,South Africa,4,-4,1527,1147,1,-2,77,171
+2008-06-15,Madagascar,Mozambique,1,1,World Cup and African Cup qualifier,Madagascar,-4,4,1264,1297,0,2,138,130
+2008-06-15,Mauritius,Cape Verde,0,1,World Cup and African Cup qualifier,Mauritius,-17,17,1156,1338,-5,4,167,119
+2008-06-15,Mexico,Belize,2,0,World Cup qualifier,the United States,1,-1,1891,1098,2,0,11,177
+2008-06-15,Panama,El Salvador,1,0,World Cup qualifier,Panama,6,-6,1590,1387,1,-3,59,111
+2008-06-15,Paraguay,Brazil,2,0,World Cup qualifier,Paraguay,42,-42,1847,2016,4,-1,14,3
+2008-06-15,Saint Vincent and the Grenadines,Canada,0,3,World Cup qualifier,Saint Vincent and the Grenadines,-16,16,1282,1625,-4,5,134,52
+2008-06-15,Swaziland,Zambia,0,0,World Cup and African Cup qualifier,Swaziland,13,-13,1180,1525,4,-3,160,78
+2008-06-15,Switzerland,Portugal,2,0,European Championship,Switzerland,48,-48,1787,1888,10,-4,23,12
+2008-06-15,Trinidad and Tobago,Bermuda,1,2,World Cup qualifier,Trinidad and Tobago,-37,37,1478,1184,-11,13,93,158
+2008-06-15,Turkey,Czechia,3,2,European Championship,Switzerland,31,-31,1842,1868,1,-1,15,13
+2008-06-15,United States,Barbados,8,0,World Cup qualifier,the United States,3,-3,1793,1276,0,-1,22,136
+2008-06-16,Austria,Germany,0,1,European Championship,Austria,-9,9,1582,1957,-2,0,60,7
+2008-06-16,Croatia,Poland,1,0,European Championship,Austria,14,-14,1930,1745,2,-5,8,34
+2008-06-17,Antigua and Barbuda,Cuba,3,4,World Cup qualifier,Antigua and Barbuda,-8,8,1138,1487,-1,2,173,89
+2008-06-17,Italy,France,2,0,European Championship,Switzerland,36,-36,2012,1922,0,-2,5,8
+2008-06-17,Netherlands,Romania,2,0,European Championship,Switzerland,23,-23,2086,1897,0,0,1,10
+2008-06-17,Uruguay,Peru,6,0,World Cup qualifier,Uruguay,15,-15,1810,1616,2,-5,19,56
+2008-06-18,Bolivia,Paraguay,4,2,World Cup qualifier,Bolivia,45,-45,1600,1802,10,-5,58,19
+2008-06-18,Brazil,Argentina,0,0,World Cup qualifier,Brazil,-6,6,2010,2021,-2,1,5,3
+2008-06-18,Ecuador,Colombia,0,0,World Cup qualifier,Ecuador,1,-1,1695,1811,0,0,41,17
+2008-06-18,Jamaica,Bahamas,6,0,World Cup qualifier,Jamaica,1,-1,1547,864,0,0,71,202
+2008-06-18,Russia,Sweden,2,0,European Championship,Austria,38,-38,1842,1773,6,-6,14,24
+2008-06-18,Spain,Greece,2,1,European Championship,Austria,9,-9,2030,1757,0,-2,2,29
+2008-06-19,Germany,Portugal,3,2,European Championship,Switzerland,20,-20,1977,1868,0,0,6,12
+2008-06-19,Venezuela,Chile,2,3,World Cup qualifier,Venezuela,-22,22,1669,1781,-2,4,44,24
+2008-06-20,Algeria,Gambia,1,0,World Cup and African Cup qualifier,Algeria,13,-13,1406,1361,2,-3,106,117
+2008-06-20,Canada,Saint Vincent and the Grenadines,4,1,World Cup qualifier,Canada,5,-5,1630,1277,0,0,51,134
+2008-06-20,Croatia,Turkey,1,1,European Championship,Austria,-6,6,1924,1848,0,0,7,14
+2008-06-20,Libya,Lesotho,4,0,World Cup and African Cup qualifier,Libya,4,-4,1531,1143,0,0,77,171
+2008-06-21,Burkina Faso,Seychelles,4,1,World Cup and African Cup qualifier,Burkina Faso,6,-6,1391,1053,3,-1,109,180
+2008-06-21,Cameroon,Tanzania,2,1,World Cup and African Cup qualifier,Cameroon,2,-2,1757,1307,1,0,29,126
+2008-06-21,Costa Rica,Grenada,3,0,World Cup qualifier,Costa Rica,4,-4,1617,1241,2,0,55,146
+2008-06-21,Guatemala,Saint Lucia,3,1,World Cup qualifier,the United States,6,-6,1508,1126,4,0,82,174
+2008-06-21,Mexico,Belize,7,0,World Cup qualifier,Mexico,1,-1,1892,1097,-1,0,12,177
+2008-06-21,Morocco,Rwanda,2,0,World Cup and African Cup qualifier,Morocco,8,-8,1649,1409,1,-2,49,104
+2008-06-21,New Caledonia,Vanuatu,3,0,World Cup qualifier and Oceania Cup,New Caledonia,22,-22,1338,1200,5,-5,119,155
+2008-06-21,Nigeria,Equatorial Guinea,2,0,World Cup and African Cup qualifier,Nigeria,2,-2,1731,1246,0,0,38,145
+2008-06-21,Russia,Netherlands,3,1,European Championship,Switzerland,60,-60,1902,2026,5,-1,10,2
+2008-06-21,Senegal,Liberia,3,1,World Cup and African Cup qualifier,Senegal,5,-5,1587,1250,1,-2,60,144
+2008-06-21,South Africa,Sierra Leone,0,0,World Cup and African Cup qualifier,South Africa,-16,16,1468,1233,-3,4,94,148
+2008-06-21,Tunisia,Burundi,2,1,World Cup and African Cup qualifier,Tunisia,3,-3,1624,1253,2,0,52,141
+2008-06-21,Zambia,Swaziland,1,0,World Cup and African Cup qualifier,Zambia,3,-3,1528,1177,0,-2,78,162
+2008-06-22,Australia,China,0,1,World Cup qualifier,Australia,-35,35,1702,1545,-4,8,40,73
+2008-06-22,Barbados,United States,0,1,World Cup qualifier,Barbados,-3,3,1273,1796,0,0,136,21
+2008-06-22,Benin,Niger,2,0,World Cup and African Cup qualifier,Benin,10,-10,1408,1209,2,-2,106,153
+2008-06-22,Bermuda,Trinidad and Tobago,0,2,World Cup qualifier,Bermuda,-15,15,1169,1493,-4,4,162,88
+2008-06-22,Cape Verde,Mauritius,3,1,World Cup and African Cup qualifier,Cape Verde,10,-10,1348,1146,-1,-3,120,170
+2008-06-22,Congo,Chad,2,0,World Cup qualifier,Congo,14,-14,1405,1271,1,-5,108,137
+2008-06-22,Cuba,Antigua and Barbuda,4,0,World Cup qualifier,Cuba,5,-5,1492,1133,0,0,89,173
+2008-06-22,DR Congo,Djibouti,5,1,World Cup and African Cup qualifier,DR Congo,1,-1,1456,801,1,0,94,208
+2008-06-22,Egypt,Malawi,2,0,World Cup and African Cup qualifier,Egypt,2,-2,1787,1326,1,1,22,122
+2008-06-22,El Salvador,Panama,3,1,World Cup qualifier,El Salvador,39,-39,1426,1551,11,-9,101,68
+2008-06-22,Ethiopia,Mauritania,6,1,World Cup and African Cup qualifier,Ethiopia,17,-17,1321,1157,4,-2,124,166
+2008-06-22,Ghana,Gabon,2,0,World Cup and African Cup qualifier,Ghana,6,-6,1745,1463,1,0,34,93
+2008-06-22,Guinea,Namibia,4,0,World Cup and African Cup qualifier,Guinea,7,-7,1567,1254,3,-1,64,140
+2008-06-22,Guyana,Suriname,1,2,World Cup qualifier,Guyana,-29,29,1282,1270,-6,8,131,138
+2008-06-22,Iran,Kuwait,2,0,World Cup qualifier,Iran,5,-5,1759,1418,2,-1,29,102
+2008-06-22,Italy,Spain,0,0,European Championship,Austria,1,-1,2013,2029,0,0,4,1
+2008-06-22,Ivory Coast,Botswana,4,0,World Cup and African Cup qualifier,Ivory Coast,6,-6,1708,1365,1,-2,39,116
+2008-06-22,Japan,Bahrain,1,0,World Cup qualifier,Japan,5,-5,1775,1538,2,-4,25,76
+2008-06-22,Jordan,Turkmenistan,2,0,World Cup qualifier,Jordan,11,-11,1490,1314,1,-2,90,126
+2008-06-22,Lebanon,Singapore,1,2,World Cup qualifier,Lebanon,-24,24,1282,1359,-4,3,131,118
+2008-06-22,Mali,Sudan,3,0,World Cup and African Cup qualifier,Mali,9,-9,1566,1326,1,-1,67,122
+2008-06-22,Mozambique,Madagascar,3,0,World Cup and African Cup qualifier,Mozambique,22,-22,1319,1242,5,-8,125,146
+2008-06-22,Netherlands Antilles,Haiti,0,1,World Cup qualifier,the Netherlands Antilles,-9,9,1169,1513,-1,0,162,84
+2008-06-22,Oman,Thailand,2,1,World Cup qualifier,Oman,9,-9,1530,1400,0,-6,79,110
+2008-06-22,Qatar,Iraq,1,0,World Cup qualifier,the United Arab Emirates,27,-27,1530,1597,7,-6,79,58
+2008-06-22,Saudi Arabia,Uzbekistan,4,0,World Cup qualifier,Saudi Arabia,26,-26,1681,1619,4,-3,43,53
+2008-06-22,South Korea,North Korea,0,0,World Cup qualifier,South Korea,-13,13,1675,1546,-2,4,44,72
+2008-06-22,United Arab Emirates,Syria,1,3,World Cup qualifier,the United Arab Emirates,-38,38,1455,1530,-8,9,95,79
+2008-06-22,Zimbabwe,Kenya,0,0,World Cup and African Cup qualifier,Zimbabwe,-9,9,1438,1391,-2,2,99,111
+2008-06-23,Angola,Uganda,0,0,World Cup and African Cup qualifier,Angola,-12,12,1536,1426,-7,3,76,101
+2008-06-25,Germany,Turkey,3,2,European Championship,Switzerland,16,-16,1993,1832,0,-1,6,16
+2008-06-26,Spain,Russia,3,0,European Championship,Austria,28,-28,2057,1874,0,-2,1,12
+2008-06-28,Gabon,Lesotho,2,0,World Cup and African Cup qualifier,Gabon,5,-5,1468,1138,1,-1,92,172
+2008-06-29,Spain,Germany,1,0,European Championship,Austria,20,-20,2077,1973,0,0,1,6
+2008-07-06,Malawi,Kenya,0,0,Independence Tournament,Malawi,-2,2,1324,1393,-1,0,123,111
+2008-07-07,Solomon Islands,Vanuatu,1,2,Wantok Cup,the Solomon Islands,-23,23,1280,1223,-4,4,132,151
+2008-07-08,Trinidad and Tobago,Guyana,2,0,Friendly,Trinidad and Tobago,4,-4,1497,1278,0,-2,88,132
+2008-07-17,Trinidad and Tobago,Netherlands Antilles,2,0,Friendly,Trinidad and Tobago,2,-2,1499,1167,0,-2,88,164
+2008-07-19,Madagascar,Swaziland,1,1,COSAFA Cup,South Africa,-4,4,1238,1181,-1,1,147,159
+2008-07-19,Seychelles,Mauritius,7,0,COSAFA Cup,South Africa,57,-57,1110,1089,5,-9,175,179
+2008-07-20,El Salvador,Guatemala,0,0,Friendly,the United States,2,-2,1428,1506,0,0,101,85
+2008-07-20,Malawi,Lesotho,1,0,COSAFA Cup,South Africa,10,-10,1334,1128,1,-1,122,172
+2008-07-20,Namibia,Comoros,3,0,COSAFA Cup,South Africa,6,-6,1260,841,1,0,139,204
+2008-07-21,Madagascar,Seychelles,1,1,COSAFA Cup,South Africa,-7,7,1231,1117,-1,0,148,175
+2008-07-21,Mauritius,Swaziland,1,1,COSAFA Cup,South Africa,5,-5,1094,1176,0,-2,179,161
+2008-07-22,India,Malaysia,1,1,Friendly,India,-3,3,1148,1159,0,1,169,166
+2008-07-22,Lesotho,Namibia,1,1,COSAFA Cup,South Africa,7,-7,1135,1253,1,-1,171,140
+2008-07-22,Malawi,Comoros,1,0,COSAFA Cup,South Africa,2,-2,1336,839,0,0,122,204
+2008-07-23,Madagascar,Mauritius,2,1,COSAFA Cup,South Africa,12,-12,1243,1082,2,0,146,179
+2008-07-23,Swaziland,Seychelles,1,0,COSAFA Cup,South Africa,17,-17,1193,1100,5,-1,156,176
+2008-07-24,Lesotho,Comoros,1,0,COSAFA Cup,South Africa,6,-6,1141,833,0,0,171,204
+2008-07-24,Namibia,Malawi,1,0,COSAFA Cup,South Africa,25,-25,1278,1311,8,-4,132,126
+2008-07-26,El Salvador,Jamaica,0,0,Friendly,the United States,3,-3,1431,1544,0,-2,101,72
+2008-07-26,Madagascar,Angola,1,0,COSAFA Cup,South Africa,34,-34,1277,1502,13,-11,133,87
+2008-07-26,South Africa,Namibia,1,0,COSAFA Cup,South Africa,6,-6,1474,1272,0,-6,92,138
+2008-07-27,Mozambique,Botswana,2,0,COSAFA Cup,South Africa,34,-34,1353,1331,5,-6,119,122
+2008-07-27,Netherlands Antilles,Aruba,0,0,CONCACAF Champ & Carib Champ q,the Netherlands Antilles,-16,16,1151,913,-4,2,168,197
+2008-07-27,Zambia,Zimbabwe,0,0,COSAFA Cup,South Africa,-5,5,1523,1443,0,0,81,99
+2008-07-29,Grenada,Aruba,3,1,CONCACAF Champ & Carib Champ q,the Netherlands Antilles,8,-8,1249,905,1,-2,146,199
+2008-07-30,India,Afghanistan,1,0,Asian Cup qual & Asian Challenge Cup,India,3,-3,1151,819,1,0,168,206
+2008-07-30,Mozambique,Madagascar,2,1,COSAFA Cup,South Africa,16,-16,1369,1261,4,-7,115,140
+2008-07-30,South Africa,Zambia,1,0,COSAFA Cup,South Africa,17,-17,1491,1506,2,-2,90,83
+2008-07-30,Tajikistan,Turkmenistan,0,0,Asian Cup qual & Asian Challenge Cup,India,1,-1,1298,1313,0,0,128,125
+2008-07-30,Trinidad and Tobago,Haiti,2,0,Friendly,Trinidad and Tobago,11,-11,1510,1502,6,-4,82,87
+2008-07-31,Myanmar,Nepal,3,0,Asian Cup qual & Asian Challenge Cup,India,14,-14,1182,906,3,-1,160,197
+2008-07-31,North Korea,Sri Lanka,3,0,Asian Cup qual & Asian Challenge Cup,India,3,-3,1549,981,1,0,69,188
+2008-07-31,Netherlands Antilles,Grenada,2,0,CONCACAF Champ & Carib Champ q,the Netherlands Antilles,30,-30,1181,1219,7,-5,161,151
+2008-08-01,India,Tajikistan,1,1,Asian Cup qual & Asian Challenge Cup,India,3,-3,1154,1295,0,0,169,128
+2008-08-01,Turkmenistan,Afghanistan,5,0,Asian Cup qual & Asian Challenge Cup,India,4,-4,1317,815,0,0,125,206
+2008-08-02,Myanmar,Sri Lanka,3,1,Asian Cup qual & Asian Challenge Cup,India,14,-14,1196,967,4,-1,156,189
+2008-08-02,North Korea,Nepal,1,0,Asian Cup qual & Asian Challenge Cup,India,1,-1,1550,905,0,-1,69,198
+2008-08-03,India,Turkmenistan,2,1,Asian Cup qual & Asian Challenge Cup,India,24,-24,1178,1293,6,-3,163,128
+2008-08-03,South Africa,Mozambique,2,1,COSAFA Cup,South Africa,9,-9,1500,1360,1,-2,89,117
+2008-08-03,Tajikistan,Afghanistan,4,0,Asian Cup qual & Asian Challenge Cup,India,4,-4,1299,811,1,-1,127,207
+2008-08-03,Zambia,Madagascar,2,0,COSAFA Cup,South Africa,12,-12,1518,1249,1,-5,82,145
+2008-08-04,Nepal,Sri Lanka,3,0,Asian Cup qual & Asian Challenge Cup,India,41,-41,946,926,6,-4,192,193
+2008-08-04,North Korea,Myanmar,1,0,Asian Cup qual & Asian Challenge Cup,India,5,-5,1555,1191,1,-1,68,157
+2008-08-06,Guatemala,Bolivia,3,0,Friendly,the United States,22,-22,1528,1578,3,-6,81,63
+2008-08-07,India,Myanmar,1,0,Asian Cup qual & Asian Challenge Cup,India,15,-15,1193,1176,7,-7,156,164
+2008-08-07,Iran,Palestine,3,0,West Asian Championship,Iran,2,-2,1761,1224,0,0,29,149
+2008-08-07,Jordan,Syria,0,0,West Asian Championship,Iran,2,-2,1492,1528,1,-1,90,79
+2008-08-07,Tajikistan,North Korea,1,0,Asian Cup qual & Asian Challenge Cup,India,33,-33,1332,1522,5,-13,122,81
+2008-08-08,Guyana,Dominica,3,0,CONCACAF Champ & Carib Champ q,Guyana,7,-7,1285,993,3,0,129,186
+2008-08-09,Qatar,Palestine,1,0,West Asian Championship,Iran,6,-6,1536,1218,1,-2,76,151
+2008-08-09,Suriname,Dominica,3,1,CONCACAF Champ & Carib Champ q,Guyana,10,-10,1280,983,7,-1,132,187
+2008-08-09,Syria,Oman,2,1,West Asian Championship,Iran,20,-20,1548,1510,10,-6,69,83
+2008-08-10,Guyana,Suriname,1,1,CONCACAF Champ & Carib Champ q,Guyana,-6,6,1279,1286,-4,3,133,129
+2008-08-10,Haiti,Trinidad and Tobago,1,0,Friendly,Haiti,7,-7,1509,1503,3,-4,84,87
+2008-08-11,Iran,Qatar,6,1,West Asian Championship,Iran,11,-11,1772,1525,1,-3,28,79
+2008-08-11,Jordan,Oman,3,1,West Asian Championship,Iran,32,-32,1524,1478,10,-9,80,92
+2008-08-13,India,Tajikistan,4,1,Asian Cup qual & Asian Challenge Cup,India,39,-39,1232,1293,8,-5,148,127
+2008-08-13,Iran,Syria,2,0,West Asian Championship,Iran,8,-8,1780,1540,3,-5,25,74
+2008-08-13,Jordan,Qatar,3,0,West Asian Championship,Iran,35,-35,1559,1490,12,-11,68,90
+2008-08-13,North Korea,Myanmar,4,0,Asian Cup qual & Asian Challenge Cup,India,9,-9,1531,1167,3,-1,78,165
+2008-08-14,Trinidad and Tobago,El Salvador,3,1,Friendly,the United States,12,-12,1515,1419,3,-1,83,102
+2008-08-15,Iran,Jordan,2,1,West Asian Championship,Iran,5,-5,1785,1554,1,0,24,68
+2008-08-19,Australia,South Africa,2,2,Friendly,England,-5,5,1697,1505,0,3,40,85
+2008-08-19,Gabon,Mali,1,0,Friendly,France,13,-13,1481,1553,1,-1,92,68
+2008-08-20,Albania,Liechtenstein,2,0,Friendly,Albania,3,-3,1488,1176,0,-1,91,163
+2008-08-20,Algeria,United Arab Emirates,1,0,Friendly,France,11,-11,1417,1444,4,-3,103,98
+2008-08-20,Austria,Italy,2,2,Friendly,France,8,-8,1590,2005,2,-1,58,5
+2008-08-20,Bahrain,Burkina Faso,3,1,Friendly,Bahrain,6,-6,1544,1385,2,-1,74,113
+2008-08-20,Belarus,Argentina,0,0,Friendly,Belarus,7,-7,1590,2014,1,0,58,3
+2008-08-20,Bolivia,Panama,1,0,Friendly,Bolivia,6,-6,1584,1545,1,-2,62,71
+2008-08-20,Bosnia and Herzegovina,Bulgaria,1,2,Friendly,Bosnia and Herzegovina,-6,6,1533,1806,-1,1,76,19
+2008-08-20,Canada,Jamaica,1,1,World Cup qualifier,Canada,-10,10,1620,1554,-1,5,51,67
+2008-08-20,Costa Rica,El Salvador,1,0,World Cup qualifier,Costa Rica,6,-6,1623,1413,4,-2,50,104
+2008-08-20,Cuba,Trinidad and Tobago,1,3,World Cup qualifier,Cuba,-37,37,1455,1552,-5,13,94,70
+2008-08-20,Denmark,Spain,0,3,Friendly,Denmark,-11,11,1824,2088,-2,0,17,1
+2008-08-20,DR Congo,Togo,2,1,Friendly,France,9,-9,1465,1424,1,-1,93,101
+2008-08-20,Ecuador,Colombia,1,0,Friendly,the United States,13,-13,1708,1798,1,-4,40,21
+2008-08-20,England,Czechia,2,2,Friendly,England,-4,4,1917,1872,0,0,9,13
+2008-08-20,Estonia,Malta,2,1,Friendly,Estonia,4,-4,1409,1249,2,-3,106,144
+2008-08-20,Finland,Israel,2,0,Friendly,Finland,15,-15,1674,1748,1,-3,46,32
+2008-08-20,Germany,Belgium,2,0,Friendly,Germany,2,-2,1975,1615,0,0,6,54
+2008-08-20,Guatemala,United States,0,1,World Cup qualifier,Guatemala,-11,11,1517,1807,-4,3,84,18
+2008-08-20,Haiti,Suriname,2,2,World Cup qualifier,Haiti,-15,15,1494,1301,-6,2,90,127
+2008-08-20,Hungary,Montenegro,3,3,Friendly,Hungary,0,0,1579,1666,-1,-1,63,47
+2008-08-20,Iceland,Azerbaijan,1,1,Friendly,Iceland,-4,4,1413,1372,0,1,104,114
+2008-08-20,Ivory Coast,Guinea,2,1,Friendly,France,6,-6,1714,1561,0,-2,39,66
+2008-08-20,Japan,Uruguay,1,3,Friendly,Japan,-18,18,1757,1828,-2,2,28,16
+2008-08-20,Kazakhstan,Andorra,3,0,World Cup qualifier,Kazakhstan,6,-6,1365,1053,1,0,117,180
+2008-08-20,Libya,Senegal,0,0,Friendly,Libya,-1,1,1530,1588,-1,-3,79,61
+2008-08-20,Lithuania,Moldova,3,0,Friendly,Lithuania,10,-10,1577,1495,0,-3,64,88
+2008-08-20,Luxembourg,Macedonia,1,4,Friendly,Luxembourg,-3,3,1039,1570,-1,-1,184,65
+2008-08-20,Mexico,Honduras,2,1,World Cup qualifier,Mexico,6,-6,1898,1677,1,-1,10,43
+2008-08-20,Morocco,Benin,3,1,Friendly,Morocco,4,-4,1653,1404,1,-3,48,109
+2008-08-20,Mozambique,Swaziland,3,0,Friendly,Mozambique,6,-6,1366,1187,1,-1,116,158
+2008-08-20,Norway,Ireland,1,1,Friendly,Norway,-2,2,1734,1775,0,3,36,24
+2008-08-20,Oman,Uzbekistan,2,0,Friendly,Oman,17,-17,1495,1602,5,-3,88,56
+2008-08-20,Paraguay,Saudi Arabia,1,1,Friendly,Switzerland,-3,3,1799,1684,-1,1,20,42
+2008-08-20,Portugal,Faroe Islands,5,0,Friendly,Portugal,0,0,1868,1156,-1,0,14,169
+2008-08-20,Qatar,Tajikistan,5,0,Friendly,Qatar,6,-6,1496,1287,3,-2,87,129
+2008-08-20,Romania,Latvia,1,0,Friendly,Romania,1,-1,1898,1518,0,-1,10,82
+2008-08-20,Russia,Netherlands,1,1,Friendly,Russia,1,-1,1875,2025,0,0,12,2
+2008-08-20,Scotland,Northern Ireland,0,0,Friendly,Scotland,-7,7,1746,1589,-1,0,33,60
+2008-08-20,Slovakia,Greece,0,2,Friendly,Slovakia,-14,14,1609,1771,-3,4,55,26
+2008-08-20,Slovenia,Croatia,2,3,Friendly,Slovenia,-3,3,1545,1927,-1,-1,71,8
+2008-08-20,Sudan,Egypt,4,0,Friendly,Sudan,33,-33,1359,1754,4,-9,119,31
+2008-08-20,Sweden,France,2,3,Friendly,Sweden,-9,9,1764,1931,0,1,27,7
+2008-08-20,Switzerland,Cyprus,4,1,Friendly,Switzerland,4,-4,1791,1530,0,-2,22,79
+2008-08-20,Tanzania,Ghana,1,1,Friendly,Tanzania,7,-7,1314,1738,1,0,125,34
+2008-08-20,Tunisia,Angola,1,1,Friendly,Tunisia,-6,6,1618,1508,-1,3,52,85
+2008-08-20,Turkey,Chile,1,0,Friendly,Turkey,6,-6,1838,1775,1,1,15,24
+2008-08-20,Ukraine,Poland,1,0,Friendly,Ukraine,7,-7,1755,1738,3,0,30,34
+2008-08-20,Venezuela,Syria,4,1,Friendly,Venezuela,7,-7,1676,1533,1,-2,44,76
+2008-08-20,Wales,Georgia,1,2,Friendly,Wales,-16,16,1638,1520,-1,6,49,81
+2008-08-20,Zimbabwe,Botswana,1,0,Friendly,Zimbabwe,5,-5,1448,1326,3,-1,96,123
+2008-08-21,Indonesia,Cambodia,7,0,Independence Cup,Indonesia,2,-2,1285,797,0,0,130,209
+2008-08-22,Myanmar,Cambodia,7,1,Independence Cup,Indonesia,7,-7,1174,790,1,-1,164,210
+2008-08-24,Libya,Chad,3,0,Friendly,Libya,4,-4,1534,1267,3,0,76,139
+2008-08-24,Qatar,North Korea,2,1,Friendly,Qatar,8,-8,1504,1523,0,-2,87,80
+2008-08-25,Indonesia,Myanmar,4,0,Independence Cup,Indonesia,13,-13,1298,1161,2,-1,128,165
+2008-08-27,Antigua and Barbuda,Bermuda,4,0,CONCACAF Champ & Carib Champ q,the Cayman Islands,41,-41,1174,1128,8,-8,164,172
+2008-08-27,Cayman Islands,Saint Martin,3,0,CONCACAF Champ & Carib Champ q,the Cayman Islands,28,-28,988,959,5,-5,186,191
+2008-08-27,Iran,Azerbaijan,1,0,Friendly,Iran,1,-1,1786,1371,0,0,23,114
+2008-08-27,Libya,Niger,6,2,Friendly,Libya,3,-3,1537,1206,0,0,76,155
+2008-08-29,United Arab Emirates,Bahrain,2,3,Friendly,the United Arab Emirates,-10,10,1434,1554,-1,7,99,67
+2008-08-29,Uzbekistan,North Korea,0,0,Friendly,Uzbekistan,-5,5,1597,1528,0,0,56,80
+2008-08-30,Bermuda,Saint Martin,7,0,CONCACAF Champ & Carib Champ q,the Cayman Islands,25,-25,1153,934,2,-1,170,192
+2008-08-30,Cayman Islands,Antigua and Barbuda,1,1,CONCACAF Champ & Carib Champ q,the Cayman Islands,5,-5,993,1169,0,0,186,164
+2008-08-30,Saudi Arabia,Qatar,2,1,Friendly,Saudi Arabia,3,-3,1687,1501,0,0,42,87
+2008-08-30,Suriname,French Guiana,2,1,Friendly,Suriname,5,-5,1306,1200,0,0,127,156
+2008-08-31,Antigua and Barbuda,Saint Martin,3,2,CONCACAF Champ & Carib Champ q,the Cayman Islands,8,-8,1177,926,2,0,162,192
+2008-08-31,Botswana,Lesotho,1,0,Friendly,Botswana,3,-3,1329,1138,0,0,123,172
+2008-08-31,Cayman Islands,Bermuda,0,0,CONCACAF Champ & Carib Champ q,the Cayman Islands,3,-3,996,1150,0,0,186,170
+2008-09-03,Trinidad and Tobago,Guyana,3,0,Friendly,Trinidad and Tobago,4,-4,1556,1275,4,-2,67,135
+2008-09-05,Algeria,Senegal,3,2,World Cup and African Cup qualifier,Algeria,24,-24,1441,1564,4,-4,99,65
+2008-09-05,Djibouti,Malawi,0,3,World Cup and African Cup qualifier,Djibouti,-6,6,795,1317,-1,1,209,125
+2008-09-05,Libya,Ghana,1,0,World Cup and African Cup qualifier,Libya,26,-26,1563,1712,10,-5,66,39
+2008-09-05,South Korea,Jordan,1,0,Friendly,South Korea,4,-4,1679,1550,2,-4,43,72
+2008-09-06,Albania,Sweden,0,0,World Cup qualifier,Albania,9,-9,1497,1755,4,-3,87,30
+2008-09-06,Argentina,Paraguay,1,1,World Cup qualifier,Argentina,-14,14,2000,1813,-2,1,5,19
+2008-09-06,Armenia,Turkey,0,2,World Cup qualifier,Armenia,-9,9,1438,1847,-3,0,100,15
+2008-09-06,Austria,France,3,1,World Cup qualifier,Austria,48,-48,1638,1883,7,-3,51,10
+2008-09-06,Bahrain,Japan,2,3,World Cup qualifier,Bahrain,-14,14,1540,1771,-9,1,78,27
+2008-09-06,Belgium,Estonia,3,2,World Cup qualifier,Belgium,6,-6,1621,1403,-1,-3,55,109
+2008-09-06,Burkina Faso,Tunisia,0,0,World Cup and African Cup qualifier,Burkina Faso,7,-7,1392,1611,1,-4,112,56
+2008-09-06,Canada,Honduras,1,2,World Cup qualifier,Canada,-22,22,1598,1699,-6,2,57,42
+2008-09-06,Cape Verde,Cameroon,1,2,World Cup and African Cup qualifier,Cape Verde,-6,6,1342,1763,1,0,120,28
+2008-09-06,Chad,Sudan,2,1,World Cup qualifier,Egypt,25,-25,1292,1334,9,-3,130,122
+2008-09-06,Colombia,Uruguay,0,1,World Cup qualifier,Colombia,-24,24,1774,1852,-4,2,25,14
+2008-09-06,Costa Rica,Suriname,7,0,World Cup qualifier,Costa Rica,7,-7,1630,1299,-3,0,53,127
+2008-09-06,Croatia,Kazakhstan,3,0,World Cup qualifier,Croatia,2,-2,1929,1363,1,-1,7,118
+2008-09-06,Cuba,United States,0,1,World Cup qualifier,Cuba,-8,8,1447,1815,-3,0,97,18
+2008-09-06,Cyprus,Italy,1,2,World Cup qualifier,Cyprus,-4,4,1526,2009,-3,2,82,3
+2008-09-06,Ecuador,Bolivia,3,1,World Cup qualifier,Ecuador,13,-13,1721,1571,3,-2,37,63
+2008-09-06,El Salvador,Haiti,5,0,World Cup qualifier,El Salvador,38,-38,1451,1456,9,-3,95,93
+2008-09-06,England,Andorra,2,0,World Cup qualifier,Spain,0,0,1917,1053,1,0,8,180
+2008-09-06,Fiji,Vanuatu,2,0,World Cup qualifier and Oceania Cup,Fiji,23,-23,1283,1200,8,-5,132,155
+2008-09-06,Gambia,Liberia,3,0,World Cup and African Cup qualifier,The Gambia,16,-16,1377,1234,4,-3,114,146
+2008-09-06,Hungary,Denmark,0,0,World Cup qualifier,Hungary,8,-8,1587,1816,2,0,60,17
+2008-09-06,Ireland,Georgia,2,1,World Cup qualifier,Germany,7,-7,1782,1513,1,-4,23,85
+2008-09-06,Israel,Switzerland,2,2,World Cup qualifier,Israel,-3,3,1745,1794,0,1,32,21
+2008-09-06,Kenya,Namibia,1,0,World Cup and African Cup qualifier,Kenya,9,-9,1402,1263,1,-3,110,141
+2008-09-06,Liechtenstein,Germany,0,6,World Cup qualifier,Liechtenstein,-1,1,1175,1976,0,0,164,6
+2008-09-06,Luxembourg,Greece,0,3,World Cup qualifier,Luxembourg,-2,2,1037,1773,0,0,184,26
+2008-09-06,Macedonia,Scotland,1,0,World Cup qualifier,Macedonia,24,-24,1594,1722,5,-3,59,36
+2008-09-06,Malta,Portugal,0,4,World Cup qualifier,Malta,-4,4,1245,1872,-1,2,145,12
+2008-09-06,Martinique,French Guiana,2,1,Friendly,Martinique,3,-3,1374,1197,-1,0,115,156
+2008-09-06,Mauritania,Rwanda,0,1,World Cup and African Cup qualifier,Mauritania,-12,12,1145,1421,-2,2,170,104
+2008-09-06,Mauritius,Tanzania,1,4,World Cup and African Cup qualifier,Mauritius,-22,22,1060,1336,0,5,179,121
+2008-09-06,Mexico,Jamaica,3,0,World Cup qualifier,Mexico,5,-5,1903,1549,1,-3,9,72
+2008-09-06,Moldova,Latvia,1,2,World Cup qualifier,Moldova,-24,24,1471,1542,-3,5,91,77
+2008-09-06,Montenegro,Bulgaria,2,2,World Cup qualifier,Montenegro,2,-2,1668,1804,1,-1,46,20
+2008-09-06,Netherlands,Australia,1,2,Friendly,the Netherlands,-18,18,2007,1715,-2,2,4,39
+2008-09-06,New Caledonia,New Zealand,1,3,World Cup qualifier and Oceania Cup,New Caledonia,-27,27,1311,1569,-4,12,126,64
+2008-09-06,Norway,Iceland,2,2,World Cup qualifier,Norway,-17,17,1717,1430,-3,3,38,101
+2008-09-06,Oman,Morocco,0,0,Friendly,Oman,2,-2,1497,1651,1,0,87,48
+2008-09-06,Peru,Venezuela,1,0,World Cup qualifier,Peru,18,-18,1634,1658,1,-2,52,47
+2008-09-06,Poland,Slovenia,1,1,World Cup qualifier,Poland,-14,14,1724,1559,-1,4,35,69
+2008-09-06,Qatar,Uzbekistan,3,0,World Cup qualifier,Qatar,35,-35,1536,1562,8,-11,79,67
+2008-09-06,Romania,Lithuania,0,3,World Cup qualifier,Romania,-64,64,1834,1641,-6,13,16,50
+2008-09-06,Saudi Arabia,Iran,1,1,World Cup qualifier,Saudi Arabia,0,0,1687,1786,-1,1,43,22
+2008-09-06,Serbia,Faroe Islands,2,0,World Cup qualifier,Serbia,1,-1,1729,1155,3,1,34,168
+2008-09-06,Seychelles,Burundi,1,2,World Cup and African Cup qualifier,the Seychelles,-17,17,1083,1270,-2,1,178,140
+2008-09-06,Sierra Leone,Equatorial Guinea,2,1,World Cup and African Cup qualifier,Sierra Leone,15,-15,1248,1231,3,-2,144,148
+2008-09-06,Slovakia,Northern Ireland,2,1,World Cup qualifier,Slovakia,13,-13,1622,1576,1,-2,54,62
+2008-09-06,South Africa,Nigeria,0,1,World Cup and African Cup qualifier,South Africa,-13,13,1492,1744,-3,3,89,33
+2008-09-06,Spain,Bosnia and Herzegovina,1,0,World Cup qualifier,Spain,1,-1,2089,1532,0,-4,1,81
+2008-09-06,Trinidad and Tobago,Guatemala,1,1,World Cup qualifier,Trinidad and Tobago,-8,8,1548,1525,-5,1,73,83
+2008-09-06,United Arab Emirates,North Korea,1,2,World Cup qualifier,the United Arab Emirates,-20,20,1414,1548,-6,7,106,73
+2008-09-06,Ukraine,Belarus,1,0,World Cup qualifier,Ukraine,7,-7,1762,1583,1,-3,29,61
+2008-09-06,Wales,Azerbaijan,1,0,World Cup qualifier,Wales,4,-4,1642,1367,0,-2,49,116
+2008-09-07,Benin,Angola,3,2,World Cup and African Cup qualifier,Benin,20,-20,1424,1488,5,-4,103,90
+2008-09-07,Chile,Brazil,0,3,World Cup qualifier,Chile,-22,22,1753,2032,-7,0,31,2
+2008-09-07,Congo,Mali,1,0,World Cup and African Cup qualifier,Congo,23,-23,1428,1530,5,-11,102,81
+2008-09-07,DR Congo,Egypt,0,1,World Cup and African Cup qualifier,DR Congo,-10,10,1455,1764,-1,4,93,27
+2008-09-07,Gabon,Lesotho,3,0,World Cup and African Cup qualifier,South Africa,9,-9,1490,1129,1,0,89,172
+2008-09-07,Madagascar,Botswana,1,0,World Cup and African Cup qualifier,Madagascar,19,-19,1268,1310,2,-3,141,126
+2008-09-07,Mozambique,Ivory Coast,1,1,World Cup and African Cup qualifier,Mozambique,12,-12,1378,1702,3,-1,114,41
+2008-09-07,Niger,Uganda,3,1,World Cup and African Cup qualifier,Niger,40,-40,1246,1386,9,-11,145,113
+2008-09-07,Zimbabwe,Guinea,0,0,World Cup and African Cup qualifier,Zimbabwe,1,-1,1449,1560,0,0,96,68
+2008-09-09,Paraguay,Venezuela,2,0,World Cup qualifier,Paraguay,11,-11,1824,1647,2,-1,17,48
+2008-09-09,South Africa,Guinea,0,1,Friendly,South Africa,-11,11,1481,1571,-2,5,90,63
+2008-09-10,Albania,Malta,3,0,World Cup qualifier,Albania,8,-8,1505,1237,0,0,86,146
+2008-09-10,Andorra,Belarus,1,3,World Cup qualifier,Andorra,-5,5,1048,1588,-1,1,181,60
+2008-09-10,Azerbaijan,Liechtenstein,0,0,World Cup qualifier,Azerbaijan,-14,14,1353,1189,-3,7,120,157
+2008-09-10,Bosnia and Herzegovina,Estonia,7,0,World Cup qualifier,Bosnia and Herzegovina,19,-19,1551,1384,10,-5,70,113
+2008-09-10,Brazil,Bolivia,0,0,World Cup qualifier,Brazil,-18,18,2014,1589,0,4,2,59
+2008-09-10,Chile,Colombia,4,0,World Cup qualifier,Chile,29,-29,1782,1745,8,-8,23,32
+2008-09-10,Croatia,England,1,4,World Cup qualifier,Croatia,-46,46,1883,1963,-3,1,10,7
+2008-09-10,Faroe Islands,Romania,0,1,World Cup qualifier,the Faroe Islands,-1,1,1154,1835,0,0,168,16
+2008-09-10,Finland,Germany,3,3,World Cup qualifier,Finland,10,-10,1684,1966,1,0,44,6
+2008-09-10,France,Serbia,2,1,World Cup qualifier,France,8,-8,1891,1721,1,-4,9,38
+2008-09-10,Guatemala,Cuba,4,1,World Cup qualifier,Guatemala,18,-18,1543,1429,7,-3,76,100
+2008-09-10,Haiti,Costa Rica,1,3,World Cup qualifier,Haiti,-24,24,1432,1654,-7,5,99,48
+2008-09-10,Honduras,Jamaica,2,0,World Cup qualifier,Honduras,12,-12,1711,1537,1,-7,41,78
+2008-09-10,Iceland,Scotland,1,2,World Cup qualifier,Iceland,-10,10,1420,1732,-3,1,104,35
+2008-09-10,Italy,Georgia,2,0,World Cup qualifier,Italy,2,-2,2011,1511,-1,0,4,85
+2008-09-10,Kazakhstan,Ukraine,1,3,World Cup qualifier,Kazakhstan,-9,9,1354,1771,-1,4,119,25
+2008-09-10,Latvia,Greece,0,2,World Cup qualifier,Latvia,-19,19,1523,1792,-8,4,84,21
+2008-09-10,Lithuania,Austria,2,0,World Cup qualifier,Lithuania,21,-21,1662,1617,3,-3,47,54
+2008-09-10,Macedonia,Netherlands,1,2,World Cup qualifier,Macedonia,-6,6,1588,2013,-1,1,60,3
+2008-09-10,Mexico,Canada,2,1,World Cup qualifier,Mexico,4,-4,1907,1594,1,-1,8,58
+2008-09-10,Moldova,Israel,1,2,World Cup qualifier,Moldova,-11,11,1460,1756,-1,2,92,30
+2008-09-10,Montenegro,Ireland,0,0,World Cup qualifier,Montenegro,1,-1,1669,1781,0,-1,46,24
+2008-09-10,New Zealand,New Caledonia,3,0,World Cup qualifier and Oceania Cup,New Zealand,10,-10,1579,1301,1,-1,64,126
+2008-09-10,North Korea,South Korea,1,1,World Cup qualifier,China,7,-7,1555,1672,3,-1,69,45
+2008-09-10,Northern Ireland,Czechia,0,0,World Cup qualifier,Northern Ireland,10,-10,1586,1862,0,0,62,12
+2008-09-10,Oman,Zimbabwe,3,2,Friendly,Oman,6,-6,1503,1443,-1,0,87,96
+2008-09-10,Peru,Argentina,1,1,World Cup qualifier,Peru,13,-13,1647,1987,2,0,50,5
+2008-09-10,Portugal,Denmark,2,3,World Cup qualifier,Portugal,-28,28,1844,1844,-1,5,13,13
+2008-09-10,Qatar,Bahrain,1,1,World Cup qualifier,Qatar,-5,5,1531,1545,-2,5,80,72
+2008-09-10,Russia,Wales,2,1,World Cup qualifier,Russia,5,-5,1880,1637,0,-3,11,52
+2008-09-10,San Marino,Poland,0,2,World Cup qualifier,San Marino,-1,1,925,1725,-3,-2,195,37
+2008-09-10,Slovenia,Slovakia,2,1,World Cup qualifier,Slovenia,18,-18,1577,1604,4,-2,65,56
+2008-09-10,Spain,Armenia,4,0,World Cup qualifier,Spain,1,-1,2090,1437,0,2,1,98
+2008-09-10,Sudan,Chad,3,1,World Cup qualifier,Egypt,26,-26,1360,1266,5,-10,117,140
+2008-09-10,Suriname,El Salvador,0,2,World Cup qualifier,Suriname,-26,26,1273,1477,-9,4,136,91
+2008-09-10,Sweden,Hungary,2,1,World Cup qualifier,Sweden,7,-7,1762,1580,1,-3,29,63
+2008-09-10,Switzerland,Luxembourg,1,2,World Cup qualifier,Switzerland,-40,40,1754,1077,-10,5,31,179
+2008-09-10,Turkey,Belgium,1,1,World Cup qualifier,Turkey,-15,15,1832,1636,-2,2,17,53
+2008-09-10,United Arab Emirates,Saudi Arabia,1,2,World Cup qualifier,the United Arab Emirates,-11,11,1403,1698,0,0,107,43
+2008-09-10,Uruguay,Ecuador,0,0,World Cup qualifier,Uruguay,-12,12,1840,1733,-1,3,15,34
+2008-09-10,United States,Trinidad and Tobago,3,0,World Cup qualifier,the United States,8,-8,1823,1540,0,-5,19,77
+2008-09-10,Uzbekistan,Australia,0,1,World Cup qualifier,Uzbekistan,-17,17,1545,1732,-4,4,72,35
+2008-09-10,Vanuatu,Fiji,2,1,World Cup qualifier and Oceania Cup,Vanuatu,24,-24,1224,1259,4,-10,151,142
+2008-09-10,Zambia,Togo,1,0,World Cup and African Cup qualifier,Zambia,10,-10,1528,1414,2,-3,82,106
+2008-09-15,Martinique,Saint Vincent and the Grenadines,3,0,CONCACAF Champ & Carib Champ q,Martinique,17,-17,1391,1260,5,-9,111,141
+2008-09-17,Saint Vincent and the Grenadines,Anguilla,3,1,CONCACAF Champ & Carib Champ q,Martinique,1,-1,1261,539,0,0,141,231
+2008-09-19,Martinique,Anguilla,3,1,CONCACAF Champ & Carib Champ q,Martinique,0,0,1391,539,0,0,111,231
+2008-09-21,Antigua and Barbuda,Guyana,3,0,Friendly,Antigua and Barbuda,17,-17,1194,1258,6,-9,157,142
+2008-09-24,Chile,Mexico,1,0,Friendly,the United States,13,-13,1795,1894,2,0,21,8
+2008-09-24,Martinique,Guadeloupe,1,0,French Territory Cup,France,17,-17,1408,1427,4,-6,107,101
+2008-09-24,New Caledonia,Tahiti,1,0,French Territory Cup,France,10,-10,1311,1179,1,-5,125,163
+2008-09-24,Saint Kitts and Nevis,British Virgin Islands,4,0,CONCACAF Champ & Carib Champ q,Saint Kitts and Nevis,9,-9,1152,897,2,-1,169,199
+2008-09-25,Reunion,Mayotte,6,1,French Territory Cup,France,24,-24,1276,1159,10,-5,133,166
+2008-09-26,Barbados,British Virgin Islands,2,1,CONCACAF Champ & Carib Champ q,Saint Kitts and Nevis,4,-4,1277,893,3,0,132,199
+2008-09-27,Guadeloupe,New Caledonia,4,0,French Territory Cup,France,19,-19,1446,1292,6,-3,95,128
+2008-09-27,Martinique,Tahiti,1,0,French Territory Cup,France,6,-6,1414,1173,1,-1,106,163
+2008-09-28,French Guiana,Mayotte,4,2,French Territory Cup,France,20,-20,1217,1139,2,-4,154,170
+2008-09-28,Saint Kitts and Nevis,Barbados,1,3,CONCACAF Champ & Carib Champ q,Saint Kitts and Nevis,-28,28,1124,1305,-5,6,174,126
+2008-09-30,Guadeloupe,Tahiti,1,0,French Territory Cup,France,5,-5,1451,1168,0,0,95,163
+2008-09-30,Martinique,New Caledonia,1,1,French Territory Cup,France,-5,5,1409,1297,-1,1,107,128
+2008-09-30,South Africa,Malawi,3,0,Friendly,South Africa,6,-6,1487,1311,0,0,90,124
+2008-10-01,Reunion,French Guiana,2,0,French Territory Cup,France,19,-19,1295,1198,5,-2,129,156
+2008-10-01,Vietnam,Myanmar,2,3,Ho Chi Minh City Cup,Vietnam,-23,23,1254,1184,-10,3,143,161
+2008-10-03,Guadeloupe,French Guiana,4,0,French Territory Cup,France,11,-11,1462,1187,3,-2,92,158
+2008-10-03,New Caledonia,Mayotte,3,2,French Territory Cup,France,9,-9,1306,1130,2,0,126,170
+2008-10-03,Turkmenistan,Myanmar,2,1,Ho Chi Minh City Cup,Vietnam,10,-10,1303,1174,2,-2,128,163
+2008-10-04,Reunion,Martinique,1,0,French Territory Cup,France,20,-20,1315,1389,6,-5,124,112
+2008-10-05,Vietnam,Turkmenistan,2,3,Ho Chi Minh City Cup,Vietnam,-17,17,1237,1320,-2,5,145,124
+2008-10-08,Trinidad and Tobago,Dominican Republic,9,0,Friendly,Trinidad and Tobago,2,-2,1542,1044,0,0,77,182
+2008-10-09,Japan,United Arab Emirates,1,1,Friendly,Japan,-9,9,1762,1412,-3,0,28,107
+2008-10-10,Malaysia,Pakistan,4,1,Friendly,Malaysia,3,-3,1162,859,1,0,165,203
+2008-10-11,Argentina,Uruguay,2,1,World Cup qualifier,Argentina,8,-8,1995,1832,0,-2,5,17
+2008-10-11,Belgium,Armenia,2,0,World Cup qualifier,Belgium,9,-9,1645,1428,3,-1,50,99
+2008-10-11,Bolivia,Peru,3,0,World Cup qualifier,Bolivia,31,-31,1620,1616,6,-4,53,54
+2008-10-11,Botswana,Mozambique,0,1,World Cup and African Cup qualifier,Botswana,-22,22,1288,1400,-4,6,131,109
+2008-10-11,Bulgaria,Italy,0,0,World Cup qualifier,Bulgaria,6,-6,1810,2005,0,0,20,4
+2008-10-11,Cameroon,Mauritius,5,0,World Cup and African Cup qualifier,Cameroon,1,-1,1764,1059,1,0,26,180
+2008-10-11,Colombia,Paraguay,0,1,World Cup qualifier,Colombia,-21,21,1724,1845,-6,6,38,12
+2008-10-11,Denmark,Malta,3,0,World Cup qualifier,Denmark,1,-1,1845,1236,1,-2,12,147
+2008-10-11,England,Kazakhstan,5,1,World Cup qualifier,England,1,-1,1964,1353,0,-1,7,120
+2008-10-11,Equatorial Guinea,South Africa,0,1,World Cup and African Cup qualifier,Equatorial Guinea,-12,12,1219,1499,-3,2,152,88
+2008-10-11,Estonia,Spain,0,3,World Cup qualifier,Estonia,-2,2,1382,2092,-2,0,116,1
+2008-10-11,Faroe Islands,Austria,1,1,World Cup qualifier,the Faroe Islands,16,-16,1170,1601,4,-3,163,57
+2008-10-11,Finland,Azerbaijan,1,0,World Cup qualifier,Finland,3,-3,1687,1350,0,-1,44,121
+2008-10-11,Gabon,Libya,1,0,World Cup and African Cup qualifier,Gabon,18,-18,1508,1545,3,-5,85,73
+2008-10-11,Georgia,Cyprus,1,1,World Cup qualifier,Georgia,-5,5,1506,1531,-1,2,86,81
+2008-10-11,Germany,Russia,2,1,World Cup qualifier,Germany,10,-10,1976,1870,0,1,6,10
+2008-10-11,Ghana,Lesotho,3,0,World Cup and African Cup qualifier,Ghana,1,-1,1713,1128,-1,0,41,171
+2008-10-11,Greece,Moldova,3,0,World Cup qualifier,Greece,5,-5,1797,1455,1,0,21,93
+2008-10-11,Grenada,Martinique,2,2,CONCACAF Champ & Carib Champ q,Guadeloupe,9,-9,1228,1380,2,-5,150,117
+2008-10-11,Guadeloupe,Cayman Islands,7,1,CONCACAF Champ & Carib Champ q,Guadeloupe,3,-3,1465,993,0,0,92,186
+2008-10-11,Guatemala,Trinidad and Tobago,0,0,World Cup qualifier,Guatemala,-6,6,1537,1548,-2,6,78,71
+2008-10-11,Haiti,El Salvador,0,0,World Cup qualifier,Haiti,-3,3,1429,1480,1,0,98,91
+2008-10-11,Honduras,Canada,3,1,World Cup qualifier,Honduras,13,-13,1724,1581,3,-5,38,63
+2008-10-11,Hungary,Albania,2,0,World Cup qualifier,Hungary,16,-16,1596,1489,3,-3,60,89
+2008-10-11,Ivory Coast,Madagascar,3,0,World Cup and African Cup qualifier,Ivory Coast,3,-3,1705,1265,0,0,42,137
+2008-10-11,Jamaica,Mexico,1,0,World Cup qualifier,Jamaica,33,-33,1570,1861,12,-3,66,11
+2008-10-11,Liberia,Algeria,0,0,World Cup and African Cup qualifier,Liberia,6,-6,1240,1435,2,2,145,95
+2008-10-11,Luxembourg,Israel,1,3,World Cup qualifier,Luxembourg,-2,2,1075,1758,0,-1,179,31
+2008-10-11,Malawi,DR Congo,2,1,World Cup and African Cup qualifier,Malawi,23,-23,1334,1432,4,-2,122,96
+2008-10-11,Mali,Chad,2,1,World Cup qualifier,Mali,4,-4,1534,1262,2,0,79,138
+2008-10-11,Morocco,Mauritania,4,1,World Cup and African Cup qualifier,Morocco,2,-2,1653,1143,1,0,48,169
+2008-10-11,Namibia,Zimbabwe,4,2,World Cup and African Cup qualifier,Namibia,37,-37,1300,1406,10,-10,129,106
+2008-10-11,Netherlands,Iceland,2,0,World Cup qualifier,the Netherlands,1,-1,2014,1419,1,1,2,103
+2008-10-11,Nigeria,Sierra Leone,4,1,World Cup and African Cup qualifier,Nigeria,2,-2,1746,1246,0,0,33,143
+2008-10-11,Poland,Czechia,2,1,World Cup qualifier,Poland,22,-22,1747,1840,5,-3,32,15
+2008-10-11,Romania,France,2,2,World Cup qualifier,Romania,-3,3,1832,1894,-1,1,17,8
+2008-10-11,San Marino,Slovakia,1,3,World Cup qualifier,San Marino,-2,2,923,1606,-1,0,196,56
+2008-10-11,Scotland,Norway,0,0,World Cup qualifier,Scotland,-6,6,1726,1723,-2,-1,37,40
+2008-10-11,Senegal,Gambia,1,1,World Cup and African Cup qualifier,Senegal,-14,14,1550,1391,-2,4,69,112
+2008-10-11,Serbia,Lithuania,3,0,World Cup qualifier,Serbia,20,-20,1741,1642,4,-4,34,51
+2008-10-11,Slovenia,Northern Ireland,2,0,World Cup qualifier,Slovenia,22,-22,1599,1564,7,-5,58,67
+2008-10-11,South Korea,Uzbekistan,3,0,Friendly,South Korea,7,-7,1679,1538,0,-5,45,77
+2008-10-11,Sudan,Congo,2,0,World Cup and African Cup qualifier,Sudan,27,-27,1387,1401,3,-7,114,108
+2008-10-11,Suriname,Costa Rica,1,4,World Cup qualifier,Suriname,-12,12,1261,1666,-4,1,139,47
+2008-10-11,Sweden,Portugal,0,0,World Cup qualifier,Sweden,-1,1,1761,1845,-1,1,29,12
+2008-10-11,Switzerland,Latvia,2,1,World Cup qualifier,Switzerland,5,-5,1759,1518,1,0,30,84
+2008-10-11,Tanzania,Cape Verde,3,1,World Cup and African Cup qualifier,Tanzania,22,-22,1358,1320,3,-3,119,124
+2008-10-11,Togo,Swaziland,6,0,World Cup and African Cup qualifier,Ghana,18,-18,1432,1169,10,-6,96,164
+2008-10-11,Tunisia,Seychelles,5,0,World Cup and African Cup qualifier,Tunisia,2,-2,1613,1081,0,0,55,178
+2008-10-11,Turkey,Bosnia and Herzegovina,2,1,World Cup qualifier,Turkey,4,-4,1836,1547,1,-2,16,72
+2008-10-11,Ukraine,Croatia,0,0,World Cup qualifier,Ukraine,1,-1,1772,1882,0,1,25,9
+2008-10-11,United States,Cuba,6,1,World Cup qualifier,the United States,4,-4,1827,1425,0,0,19,100
+2008-10-11,Wales,Liechtenstein,2,0,World Cup qualifier,Wales,2,-2,1639,1187,0,0,52,157
+2008-10-12,Angola,Niger,3,1,World Cup and African Cup qualifier,Angola,7,-7,1495,1239,1,-2,89,145
+2008-10-12,Burundi,Burkina Faso,1,3,World Cup and African Cup qualifier,Burundi,-28,28,1242,1420,-7,9,143,102
+2008-10-12,Ecuador,Chile,1,0,World Cup qualifier,Ecuador,18,-18,1751,1777,3,-2,32,24
+2008-10-12,Egypt,Djibouti,4,0,World Cup and African Cup qualifier,Egypt,0,0,1764,795,0,0,26,209
+2008-10-12,Guinea,Kenya,3,2,World Cup and African Cup qualifier,Guinea,7,-7,1578,1395,0,-5,65,112
+2008-10-12,Uganda,Benin,2,1,World Cup and African Cup qualifier,Uganda,16,-16,1402,1408,7,-5,108,106
+2008-10-12,Venezuela,Brazil,0,4,World Cup qualifier,Venezuela,-13,13,1634,2027,-3,0,52,2
+2008-10-13,Guadeloupe,Grenada,2,1,CONCACAF Champ & Carib Champ q,Guadeloupe,5,-5,1470,1223,0,-1,92,151
+2008-10-13,Martinique,Cayman Islands,1,0,CONCACAF Champ & Carib Champ q,Guadeloupe,4,-4,1384,989,1,0,116,186
+2008-10-14,Bolivia,Uruguay,2,2,World Cup qualifier,Bolivia,6,-6,1626,1826,0,-2,53,19
+2008-10-14,France,Tunisia,3,1,Friendly,France,3,-3,1897,1610,0,0,8,55
+2008-10-14,Vietnam,Singapore,0,0,Friendly,Vietnam,1,-1,1238,1358,0,0,146,118
+2008-10-15,Australia,Qatar,4,0,World Cup qualifier,Australia,11,-11,1743,1520,2,-2,34,83
+2008-10-15,Austria,Serbia,1,3,World Cup qualifier,Austria,-27,27,1574,1768,-9,8,66,27
+2008-10-15,Bahrain,Azerbaijan,1,2,Friendly,Bahrain,-17,17,1528,1367,-6,3,79,118
+2008-10-15,Belarus,England,1,3,World Cup qualifier,Belarus,-10,10,1578,1974,-2,1,63,6
+2008-10-15,Belgium,Spain,1,2,World Cup qualifier,Belgium,-5,5,1640,2097,-2,0,51,1
+2008-10-15,Bosnia and Herzegovina,Armenia,4,1,World Cup qualifier,Bosnia and Herzegovina,15,-15,1562,1413,3,-5,69,104
+2008-10-15,Brazil,Colombia,0,0,World Cup qualifier,Brazil,-16,16,2011,1740,-1,3,3,35
+2008-10-15,Canada,Mexico,2,2,World Cup qualifier,Canada,10,-10,1591,1851,2,0,61,11
+2008-10-15,Chile,Argentina,1,0,World Cup qualifier,Chile,27,-27,1804,1968,5,-2,19,7
+2008-10-15,Costa Rica,Haiti,2,0,World Cup qualifier,Costa Rica,8,-8,1674,1421,1,-2,46,100
+2008-10-15,Croatia,Andorra,4,0,World Cup qualifier,Croatia,0,0,1882,1048,0,0,9,181
+2008-10-15,Cuba,Guatemala,2,1,World Cup qualifier,Cuba,21,-21,1446,1516,6,-7,94,85
+2008-10-15,Czechia,Slovenia,1,0,World Cup qualifier,Czechia,5,-5,1845,1594,2,-1,13,59
+2008-10-15,El Salvador,Suriname,3,0,World Cup qualifier,El Salvador,10,-10,1490,1251,0,-3,91,141
+2008-10-15,Estonia,Turkey,0,0,World Cup qualifier,Estonia,15,-15,1397,1821,5,-2,112,18
+2008-10-15,Georgia,Bulgaria,0,0,World Cup qualifier,Georgia,11,-11,1517,1799,2,0,84,20
+2008-10-15,Germany,Wales,1,0,World Cup qualifier,Germany,3,-3,1979,1636,1,-1,5,52
+2008-10-15,Greece,Switzerland,1,2,World Cup qualifier,Greece,-28,28,1769,1787,-5,7,26,23
+2008-10-15,Grenada,Cayman Islands,4,2,CONCACAF Champ & Carib Champ q,Guadeloupe,12,-12,1235,977,4,-1,147,187
+2008-10-15,Guadeloupe,Martinique,3,1,CONCACAF Champ & Carib Champ q,Guadeloupe,15,-15,1485,1369,0,-1,92,117
+2008-10-15,Iceland,Macedonia,1,0,World Cup qualifier,Iceland,24,-24,1443,1564,8,-7,95,68
+2008-10-15,Iran,North Korea,2,1,World Cup qualifier,Iran,5,-5,1791,1550,0,-3,22,71
+2008-10-15,Ireland,Cyprus,1,0,World Cup qualifier,Ireland,5,-5,1786,1526,-1,0,24,81
+2008-10-15,Italy,Montenegro,2,1,World Cup qualifier,Italy,3,-3,2008,1666,0,-1,4,47
+2008-10-15,Jamaica,Honduras,1,0,World Cup qualifier,Jamaica,23,-23,1593,1701,6,-3,60,41
+2008-10-15,Japan,Uzbekistan,1,1,World Cup qualifier,Japan,-15,15,1747,1553,-4,7,32,70
+2008-10-15,Latvia,Israel,1,1,World Cup qualifier,Latvia,8,-8,1526,1750,3,0,81,31
+2008-10-15,Lithuania,Faroe Islands,1,0,World Cup qualifier,Lithuania,1,-1,1643,1169,0,-1,50,164
+2008-10-15,Luxembourg,Moldova,0,0,World Cup qualifier,Luxembourg,13,-13,1088,1442,1,-3,178,96
+2008-10-15,Malaysia,Nepal,4,0,Independence Tournament,Malaysia,8,-8,1170,938,3,0,163,191
+2008-10-15,Malta,Hungary,0,1,World Cup qualifier,Malta,-7,7,1229,1603,-3,3,150,57
+2008-10-15,Norway,Netherlands,0,1,World Cup qualifier,Norway,-10,10,1713,2024,1,1,39,2
+2008-10-15,Northern Ireland,San Marino,4,0,World Cup qualifier,Northern Ireland,1,-1,1565,922,0,0,67,196
+2008-10-15,Paraguay,Peru,1,0,World Cup qualifier,Paraguay,5,-5,1850,1611,0,-1,12,55
+2008-10-15,Portugal,Albania,0,0,World Cup qualifier,Portugal,-17,17,1828,1506,-4,2,16,88
+2008-10-15,Russia,Finland,3,0,World Cup qualifier,Russia,11,-11,1881,1676,0,-1,10,45
+2008-10-15,Slovakia,Poland,2,1,World Cup qualifier,Slovakia,22,-22,1628,1725,3,-4,53,37
+2008-10-15,South Africa,Ghana,2,1,Friendly,South Africa,13,-13,1512,1700,2,-1,86,42
+2008-10-15,South Korea,United Arab Emirates,4,1,World Cup qualifier,South Korea,8,-8,1687,1404,1,-2,44,107
+2008-10-15,Trinidad and Tobago,United States,2,1,World Cup qualifier,Trinidad and Tobago,29,-29,1577,1798,6,-3,65,21
+2008-10-15,Venezuela,Ecuador,3,1,World Cup qualifier,Venezuela,31,-31,1665,1720,4,-6,48,38
+2008-10-17,Afghanistan,Nepal,2,2,Independence Tournament,Malaysia,5,-5,816,933,0,0,207,191
+2008-10-17,Cambodia,Laos,3,2,Southeast Asian Championship qual,Cambodia,19,-19,809,860,2,-1,208,202
+2008-10-17,Philippines,East Timor,1,0,Southeast Asian Championship qual,Cambodia,9,-9,824,583,0,0,206,225
+2008-10-18,Myanmar,Bangladesh,1,0,Independence Tournament,Malaysia,6,-6,1180,920,1,-4,161,196
+2008-10-19,Brunei,Philippines,1,1,Southeast Asian Championship qual,Cambodia,7,-7,701,817,2,0,217,206
+2008-10-19,Cambodia,East Timor,2,2,Southeast Asian Championship qual,Cambodia,-15,15,794,598,-2,1,210,224
+2008-10-20,Malaysia,Afghanistan,6,0,Independence Tournament,Malaysia,4,-4,1174,812,0,0,163,207
+2008-10-21,Brunei,East Timor,4,1,Southeast Asian Championship qual,Cambodia,25,-25,726,573,4,-3,213,227
+2008-10-21,Laos,Philippines,2,1,Southeast Asian Championship qual,Cambodia,18,-18,878,799,1,-1,201,207
+2008-10-22,El Salvador,Bolivia,2,0,Friendly,the United States,21,-21,1511,1605,4,-2,87,56
+2008-10-23,Barbados,Suriname,3,2,CONCACAF Champ & Carib Champ q,Cuba,17,-17,1322,1234,5,-6,123,147
+2008-10-23,Cambodia,Philippines,2,3,Southeast Asian Championship qual,Cambodia,-25,25,769,824,0,1,210,206
+2008-10-23,Cuba,Netherlands Antilles,7,1,CONCACAF Champ & Carib Champ q,Cuba,9,-9,1455,1172,1,-2,93,162
+2008-10-23,Laos,Brunei,3,2,Southeast Asian Championship qual,Cambodia,12,-12,890,714,1,-1,200,214
+2008-10-23,Malaysia,Myanmar,4,0,Independence Tournament,Malaysia,21,-21,1195,1159,7,-6,156,167
+2008-10-25,Cambodia,Brunei,2,1,Southeast Asian Championship qual,Cambodia,12,-12,781,702,0,-3,210,217
+2008-10-25,Cuba,Barbados,1,1,CONCACAF Champ & Carib Champ q,Cuba,-12,12,1443,1334,-1,1,94,122
+2008-10-25,Laos,East Timor,2,1,Southeast Asian Championship qual,Cambodia,6,-6,896,567,1,-1,199,228
+2008-10-25,Suriname,Netherlands Antilles,2,1,CONCACAF Champ & Carib Champ q,Cuba,16,-16,1250,1156,6,-5,141,167
+2008-10-26,Palestine,Jordan,1,1,Friendly,Palestine,6,-6,1224,1544,2,-5,151,76
+2008-10-27,Barbados,Netherlands Antilles,2,1,CONCACAF Champ & Carib Champ q,Cuba,11,-11,1345,1145,0,-1,122,168
+2008-10-27,Cuba,Suriname,6,0,CONCACAF Champ & Carib Champ q,Cuba,13,-13,1456,1237,1,-5,93,146
+2008-10-28,Thailand,North Korea,1,0,Vietnam FF Cup,Vietnam,21,-21,1421,1529,10,-7,100,78
+2008-10-30,Vietnam,North Korea,0,0,Vietnam FF Cup,Vietnam,8,-8,1246,1521,4,-4,141,82
+2008-11-05,Guyana,Saint Kitts and Nevis,1,1,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,-7,7,1251,1131,0,4,140,170
+2008-11-05,Trinidad and Tobago,Antigua and Barbuda,3,2,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,2,-2,1579,1192,3,0,62,157
+2008-11-07,Antigua and Barbuda,Guyana,2,1,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,23,-23,1215,1228,3,-10,154,150
+2008-11-07,Trinidad and Tobago,Saint Kitts and Nevis,3,1,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,2,-2,1581,1129,0,-1,62,171
+2008-11-08,Saudi Arabia,Thailand,1,0,Friendly,Saudi Arabia,2,-2,1700,1419,1,-3,42,103
+2008-11-09,Antigua and Barbuda,Saint Kitts and Nevis,4,3,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,15,-15,1230,1114,4,-3,150,174
+2008-11-09,Cayman Islands,Jamaica,0,2,Friendly,the Cayman Islands,-1,1,976,1594,0,1,187,59
+2008-11-09,Qatar,Iran,0,1,Friendly,Qatar,-5,5,1515,1796,-2,0,85,22
+2008-11-09,Trinidad and Tobago,Guyana,1,1,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,-17,17,1564,1245,-5,8,67,142
+2008-11-11,Myanmar,Bangladesh,0,0,Grand Royal Challenge Cup,Myanmar,-11,11,1148,931,-1,4,167,192
+2008-11-12,Estonia,Latvia,1,1,Friendly,Estonia,1,-1,1398,1525,0,0,112,80
+2008-11-12,Mexico,Ecuador,2,1,Friendly,the United States,6,-6,1857,1714,0,0,11,38
+2008-11-12,Saudi Arabia,Bahrain,4,0,Friendly,Saudi Arabia,6,-6,1706,1522,2,-3,40,81
+2008-11-13,Indonesia,Bangladesh,2,0,Grand Royal Challenge Cup,Myanmar,5,-5,1303,926,1,0,129,192
+2008-11-13,Japan,Syria,3,1,Friendly,Japan,4,-4,1751,1529,1,0,31,77
+2008-11-14,Oman,Jordan,2,0,Friendly,Oman,12,-12,1515,1532,4,-1,86,76
+2008-11-14,Qatar,South Korea,1,1,Friendly,Qatar,2,-2,1517,1685,2,0,83,44
+2008-11-15,DR Congo,Zambia,0,0,Friendly,DR Congo,0,0,1432,1528,0,0,98,78
+2008-11-15,Myanmar,Indonesia,2,1,Grand Royal Challenge Cup,Myanmar,17,-17,1165,1286,2,-3,165,132
+2008-11-16,Vietnam,Thailand,2,2,Vietnam FF Cup,Vietnam,3,-3,1249,1416,0,-1,140,104
+2008-11-18,Algeria,Mali,1,1,Friendly,France,3,-3,1438,1531,1,-1,96,76
+2008-11-18,Estonia,Moldova,1,0,Mayors' Cup,Estonia,13,-13,1411,1429,6,-3,106,99
+2008-11-18,Gabon,Guinea,3,3,Friendly,France,2,-2,1510,1576,0,-1,89,64
+2008-11-18,Myanmar,Malaysia,4,1,Grand Royal Challenge Cup,Myanmar,21,-21,1186,1174,6,-5,159,162
+2008-11-19,Austria,Turkey,2,4,Friendly,Austria,-9,9,1565,1830,-1,2,66,16
+2008-11-19,Azerbaijan,Albania,1,1,Friendly,Azerbaijan,1,-1,1368,1505,0,2,118,88
+2008-11-19,Bahrain,Australia,0,1,World Cup qualifier,Bahrain,-13,13,1509,1756,-6,3,87,31
+2008-11-19,Brazil,Portugal,6,2,Friendly,Brazil,6,-6,2017,1822,0,-2,3,18
+2008-11-19,Colombia,Nigeria,1,0,Friendly,Colombia,7,-7,1747,1739,3,-2,32,35
+2008-11-19,Cyprus,Belarus,2,1,Friendly,Cyprus,9,-9,1535,1569,5,-1,74,64
+2008-11-19,Denmark,Wales,0,1,Friendly,Denmark,-17,17,1828,1653,-4,2,17,50
+2008-11-19,Egypt,Benin,5,1,Friendly,Egypt,3,-3,1767,1405,-1,-2,29,109
+2008-11-19,El Salvador,Costa Rica,1,3,World Cup qualifier,El Salvador,-25,25,1486,1699,-3,3,91,43
+2008-11-19,Fiji,New Zealand,2,0,World Cup qualifier and Oceania Cup,Fiji,59,-59,1318,1520,12,-19,127,81
+2008-11-19,France,Uruguay,0,0,Friendly,France,-5,5,1892,1831,0,2,8,15
+2008-11-19,Germany,England,1,2,Friendly,Germany,-13,13,1966,1987,-2,1,7,5
+2008-11-19,Ghana,Tunisia,0,0,Friendly,Ghana,-5,5,1695,1615,-1,-1,44,56
+2008-11-19,Greece,Italy,1,1,Friendly,Greece,4,-4,1773,2004,0,0,26,4
+2008-11-19,Honduras,Mexico,1,0,World Cup qualifier,Honduras,23,-23,1724,1834,4,-2,38,13
+2008-11-19,Ireland,Poland,2,3,Friendly,Ireland,-14,14,1772,1739,-4,2,28,35
+2008-11-19,Israel,Ivory Coast,2,2,Friendly,Israel,-4,4,1746,1709,-1,0,33,41
+2008-11-19,Jamaica,Canada,3,0,World Cup qualifier,Jamaica,25,-25,1619,1566,4,-4,55,65
+2008-11-19,Lithuania,Moldova,1,1,Mayors' Cup,Estonia,-8,8,1635,1437,-1,1,51,98
+2008-11-19,Luxembourg,Belgium,1,1,Friendly,Luxembourg,9,-9,1097,1631,2,-1,176,52
+2008-11-19,Macao,Hong Kong,1,9,Friendly,Macao,-5,5,724,1215,0,1,212,155
+2008-11-19,Malta,Iceland,0,1,Friendly,Malta,-7,7,1222,1450,-2,1,153,94
+2008-11-19,Montenegro,Macedonia,2,1,Friendly,Montenegro,5,-5,1671,1559,2,0,45,67
+2008-11-19,Morocco,Zambia,3,0,Friendly,Morocco,8,-8,1661,1520,1,-3,48,81
+2008-11-19,Netherlands,Sweden,3,1,Friendly,the Netherlands,3,-3,2027,1758,0,0,2,30
+2008-11-19,Northern Ireland,Hungary,0,2,Friendly,Northern Ireland,-18,18,1547,1621,-4,3,70,54
+2008-11-19,Oman,Paraguay,0,1,Friendly,Oman,-4,4,1511,1854,2,1,84,11
+2008-11-19,Qatar,Japan,0,3,World Cup qualifier,Qatar,-22,22,1495,1773,-7,5,90,26
+2008-11-19,Romania,Georgia,2,1,Friendly,Romania,2,-2,1834,1515,2,0,13,83
+2008-11-19,San Marino,Czechia,0,3,World Cup qualifier,San Marino,-1,1,921,1846,0,1,196,12
+2008-11-19,Saudi Arabia,South Korea,0,2,World Cup qualifier,Saudi Arabia,-40,40,1666,1725,-7,7,47,37
+2008-11-19,Scotland,Argentina,0,1,Friendly,Scotland,-6,6,1720,1974,-3,1,39,6
+2008-11-19,Serbia,Bulgaria,6,1,Friendly,Serbia,16,-16,1784,1783,5,-3,22,23
+2008-11-19,Slovakia,Liechtenstein,4,0,Friendly,Slovakia,2,-2,1630,1185,0,-3,53,160
+2008-11-19,Slovenia,Bosnia and Herzegovina,3,4,Friendly,Slovenia,-14,14,1580,1576,-1,7,60,62
+2008-11-19,South Africa,Cameroon,3,2,Nelson Mandela Challenge Cup,South Africa,21,-21,1533,1743,12,-6,75,34
+2008-11-19,Spain,Chile,3,0,Friendly,Spain,3,-3,2100,1801,0,-1,1,20
+2008-11-19,Suriname,Haiti,1,1,World Cup qualifier,Suriname,5,-5,1242,1416,3,-3,143,103
+2008-11-19,Switzerland,Finland,1,0,Friendly,Switzerland,5,-5,1792,1671,2,0,21,45
+2008-11-19,Tanzania,Mozambique,1,0,Friendly,Tanzania,8,-8,1366,1392,0,-1,119,113
+2008-11-19,Togo,Rwanda,1,0,Friendly,Togo,7,-7,1439,1414,1,-5,96,105
+2008-11-19,Trinidad and Tobago,Cuba,3,0,World Cup qualifier,Trinidad and Tobago,16,-16,1580,1440,7,-2,60,95
+2008-11-19,United Arab Emirates,Iran,1,1,World Cup qualifier,the United Arab Emirates,14,-14,1418,1782,8,-2,101,24
+2008-11-19,Ukraine,Norway,1,0,Friendly,Ukraine,6,-6,1778,1707,0,-3,25,42
+2008-11-19,United States,Guatemala,2,0,World Cup qualifier,the United States,6,-6,1804,1510,2,0,19,85
+2008-11-19,Venezuela,Angola,0,0,Friendly,Venezuela,-7,7,1658,1502,-1,2,49,89
+2008-11-21,Myanmar,Indonesia,2,1,Grand Royal Challenge Cup,Myanmar,15,-15,1201,1271,1,-3,157,136
+2008-11-22,Estonia,Lithuania,1,1,Mayors' Cup,Estonia,5,-5,1416,1630,4,-1,103,52
+2008-11-26,Singapore,Vietnam,2,2,Friendly,Singapore,-5,5,1353,1254,0,0,120,140
+2008-11-29,Malaysia,Singapore,2,2,Friendly,Malaysia,2,-2,1176,1351,0,-1,162,121
+2008-12-03,Grenada,Trinidad and Tobago,2,1,CONCACAF Champ q & Carib Champ,Jamaica,35,-35,1270,1545,10,-10,137,70
+2008-12-03,Jamaica,Barbados,2,1,CONCACAF Champ q & Carib Champ,Jamaica,4,-4,1623,1341,1,0,54,122
+2008-12-04,Antigua and Barbuda,Haiti,1,1,CONCACAF Champ q & Carib Champ,Jamaica,10,-10,1240,1406,4,-4,146,107
+2008-12-04,Cuba,Guadeloupe,2,1,CONCACAF Champ q & Carib Champ,Jamaica,23,-23,1463,1462,3,-1,92,93
+2008-12-05,Indonesia,Myanmar,3,0,Southeast Asian Championship,Indonesia,19,-19,1290,1182,5,-3,131,160
+2008-12-05,Jamaica,Grenada,4,0,CONCACAF Champ q & Carib Champ,Jamaica,5,-5,1628,1265,0,0,54,137
+2008-12-05,Singapore,Cambodia,5,0,Southeast Asian Championship,Indonesia,3,-3,1354,778,1,0,120,210
+2008-12-05,Trinidad and Tobago,Barbados,2,1,CONCACAF Champ q & Carib Champ,Jamaica,9,-9,1554,1332,3,-1,67,123
+2008-12-06,Cuba,Antigua and Barbuda,3,0,CONCACAF Champ q & Carib Champ,Jamaica,15,-15,1478,1225,-1,-4,93,150
+2008-12-06,Guadeloupe,Haiti,3,2,CONCACAF Champ q & Carib Champ,Jamaica,17,-17,1479,1389,1,-8,92,115
+2008-12-06,Malaysia,Laos,3,0,Southeast Asian Championship,Thailand,12,-12,1188,884,5,-2,157,201
+2008-12-06,Thailand,Vietnam,2,0,Southeast Asian Championship,Thailand,11,-11,1427,1243,3,-2,100,143
+2008-12-07,Grenada,Barbados,4,2,CONCACAF Champ q & Carib Champ,Jamaica,36,-36,1301,1296,8,-8,129,131
+2008-12-07,Indonesia,Cambodia,4,0,Southeast Asian Championship,Indonesia,2,-2,1292,776,-1,0,132,210
+2008-12-07,Jamaica,Trinidad and Tobago,1,1,CONCACAF Champ q & Carib Champ,Jamaica,-9,9,1619,1563,-1,1,55,66
+2008-12-07,Singapore,Myanmar,3,1,Southeast Asian Championship,Indonesia,16,-16,1370,1166,3,-4,117,165
+2008-12-08,Antigua and Barbuda,Guadeloupe,2,2,CONCACAF Champ q & Carib Champ,Jamaica,12,-12,1237,1467,2,0,148,92
+2008-12-08,Haiti,Cuba,1,0,CONCACAF Champ q & Carib Champ,Jamaica,25,-25,1414,1453,10,-1,105,94
+2008-12-08,Thailand,Laos,6,0,Southeast Asian Championship,Thailand,2,-2,1429,882,0,0,100,201
+2008-12-08,Vietnam,Malaysia,3,2,Southeast Asian Championship,Thailand,17,-17,1260,1171,2,-4,141,161
+2008-12-09,Indonesia,Singapore,0,2,Southeast Asian Championship,Indonesia,-32,32,1260,1402,-8,7,140,110
+2008-12-09,Myanmar,Cambodia,3,2,Southeast Asian Championship,Indonesia,4,-4,1170,772,3,0,162,210
+2008-12-10,Thailand,Malaysia,3,0,Southeast Asian Championship,Thailand,8,-8,1437,1163,2,-4,98,165
+2008-12-10,Vietnam,Laos,4,0,Southeast Asian Championship,Thailand,8,-8,1268,874,3,0,137,201
+2008-12-11,Cuba,Grenada,2,2,Caribbean Championship,Jamaica,-8,8,1445,1309,-1,1,95,128
+2008-12-11,Jamaica,Guadeloupe,2,0,Caribbean Championship,Jamaica,11,-11,1630,1456,3,0,52,92
+2008-12-14,Cuba,Guadeloupe,0,0,Caribbean Championship,Jamaica,1,-1,1446,1455,0,0,95,92
+2008-12-14,Jamaica,Grenada,2,0,Caribbean Championship,Jamaica,5,-5,1635,1304,1,-1,51,129
+2008-12-14,Poland,Serbia,1,0,Friendly,Turkey,11,-11,1750,1773,3,-3,32,25
+2008-12-16,Indonesia,Thailand,0,1,Southeast Asian Championship,Indonesia,-16,16,1244,1453,-2,4,143,94
+2008-12-17,Ecuador,Iran,1,0,Friendly tournament,Oman,18,-18,1732,1764,3,-6,37,29
+2008-12-17,Oman,China,3,1,Friendly tournament,Oman,18,-18,1529,1527,7,-8,77,79
+2008-12-17,Vietnam,Singapore,0,0,Southeast Asian Championship,Vietnam,2,-2,1270,1400,0,-2,137,112
+2008-12-19,Iran,China,2,0,Friendly tournament,Oman,9,-9,1773,1518,5,-4,24,83
+2008-12-19,Oman,Ecuador,2,0,Friendly tournament,Oman,29,-29,1558,1703,9,-5,68,42
+2008-12-20,Thailand,Indonesia,2,1,Southeast Asian Championship,Thailand,6,-6,1459,1238,2,-4,92,147
+2008-12-21,Jordan,China,0,1,Friendly,Jordan,-13,13,1519,1531,-7,7,83,76
+2008-12-21,Singapore,Vietnam,0,1,Southeast Asian Championship,Singapore,-32,32,1368,1302,-6,7,118,130
+2008-12-22,Oman,Senegal,1,0,Friendly,Oman,7,-7,1565,1543,3,-3,65,73
+2008-12-23,Bahrain,Saudi Arabia,1,0,Friendly,Bahrain,12,-12,1521,1654,7,-2,80,49
+2008-12-23,Djibouti,Somalia,2,3,Friendly,Djibouti,-10,10,785,919,0,0,209,197
+2008-12-24,Thailand,Vietnam,1,2,Southeast Asian Championship,Thailand,-33,33,1426,1335,-8,8,100,122
+2008-12-27,Saudi Arabia,Syria,1,1,Friendly,Saudi Arabia,-6,6,1648,1535,-1,4,50,74
+2008-12-27,United Arab Emirates,Iraq,2,2,Friendly,the United Arab Emirates,2,-2,1420,1595,1,0,101,59
+2008-12-28,Vietnam,Thailand,1,1,Southeast Asian Championship,Vietnam,-1,1,1334,1427,0,0,122,100
+2008-12-28,Yemen,Zimbabwe,1,0,Friendly,Yemen,13,-13,1224,1393,5,-4,151,112
+2008-12-29,Bahrain,Syria,2,2,Friendly,Bahrain,-2,2,1519,1537,-3,0,83,74
+2008-12-30,Qatar,Libya,5,2,Friendly,Qatar,15,-15,1510,1530,4,-7,86,78
+2008-12-30,United Arab Emirates,Kuwait,0,0,Friendly,the United Arab Emirates,-3,3,1417,1421,-2,2,103,101
+2008-12-30,Yemen,Zimbabwe,0,1,Friendly,Yemen,-8,8,1216,1401,-4,2,155,110
+2008-12-31,Kenya,Sudan,0,0,CECAFA Cup,Uganda,0,0,1395,1387,0,0,112,116
+2008-12-31,Zambia,Djibouti,3,0,CECAFA Cup,Uganda,1,-1,1521,784,1,0,80,209

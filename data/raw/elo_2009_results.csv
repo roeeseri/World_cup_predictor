@@ -1,0 +1,906 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2009-01-01,Uganda,Rwanda,4,0,CECAFA Cup,Uganda,28,-28,1430,1386,9,-11,100,116
+2009-01-01,Zanzibar,Somalia,2,0,CECAFA Cup,Uganda,7,-7,1282,912,2,0,135,197
+2009-01-02,Burundi,Djibouti,4,0,CECAFA Cup,Uganda,5,-5,1247,779,2,0,141,209
+2009-01-02,Kenya,Zambia,0,0,CECAFA Cup,Uganda,7,-7,1402,1514,2,-5,109,85
+2009-01-03,Somalia,Tanzania,1,0,CECAFA Cup,Uganda,37,-37,949,1329,6,-3,191,123
+2009-01-03,Uganda,Zanzibar,0,0,CECAFA Cup,Uganda,-12,12,1418,1294,-3,2,103,133
+2009-01-04,Bahrain,Iraq,3,1,Gulf Cup,Oman,36,-36,1555,1559,14,-7,68,66
+2009-01-04,Burundi,Zambia,1,1,CECAFA Cup,Uganda,13,-13,1260,1501,0,-5,141,90
+2009-01-04,Djibouti,Sudan,1,1,CECAFA Cup,Uganda,19,-19,798,1368,1,-2,208,117
+2009-01-04,Oman,Kuwait,0,0,Gulf Cup,Oman,-12,12,1553,1433,-4,2,69,99
+2009-01-05,Qatar,Saudi Arabia,0,0,Gulf Cup,Oman,8,-8,1518,1640,1,0,84,50
+2009-01-05,Rwanda,Somalia,3,0,CECAFA Cup,Uganda,5,-5,1391,944,2,0,113,191
+2009-01-05,Tanzania,Zanzibar,2,1,CECAFA Cup,Uganda,18,-18,1347,1276,2,-4,121,137
+2009-01-05,United Arab Emirates,Yemen,3,1,Gulf Cup,Oman,14,-14,1431,1202,3,-1,101,156
+2009-01-06,Burundi,Sudan,1,0,CECAFA Cup,Uganda,26,-26,1286,1342,6,-4,135,121
+2009-01-06,Kenya,Djibouti,5,1,CECAFA Cup,Uganda,2,-2,1404,796,0,0,109,208
+2009-01-07,Kuwait,Bahrain,1,0,Gulf Cup,Oman,27,-27,1460,1528,7,-11,92,79
+2009-01-07,Oman,Iraq,4,0,Gulf Cup,Oman,28,-28,1581,1531,10,-9,59,75
+2009-01-07,Tanzania,Rwanda,2,0,CECAFA Cup,Uganda,34,-34,1381,1357,5,-6,115,119
+2009-01-07,Uganda,Somalia,4,0,CECAFA Cup,Uganda,3,-3,1421,941,1,0,103,191
+2009-01-08,Kenya,Burundi,1,0,CECAFA Cup,Uganda,13,-13,1417,1273,4,-3,105,138
+2009-01-08,Qatar,United Arab Emirates,0,0,Gulf Cup,Oman,-5,5,1513,1436,-1,1,85,100
+2009-01-08,Saudi Arabia,Yemen,6,0,Gulf Cup,Oman,6,-6,1646,1196,0,0,50,156
+2009-01-08,Sudan,Zambia,2,0,CECAFA Cup,Uganda,43,-43,1385,1458,6,-2,115,92
+2009-01-09,Iran,China,3,1,Friendly,Iran,4,-4,1777,1527,0,-4,24,79
+2009-01-09,Rwanda,Zanzibar,3,0,CECAFA Cup,Uganda,27,-27,1384,1249,4,-4,116,141
+2009-01-09,Uganda,Tanzania,2,1,CECAFA Cup,Uganda,12,-12,1433,1369,2,-1,101,117
+2009-01-10,Iraq,Kuwait,1,1,Gulf Cup,Oman,-4,4,1527,1464,-2,0,77,91
+2009-01-10,Oman,Bahrain,2,0,Gulf Cup,Oman,18,-18,1599,1510,0,-7,59,85
+2009-01-11,Kenya,Tanzania,2,1,CECAFA Cup,Uganda,17,-17,1434,1352,4,-4,101,121
+2009-01-11,Qatar,Yemen,2,1,Gulf Cup,Oman,6,-6,1519,1190,2,0,82,156
+2009-01-11,Saudi Arabia,United Arab Emirates,3,0,Gulf Cup,Oman,16,-16,1662,1420,3,-4,47,104
+2009-01-11,Uganda,Burundi,5,0,CECAFA Cup,Uganda,15,-15,1448,1258,5,-3,96,140
+2009-01-13,Tanzania,Burundi,3,2,CECAFA Cup,Uganda,15,-15,1367,1243,1,-3,120,143
+2009-01-13,Uganda,Kenya,1,0,CECAFA Cup,Uganda,14,-14,1462,1420,4,-2,92,103
+2009-01-14,Hong Kong,India,2,1,Friendly,Hong Kong,8,-8,1223,1224,2,-1,153,150
+2009-01-14,Iran,Singapore,6,0,Asian Cup qualifier,Iran,4,-4,1781,1364,1,-2,23,120
+2009-01-14,Jordan,Thailand,0,0,Asian Cup qualifier,Jordan,-10,10,1509,1437,-4,2,86,100
+2009-01-14,Oman,Qatar,1,0,Gulf Cup,Oman,10,-10,1609,1509,1,-4,58,86
+2009-01-14,Saudi Arabia,Kuwait,1,0,Gulf Cup,Oman,10,-10,1672,1454,2,-4,45,95
+2009-01-14,Syria,China,3,2,Asian Cup qualifier,Syria,14,-14,1551,1513,3,-5,69,82
+2009-01-14,Vietnam,Lebanon,3,1,Asian Cup qualifier,Vietnam,18,-18,1352,1264,0,-2,122,137
+2009-01-17,Guatemala,Haiti,1,0,Friendly,the United States,7,-7,1517,1407,2,-1,81,108
+2009-01-17,Oman,Saudi Arabia,0,0,Gulf Cup,Oman,-2,2,1607,1674,0,0,58,45
+2009-01-18,Honduras,Chile,2,0,Friendly,the United States,18,-18,1742,1783,2,-1,36,21
+2009-01-18,Syria,Turkmenistan,5,1,Friendly,Kuwait,8,-8,1559,1312,2,-3,67,128
+2009-01-19,Oman,Indonesia,0,0,Asian Cup qualifier,Oman,-17,17,1590,1255,-1,7,59,140
+2009-01-20,Japan,Yemen,2,1,Asian Cup qualifier,Japan,1,-1,1774,1189,0,0,25,156
+2009-01-20,Kuwait,Turkmenistan,2,0,Friendly,Kuwait,6,-6,1460,1306,3,0,92,128
+2009-01-21,China,Vietnam,6,1,Asian Cup qualifier,China,15,-15,1528,1337,6,0,77,122
+2009-01-21,Hong Kong,Bahrain,1,3,Asian Cup qualifier,Hong Kong,-15,15,1208,1525,-2,5,155,79
+2009-01-21,Malaysia,United Arab Emirates,0,5,Asian Cup qualifier,Malaysia,-23,23,1140,1443,-4,5,169,98
+2009-01-21,Thailand,Lebanon,2,1,King's Cup,Thailand,5,-5,1442,1259,1,-2,99,139
+2009-01-22,El Salvador,Nicaragua,1,1,CONCACAF Champ q & UNCAF Cup,Honduras,-17,17,1469,1037,0,0,90,185
+2009-01-22,Honduras,Belize,2,1,CONCACAF Champ q & UNCAF Cup,Honduras,1,-1,1743,1096,1,-1,35,177
+2009-01-23,Costa Rica,Panama,3,0,CONCACAF Champ q & UNCAF Cup,Honduras,20,-20,1719,1525,3,-7,40,78
+2009-01-23,Egypt,Kenya,1,0,Friendly,Egypt,1,-1,1768,1419,0,-1,29,105
+2009-01-23,Kuwait,Syria,2,3,Friendly,Kuwait,-10,10,1450,1569,-3,4,95,63
+2009-01-23,Lebanon,North Korea,1,0,King's Cup,Thailand,25,-25,1284,1496,4,-8,135,89
+2009-01-24,El Salvador,Belize,4,1,CONCACAF Champ q & UNCAF Cup,Honduras,7,-7,1476,1089,0,-1,90,178
+2009-01-24,Honduras,Nicaragua,4,1,CONCACAF Champ q & UNCAF Cup,Honduras,1,-1,1744,1036,0,0,35,185
+2009-01-24,United States,Sweden,3,2,Friendly,the United States,6,-6,1810,1752,0,-1,19,31
+2009-01-25,Costa Rica,Guatemala,3,1,CONCACAF Champ q & UNCAF Cup,Honduras,14,-14,1733,1503,2,-5,38,87
+2009-01-26,Belize,Nicaragua,1,1,CONCACAF Champ q & UNCAF Cup,Honduras,-3,3,1086,1039,0,0,178,185
+2009-01-26,Honduras,El Salvador,2,0,CONCACAF Champ q & UNCAF Cup,Honduras,6,-6,1750,1470,3,0,32,90
+2009-01-27,Panama,Guatemala,1,0,CONCACAF Champ q & UNCAF Cup,Honduras,19,-19,1544,1484,7,-2,71,89
+2009-01-27,South Africa,Zambia,1,0,Friendly,South Africa,5,-5,1538,1453,0,-2,73,94
+2009-01-28,Bahrain,Japan,1,0,Asian Cup qualifier,Bahrain,28,-28,1553,1746,9,-8,70,33
+2009-01-28,Indonesia,Australia,0,0,Asian Cup qualifier,Indonesia,16,-16,1271,1740,4,-6,136,36
+2009-01-28,Kuwait,Oman,0,1,Asian Cup qualifier,Kuwait,-18,18,1432,1608,-6,1,101,58
+2009-01-28,Lebanon,Syria,0,2,Asian Cup qualifier,Lebanon,-15,15,1269,1584,-2,3,137,60
+2009-01-28,Singapore,Jordan,2,1,Asian Cup qualifier,Singapore,23,-23,1387,1486,5,-4,115,88
+2009-01-28,Sweden,Mexico,1,0,Friendly,the United States,12,-12,1764,1822,2,-4,29,17
+2009-01-28,Thailand,Iran,0,0,Asian Cup qualifier,Thailand,12,-12,1454,1769,5,-4,94,27
+2009-01-28,United Arab Emirates,Uzbekistan,0,1,Asian Cup qualifier,the United Arab Emirates,-19,19,1424,1572,-5,5,103,64
+2009-01-28,Yemen,Hong Kong,1,0,Asian Cup qualifier,Yemen,15,-15,1204,1193,1,-1,155,156
+2009-01-29,Nicaragua,Guatemala,2,0,CONCACAF Champ q & UNCAF Cup,Honduras,56,-56,1095,1428,7,-13,178,102
+2009-01-30,Costa Rica,El Salvador,1,0,UNCAF Nations Cup,Honduras,7,-7,1740,1463,3,0,35,89
+2009-01-30,Honduras,Panama,0,1,UNCAF Nations Cup,Honduras,-34,34,1716,1578,-10,10,40,62
+2009-02-01,Azerbaijan,Uzbekistan,1,1,Friendly,the United Arab Emirates,5,-5,1373,1567,1,-1,118,66
+2009-02-01,Costa Rica,Panama,0,0,UNCAF Nations Cup,Honduras,-9,9,1731,1587,-2,1,37,61
+2009-02-01,Honduras,El Salvador,1,0,UNCAF Nations Cup,Honduras,5,-5,1721,1458,2,-1,38,90
+2009-02-01,South Korea,Syria,1,1,Friendly,the United Arab Emirates,-4,4,1721,1588,0,0,38,60
+2009-02-04,Bahrain,South Korea,2,2,Friendly,the United Arab Emirates,4,-4,1557,1717,0,-2,71,40
+2009-02-04,Japan,Finland,5,1,Friendly,Japan,10,-10,1756,1661,2,-1,30,47
+2009-02-05,Saudi Arabia,Thailand,2,1,Friendly,Japan,4,-4,1678,1450,0,-1,45,94
+2009-02-06,El Salvador,Peru,1,0,Friendly,the United States,14,-14,1472,1597,1,-2,89,59
+2009-02-07,Lithuania,Poland,1,1,Friendly,Portugal,3,-3,1633,1747,1,0,52,31
+2009-02-08,Barbados,Grenada,5,0,Friendly,Barbados,15,-15,1311,1289,4,-2,128,132
+2009-02-10,Brazil,Italy,2,0,Friendly,England,14,-14,2031,1990,1,0,2,4
+2009-02-10,Cyprus,Serbia,0,2,Friendly tournament,Cyprus,-14,14,1521,1787,-5,3,80,21
+2009-02-10,Ukraine,Slovakia,3,2,Friendly tournament,Cyprus,9,-9,1787,1621,2,0,21,54
+2009-02-11,Algeria,Benin,2,1,Friendly,Algeria,6,-6,1444,1399,1,-2,97,111
+2009-02-11,Armenia,Latvia,0,0,Friendly,Cyprus,3,-3,1416,1522,1,-1,106,80
+2009-02-11,Austria,Sweden,0,2,Friendly,Austria,-11,11,1554,1775,-2,4,70,25
+2009-02-11,Belgium,Slovenia,2,0,Friendly,Belgium,9,-9,1640,1571,2,-2,51,64
+2009-02-11,Burkina Faso,Togo,1,1,Friendly,France,1,-1,1421,1438,0,-2,104,99
+2009-02-11,Cameroon,Guinea,3,1,Friendly,France,8,-8,1751,1568,2,-3,32,66
+2009-02-11,Colombia,Haiti,2,0,Friendly,Colombia,2,-2,1749,1405,-4,1,35,107
+2009-02-11,Costa Rica,Honduras,2,0,World Cup qualifier,Costa Rica,21,-21,1752,1700,6,-5,31,43
+2009-02-11,Cyprus,Slovakia,3,2,Friendly tournament,Cyprus,15,-15,1536,1606,5,-3,75,57
+2009-02-11,Egypt,Ghana,2,2,Friendly,Egypt,-5,5,1763,1700,0,1,28,43
+2009-02-11,El Salvador,Trinidad and Tobago,2,2,World Cup qualifier,El Salvador,-1,1,1471,1564,0,1,89,68
+2009-02-11,Equatorial Guinea,Liberia,1,0,Friendly,Equatorial Guinea,8,-8,1227,1232,3,-2,151,148
+2009-02-11,France,Argentina,0,2,Friendly,France,-16,16,1876,1990,-2,2,10,4
+2009-02-11,Germany,Norway,0,1,Friendly,Germany,-18,18,1948,1725,0,4,7,38
+2009-02-11,Greece,Denmark,1,1,Friendly,Greece,-1,1,1772,1829,-1,1,26,15
+2009-02-11,Iceland,Liechtenstein,2,0,Friendly,Spain,5,-5,1455,1180,3,0,91,159
+2009-02-11,Iran,South Korea,1,1,World Cup qualifier,Iran,-8,8,1761,1725,-2,2,29,38
+2009-02-11,Ireland,Georgia,2,1,World Cup qualifier,Ireland,5,-5,1777,1510,2,-1,24,83
+2009-02-11,Israel,Hungary,1,0,Friendly,Israel,4,-4,1750,1617,0,-1,33,55
+2009-02-11,Jamaica,Nigeria,0,0,Friendly,England,3,-3,1638,1736,-1,-1,52,37
+2009-02-11,Japan,Australia,0,0,World Cup qualifier,Japan,-6,6,1750,1746,-3,-1,33,36
+2009-02-11,Kazakhstan,Estonia,2,0,Friendly,Turkey,18,-18,1371,1398,2,-6,119,112
+2009-02-11,Kuwait,Azerbaijan,1,1,Friendly,Kuwait,-4,4,1428,1377,-1,0,101,118
+2009-02-11,Libya,Uruguay,2,3,Friendly,Libya,-5,5,1525,1836,-3,1,79,13
+2009-02-11,Lithuania,Andorra,3,1,Friendly,Portugal,1,-1,1634,1047,-1,0,53,182
+2009-02-11,Macedonia,Moldova,1,1,Friendly,Turkey,-3,3,1556,1440,1,1,69,98
+2009-02-11,Mali,Angola,4,0,Friendly,France,17,-17,1548,1485,3,-2,72,88
+2009-02-11,Malta,Albania,0,0,World Cup qualifier,Malta,10,-10,1232,1495,5,-1,148,86
+2009-02-11,Morocco,Czechia,0,0,Friendly,Morocco,2,-2,1663,1844,1,0,46,12
+2009-02-11,Mozambique,Malawi,2,0,Friendly,Mozambique,9,-9,1401,1325,3,0,109,123
+2009-02-11,North Korea,Saudi Arabia,1,0,World Cup qualifier,North Korea,25,-25,1521,1653,6,-4,81,49
+2009-02-11,Peru,Paraguay,0,1,Friendly,Peru,-6,6,1591,1860,0,0,59,11
+2009-02-11,Poland,Wales,1,0,Friendly,Portugal,7,-7,1754,1646,1,0,30,50
+2009-02-11,Portugal,Finland,1,0,Friendly,Portugal,4,-4,1826,1657,1,-1,16,48
+2009-02-11,Romania,Croatia,1,2,Friendly,Romania,-11,11,1823,1893,-5,1,18,8
+2009-02-11,San Marino,Northern Ireland,0,3,World Cup qualifier,San Marino,-3,3,918,1550,0,1,197,71
+2009-02-11,South Africa,Chile,0,2,Friendly,South Africa,-9,9,1529,1792,-2,2,76,21
+2009-02-11,Spain,England,2,0,Friendly,Spain,7,-7,2107,1980,0,-1,1,6
+2009-02-11,Switzerland,Bulgaria,1,1,Friendly,Switzerland,-3,3,1789,1786,-2,0,22,23
+2009-02-11,Tanzania,Zimbabwe,0,0,Friendly,Tanzania,-2,2,1365,1403,-1,2,121,108
+2009-02-11,Tunisia,Netherlands,1,1,Friendly,Tunisia,7,-7,1622,2020,2,0,54,3
+2009-02-11,Turkey,Ivory Coast,1,1,Friendly,Turkey,-6,6,1824,1715,-2,0,17,41
+2009-02-11,Ukraine,Serbia,1,0,Friendly tournament,Cyprus,15,-15,1802,1772,2,-5,19,26
+2009-02-11,United States,Mexico,2,0,World Cup qualifier,the United States,23,-23,1833,1799,5,-3,14,20
+2009-02-11,Uzbekistan,Bahrain,0,1,World Cup qualifier,Uzbekistan,-26,26,1541,1583,-8,9,74,62
+2009-02-11,Venezuela,Guatemala,2,1,Friendly,Venezuela,3,-3,1661,1425,2,0,47,102
+2009-02-14,Ivory Coast,Equatorial Guinea,2,0,Friendly,Ivory Coast,1,-1,1716,1226,0,0,41,151
+2009-03-05,Australia,Kuwait,0,1,Asian Cup qualifier,Australia,-37,37,1709,1465,-5,11,41,90
+2009-03-07,Sudan,Uganda,0,2,Friendly,Sudan,-16,16,1369,1478,-3,2,119,89
+2009-03-11,Guam,Mongolia,1,0,East Asian Championship qualifier,Guam,27,-27,595,769,3,-2,224,210
+2009-03-11,Macao,Northern Mariana Islands,6,1,East Asian Championship qualifier,Guam,21,-21,745,522,0,-2,212,232
+2009-03-11,Mexico,Bolivia,5,1,Friendly,the United States,9,-9,1808,1596,1,0,19,58
+2009-03-11,Nepal,Pakistan,1,0,Prime Minister's Cup,Nepal,8,-8,941,851,1,0,191,203
+2009-03-13,Guam,Northern Mariana Islands,2,1,E Asian Champ q & Marianas Cup,Guam,11,-11,606,511,0,0,224,232
+2009-03-13,Mongolia,Macao,2,1,East Asian Championship qualifier,Guam,19,-19,788,726,1,0,209,212
+2009-03-14,Iran,Kenya,1,0,Friendly,Iran,1,-1,1762,1418,0,0,29,105
+2009-03-14,Nepal,Sri Lanka,0,0,Prime Minister's Cup,Nepal,-5,5,936,931,-1,0,192,193
+2009-03-15,Guam,Macao,2,2,East Asian Championship qualifier,Guam,1,-1,607,725,0,0,224,212
+2009-03-15,Mongolia,Northern Mariana Islands,4,1,East Asian Championship qualifier,Guam,12,-12,800,499,1,0,208,232
+2009-03-17,Qatar,Kuwait,1,0,Friendly,Qatar,6,-6,1515,1459,2,0,83,91
+2009-03-18,Trinidad and Tobago,Panama,1,0,Friendly,Trinidad and Tobago,8,-8,1572,1579,4,-1,64,62
+2009-03-21,Namibia,Botswana,0,0,Friendly,Namibia,-3,3,1297,1291,0,1,131,132
+2009-03-21,Syria,Qatar,1,2,Friendly,Syria,-15,15,1573,1530,-3,7,63,76
+2009-03-21,Uganda,Malawi,2,1,Friendly,Uganda,4,-4,1482,1321,0,0,89,123
+2009-03-22,Iceland,Faroe Islands,1,2,Friendly,Iceland,-18,18,1437,1187,-8,5,100,157
+2009-03-22,Saudi Arabia,Iraq,0,0,Friendly,Saudi Arabia,-6,6,1647,1533,0,3,49,76
+2009-03-23,Bahrain,Zimbabwe,5,2,Friendly,Bahrain,6,-6,1589,1397,0,-4,60,112
+2009-03-23,Kuwait,Iran,0,1,Friendly,Kuwait,-5,5,1454,1767,-2,1,93,28
+2009-03-25,Cape Verde,Angola,1,0,Friendly,Portugal,14,-14,1334,1471,2,-1,123,89
+2009-03-26,Nepal,Palestine,0,0,Asian Cup & Asian Challenge Cup qual,Nepal,10,-10,946,1214,1,-2,191,154
+2009-03-28,Albania,Hungary,0,1,World Cup qualifier,Albania,-19,19,1476,1636,-3,5,89,50
+2009-03-28,Argentina,Venezuela,4,0,World Cup qualifier,Argentina,6,-6,1996,1655,-1,-1,5,48
+2009-03-28,Armenia,Estonia,2,2,World Cup qualifier,Armenia,-7,7,1409,1405,2,5,104,106
+2009-03-28,Belgium,Bosnia and Herzegovina,2,4,World Cup qualifier,Belgium,-43,43,1597,1619,-7,8,58,54
+2009-03-28,Burkina Faso,Guinea,4,2,World Cup and African Cup qualifier,Burkina Faso,34,-34,1455,1534,11,-11,93,78
+2009-03-28,Cape Verde,Equatorial Guinea,5,0,Friendly,Cape Verde,9,-9,1343,1217,1,-2,122,153
+2009-03-28,Colombia,Bolivia,2,0,World Cup qualifier,Colombia,11,-11,1760,1585,6,-2,29,60
+2009-03-28,Cyprus,Georgia,2,1,World Cup qualifier,Cyprus,13,-13,1549,1497,3,-1,72,85
+2009-03-28,El Salvador,United States,2,2,World Cup qualifier,El Salvador,13,-13,1484,1820,2,-2,87,16
+2009-03-28,England,Slovakia,4,0,Friendly,England,2,-2,1982,1604,0,0,6,57
+2009-03-28,Germany,Liechtenstein,4,0,World Cup qualifier,Germany,1,-1,1949,1179,0,0,7,160
+2009-03-28,Iran,Saudi Arabia,1,2,World Cup qualifier,Iran,-31,31,1736,1678,-4,3,32,46
+2009-03-28,Ireland,Bulgaria,1,1,World Cup qualifier,Ireland,-5,5,1772,1791,-3,-1,27,24
+2009-03-28,Israel,Greece,1,1,World Cup qualifier,Israel,-4,4,1746,1776,2,0,31,26
+2009-03-28,Japan,Bahrain,1,0,World Cup qualifier,Japan,7,-7,1757,1582,3,-1,30,61
+2009-03-28,Kenya,Tunisia,1,2,World Cup and African Cup qualifier,Kenya,-14,14,1404,1636,-3,4,108,50
+2009-03-28,Lithuania,France,0,1,World Cup qualifier,Lithuania,-12,12,1622,1888,0,1,53,9
+2009-03-28,Luxembourg,Latvia,0,4,World Cup qualifier,Luxembourg,-10,10,1087,1532,-2,2,178,79
+2009-03-28,Malta,Denmark,0,3,World Cup qualifier,Malta,-4,4,1228,1833,-2,1,150,14
+2009-03-28,Mexico,Costa Rica,2,0,World Cup qualifier,Mexico,17,-17,1825,1735,4,-3,15,34
+2009-03-28,Moldova,Switzerland,0,2,World Cup qualifier,Moldova,-12,12,1428,1801,-4,2,102,20
+2009-03-28,Montenegro,Italy,0,2,World Cup qualifier,Montenegro,-13,13,1658,2003,-2,0,47,4
+2009-03-28,Morocco,Gabon,1,2,World Cup and African Cup qualifier,Morocco,-32,32,1631,1542,-6,9,52,75
+2009-03-28,Nepal,Kyrgyzstan,1,1,Asian Cup & Asian Challenge Cup qual,Nepal,6,-6,952,1154,0,0,191,165
+2009-03-28,Netherlands,Scotland,3,0,World Cup qualifier,the Netherlands,6,-6,2026,1714,0,0,3,39
+2009-03-28,North Korea,United Arab Emirates,2,0,World Cup qualifier,North Korea,15,-15,1536,1409,6,-1,76,104
+2009-03-28,Northern Ireland,Poland,3,2,World Cup qualifier,Northern Ireland,26,-26,1576,1728,7,-5,64,35
+2009-03-28,Oman,Senegal,2,0,Friendly,Oman,8,-8,1616,1535,1,-4,55,77
+2009-03-28,Portugal,Sweden,0,0,World Cup qualifier,Portugal,-8,8,1818,1783,-2,0,18,25
+2009-03-28,Romania,Serbia,2,3,World Cup qualifier,Romania,-28,28,1795,1800,-4,5,22,21
+2009-03-28,Russia,Azerbaijan,2,0,World Cup qualifier,Russia,2,-2,1883,1375,-1,0,10,117
+2009-03-28,Rwanda,Algeria,0,0,World Cup and African Cup qualifier,Rwanda,-2,2,1382,1446,0,-1,116,98
+2009-03-28,Slovenia,Czechia,0,0,World Cup qualifier,Slovenia,9,-9,1580,1835,3,-1,62,13
+2009-03-28,South Africa,Norway,2,1,Nelson Mandela Challenge Cup,South Africa,19,-19,1548,1706,5,-4,73,41
+2009-03-28,South Korea,Iraq,2,1,Friendly,South Korea,3,-3,1728,1530,2,-4,35,80
+2009-03-28,Spain,Turkey,1,0,World Cup qualifier,Spain,4,-4,2111,1820,0,1,1,16
+2009-03-28,Sri Lanka,Maldives,1,1,Friendly,Sri Lanka,2,-2,933,1094,0,0,193,177
+2009-03-28,Sudan,Mali,1,1,World Cup and African Cup qualifier,Sudan,4,-4,1373,1544,1,-2,118,74
+2009-03-28,Thailand,New Zealand,3,1,Friendly,Thailand,14,-14,1464,1506,3,0,92,83
+2009-03-28,Togo,Cameroon,1,0,World Cup and African Cup qualifier,Ghana,34,-34,1472,1717,9,-5,90,37
+2009-03-28,Trinidad and Tobago,Honduras,1,1,World Cup qualifier,Trinidad and Tobago,2,-2,1574,1698,-1,-1,65,44
+2009-03-28,Uruguay,Paraguay,2,0,World Cup qualifier,Uruguay,24,-24,1860,1836,2,-1,11,12
+2009-03-28,Uzbekistan,Qatar,4,0,World Cup qualifier,Uzbekistan,26,-26,1567,1504,6,-7,68,84
+2009-03-28,Wales,Finland,0,2,World Cup qualifier,Wales,-38,38,1608,1695,-6,3,56,45
+2009-03-29,Ecuador,Brazil,1,1,World Cup qualifier,Ecuador,12,-12,1715,2019,3,-1,39,3
+2009-03-29,Egypt,Zambia,1,1,World Cup and African Cup qualifier,Egypt,-17,17,1746,1470,-2,5,30,92
+2009-03-29,Ghana,Benin,1,0,World Cup and African Cup qualifier,Ghana,4,-4,1704,1395,0,-1,43,112
+2009-03-29,Ivory Coast,Malawi,5,0,World Cup and African Cup qualifier,Ivory Coast,4,-4,1720,1317,1,-2,37,126
+2009-03-29,Mozambique,Nigeria,0,0,World Cup and African Cup qualifier,Mozambique,12,-12,1413,1724,5,-4,104,36
+2009-03-29,Peru,Chile,1,3,World Cup qualifier,Peru,-22,22,1569,1814,-7,4,66,19
+2009-03-30,Kyrgyzstan,Palestine,1,1,Asian Cup & Asian Challenge Cup qual,Nepal,3,-3,1157,1211,0,0,165,154
+2009-03-31,Morocco,Angola,2,0,Friendly,Portugal,9,-9,1640,1462,3,-2,49,93
+2009-03-31,Panama,Haiti,4,0,Friendly,Panama,6,-6,1585,1399,3,-3,59,110
+2009-03-31,Portugal,South Africa,2,0,Friendly,Switzerland,5,-5,1823,1543,2,-1,16,74
+2009-03-31,Venezuela,Colombia,2,0,World Cup qualifier,Venezuela,30,-30,1685,1730,2,-5,46,33
+2009-04-01,Andorra,Croatia,0,2,World Cup qualifier,Andorra,-1,1,1046,1894,0,0,182,8
+2009-04-01,Australia,Uzbekistan,2,0,World Cup qualifier,Australia,12,-12,1721,1555,3,-2,38,70
+2009-04-01,Austria,Romania,2,1,World Cup qualifier,Austria,28,-28,1582,1767,7,-4,64,27
+2009-04-01,Bahrain,Qatar,1,0,World Cup qualifier,Bahrain,11,-11,1593,1493,1,-1,60,85
+2009-04-01,Bolivia,Argentina,6,1,World Cup qualifier,Bolivia,69,-69,1654,1927,10,-2,49,7
+2009-04-01,Bosnia and Herzegovina,Belgium,2,1,World Cup qualifier,Bosnia and Herzegovina,13,-13,1632,1584,-1,-5,55,63
+2009-04-01,Brazil,Peru,3,0,World Cup qualifier,Brazil,3,-3,2022,1566,0,0,3,66
+2009-04-01,Bulgaria,Cyprus,2,0,World Cup qualifier,Bulgaria,7,-7,1798,1542,3,-2,21,74
+2009-04-01,Chile,Uruguay,0,0,World Cup qualifier,Chile,-3,3,1811,1863,3,0,16,11
+2009-04-01,Costa Rica,El Salvador,1,0,World Cup qualifier,Costa Rica,5,-5,1740,1479,2,-1,30,88
+2009-04-01,Czechia,Slovakia,1,2,World Cup qualifier,Czechia,-35,35,1800,1639,-7,5,20,52
+2009-04-01,Denmark,Albania,3,0,World Cup qualifier,Denmark,5,-5,1838,1471,2,-1,12,90
+2009-04-01,Ecuador,Paraguay,1,1,World Cup qualifier,Ecuador,1,-1,1716,1835,-3,-1,42,13
+2009-04-01,England,Ukraine,2,1,World Cup qualifier,England,7,-7,1989,1795,2,-2,4,22
+2009-04-01,Estonia,Armenia,1,0,World Cup qualifier,Estonia,15,-15,1420,1394,3,-7,104,112
+2009-04-01,France,Lithuania,1,0,World Cup qualifier,France,4,-4,1892,1618,0,-3,9,56
+2009-04-01,Georgia,Montenegro,0,0,World Cup qualifier,Georgia,3,-3,1500,1655,1,0,84,48
+2009-04-01,Greece,Israel,2,1,World Cup qualifier,Greece,13,-13,1789,1733,2,-3,24,32
+2009-04-01,Honduras,Mexico,3,1,World Cup qualifier,Honduras,32,-32,1730,1793,11,-8,33,23
+2009-04-01,Hungary,Malta,3,0,World Cup qualifier,Hungary,4,-4,1640,1224,1,0,50,150
+2009-04-01,Iran,Senegal,1,1,Friendly,Iran,-7,7,1729,1542,-4,3,35,74
+2009-04-01,Italy,Ireland,1,1,World Cup qualifier,Italy,-15,15,1988,1787,-1,2,5,25
+2009-04-01,Kazakhstan,Belarus,1,5,World Cup qualifier,Kazakhstan,-27,27,1344,1596,-2,8,121,58
+2009-04-01,Latvia,Luxembourg,2,0,World Cup qualifier,Latvia,2,-2,1534,1085,2,-1,77,179
+2009-04-01,Lebanon,Namibia,1,1,Friendly,Lebanon,-2,2,1267,1299,0,0,137,131
+2009-04-01,Lesotho,Botswana,0,0,Friendly,Lesotho,2,-2,1130,1289,1,0,170,132
+2009-04-01,Liechtenstein,Russia,0,1,World Cup qualifier,Liechtenstein,-1,1,1178,1884,0,0,160,10
+2009-04-01,Netherlands,Macedonia,4,0,World Cup qualifier,the Netherlands,3,-3,2029,1553,0,-1,2,71
+2009-04-01,Norway,Finland,3,2,Friendly,Norway,7,-7,1713,1688,-1,0,43,45
+2009-04-01,Northern Ireland,Slovenia,1,0,World Cup qualifier,Northern Ireland,15,-15,1591,1565,2,-7,61,69
+2009-04-01,Poland,San Marino,10,0,World Cup qualifier,Poland,1,-1,1729,917,-1,0,35,197
+2009-04-01,Saudi Arabia,United Arab Emirates,3,2,World Cup qualifier,Saudi Arabia,4,-4,1682,1405,0,-1,47,106
+2009-04-01,Scotland,Iceland,2,1,World Cup qualifier,Scotland,4,-4,1718,1433,0,0,40,100
+2009-04-01,Serbia,Sweden,2,0,Friendly,Serbia,10,-10,1810,1773,5,-1,17,26
+2009-04-01,South Korea,North Korea,1,0,World Cup qualifier,South Korea,6,-6,1734,1530,3,-3,31,79
+2009-04-01,Switzerland,Moldova,2,0,World Cup qualifier,Switzerland,4,-4,1805,1424,2,-1,19,103
+2009-04-01,Turkey,Spain,1,2,World Cup qualifier,Turkey,-10,10,1810,2121,0,0,17,1
+2009-04-01,United States,Trinidad and Tobago,3,0,World Cup qualifier,the United States,8,-8,1828,1566,3,-2,14,66
+2009-04-01,Wales,Germany,0,2,World Cup qualifier,Wales,-12,12,1596,1961,-2,1,58,6
+2009-04-04,Angola,Namibia,0,0,Friendly,Angola,-6,6,1456,1305,0,0,93,131
+2009-04-04,Pakistan,Taiwan,1,1,Asian Cup & Asian Challenge Cup qual,Sri Lanka,6,-6,857,957,0,0,203,190
+2009-04-04,Sri Lanka,Brunei,5,1,Asian Cup & Asian Challenge Cup qual,Sri Lanka,10,-10,943,692,1,-2,192,219
+2009-04-06,Pakistan,Brunei,6,0,Asian Cup & Asian Challenge Cup qual,Sri Lanka,24,-24,881,668,2,-2,201,221
+2009-04-06,Sri Lanka,Taiwan,2,1,Asian Cup & Asian Challenge Cup qual,Sri Lanka,15,-15,958,942,2,-2,190,192
+2009-04-07,Macao,Mongolia,2,0,Asian Cup & Asian Challenge Cup qual,Macao,28,-28,753,772,0,-1,212,209
+2009-04-08,Sri Lanka,Pakistan,2,2,Asian Cup & Asian Challenge Cup qual,Sri Lanka,-9,9,949,890,-2,1,192,200
+2009-04-08,Taiwan,Brunei,5,0,Asian Cup & Asian Challenge Cup qual,Sri Lanka,14,-14,956,654,2,0,190,221
+2009-04-14,Maldives,Turkmenistan,1,3,Asian Cup & Asian Challenge Cup qual,the Maldives,-21,21,1073,1327,-3,5,180,124
+2009-04-14,Mongolia,Macao,3,1,Asian Cup & Asian Challenge Cup qual,Mongolia,20,-20,792,733,0,0,209,212
+2009-04-14,Philippines,Bhutan,1,0,Asian Cup & Asian Challenge Cup qual,the Maldives,11,-11,835,641,2,0,204,222
+2009-04-16,Maldives,Philippines,3,2,Asian Cup & Asian Challenge Cup qual,the Maldives,5,-5,1078,830,0,-1,180,205
+2009-04-16,Turkmenistan,Bhutan,7,0,Asian Cup & Asian Challenge Cup qual,the Maldives,2,-2,1329,639,0,0,124,222
+2009-04-18,Maldives,Bhutan,5,0,Asian Cup & Asian Challenge Cup qual,the Maldives,3,-3,1081,636,1,0,179,222
+2009-04-18,Turkmenistan,Philippines,5,0,Asian Cup & Asian Challenge Cup qual,the Maldives,4,-4,1333,826,0,0,124,205
+2009-04-22,French Guiana,Suriname,0,0,Friendly,French Guiana,-1,1,1186,1243,-1,1,158,144
+2009-04-25,Mali,Equatorial Guinea,3,0,Friendly,Mali,3,-3,1547,1214,0,0,72,153
+2009-04-26,Bangladesh,Cambodia,1,0,Asian Cup & Asian Challenge Cup qual,Bangladesh,8,-8,934,764,0,0,194,210
+2009-04-26,Myanmar,Macao,4,0,Asian Cup & Asian Challenge Cup qual,Bangladesh,6,-6,1176,727,0,0,162,212
+2009-04-28,Bangladesh,Myanmar,1,2,Asian Cup & Asian Challenge Cup qual,Bangladesh,-12,12,922,1188,-2,5,196,157
+2009-04-28,Cambodia,Macao,2,1,Asian Cup & Asian Challenge Cup qual,Bangladesh,18,-18,782,709,0,-2,210,214
+2009-04-30,Bangladesh,Macao,3,0,Asian Cup & Asian Challenge Cup qual,Bangladesh,10,-10,932,699,2,-2,194,216
+2009-04-30,Myanmar,Cambodia,1,0,Asian Cup & Asian Challenge Cup qual,Bangladesh,4,-4,1192,778,0,0,157,210
+2009-05-09,Tanzania,DR Congo,0,2,Friendly,Tanzania,-16,16,1349,1448,0,3,120,98
+2009-05-13,Jordan,Zimbabwe,2,0,Friendly,Jordan,8,-8,1494,1389,1,-4,85,114
+2009-05-13,Venezuela,Costa Rica,1,1,Friendly,Venezuela,-1,1,1684,1741,0,0,46,30
+2009-05-20,Argentina,Panama,3,1,Friendly,Argentina,2,-2,1929,1583,0,-1,7,63
+2009-05-23,Haiti,Jamaica,2,2,Friendly,the United States,6,-6,1405,1632,3,-1,106,54
+2009-05-23,Malawi,Lesotho,1,0,Friendly,Malawi,3,-3,1320,1127,1,-1,126,171
+2009-05-26,Qatar,Saudi Arabia,2,1,Friendly,Qatar,13,-13,1506,1669,3,0,83,47
+2009-05-27,El Salvador,Ecuador,3,1,Friendly,the United States,24,-24,1503,1692,3,-2,85,44
+2009-05-27,Japan,Chile,4,0,Kirin Cup,Japan,24,-24,1781,1787,2,-8,26,24
+2009-05-28,Tunisia,Sudan,4,0,Friendly,Tunisia,4,-4,1640,1369,3,0,50,118
+2009-05-29,Belgium,Chile,1,1,Kirin Cup,Japan,8,-8,1592,1779,1,-2,61,26
+2009-05-29,China,Germany,1,1,Friendly,China,7,-7,1535,1954,4,0,77,6
+2009-05-29,Ireland,Nigeria,1,1,Friendly,England,-2,2,1785,1726,0,0,24,37
+2009-05-29,Wales,Estonia,1,0,Friendly,Wales,3,-3,1599,1417,0,0,58,104
+2009-05-30,Cyprus,Canada,0,1,Friendly,Cyprus,-12,12,1530,1578,-5,1,79,65
+2009-05-30,El Salvador,Jamaica,0,0,Friendly,the United States,4,-4,1507,1628,2,-1,83,55
+2009-05-30,Malawi,Rwanda,2,0,Friendly,Malawi,13,-13,1333,1369,2,-1,124,117
+2009-05-30,Oman,Egypt,0,1,Friendly,Oman,-9,9,1607,1755,0,0,57,29
+2009-05-30,South Africa,Mauritius,2,0,Friendly,South Africa,1,-1,1544,1058,0,0,73,181
+2009-05-31,Ghana,Uganda,2,1,Friendly,Ghana,3,-3,1707,1479,0,0,43,88
+2009-05-31,Japan,Belgium,4,0,Kirin Cup,Japan,9,-9,1790,1583,2,-1,23,62
+2009-05-31,Kuwait,Vietnam,0,1,Friendly,Kuwait,-16,16,1438,1353,-3,3,100,120
+2009-05-31,Qatar,Iraq,1,0,Friendly,Qatar,8,-8,1514,1522,1,-3,83,82
+2009-06-01,China,Iran,1,0,Friendly,China,13,-13,1548,1716,4,-6,72,41
+2009-06-01,Uzbekistan,Bosnia and Herzegovina,0,0,Friendly,Uzbekistan,-1,1,1554,1633,0,0,70,54
+2009-06-02,France,Nigeria,0,1,Friendly,France,-16,16,1876,1742,-1,6,10,30
+2009-06-02,Oman,South Korea,0,0,Friendly,the United Arab Emirates,4,-4,1611,1730,0,-2,57,33
+2009-06-02,Turkey,Azerbaijan,2,0,Friendly,Turkey,1,-1,1811,1374,0,0,16,116
+2009-06-02,United Arab Emirates,Germany,2,7,Friendly,the United Arab Emirates,-3,3,1402,1957,-2,0,108,6
+2009-06-03,Antigua and Barbuda,Guyana,2,1,Parbo Beer Cup,Suriname,15,-15,1252,1230,6,-6,141,149
+2009-06-03,Bahrain,Jordan,4,0,Friendly,Bahrain,9,-9,1602,1485,2,0,58,87
+2009-06-03,Costa Rica,United States,3,1,World Cup qualifier,Costa Rica,29,-29,1770,1799,3,-5,28,19
+2009-06-03,Tanzania,New Zealand,2,1,Friendly,Tanzania,12,-12,1361,1494,1,-1,120,86
+2009-06-04,China,Saudi Arabia,1,4,Friendly,China,-16,16,1532,1685,-6,1,78,46
+2009-06-05,Czechia,Malta,1,0,Friendly,Czechia,0,0,1800,1224,0,0,18,150
+2009-06-05,France,Turkey,1,0,Friendly,France,6,-6,1882,1805,0,-1,10,16
+2009-06-05,French Guiana,Antigua and Barbuda,2,1,Parbo Beer Cup,Suriname,18,-18,1204,1234,4,-5,155,146
+2009-06-05,Syria,Sierra Leone,6,0,Friendly,Syria,3,-3,1576,1243,0,1,66,142
+2009-06-06,Albania,Portugal,1,2,World Cup qualifier,Albania,-8,8,1463,1831,-2,1,92,13
+2009-06-06,Argentina,Colombia,1,0,World Cup qualifier,Argentina,6,-6,1935,1724,0,-1,7,34
+2009-06-06,Azerbaijan,Wales,0,1,World Cup qualifier,Azerbaijan,-13,13,1361,1612,-2,3,118,56
+2009-06-06,Belarus,Andorra,5,1,World Cup qualifier,Belarus,2,-2,1598,1044,0,0,60,182
+2009-06-06,Bolivia,Venezuela,0,1,World Cup qualifier,Bolivia,-24,24,1630,1708,-5,4,54,43
+2009-06-06,Botswana,New Zealand,0,0,Friendly,Botswana,3,-3,1292,1491,0,1,132,85
+2009-06-06,Bulgaria,Ireland,1,1,World Cup qualifier,Bulgaria,-6,6,1792,1791,-2,1,22,24
+2009-06-06,Croatia,Ukraine,2,2,World Cup qualifier,Croatia,-10,10,1884,1805,0,4,8,17
+2009-06-06,Cyprus,Montenegro,2,2,World Cup qualifier,Cyprus,1,-1,1531,1654,-2,0,81,48
+2009-06-06,El Salvador,Mexico,2,1,World Cup qualifier,El Salvador,30,-30,1537,1763,8,-6,76,28
+2009-06-06,Estonia,Equatorial Guinea,3,0,Friendly,Estonia,5,-5,1422,1209,0,-1,104,154
+2009-06-06,Finland,Liechtenstein,2,1,World Cup qualifier,Finland,1,-1,1689,1177,-1,0,46,161
+2009-06-06,Gabon,Togo,3,0,World Cup and African Cup qualifier,Gabon,19,-19,1561,1453,5,-7,69,96
+2009-06-06,Georgia,Moldova,1,2,Friendly,Georgia,-15,15,1485,1439,-1,4,86,99
+2009-06-06,Iceland,Netherlands,1,2,World Cup qualifier,Iceland,-2,2,1431,2031,0,-1,101,3
+2009-06-06,Italy,Northern Ireland,3,0,Friendly,Italy,2,-2,1990,1589,0,0,5,61
+2009-06-06,Kazakhstan,England,0,4,World Cup qualifier,Kazakhstan,-3,3,1341,1992,-1,0,123,4
+2009-06-06,Lithuania,Romania,0,1,World Cup qualifier,Lithuania,-17,17,1601,1784,-3,3,59,26
+2009-06-06,Macedonia,Norway,0,0,World Cup qualifier,Macedonia,3,-3,1556,1710,1,0,70,42
+2009-06-06,Malawi,Burkina Faso,0,1,World Cup and African Cup qualifier,Malawi,-19,19,1314,1474,-5,4,129,90
+2009-06-06,Namibia,DR Congo,4,0,Friendly,Namibia,21,-21,1326,1427,6,-5,125,102
+2009-06-06,North Korea,Iran,0,0,World Cup qualifier,North Korea,5,-5,1535,1711,2,0,77,41
+2009-06-06,Paraguay,Chile,0,2,World Cup qualifier,Paraguay,-43,43,1792,1822,-9,12,22,14
+2009-06-06,Qatar,Australia,0,0,World Cup qualifier,Qatar,6,-6,1520,1715,-1,-3,84,40
+2009-06-06,Serbia,Austria,1,0,World Cup qualifier,Serbia,5,-5,1815,1577,0,-1,15,65
+2009-06-06,Slovakia,San Marino,7,0,World Cup qualifier,Slovakia,1,-1,1640,916,3,0,50,197
+2009-06-06,South Africa,Poland,1,0,Friendly,South Africa,12,-12,1556,1717,3,-2,70,38
+2009-06-06,Sweden,Denmark,0,1,World Cup qualifier,Sweden,-22,22,1751,1860,-3,1,30,11
+2009-06-06,Trinidad and Tobago,Costa Rica,2,3,World Cup qualifier,Trinidad and Tobago,-14,14,1552,1784,-5,2,72,26
+2009-06-06,Tunisia,Mozambique,2,0,World Cup and African Cup qualifier,Tunisia,8,-8,1648,1405,1,0,49,105
+2009-06-06,United Arab Emirates,South Korea,0,2,World Cup qualifier,the United Arab Emirates,-13,13,1389,1743,-5,2,113,31
+2009-06-06,Uruguay,Brazil,0,4,World Cup qualifier,Uruguay,-31,31,1832,2053,-1,1,12,2
+2009-06-06,United States,Honduras,2,1,World Cup qualifier,the United States,11,-11,1810,1719,3,-3,16,36
+2009-06-06,Uzbekistan,Japan,0,1,World Cup qualifier,Uzbekistan,-13,13,1541,1803,-5,3,75,20
+2009-06-06,Zambia,Rwanda,1,0,World Cup and African Cup qualifier,Zambia,10,-10,1480,1359,3,-3,88,120
+2009-06-07,Algeria,Egypt,3,1,World Cup and African Cup qualifier,Algeria,46,-46,1492,1709,12,-14,85,43
+2009-06-07,Benin,Sudan,1,0,World Cup and African Cup qualifier,Benin,13,-13,1408,1356,4,-4,105,120
+2009-06-07,Cameroon,Morocco,0,0,World Cup and African Cup qualifier,Cameroon,-9,9,1708,1649,-6,1,44,49
+2009-06-07,French Guiana,Guyana,3,2,Parbo Beer Cup,Suriname,16,-16,1220,1214,3,-4,152,153
+2009-06-07,Guinea,Ivory Coast,1,2,World Cup and African Cup qualifier,Guinea,-15,15,1519,1735,-6,3,84,32
+2009-06-07,Jamaica,Panama,3,2,Friendly,Jamaica,6,-6,1634,1577,2,-2,53,64
+2009-06-07,Mali,Ghana,0,2,World Cup and African Cup qualifier,Mali,-25,25,1522,1732,-8,10,81,34
+2009-06-07,Nigeria,Kenya,3,0,World Cup and African Cup qualifier,Nigeria,5,-5,1747,1399,2,-2,30,109
+2009-06-07,Peru,Ecuador,1,2,World Cup qualifier,Peru,-19,19,1547,1711,-5,5,72,40
+2009-06-09,Azerbaijan,Spain,0,6,Friendly,Azerbaijan,-1,1,1360,2122,-1,0,118,1
+2009-06-09,Bosnia and Herzegovina,Oman,2,1,Friendly,France,9,-9,1642,1602,3,0,51,57
+2009-06-09,Iraq,Poland,1,1,Friendly,South Africa,5,-5,1527,1712,1,-1,80,39
+2009-06-10,Albania,Georgia,1,1,Friendly,Albania,-2,2,1461,1487,0,0,93,87
+2009-06-10,Australia,Bahrain,2,0,World Cup qualifier,Australia,14,-14,1729,1588,1,-4,37,61
+2009-06-10,Belarus,Moldova,2,2,Friendly,Belarus,-6,6,1592,1445,1,0,59,99
+2009-06-10,Brazil,Paraguay,2,1,World Cup qualifier,Brazil,4,-4,2057,1788,0,-2,2,24
+2009-06-10,Chile,Bolivia,4,0,World Cup qualifier,Chile,12,-12,1834,1618,2,0,12,55
+2009-06-10,Colombia,Peru,1,0,World Cup qualifier,Colombia,7,-7,1731,1540,-1,-2,36,74
+2009-06-10,Ecuador,Argentina,2,0,World Cup qualifier,Ecuador,40,-40,1751,1895,10,-1,30,8
+2009-06-10,England,Andorra,6,0,World Cup qualifier,England,0,0,1992,1044,0,0,4,182
+2009-06-10,Estonia,Portugal,0,0,Friendly,Estonia,7,-7,1429,1824,3,-1,101,14
+2009-06-10,Faroe Islands,Serbia,0,2,World Cup qualifier,the Faroe Islands,-3,3,1184,1818,-1,0,160,15
+2009-06-10,Finland,Russia,0,3,World Cup qualifier,Finland,-26,26,1663,1910,-1,1,47,7
+2009-06-10,Honduras,El Salvador,1,0,World Cup qualifier,Honduras,7,-7,1726,1530,-2,-5,38,80
+2009-06-10,Iran,United Arab Emirates,1,0,World Cup qualifier,Iran,3,-3,1714,1386,0,-2,40,115
+2009-06-10,Italy,New Zealand,4,3,Friendly,South Africa,1,-1,1991,1490,0,0,5,86
+2009-06-10,Japan,Qatar,1,1,World Cup qualifier,Japan,-16,16,1787,1536,-5,8,25,75
+2009-06-10,Macedonia,Iceland,2,0,World Cup qualifier,Macedonia,13,-13,1569,1418,2,-3,67,104
+2009-06-10,Mexico,Trinidad and Tobago,2,1,World Cup qualifier,Mexico,6,-6,1769,1546,0,0,28,71
+2009-06-10,Netherlands,Norway,2,0,World Cup qualifier,the Netherlands,5,-5,2036,1705,0,-3,3,45
+2009-06-10,South Korea,Saudi Arabia,0,0,World Cup qualifier,South Korea,-9,9,1734,1694,-2,1,33,46
+2009-06-10,Sweden,Malta,4,0,World Cup qualifier,Sweden,2,-2,1753,1222,0,-2,29,151
+2009-06-10,Ukraine,Kazakhstan,2,1,World Cup qualifier,Ukraine,1,-1,1806,1340,0,0,17,123
+2009-06-10,Venezuela,Uruguay,2,2,World Cup qualifier,Venezuela,1,-1,1709,1831,2,-1,42,13
+2009-06-11,Tonga,Cook Islands,1,1,Friendly,Tonga,-3,3,701,713,0,0,215,213
+2009-06-13,Ivory Coast,Cameroon,2,1,Friendly,Ivory Coast,6,-6,1741,1702,0,-1,32,45
+2009-06-13,Tonga,Cook Islands,1,2,Friendly,Tonga,-12,12,689,725,-3,1,218,212
+2009-06-14,Angola,Guinea,0,0,Friendly,Portugal,2,-2,1458,1517,0,0,94,84
+2009-06-14,Madagascar,Mayotte,2,0,Friendly,Madagascar,6,-6,1271,1124,2,-3,136,173
+2009-06-14,South Africa,Iraq,0,0,Confederations Cup,South Africa,-9,9,1547,1536,0,6,70,75
+2009-06-14,Spain,New Zealand,5,0,Confederations Cup,South Africa,3,-3,2125,1487,0,0,1,86
+2009-06-15,Brazil,Egypt,4,3,Confederations Cup,South Africa,6,-6,2063,1703,0,-2,2,44
+2009-06-15,Italy,United States,3,1,Confederations Cup,South Africa,20,-20,2011,1790,1,-6,4,22
+2009-06-17,Australia,Japan,2,1,World Cup qualifier,Australia,18,-18,1747,1769,6,-2,31,27
+2009-06-17,Bahrain,Uzbekistan,1,0,World Cup qualifier,Bahrain,12,-12,1600,1529,2,-8,59,81
+2009-06-17,Saudi Arabia,North Korea,0,0,World Cup qualifier,Saudi Arabia,-13,13,1681,1548,0,6,46,71
+2009-06-17,South Africa,New Zealand,2,0,Confederations Cup,South Africa,21,-21,1568,1466,2,-5,68,91
+2009-06-17,South Korea,Iran,1,1,World Cup qualifier,South Korea,-7,7,1727,1721,-4,1,37,39
+2009-06-17,Spain,Iraq,1,0,Confederations Cup,South Africa,2,-2,2127,1534,0,-1,1,76
+2009-06-18,Brazil,United States,3,0,Confederations Cup,South Africa,15,-15,2078,1775,0,-4,2,26
+2009-06-18,Egypt,Italy,1,0,Confederations Cup,South Africa,43,-43,1746,1968,11,-1,33,5
+2009-06-19,Haiti,Panama,1,1,Friendly,Haiti,2,-2,1407,1575,0,-2,106,66
+2009-06-19,Swaziland,Lesotho,1,1,Friendly,Swaziland,-4,4,1165,1131,-1,0,164,170
+2009-06-20,Burkina Faso,Ivory Coast,2,3,World Cup and African Cup qualifier,Burkina Faso,-11,11,1463,1752,-2,4,92,30
+2009-06-20,Iraq,New Zealand,0,0,Confederations Cup,South Africa,-5,5,1529,1471,-4,2,80,89
+2009-06-20,Kenya,Mozambique,2,1,World Cup and African Cup qualifier,Kenya,15,-15,1414,1390,4,-4,105,111
+2009-06-20,Morocco,Togo,0,0,World Cup and African Cup qualifier,Morocco,-14,14,1635,1467,-4,7,53,90
+2009-06-20,South Africa,Spain,0,2,Confederations Cup,South Africa,-5,5,1563,2132,-1,0,69,1
+2009-06-20,Sudan,Ghana,0,2,World Cup and African Cup qualifier,Sudan,-10,10,1346,1742,-1,1,121,35
+2009-06-20,Tunisia,Nigeria,0,0,World Cup and African Cup qualifier,Tunisia,0,0,1648,1747,1,-1,49,32
+2009-06-20,Zambia,Algeria,0,2,World Cup and African Cup qualifier,Zambia,-37,37,1443,1529,-11,5,99,80
+2009-06-21,Brazil,Italy,3,0,Confederations Cup,South Africa,30,-30,2108,1938,0,-1,2,6
+2009-06-21,Guinea,Malawi,2,1,World Cup and African Cup qualifier,Guinea,6,-6,1523,1308,0,-1,85,130
+2009-06-21,Mali,Benin,3,1,World Cup and African Cup qualifier,Mali,14,-14,1536,1394,9,-2,75,108
+2009-06-21,Swaziland,Lesotho,1,1,Friendly,Swaziland,-4,4,1161,1135,0,0,164,170
+2009-06-21,United States,Egypt,3,0,Confederations Cup,South Africa,40,-40,1815,1706,10,-9,16,43
+2009-06-23,Haiti,Martinique,0,0,Friendly,Haiti,-4,4,1403,1373,0,0,106,116
+2009-06-24,Mexico,Venezuela,4,0,Friendly,the United States,16,-16,1785,1693,2,-3,25,45
+2009-06-24,United States,Spain,2,0,Confederations Cup,South Africa,65,-65,1880,2067,5,-1,11,2
+2009-06-25,South Africa,Brazil,0,1,Confederations Cup,South Africa,-4,4,1559,2112,-1,0,70,1
+2009-06-27,Costa Rica,Venezuela,1,0,Friendly,Costa Rica,5,-5,1789,1688,3,0,23,45
+2009-06-27,Syria,Haiti,2,1,Friendly,Canada,5,-5,1581,1398,2,-1,63,107
+2009-06-28,Brazil,United States,3,2,Confederations Cup,South Africa,10,-10,2122,1870,0,0,1,11
+2009-06-28,Cayman Islands,Jamaica,1,4,Friendly,the Cayman Islands,-1,1,975,1635,-1,1,188,53
+2009-06-28,Grenada,Antigua and Barbuda,2,2,Friendly,Grenada,-4,4,1285,1238,-1,0,134,146
+2009-06-28,Guatemala,Mexico,0,0,Friendly,the United States,8,-8,1433,1777,2,-1,101,27
+2009-06-28,Honduras,Panama,2,0,Friendly,the United States,9,-9,1735,1566,3,-1,35,67
+2009-06-28,South Africa,Spain,2,3,Confederations Cup,South Africa,-4,4,1555,2071,0,0,70,2
+2009-06-30,Canada,Guatemala,3,0,Friendly,the United States,11,-11,1589,1422,3,-2,61,103
+2009-07-03,Canada,Jamaica,1,0,CONCACAF Championship,the United States,28,-28,1617,1607,6,-4,55,57
+2009-07-03,El Salvador,Costa Rica,2,1,CONCACAF Championship,the United States,41,-41,1571,1748,14,-8,66,31
+2009-07-04,Honduras,Haiti,1,0,CONCACAF Championship,the United States,6,-6,1741,1392,0,-2,35,109
+2009-07-04,United States,Grenada,4,0,CONCACAF Championship,the United States,2,-2,1872,1283,0,0,11,134
+2009-07-05,Botswana,Iran,1,1,Friendly,Botswana,7,-7,1299,1714,0,-1,132,40
+2009-07-05,Egypt,Rwanda,3,0,World Cup and African Cup qualifier,Egypt,5,-5,1711,1354,0,0,42,119
+2009-07-05,Guadeloupe,Panama,2,1,CONCACAF Championship,the United States,33,-33,1488,1533,9,-10,86,78
+2009-07-05,Mexico,Nicaragua,2,0,CONCACAF Championship,the United States,1,-1,1778,1094,0,0,26,176
+2009-07-06,Malawi,Swaziland,3,1,Independence Tournament,Malawi,9,-9,1317,1152,2,-1,128,165
+2009-07-07,Canada,El Salvador,1,0,CONCACAF Championship,the United States,22,-22,1639,1549,2,-4,53,70
+2009-07-07,Costa Rica,Jamaica,1,0,CONCACAF Championship,the United States,15,-15,1763,1592,3,-3,28,60
+2009-07-08,Haiti,Grenada,2,0,CONCACAF Championship,the United States,26,-26,1418,1257,5,-6,104,140
+2009-07-08,United States,Honduras,2,0,CONCACAF Championship,the United States,16,-16,1888,1725,2,-3,9,38
+2009-07-09,Guadeloupe,Nicaragua,2,0,CONCACAF Championship,the United States,7,-7,1495,1087,0,0,86,176
+2009-07-09,Mexico,Panama,1,1,CONCACAF Championship,the United States,-15,15,1763,1548,-1,7,27,71
+2009-07-10,Canada,Costa Rica,2,2,CONCACAF Championship,the United States,9,-9,1648,1754,4,-1,49,28
+2009-07-10,Iraq,Palestine,3,0,Friendly,Iraq,3,-3,1532,1208,3,-1,78,155
+2009-07-10,Jamaica,El Salvador,1,0,CONCACAF Championship,the United States,22,-22,1614,1527,4,-13,56,83
+2009-07-11,Honduras,Grenada,4,0,CONCACAF Championship,the United States,6,-6,1731,1251,2,0,36,140
+2009-07-11,United States,Haiti,2,2,CONCACAF Championship,the United States,-23,23,1865,1441,-2,4,11,100
+2009-07-12,Mayotte,Madagascar,2,2,Friendly,Mayotte,1,-1,1125,1270,0,-1,173,136
+2009-07-12,Mexico,Guadeloupe,2,0,CONCACAF Championship,the United States,13,-13,1776,1482,1,-2,26,88
+2009-07-12,Panama,Nicaragua,4,0,CONCACAF Championship,the United States,6,-6,1554,1081,0,-2,70,178
+2009-07-12,Saint Kitts and Nevis,Trinidad and Tobago,2,3,Friendly,Saint Kitts and Nevis,-3,3,1111,1549,0,1,174,71
+2009-07-13,Iraq,Palestine,4,0,Friendly,Iraq,3,-3,1535,1205,1,0,77,155
+2009-07-18,China,Palestine,3,1,Friendly,China,2,-2,1534,1203,1,-1,78,156
+2009-07-18,Honduras,Canada,1,0,CONCACAF Championship,the United States,19,-19,1750,1629,4,-5,32,54
+2009-07-18,Thailand,Pakistan,4,0,Friendly,Thailand,1,-1,1465,889,0,-1,92,201
+2009-07-18,United States,Panama,2,1,CONCACAF Championship,the United States,4,-4,1869,1550,0,0,11,70
+2009-07-19,Costa Rica,Guadeloupe,5,1,CONCACAF Championship,the United States,16,-16,1770,1466,1,-3,27,91
+2009-07-19,Mexico,Haiti,4,0,CONCACAF Championship,the United States,12,-12,1788,1429,2,-1,24,101
+2009-07-23,Costa Rica,Mexico,1,1,CONCACAF Championship,the United States,1,-1,1771,1787,0,-1,27,25
+2009-07-23,United States,Honduras,2,0,CONCACAF Championship,the United States,17,-17,1886,1733,2,-3,9,35
+2009-07-25,China,Kyrgyzstan,3,0,Friendly,China,2,-2,1536,1155,3,0,75,164
+2009-07-26,United States,Mexico,0,5,CONCACAF Championship,the United States,-76,76,1810,1863,-8,14,17,11
+2009-08-07,Colombia,El Salvador,2,1,Friendly,the United States,5,-5,1736,1522,2,-2,35,85
+2009-08-11,Benin,Gabon,1,1,Friendly,France,4,-4,1398,1557,0,0,108,68
+2009-08-12,Albania,Cyprus,6,1,Friendly,Albania,18,-18,1479,1513,7,-4,87,84
+2009-08-12,Algeria,Uruguay,1,0,Friendly,Algeria,15,-15,1544,1816,6,-3,75,17
+2009-08-12,Angola,Togo,2,0,Friendly,Portugal,15,-15,1473,1452,6,-6,89,96
+2009-08-12,Armenia,Moldova,1,4,Friendly,Armenia,-20,20,1374,1465,-6,6,115,92
+2009-08-12,Austria,Cameroon,0,2,Friendly,Austria,-14,14,1563,1716,-2,2,67,42
+2009-08-12,Azerbaijan,Germany,0,2,World Cup qualifier,Azerbaijan,-3,3,1357,1960,0,0,118,5
+2009-08-12,Belarus,Croatia,1,3,World Cup qualifier,Belarus,-15,15,1577,1899,-3,1,64,8
+2009-08-12,Bosnia and Herzegovina,Iran,2,3,Friendly,Bosnia and Herzegovina,-11,11,1631,1725,-1,0,51,40
+2009-08-12,Bulgaria,Latvia,1,0,Friendly,Bulgaria,2,-2,1794,1532,1,-1,21,80
+2009-08-12,Czechia,Belgium,3,1,Friendly,Czechia,4,-4,1804,1579,2,0,19,63
+2009-08-12,Denmark,Chile,1,2,Friendly,Denmark,-13,13,1847,1847,0,1,12,12
+2009-08-12,Ecuador,Jamaica,0,0,Friendly,the United States,-4,4,1747,1618,-1,1,32,55
+2009-08-12,Egypt,Guinea,3,3,Friendly,Egypt,-7,7,1704,1530,-1,3,43,81
+2009-08-12,Estonia,Brazil,0,1,Friendly,Estonia,-1,1,1428,2123,-1,0,102,1
+2009-08-12,Faroe Islands,France,0,1,World Cup qualifier,the Faroe Islands,-1,1,1183,1883,0,0,160,10
+2009-08-12,Ghana,Zambia,4,1,Friendly,England,5,-5,1747,1438,2,0,32,99
+2009-08-12,Honduras,Costa Rica,4,0,World Cup qualifier,Honduras,31,-31,1764,1740,7,-8,29,35
+2009-08-12,Hungary,Romania,0,1,Friendly,Hungary,-9,9,1631,1793,0,4,51,22
+2009-08-12,Iceland,Slovakia,1,1,Friendly,Iceland,3,-3,1421,1637,1,1,104,50
+2009-08-12,Ireland,Australia,0,3,Friendly,Ireland,-24,24,1767,1771,-5,6,28,26
+2009-08-12,Liechtenstein,Portugal,0,3,Friendly,Liechtenstein,-1,1,1176,1825,-1,-1,162,16
+2009-08-12,Luxembourg,Lithuania,0,1,Friendly,Luxembourg,-2,2,1083,1603,0,0,177,59
+2009-08-12,Macedonia,Spain,2,3,Friendly,Macedonia,-2,2,1567,2073,1,0,65,2
+2009-08-12,Malaysia,Kenya,0,0,Friendly,Malaysia,5,-5,1145,1409,2,0,167,106
+2009-08-12,Mali,Burkina Faso,3,0,Friendly,France,14,-14,1550,1449,5,-4,70,97
+2009-08-12,Malta,Georgia,2,0,Friendly,Malta,22,-22,1244,1465,9,-6,142,92
+2009-08-12,Mexico,United States,2,1,World Cup qualifier,Mexico,12,-12,1875,1798,0,-3,11,20
+2009-08-12,Montenegro,Wales,2,1,Friendly,Montenegro,6,-6,1660,1606,1,-1,47,58
+2009-08-12,Morocco,Congo,1,1,Friendly,Morocco,-7,7,1628,1408,-1,0,54,107
+2009-08-12,Mozambique,Swaziland,1,0,Friendly,Mozambique,3,-3,1393,1149,2,-1,109,166
+2009-08-12,Netherlands,England,2,2,Friendly,the Netherlands,-4,4,2032,1996,0,0,3,4
+2009-08-12,Norway,Scotland,4,0,World Cup qualifier,Norway,28,-28,1733,1690,6,-6,37,45
+2009-08-12,Northern Ireland,Israel,1,1,Friendly,Northern Ireland,1,-1,1590,1732,1,-2,61,38
+2009-08-12,Oman,Saudi Arabia,2,1,Friendly,Oman,9,-9,1611,1672,1,0,57,46
+2009-08-12,Poland,Greece,2,0,Friendly,Poland,14,-14,1726,1775,2,-1,39,25
+2009-08-12,Russia,Argentina,2,3,Friendly,Russia,-13,13,1897,1908,-2,1,9,7
+2009-08-12,Rwanda,Tanzania,1,2,Friendly,Rwanda,-13,13,1341,1374,-3,2,122,115
+2009-08-12,Senegal,DR Congo,2,1,Friendly,France,7,-7,1549,1420,1,-2,72,105
+2009-08-12,Singapore,China,1,1,Friendly,Singapore,1,-1,1388,1535,2,-3,112,78
+2009-08-12,Slovenia,San Marino,5,0,World Cup qualifier,Slovenia,1,-1,1566,915,1,0,66,197
+2009-08-12,South Africa,Serbia,1,3,Friendly,South Africa,-8,8,1547,1826,-5,1,74,15
+2009-08-12,South Korea,Paraguay,1,0,Friendly,South Korea,9,-9,1736,1779,2,1,36,24
+2009-08-12,Sweden,Finland,1,0,Friendly,Sweden,5,-5,1758,1658,-1,-1,30,48
+2009-08-12,Switzerland,Italy,0,0,Friendly,Switzerland,1,-1,1806,1937,1,0,18,6
+2009-08-12,Trinidad and Tobago,El Salvador,1,0,World Cup qualifier,Trinidad and Tobago,13,-13,1562,1509,3,0,68,85
+2009-08-12,Tunisia,Ivory Coast,0,0,Friendly,Tunisia,0,0,1648,1752,0,-1,49,31
+2009-08-12,Ukraine,Turkey,0,3,Friendly,Ukraine,-22,22,1784,1827,-5,5,23,14
+2009-08-12,Venezuela,Colombia,2,1,Friendly,the United States,11,-11,1699,1725,1,-5,44,40
+2009-08-12,Zimbabwe,Lesotho,1,1,Friendly,Zimbabwe,-8,8,1381,1143,-1,1,114,169
+2009-08-15,Malaysia,China,0,0,Friendly,Malaysia,7,-7,1152,1528,2,-4,165,82
+2009-08-16,Saint Kitts and Nevis,Jamaica,0,1,Friendly,Saint Kitts and Nevis,-2,2,1109,1620,0,0,174,55
+2009-08-19,India,Lebanon,0,1,Nehru Gold Cup,India,-23,23,1201,1290,-6,4,156,133
+2009-08-20,Syria,Kyrgyzstan,2,0,Nehru Gold Cup,India,5,-5,1586,1150,0,-1,62,165
+2009-08-22,Sri Lanka,Lebanon,4,3,Nehru Gold Cup,India,35,-35,984,1255,6,-6,186,139
+2009-08-23,India,Kyrgyzstan,2,1,Nehru Gold Cup,India,12,-12,1213,1138,2,-5,154,170
+2009-08-23,North Korea,Guam,9,2,East Asian Championship qualifier,Taiwan,0,0,1548,607,0,0,73,224
+2009-08-23,Taiwan,Hong Kong,0,4,East Asian Championship qualifier,Taiwan,-23,23,933,1216,-2,5,193,152
+2009-08-24,Syria,Sri Lanka,4,0,Nehru Gold Cup,India,2,-2,1588,982,0,-1,62,187
+2009-08-25,Hong Kong,North Korea,0,0,East Asian Championship qualifier,Taiwan,15,-15,1231,1533,3,-5,149,78
+2009-08-25,Kyrgyzstan,Lebanon,1,1,Nehru Gold Cup,India,6,-6,1144,1249,2,-1,168,140
+2009-08-25,Taiwan,Guam,4,2,East Asian Championship qualifier,Taiwan,5,-5,938,602,0,0,193,224
+2009-08-26,Bahrain,Kenya,2,1,Friendly tournament,Bahrain,5,-5,1605,1404,1,-1,59,107
+2009-08-26,India,Sri Lanka,3,1,Nehru Gold Cup,India,8,-8,1221,974,2,-2,152,189
+2009-08-27,Hong Kong,Guam,12,0,East Asian Championship qualifier,Taiwan,3,-3,1234,599,1,0,148,224
+2009-08-27,Syria,Lebanon,1,0,Nehru Gold Cup,India,5,-5,1593,1244,1,-1,61,141
+2009-08-27,Taiwan,North Korea,1,2,East Asian Championship qualifier,Taiwan,-2,2,936,1535,0,1,193,77
+2009-08-28,Kyrgyzstan,Sri Lanka,4,1,Nehru Gold Cup,India,19,-19,1163,955,4,-1,164,190
+2009-08-29,India,Syria,0,1,Nehru Gold Cup,India,-7,7,1214,1600,-1,0,153,61
+2009-08-30,Saudi Arabia,Malaysia,2,1,Friendly,Saudi Arabia,1,-1,1673,1151,0,0,46,165
+2009-08-31,Bahrain,Iran,4,2,Friendly tournament,Bahrain,24,-24,1629,1701,6,-3,53,43
+2009-08-31,India,Syria,1,1,Nehru Gold Cup,India,14,-14,1228,1586,2,-1,151,62
+2009-09-04,Malta,Cape Verde,0,2,Friendly,Malta,-15,15,1229,1358,-9,3,150,118
+2009-09-05,Angola,Senegal,1,1,Friendly,Portugal,2,-2,1475,1547,0,-1,89,73
+2009-09-05,Argentina,Brazil,1,3,World Cup qualifier,Argentina,-20,20,1888,2143,-3,0,10,1
+2009-09-05,Armenia,Bosnia and Herzegovina,0,2,World Cup qualifier,Armenia,-17,17,1357,1648,-3,3,118,48
+2009-09-05,Austria,Faroe Islands,3,1,World Cup qualifier,Austria,4,-4,1567,1179,1,0,66,160
+2009-09-05,Azerbaijan,Finland,1,2,World Cup qualifier,Azerbaijan,-10,10,1347,1668,-1,1,120,47
+2009-09-05,Bahrain,Saudi Arabia,0,0,World Cup qualifier,Bahrain,-3,3,1626,1676,-1,0,54,46
+2009-09-05,Bulgaria,Montenegro,4,1,World Cup qualifier,Bulgaria,14,-14,1808,1646,3,-3,18,50
+2009-09-05,Chile,Venezuela,2,2,World Cup qualifier,Chile,-12,12,1835,1711,-1,4,13,40
+2009-09-05,Colombia,Ecuador,2,0,World Cup qualifier,Colombia,23,-23,1748,1724,8,-5,32,37
+2009-09-05,Costa Rica,Mexico,0,3,World Cup qualifier,Costa Rica,-31,31,1709,1906,-7,4,42,7
+2009-09-05,Croatia,Belarus,1,0,World Cup qualifier,Croatia,3,-3,1902,1574,0,0,8,64
+2009-09-05,Cyprus,Ireland,1,2,World Cup qualifier,Cyprus,-12,12,1501,1779,-1,3,85,25
+2009-09-05,Denmark,Portugal,1,1,World Cup qualifier,Denmark,-7,7,1840,1832,0,2,12,14
+2009-09-05,England,Slovenia,2,1,Friendly,England,1,-1,1997,1565,0,-2,4,68
+2009-09-05,France,Romania,1,1,World Cup qualifier,France,-10,10,1873,1803,-1,3,11,19
+2009-09-05,Gabon,Cameroon,0,2,World Cup and African Cup qualifier,Gabon,-25,25,1532,1741,-10,5,79,36
+2009-09-05,Georgia,Italy,0,2,World Cup qualifier,Georgia,-6,6,1459,1943,-1,0,93,6
+2009-09-05,Germany,South Africa,2,0,Friendly,Germany,1,-1,1961,1546,0,-1,5,74
+2009-09-05,Honduras,Trinidad and Tobago,4,1,World Cup qualifier,Honduras,10,-10,1774,1552,2,-2,27,70
+2009-09-05,Hungary,Sweden,1,2,World Cup qualifier,Hungary,-18,18,1613,1776,-5,4,56,26
+2009-09-05,Iceland,Norway,1,1,World Cup qualifier,Iceland,11,-11,1432,1722,3,-1,101,38
+2009-09-05,Israel,Latvia,0,1,World Cup qualifier,Israel,-34,34,1698,1566,-7,12,45,67
+2009-09-05,Ivory Coast,Burkina Faso,5,0,World Cup and African Cup qualifier,Ivory Coast,7,-7,1759,1442,2,-1,29,98
+2009-09-05,Jordan,Malaysia,0,0,Friendly,Jordan,-8,8,1477,1159,-2,0,88,165
+2009-09-05,Malawi,Guinea,2,1,World Cup and African Cup qualifier,Malawi,26,-26,1343,1504,6,-4,122,84
+2009-09-05,Moldova,Luxembourg,0,0,World Cup qualifier,Moldova,-18,18,1447,1101,-4,1,96,176
+2009-09-05,Namibia,Swaziland,1,1,Friendly,Namibia,-7,7,1319,1156,-2,1,127,166
+2009-09-05,Netherlands,Japan,3,0,Friendly,the Netherlands,4,-4,2036,1765,0,-1,3,28
+2009-09-05,Paraguay,Bolivia,1,0,World Cup qualifier,Paraguay,7,-7,1786,1611,1,0,23,57
+2009-09-05,Peru,Uruguay,1,0,World Cup qualifier,Peru,29,-29,1569,1787,10,-5,65,22
+2009-09-05,Poland,Northern Ireland,1,1,World Cup qualifier,Poland,-12,12,1714,1602,0,0,39,61
+2009-09-05,Russia,Liechtenstein,3,0,World Cup qualifier,Russia,1,-1,1898,1175,0,0,9,162
+2009-09-05,Rwanda,Egypt,0,1,World Cup and African Cup qualifier,Rwanda,-7,7,1334,1711,-2,2,124,40
+2009-09-05,Scotland,Macedonia,2,0,World Cup qualifier,Scotland,13,-13,1703,1554,2,-4,43,69
+2009-09-05,Slovakia,Czechia,2,2,World Cup qualifier,Slovakia,4,-4,1641,1800,-1,-2,51,21
+2009-09-05,South Korea,Australia,3,1,Friendly,South Korea,12,-12,1748,1759,4,-3,32,29
+2009-09-05,Spain,Belgium,5,0,World Cup qualifier,Spain,3,-3,2076,1576,0,0,2,63
+2009-09-05,Saint Vincent and the Grenadines,Saint Kitts and Nevis,0,3,Friendly,Saint Vincent and the Grenadines,-28,28,1233,1137,-9,3,147,171
+2009-09-05,Switzerland,Greece,2,0,World Cup qualifier,Switzerland,19,-19,1825,1756,1,-6,17,31
+2009-09-05,Turkey,Estonia,4,2,World Cup qualifier,Turkey,3,-3,1830,1425,-1,-1,15,103
+2009-09-05,Ukraine,Andorra,5,0,World Cup qualifier,Ukraine,1,-1,1785,1043,-1,-2,24,184
+2009-09-05,United States,El Salvador,2,1,World Cup qualifier,the United States,4,-4,1802,1505,0,2,20,83
+2009-09-05,Uzbekistan,Iran,0,0,Friendly,Uzbekistan,2,-2,1531,1699,1,-1,80,44
+2009-09-06,Algeria,Zambia,1,0,World Cup and African Cup qualifier,Algeria,9,-9,1553,1429,5,-2,70,101
+2009-09-06,Benin,Mali,1,1,World Cup and African Cup qualifier,Benin,3,-3,1401,1547,0,-2,108,73
+2009-09-06,Ghana,Sudan,2,0,World Cup and African Cup qualifier,Ghana,3,-3,1750,1343,2,0,32,121
+2009-09-06,Mozambique,Kenya,1,0,World Cup and African Cup qualifier,Mozambique,15,-15,1408,1389,3,-4,106,111
+2009-09-06,Nigeria,Tunisia,2,2,World Cup and African Cup qualifier,Nigeria,-10,10,1737,1658,-2,0,36,48
+2009-09-06,Togo,Morocco,1,1,World Cup and African Cup qualifier,Togo,4,-4,1456,1624,1,-1,94,54
+2009-09-08,Ireland,South Africa,1,0,Friendly,Ireland,3,-3,1782,1543,0,0,25,75
+2009-09-09,Albania,Denmark,1,1,World Cup qualifier,Albania,13,-13,1492,1827,0,-2,86,14
+2009-09-09,Andorra,Kazakhstan,1,3,World Cup qualifier,Andorra,-15,15,1028,1355,-1,4,185,119
+2009-09-09,Angola,Cape Verde,1,1,Friendly,Portugal,-3,3,1472,1361,0,-1,89,118
+2009-09-09,Armenia,Belgium,2,1,World Cup qualifier,Armenia,27,-27,1384,1549,4,-7,114,70
+2009-09-09,Belarus,Ukraine,0,0,World Cup qualifier,Belarus,6,-6,1580,1779,1,-1,63,25
+2009-09-09,Bolivia,Ecuador,1,3,World Cup qualifier,Bolivia,-29,29,1582,1753,-4,6,61,31
+2009-09-09,Bosnia and Herzegovina,Turkey,1,1,World Cup qualifier,Bosnia and Herzegovina,5,-5,1653,1825,0,0,49,15
+2009-09-09,Brazil,Chile,4,2,World Cup qualifier,Brazil,5,-5,2148,1830,0,0,1,13
+2009-09-09,Cameroon,Gabon,2,1,World Cup and African Cup qualifier,Cameroon,6,-6,1747,1526,2,-2,33,81
+2009-09-09,China,Senegal,0,0,Friendly,China,-2,2,1526,1549,0,3,81,70
+2009-09-09,Czechia,San Marino,7,0,World Cup qualifier,Czechia,0,0,1800,915,0,0,21,197
+2009-09-09,El Salvador,Costa Rica,1,0,World Cup qualifier,El Salvador,26,-26,1531,1683,4,-2,79,44
+2009-09-09,England,Croatia,5,1,World Cup qualifier,England,18,-18,2015,1884,0,-1,4,9
+2009-09-09,Faroe Islands,Lithuania,2,1,World Cup qualifier,the Faroe Islands,35,-35,1214,1568,6,-5,154,65
+2009-09-09,Germany,Azerbaijan,4,0,World Cup qualifier,Germany,1,-1,1962,1346,0,-1,5,121
+2009-09-09,Hungary,Portugal,0,1,World Cup qualifier,Hungary,-13,13,1600,1845,-2,2,58,12
+2009-09-09,Iceland,Georgia,3,1,Friendly,Iceland,12,-12,1444,1447,2,-3,98,96
+2009-09-09,Israel,Luxembourg,7,0,World Cup qualifier,Israel,2,-2,1700,1099,4,0,41,176
+2009-09-09,Italy,Bulgaria,2,0,World Cup qualifier,Italy,12,-12,1955,1796,0,-4,6,22
+2009-09-09,Japan,Ghana,4,3,Friendly,the Netherlands,10,-10,1775,1740,1,-3,27,35
+2009-09-09,Jordan,New Zealand,1,3,Friendly,Jordan,-19,19,1458,1490,-4,3,92,87
+2009-09-09,Latvia,Switzerland,2,2,World Cup qualifier,Latvia,9,-9,1575,1816,3,0,64,17
+2009-09-09,Liechtenstein,Finland,1,1,World Cup qualifier,Liechtenstein,16,-16,1191,1652,2,-3,160,50
+2009-09-09,Malta,Sweden,0,1,World Cup qualifier,Malta,-3,3,1226,1779,-1,1,151,25
+2009-09-09,Mexico,Honduras,1,0,World Cup qualifier,Mexico,8,-8,1914,1766,0,-1,7,28
+2009-09-09,Moldova,Greece,1,1,World Cup qualifier,Moldova,11,-11,1458,1745,4,-3,92,34
+2009-09-09,Montenegro,Cyprus,1,1,World Cup qualifier,Montenegro,-12,12,1634,1513,-1,1,51,84
+2009-09-09,Norway,Macedonia,2,1,World Cup qualifier,Norway,7,-7,1729,1547,1,-3,37,72
+2009-09-09,Northern Ireland,Slovakia,0,2,World Cup qualifier,Northern Ireland,-35,35,1567,1676,-5,6,66,45
+2009-09-09,Paraguay,Argentina,1,0,World Cup qualifier,Paraguay,20,-20,1806,1868,4,-1,19,11
+2009-09-09,Qatar,Oman,1,1,Friendly,Qatar,-1,1,1535,1612,0,1,76,56
+2009-09-09,Romania,Austria,1,1,World Cup qualifier,Romania,-15,15,1788,1582,-4,5,23,61
+2009-09-09,Saudi Arabia,Bahrain,2,2,World Cup qualifier,Saudi Arabia,-8,8,1668,1634,-1,2,47,51
+2009-09-09,Scotland,Netherlands,0,1,World Cup qualifier,Scotland,-8,8,1695,2044,0,0,43,3
+2009-09-09,Serbia,France,1,1,World Cup qualifier,Serbia,-3,3,1823,1876,0,1,16,10
+2009-09-09,Slovenia,Poland,3,0,World Cup qualifier,Slovenia,40,-40,1605,1674,11,-7,57,46
+2009-09-09,Spain,Estonia,3,0,World Cup qualifier,Spain,1,-1,2077,1424,0,0,2,103
+2009-09-09,Trinidad and Tobago,United States,0,1,World Cup qualifier,Trinidad and Tobago,-12,12,1540,1814,-4,2,75,18
+2009-09-09,Uruguay,Colombia,3,1,World Cup qualifier,Uruguay,19,-19,1806,1729,3,-4,19,37
+2009-09-09,Venezuela,Peru,3,1,World Cup qualifier,Venezuela,12,-12,1723,1557,1,-2,39,67
+2009-09-09,Wales,Russia,1,3,World Cup qualifier,Wales,-15,15,1591,1913,0,1,59,8
+2009-09-11,Malaysia,Lesotho,5,0,Friendly,Malaysia,14,-14,1173,1129,2,-2,163,171
+2009-09-19,South Africa,Madagascar,1,0,Friendly,South Africa,2,-2,1545,1268,0,0,74,136
+2009-09-20,Saint Kitts and Nevis,Saint Vincent and the Grenadines,1,1,Friendly,Saint Kitts and Nevis,0,0,1137,1233,0,0,170,147
+2009-09-30,Argentina,Ghana,2,0,Friendly,Argentina,6,-6,1874,1734,0,-2,11,37
+2009-09-30,China,Botswana,4,1,Friendly,China,5,-5,1531,1294,2,0,79,132
+2009-09-30,Colombia,Mexico,2,1,Friendly,the United States,15,-15,1744,1899,2,-1,35,8
+2009-10-02,Egypt,Mauritius,4,0,Friendly,Egypt,0,0,1711,1058,0,0,40,181
+2009-10-05,Kuwait,Libya,1,1,Friendly,Egypt,2,-2,1440,1523,0,0,100,83
+2009-10-08,Croatia,Qatar,3,2,Friendly,Croatia,1,-1,1885,1534,0,-2,9,78
+2009-10-08,Japan,Hong Kong,6,0,Asian Cup qualifier,Japan,2,-2,1777,1232,0,-1,27,147
+2009-10-10,Angola,Malta,2,1,Friendly,Portugal,4,-4,1476,1222,0,-1,89,152
+2009-10-10,Argentina,Peru,2,1,World Cup qualifier,Argentina,3,-3,1877,1554,1,-2,10,69
+2009-10-10,Armenia,Spain,1,2,World Cup qualifier,Armenia,-1,1,1383,2078,1,0,113,2
+2009-10-10,Australia,Netherlands,0,0,Friendly,Australia,5,-5,1764,2039,3,0,26,3
+2009-10-10,Austria,Lithuania,2,1,World Cup qualifier,Austria,14,-14,1596,1554,4,-4,57,69
+2009-10-10,Bahrain,New Zealand,0,0,World Cup qualifier,Bahrain,-12,12,1622,1502,-3,1,54,86
+2009-10-10,Belarus,Kazakhstan,4,0,World Cup qualifier,Belarus,10,-10,1590,1345,2,-3,61,122
+2009-10-10,Belgium,Turkey,2,0,World Cup qualifier,Belgium,44,-44,1593,1781,11,-9,59,24
+2009-10-10,Cameroon,Togo,3,0,World Cup and African Cup qualifier,Cameroon,7,-7,1754,1449,4,-1,29,95
+2009-10-10,Colombia,Chile,2,4,World Cup qualifier,Colombia,-31,31,1713,1861,-4,1,39,12
+2009-10-10,Costa Rica,Trinidad and Tobago,4,0,World Cup qualifier,Costa Rica,15,-15,1698,1525,1,-8,43,83
+2009-10-10,Cyprus,Bulgaria,4,1,World Cup qualifier,Cyprus,52,-52,1565,1744,18,-10,66,32
+2009-10-10,Czechia,Poland,2,0,World Cup qualifier,Czechia,13,-13,1813,1661,1,-2,20,48
+2009-10-10,Denmark,Sweden,1,0,World Cup qualifier,Denmark,12,-12,1839,1767,-1,0,15,25
+2009-10-10,Ecuador,Uruguay,1,2,World Cup qualifier,Ecuador,-23,23,1730,1829,-6,2,37,17
+2009-10-10,Estonia,Bosnia and Herzegovina,0,2,World Cup qualifier,Estonia,-19,19,1405,1672,-4,4,107,45
+2009-10-10,Finland,Wales,2,1,World Cup qualifier,Finland,11,-11,1663,1580,3,-5,47,64
+2009-10-10,France,Faroe Islands,5,0,World Cup qualifier,France,1,-1,1877,1213,0,-1,10,155
+2009-10-10,Gabon,Morocco,3,1,World Cup and African Cup qualifier,Gabon,30,-30,1556,1594,14,-4,68,58
+2009-10-10,Greece,Latvia,5,2,World Cup qualifier,Greece,12,-12,1757,1563,6,-3,28,67
+2009-10-10,Honduras,United States,2,3,World Cup qualifier,Honduras,-23,23,1743,1837,-5,2,33,16
+2009-10-10,Ireland,Italy,2,2,World Cup qualifier,Ireland,4,-4,1786,1951,2,0,22,6
+2009-10-10,Israel,Moldova,3,1,World Cup qualifier,Israel,7,-7,1707,1451,1,-1,40,93
+2009-10-10,Japan,Scotland,2,0,Friendly,Japan,8,-8,1785,1687,4,-1,23,44
+2009-10-10,Kuwait,Jordan,2,1,Friendly,Egypt,11,-11,1451,1447,7,-4,93,96
+2009-10-10,Liechtenstein,Azerbaijan,0,2,World Cup qualifier,Liechtenstein,-25,25,1166,1371,-4,3,164,118
+2009-10-10,Luxembourg,Switzerland,0,3,World Cup qualifier,Luxembourg,-2,2,1097,1818,0,-2,176,19
+2009-10-10,Malawi,Ivory Coast,1,1,World Cup and African Cup qualifier,Malawi,14,-14,1357,1745,2,-2,120,31
+2009-10-10,Mexico,El Salvador,4,1,World Cup qualifier,Mexico,4,-4,1903,1527,1,-3,7,82
+2009-10-10,Montenegro,Georgia,2,1,World Cup qualifier,Montenegro,6,-6,1640,1441,0,-4,51,100
+2009-10-10,Norway,South Africa,1,0,Friendly,Norway,3,-3,1732,1542,2,-2,36,76
+2009-10-10,Portugal,Hungary,3,0,World Cup qualifier,Portugal,8,-8,1853,1592,-1,-2,13,60
+2009-10-10,Russia,Germany,0,1,World Cup qualifier,Russia,-23,23,1890,1985,-1,0,8,5
+2009-10-10,Serbia,Romania,5,0,World Cup qualifier,Serbia,25,-25,1848,1763,2,-4,14,27
+2009-10-10,Slovakia,Slovenia,0,2,World Cup qualifier,Slovakia,-44,44,1632,1649,-7,7,52,50
+2009-10-10,United Arab Emirates,Palestine,1,1,Friendly,the United Arab Emirates,-7,7,1379,1210,-2,2,115,156
+2009-10-10,Ukraine,England,1,0,World Cup qualifier,Ukraine,27,-27,1806,1988,4,0,21,4
+2009-10-10,Venezuela,Paraguay,1,2,World Cup qualifier,Venezuela,-21,21,1702,1827,-2,1,41,18
+2009-10-10,Zambia,Egypt,0,1,World Cup and African Cup qualifier,Zambia,-10,10,1419,1721,-3,2,104,38
+2009-10-11,Algeria,Rwanda,3,1,World Cup and African Cup qualifier,Algeria,8,-8,1561,1326,3,-1,68,125
+2009-10-11,Benin,Ghana,1,0,World Cup and African Cup qualifier,Benin,32,-32,1433,1702,7,-5,101,40
+2009-10-11,Bolivia,Brazil,2,1,World Cup qualifier,Bolivia,37,-37,1619,2111,7,0,56,1
+2009-10-11,Burkina Faso,Guinea,2,1,World Cup and African Cup qualifier,Ghana,24,-24,1466,1480,9,-2,90,87
+2009-10-11,Macedonia,Qatar,2,1,Friendly,Macedonia,7,-7,1554,1527,4,-2,70,81
+2009-10-11,Mali,Sudan,1,0,World Cup and African Cup qualifier,Mali,6,-6,1553,1337,1,0,73,123
+2009-10-11,Nigeria,Mozambique,1,0,World Cup and African Cup qualifier,Nigeria,3,-3,1740,1405,0,-2,34,107
+2009-10-11,Tunisia,Kenya,1,0,World Cup and African Cup qualifier,Tunisia,4,-4,1662,1385,1,-1,48,112
+2009-10-13,Congo,North Korea,0,0,Friendly,France,4,-4,1412,1531,0,-1,106,78
+2009-10-13,Iceland,South Africa,1,0,Friendly,Iceland,10,-10,1454,1532,5,-1,94,77
+2009-10-14,Andorra,Ukraine,0,6,World Cup qualifier,Andorra,-2,2,1026,1808,0,5,185,16
+2009-10-14,Angola,Cameroon,0,0,Friendly,Portugal,7,-7,1483,1747,2,-4,87,33
+2009-10-14,Australia,Oman,1,0,Asian Cup qualifier,Australia,8,-8,1772,1604,0,0,26,57
+2009-10-14,Azerbaijan,Russia,1,1,World Cup qualifier,Azerbaijan,17,-17,1388,1873,6,-3,112,11
+2009-10-14,Bosnia and Herzegovina,Spain,2,5,World Cup qualifier,Bosnia and Herzegovina,-10,10,1662,2088,-2,0,47,2
+2009-10-14,Brazil,Venezuela,0,0,World Cup qualifier,Brazil,-18,18,2093,1720,0,1,1,39
+2009-10-14,Bulgaria,Georgia,6,2,World Cup qualifier,Bulgaria,7,-7,1751,1434,0,0,32,100
+2009-10-14,Chile,Ecuador,1,0,World Cup qualifier,Chile,8,-8,1869,1722,0,-1,12,37
+2009-10-14,Czechia,Northern Ireland,0,0,World Cup qualifier,Czechia,-15,15,1798,1582,0,0,20,65
+2009-10-14,Denmark,Hungary,0,1,World Cup qualifier,Denmark,-35,35,1804,1627,-4,7,19,54
+2009-10-14,DR Congo,Qatar,2,2,Friendly,France,3,-3,1423,1524,0,-1,104,82
+2009-10-14,El Salvador,Honduras,0,1,World Cup qualifier,El Salvador,-14,14,1513,1757,-3,4,84,29
+2009-10-14,England,Belarus,3,0,World Cup qualifier,England,4,-4,1992,1586,0,0,4,62
+2009-10-14,Estonia,Belgium,2,0,World Cup qualifier,Estonia,37,-37,1442,1556,9,-10,98,70
+2009-10-14,France,Austria,3,1,World Cup qualifier,France,6,-6,1883,1590,0,-2,10,60
+2009-10-14,Germany,Finland,1,1,World Cup qualifier,Germany,-17,17,1968,1680,0,1,5,46
+2009-10-14,Greece,Luxembourg,2,1,World Cup qualifier,Greece,0,0,1757,1097,-1,0,29,176
+2009-10-14,Ireland,Montenegro,0,0,World Cup qualifier,Ireland,-12,12,1774,1652,-2,2,24,49
+2009-10-14,Italy,Cyprus,3,2,World Cup qualifier,Italy,2,-2,1953,1563,0,-2,6,68
+2009-10-14,Japan,Togo,5,0,Friendly,Japan,3,-3,1788,1446,2,1,21,96
+2009-10-14,Kazakhstan,Croatia,1,2,World Cup qualifier,Kazakhstan,-3,3,1342,1888,0,0,122,9
+2009-10-14,Latvia,Moldova,3,2,World Cup qualifier,Latvia,9,-9,1572,1442,1,-3,66,98
+2009-10-14,Liechtenstein,Wales,0,2,World Cup qualifier,Liechtenstein,-8,8,1158,1588,-1,3,165,61
+2009-10-14,Lithuania,Serbia,2,1,World Cup qualifier,Lithuania,30,-30,1584,1818,6,-1,64,15
+2009-10-14,Paraguay,Colombia,0,2,World Cup qualifier,Paraguay,-46,46,1781,1759,-5,10,23,28
+2009-10-14,Peru,Bolivia,1,0,World Cup qualifier,Peru,18,-18,1572,1601,4,-2,66,58
+2009-10-14,Poland,Slovakia,0,1,World Cup qualifier,Poland,-27,27,1634,1659,-3,4,52,48
+2009-10-14,Portugal,Malta,4,0,World Cup qualifier,Portugal,1,-1,1854,1221,0,0,13,152
+2009-10-14,Romania,Faroe Islands,3,1,World Cup qualifier,Romania,1,-1,1764,1212,0,0,27,155
+2009-10-14,San Marino,Slovenia,0,3,World Cup qualifier,San Marino,-2,2,913,1651,0,0,197,50
+2009-10-14,South Korea,Senegal,2,0,Friendly,South Korea,5,-5,1753,1544,-1,0,31,75
+2009-10-14,Sweden,Albania,4,1,World Cup qualifier,Sweden,7,-7,1774,1485,1,0,24,86
+2009-10-14,Switzerland,Israel,0,0,World Cup qualifier,Switzerland,-11,11,1807,1718,2,-1,17,40
+2009-10-14,Trinidad and Tobago,Mexico,2,2,World Cup qualifier,Trinidad and Tobago,13,-13,1538,1890,7,-1,76,8
+2009-10-14,Tunisia,Saudi Arabia,0,1,Friendly,Tunisia,-13,13,1649,1681,-3,1,51,45
+2009-10-14,Turkey,Armenia,2,0,World Cup qualifier,Turkey,3,-3,1784,1380,2,-3,22,116
+2009-10-14,United Arab Emirates,Jordan,3,1,Friendly,the United Arab Emirates,14,-14,1393,1433,6,-3,109,101
+2009-10-14,Uruguay,Argentina,0,1,World Cup qualifier,Uruguay,-23,23,1806,1900,-1,3,18,7
+2009-10-14,United States,Costa Rica,2,2,World Cup qualifier,the United States,-12,12,1825,1710,2,2,14,41
+2009-10-17,Zimbabwe,Mauritius,3,0,COSAFA Cup,Zimbabwe,6,-6,1387,1052,1,0,114,181
+2009-10-18,Botswana,Comoros,0,0,COSAFA Cup,Zimbabwe,-17,17,1277,850,-2,0,134,204
+2009-10-18,Swaziland,Seychelles,2,1,COSAFA Cup,Zimbabwe,16,-16,1172,1065,3,-2,163,180
+2009-10-19,Zimbabwe,Lesotho,2,2,COSAFA Cup,Zimbabwe,-15,15,1372,1144,-4,2,118,169
+2009-10-20,Botswana,Swaziland,1,0,COSAFA Cup,Zimbabwe,14,-14,1291,1158,2,-2,132,165
+2009-10-20,Comoros,Seychelles,2,1,COSAFA Cup,Zimbabwe,31,-31,881,1034,2,-4,202,184
+2009-10-20,Namibia,South Africa,2,1,Friendly,Namibia,13,-13,1332,1519,3,-5,124,83
+2009-10-20,Vietnam,Turkmenistan,1,0,Ho Chi Minh City Cup,Vietnam,10,-10,1363,1323,2,-2,119,126
+2009-10-21,Lesotho,Mauritius,1,0,COSAFA Cup,Zimbabwe,15,-15,1159,1037,4,-3,165,183
+2009-10-22,Botswana,Seychelles,2,0,COSAFA Cup,Zimbabwe,11,-11,1302,1023,0,-1,132,185
+2009-10-22,Singapore,Turkmenistan,4,2,Ho Chi Minh City Cup,Vietnam,18,-18,1406,1305,4,-5,108,131
+2009-10-22,Swaziland,Comoros,3,0,COSAFA Cup,Zimbabwe,12,-12,1170,869,3,-1,163,203
+2009-10-24,Vietnam,Singapore,2,2,Ho Chi Minh City Cup,Vietnam,-2,2,1361,1408,0,0,119,108
+2009-10-25,Mozambique,Malawi,1,0,COSAFA Cup,Zimbabwe,17,-17,1422,1340,3,-1,106,122
+2009-10-25,Zambia,Namibia,1,0,COSAFA Cup,Zimbabwe,15,-15,1434,1317,6,-3,100,127
+2009-10-26,Kuwait,Syria,1,0,Friendly,Kuwait,11,-11,1462,1575,3,-3,92,65
+2009-10-26,South Africa,Angola,2,0,COSAFA Cup,Zimbabwe,27,-27,1546,1456,8,-6,75,93
+2009-10-26,Zimbabwe,Botswana,1,0,COSAFA Cup,Zimbabwe,11,-11,1383,1291,3,0,115,132
+2009-10-28,French Guiana,Netherlands Antilles,4,1,Independence Cup,Suriname,21,-21,1241,1124,10,-5,143,174
+2009-10-28,Suriname,Guyana,0,1,Independence Cup,Suriname,-20,20,1223,1234,-12,8,153,146
+2009-10-28,Zimbabwe,South Africa,1,1,COSAFA Cup,Zimbabwe,4,-4,1387,1542,1,-1,114,76
+2009-10-29,Zambia,Mozambique,2,0,COSAFA Cup,Zimbabwe,29,-29,1463,1393,8,-3,92,109
+2009-10-30,Guyana,Netherlands Antilles,1,0,Independence Cup,Suriname,10,-10,1244,1114,5,0,141,174
+2009-10-30,Suriname,French Guiana,4,0,Independence Cup,Suriname,22,-22,1245,1219,13,-11,140,154
+2009-10-31,Mozambique,South Africa,1,0,COSAFA Cup,Zimbabwe,28,-28,1421,1514,2,-7,107,83
+2009-11-01,Guyana,French Guiana,1,0,Independence Cup,Suriname,14,-14,1258,1205,3,-3,138,157
+2009-11-01,Suriname,Netherlands Antilles,1,1,Independence Cup,Suriname,-9,9,1236,1123,-6,0,146,174
+2009-11-01,Zimbabwe,Zambia,3,1,COSAFA Cup,Zimbabwe,28,-28,1415,1435,6,-8,108,100
+2009-11-03,Kuwait,Kenya,5,0,Friendly,Egypt,16,-16,1478,1369,3,-3,89,118
+2009-11-04,Chile,Paraguay,2,1,Friendly,Chile,5,-5,1874,1776,1,0,11,23
+2009-11-04,Singapore,Indonesia,3,1,Friendly,Singapore,6,-6,1414,1265,1,-1,109,136
+2009-11-05,Egypt,Tanzania,5,1,Friendly,Egypt,3,-3,1724,1371,1,-1,37,117
+2009-11-06,Bahrain,Togo,5,1,Friendly,Bahrain,6,-6,1628,1440,1,-3,54,99
+2009-11-08,Kuwait,China,2,2,Friendly,Kuwait,-1,1,1477,1532,0,0,89,78
+2009-11-08,Thailand,Syria,1,1,Friendly,Thailand,0,0,1465,1575,0,0,92,65
+2009-11-08,Yemen,Tanzania,1,1,Friendly,Yemen,2,-2,1206,1369,1,0,157,117
+2009-11-10,Iran,Iceland,1,0,Friendly,Iran,2,-2,1701,1452,0,0,43,95
+2009-11-11,Yemen,Tanzania,2,1,Friendly,Yemen,12,-12,1218,1357,3,-3,154,120
+2009-11-13,Qatar,Paraguay,2,0,Friendly,France,24,-24,1548,1752,6,-8,75,31
+2009-11-13,Saudi Arabia,Belarus,2,1,Friendly,Saudi Arabia,5,-5,1686,1581,0,-2,45,64
+2009-11-14,Angola,Congo,1,1,Friendly,Angola,-4,4,1452,1416,-3,2,96,108
+2009-11-14,Belgium,Hungary,3,0,Friendly,Belgium,16,-16,1572,1611,5,0,65,55
+2009-11-14,Brazil,England,1,0,Friendly,Qatar,7,-7,2100,1985,0,0,1,4
+2009-11-14,Burkina Faso,Malawi,1,0,World Cup and African Cup qualifier,Burkina Faso,9,-9,1475,1331,0,0,90,122
+2009-11-14,Costa Rica,Uruguay,0,1,World Cup qualifier,Costa Rica,-20,20,1690,1826,-2,4,43,14
+2009-11-14,Croatia,Liechtenstein,5,0,Friendly,Croatia,0,0,1888,1158,-1,0,10,167
+2009-11-14,Denmark,South Korea,0,0,Friendly,Denmark,-4,4,1800,1757,1,1,18,29
+2009-11-14,Egypt,Algeria,2,0,World Cup and African Cup qualifier,Egypt,11,-11,1735,1550,0,-3,37,72
+2009-11-14,Estonia,Albania,0,0,Friendly,Estonia,-2,2,1440,1487,-4,-1,101,87
+2009-11-14,Greece,Ukraine,0,0,World Cup qualifier,Greece,-3,3,1754,1811,-3,-1,31,17
+2009-11-14,Honduras,Latvia,2,1,Friendly,Honduras,3,-3,1760,1569,1,-2,27,68
+2009-11-14,Iran,Jordan,1,0,Asian Cup qualifier,Iran,4,-4,1705,1429,2,-2,41,104
+2009-11-14,Ireland,France,0,1,World Cup qualifier,Ireland,-19,19,1755,1902,-7,3,30,7
+2009-11-14,Italy,Netherlands,0,0,Friendly,Italy,0,0,1953,2039,0,0,6,3
+2009-11-14,Ivory Coast,Guinea,3,0,World Cup and African Cup qualifier,Ivory Coast,8,-8,1753,1472,2,-4,32,91
+2009-11-14,Kenya,Nigeria,2,3,World Cup and African Cup qualifier,Kenya,-7,7,1362,1747,0,0,117,35
+2009-11-14,Kuwait,Indonesia,2,1,Asian Cup qualifier,Kuwait,6,-6,1483,1259,1,-1,88,137
+2009-11-14,Lebanon,China,0,2,Asian Cup qualifier,Lebanon,-15,15,1229,1547,-9,4,150,75
+2009-11-14,Luxembourg,Iceland,1,1,Friendly,Luxembourg,6,-6,1103,1446,1,-3,175,98
+2009-11-14,Macedonia,Canada,3,0,Friendly,Macedonia,16,-16,1570,1613,5,-1,67,54
+2009-11-14,Morocco,Cameroon,0,2,World Cup and African Cup qualifier,Morocco,-25,25,1569,1772,-9,7,68,26
+2009-11-14,Mozambique,Tunisia,1,0,World Cup and African Cup qualifier,Mozambique,27,-27,1448,1622,10,-1,97,52
+2009-11-14,New Zealand,Bahrain,1,0,World Cup qualifier,New Zealand,21,-21,1523,1607,3,-2,82,56
+2009-11-14,Northern Ireland,Serbia,0,1,Friendly,Northern Ireland,-6,6,1576,1824,-1,0,64,15
+2009-11-14,Oman,Australia,1,2,Asian Cup qualifier,Oman,-16,16,1588,1788,-4,4,61,21
+2009-11-14,Poland,Romania,0,1,Friendly,Poland,-9,9,1625,1773,1,1,51,25
+2009-11-14,Portugal,Bosnia and Herzegovina,1,0,World Cup qualifier,Portugal,6,-6,1860,1656,0,-1,13,48
+2009-11-14,Russia,Slovenia,2,1,World Cup qualifier,Russia,5,-5,1878,1646,1,0,11,50
+2009-11-14,Rwanda,Zambia,0,0,World Cup and African Cup qualifier,Rwanda,1,-1,1327,1434,1,-2,123,102
+2009-11-14,Saudi Arabia,Belarus,1,1,Friendly,Saudi Arabia,-5,5,1681,1586,1,2,44,62
+2009-11-14,Singapore,Thailand,1,3,Asian Cup qualifier,Singapore,-34,34,1380,1499,-5,6,114,86
+2009-11-14,Slovakia,United States,1,0,Friendly,Slovakia,12,-12,1671,1813,2,-2,46,16
+2009-11-14,South Africa,Japan,0,0,Friendly,South Africa,5,-5,1519,1783,-1,-2,84,23
+2009-11-14,Spain,Argentina,2,1,Friendly,Spain,3,-3,2091,1897,0,-1,2,8
+2009-11-14,Sudan,Benin,1,2,World Cup and African Cup qualifier,Sudan,-20,20,1317,1453,-3,7,126,95
+2009-11-14,Switzerland,Norway,0,1,Friendly,Switzerland,-15,15,1792,1747,-3,1,20,35
+2009-11-14,Togo,Gabon,1,0,World Cup and African Cup qualifier,Togo,21,-21,1461,1535,6,-8,93,78
+2009-11-14,Uzbekistan,Malaysia,3,1,Asian Cup qualifier,Uzbekistan,4,-4,1535,1169,2,-1,78,163
+2009-11-14,Vietnam,Syria,0,1,Asian Cup qualifier,Vietnam,-14,14,1347,1589,-2,5,120,60
+2009-11-14,Wales,Scotland,3,0,Friendly,Wales,17,-17,1605,1670,4,-3,57,47
+2009-11-15,Ghana,Mali,2,2,World Cup and African Cup qualifier,Ghana,-12,12,1690,1565,0,1,42,70
+2009-11-15,Iraq,Azerbaijan,1,0,International Cup,the United Arab Emirates,9,-9,1544,1379,2,-2,76,115
+2009-11-15,United Arab Emirates,Czechia,0,0,International Cup,the United Arab Emirates,11,-11,1404,1787,0,-2,110,21
+2009-11-17,Belgium,Qatar,2,0,Friendly,France,14,-14,1586,1534,4,-6,61,80
+2009-11-17,Oman,Brazil,0,2,Friendly,Oman,-3,3,1585,2103,-2,0,63,1
+2009-11-17,Slovakia,Chile,1,2,Friendly,Slovakia,-7,7,1664,1881,-1,1,47,11
+2009-11-17,South Africa,Jamaica,0,0,Friendly,South Africa,0,0,1519,1620,0,0,84,53
+2009-11-18,Algeria,Egypt,1,0,World Cup qualifier,Sudan,30,-30,1580,1705,8,-3,64,40
+2009-11-18,Angola,Ghana,0,0,Friendly,Angola,4,-4,1456,1686,2,-1,94,43
+2009-11-18,Austria,Spain,1,5,Friendly,Austria,-3,3,1587,2094,0,0,59,2
+2009-11-18,Azerbaijan,Czechia,2,0,International Cup,the United Arab Emirates,41,-41,1420,1746,7,-14,108,35
+2009-11-18,Bahrain,Yemen,4,0,Asian Cup qualifier,Bahrain,4,-4,1611,1214,2,0,54,154
+2009-11-18,Bosnia and Herzegovina,Portugal,0,1,World Cup qualifier,Bosnia and Herzegovina,-14,14,1642,1874,-2,1,50,12
+2009-11-18,Denmark,United States,3,1,Friendly,Denmark,11,-11,1811,1802,2,-1,16,17
+2009-11-18,France,Ireland,1,1,World Cup qualifier,France,-12,12,1890,1767,-1,3,8,27
+2009-11-18,Germany,Ivory Coast,2,2,Friendly,Germany,-7,7,1961,1760,0,4,5,28
+2009-11-18,Hong Kong,Japan,0,4,Asian Cup qualifier,Hong Kong,-5,5,1227,1788,-4,4,151,19
+2009-11-18,Indonesia,Kuwait,1,1,Asian Cup qualifier,Indonesia,7,-7,1266,1476,1,0,136,88
+2009-11-18,Iran,Macedonia,1,1,Friendly,Iran,-6,6,1699,1576,-1,1,42,66
+2009-11-18,Italy,Sweden,1,0,Friendly,Italy,3,-3,1956,1771,0,-2,6,26
+2009-11-18,Malaysia,Uzbekistan,1,3,Asian Cup qualifier,Malaysia,-11,11,1158,1546,-3,2,166,76
+2009-11-18,Malta,Bulgaria,1,4,Friendly,Malta,-3,3,1218,1754,0,3,153,31
+2009-11-18,Montenegro,Belarus,1,0,Friendly,Montenegro,6,-6,1658,1580,0,-3,49,64
+2009-11-18,Netherlands,Paraguay,0,0,Friendly,the Netherlands,-8,8,2031,1760,0,5,3,28
+2009-11-18,Peru,Honduras,2,1,Friendly,the United States,15,-15,1587,1745,7,-9,59,36
+2009-11-18,Poland,Canada,1,0,Friendly,Poland,7,-7,1632,1606,0,-2,51,56
+2009-11-18,Serbia,South Korea,1,0,Friendly,England,8,-8,1832,1749,1,-3,14,32
+2009-11-18,Slovenia,Russia,1,0,World Cup qualifier,Slovenia,27,-27,1673,1851,4,-1,46,13
+2009-11-18,Syria,Vietnam,0,0,Asian Cup qualifier,Syria,-15,15,1574,1362,-8,3,68,117
+2009-11-18,Thailand,Singapore,0,1,Asian Cup qualifier,Thailand,-31,31,1468,1411,-5,2,91,111
+2009-11-18,United Arab Emirates,Iraq,0,1,International Cup,the United Arab Emirates,-13,13,1391,1557,-2,2,112,73
+2009-11-18,Ukraine,Greece,0,1,World Cup qualifier,Ukraine,-28,28,1783,1782,-5,8,22,23
+2009-11-18,Uruguay,Costa Rica,1,1,World Cup qualifier,Uruguay,-12,12,1814,1702,-1,1,15,41
+2009-11-21,Zambia,North Korea,4,1,Friendly,Zambia,17,-17,1451,1514,5,-3,97,84
+2009-11-22,China,Lebanon,1,0,Asian Cup qualifier,China,3,-3,1550,1226,1,-2,74,151
+2009-11-22,Jordan,Iran,1,0,Asian Cup qualifier,Jordan,29,-29,1458,1670,10,-4,94,46
+2009-11-26,Malaysia,Maldives,0,1,Friendly,Malaysia,-15,15,1143,1096,-2,1,168,177
+2009-11-28,Kenya,Zambia,0,2,CECAFA Cup,Kenya,-31,31,1331,1482,-4,11,121,87
+2009-11-29,Nepal,Bhutan,2,1,Friendly,India,3,-3,955,633,1,0,190,222
+2009-11-29,Rwanda,Somalia,1,0,CECAFA Cup,Kenya,4,-4,1331,937,2,0,121,192
+2009-11-29,Uganda,Tanzania,2,0,CECAFA Cup,Kenya,20,-20,1499,1337,2,-1,86,120
+2009-11-29,Zanzibar,Burundi,4,0,CECAFA Cup,Kenya,37,-37,1286,1206,6,-16,134,157
+2009-11-30,Ethiopia,Djibouti,5,0,CECAFA Cup,Kenya,4,-4,1325,792,0,0,124,208
+2009-12-01,Eritrea,Zimbabwe,0,0,CECAFA Cup,Kenya,12,-12,1198,1403,1,-1,159,111
+2009-12-01,Tanzania,Zanzibar,1,0,CECAFA Cup,Kenya,17,-17,1354,1269,1,-1,119,135
+2009-12-02,Kenya,Djibouti,2,0,CECAFA Cup,Kenya,1,-1,1332,791,0,-1,121,209
+2009-12-02,Uganda,Burundi,2,0,CECAFA Cup,Kenya,9,-9,1508,1197,0,-2,86,159
+2009-12-02,Zambia,Ethiopia,1,0,CECAFA Cup,Kenya,12,-12,1494,1313,1,-4,87,128
+2009-12-03,Rwanda,Eritrea,2,1,CECAFA Cup,Kenya,13,-13,1344,1185,2,-2,120,160
+2009-12-03,Zimbabwe,Somalia,2,0,CECAFA Cup,Kenya,4,-4,1407,933,0,-1,111,193
+2009-12-04,Bangladesh,Bhutan,4,1,South Asian Championship,Bangladesh,6,-6,938,627,2,-1,192,223
+2009-12-04,Sri Lanka,Pakistan,1,0,South Asian Championship,Bangladesh,16,-16,971,873,1,-1,189,202
+2009-12-04,Tanzania,Burundi,1,0,CECAFA Cup,Kenya,12,-12,1366,1185,2,-1,117,159
+2009-12-04,Zambia,Djibouti,6,0,CECAFA Cup,Kenya,1,-1,1495,790,0,0,87,209
+2009-12-05,Dominica,British Virgin Islands,4,0,Friendly,Dominica,9,-9,992,884,0,-1,186,200
+2009-12-05,Eritrea,Somalia,3,1,CECAFA Cup,Kenya,11,-11,1196,922,1,-2,158,196
+2009-12-05,India,Afghanistan,1,0,South Asian Championship,Bangladesh,3,-3,1231,809,1,0,147,207
+2009-12-05,Kenya,Ethiopia,2,0,CECAFA Cup,Kenya,20,-20,1352,1293,1,-3,121,131
+2009-12-05,Maldives,Nepal,1,1,South Asian Championship,Bangladesh,-8,8,1088,963,0,0,177,191
+2009-12-05,Rwanda,Zimbabwe,1,0,CECAFA Cup,Kenya,24,-24,1368,1383,3,-3,117,114
+2009-12-05,Uganda,Zanzibar,0,0,CECAFA Cup,Kenya,-12,12,1496,1281,0,1,86,134
+2009-12-06,Bangladesh,Pakistan,0,0,South Asian Championship,Bangladesh,-9,9,929,882,-1,1,193,201
+2009-12-06,Sri Lanka,Bhutan,6,0,South Asian Championship,Bangladesh,10,-10,981,617,2,0,187,223
+2009-12-07,India,Nepal,1,0,South Asian Championship,Bangladesh,7,-7,1238,956,4,0,143,191
+2009-12-07,Kenya,Uganda,0,1,CECAFA Cup,Kenya,-17,17,1335,1513,-1,1,122,85
+2009-12-07,Maldives,Afghanistan,3,1,South Asian Championship,Bangladesh,10,-10,1098,799,0,0,177,207
+2009-12-07,Zambia,Zanzibar,0,0,CECAFA Cup,Kenya,-11,11,1484,1292,-1,2,88,132
+2009-12-08,Bangladesh,Sri Lanka,2,1,South Asian Championship,Bangladesh,17,-17,946,964,1,-3,192,190
+2009-12-08,Pakistan,Bhutan,7,0,South Asian Championship,Bangladesh,16,-16,898,601,2,0,199,223
+2009-12-08,Rwanda,Zimbabwe,4,1,CECAFA Cup,Kenya,37,-37,1405,1346,6,-6,111,120
+2009-12-08,Tanzania,Eritrea,4,0,CECAFA Cup,Kenya,20,-20,1386,1176,3,-3,115,161
+2009-12-09,Maldives,India,2,0,South Asian Championship,Bangladesh,41,-41,1139,1197,7,-14,170,157
+2009-12-09,Nepal,Afghanistan,3,0,South Asian Championship,Bangladesh,20,-20,976,779,4,-2,187,209
+2009-12-09,Uganda,Zanzibar,2,1,CECAFA Cup,Kenya,9,-9,1522,1283,2,-2,83,134
+2009-12-10,Rwanda,Tanzania,2,1,CECAFA Cup,Kenya,19,-19,1424,1367,5,-2,106,117
+2009-12-11,Bangladesh,India,0,1,South Asian Championship,Bangladesh,-12,12,934,1209,-1,2,193,155
+2009-12-11,Maldives,Sri Lanka,5,1,South Asian Championship,Bangladesh,20,-20,1159,944,5,0,165,191
+2009-12-13,India,Maldives,0,0,South Asian Championship,Bangladesh,-3,3,1206,1162,-1,0,156,165
+2009-12-13,Uganda,Rwanda,2,0,CECAFA Cup,Kenya,22,-22,1544,1402,6,-5,77,111
+2009-12-13,Zanzibar,Tanzania,1,0,CECAFA Cup,Kenya,25,-25,1308,1342,5,-3,129,120
+2009-12-16,Kuwait,United Arab Emirates,0,0,Friendly,Kuwait,-5,5,1471,1396,-2,0,91,112
+2009-12-19,Mozambique,Malawi,0,1,Friendly,Mozambique,-16,16,1432,1347,-5,4,104,119
+2009-12-20,Reunion,Mauritius,2,0,Friendly,Reunion,3,-3,1318,1034,3,0,124,183
+2009-12-27,North Korea,Mali,1,0,Friendship Cup,Qatar,17,-17,1531,1548,3,-4,82,75
+2009-12-28,Qatar,Iran,3,2,Friendship Cup,Qatar,17,-17,1551,1653,8,-3,73,49
+2009-12-28,Singapore,Oman,0,0,Friendly,Singapore,2,-2,1413,1583,0,-1,110,63
+2009-12-28,Zambia,Mozambique,1,0,Friendly,South Africa,9,-9,1493,1423,1,-1,87,105
+2009-12-29,Egypt,Malawi,1,1,Friendly,Egypt,-9,9,1696,1356,-1,0,41,119
+2009-12-29,Thailand,Zimbabwe,3,0,Friendly,Thailand,8,-8,1476,1338,3,-2,89,122
+2009-12-30,China,Jordan,2,2,Friendly,China,-5,5,1545,1463,-2,1,76,94
+2009-12-30,Estonia,Angola,1,0,Friendly,Portugal,10,-10,1450,1446,4,-3,98,99
+2009-12-30,Malaysia,Syria,4,1,Friendly,Malaysia,30,-30,1173,1544,7,-9,162,77
+2009-12-30,Mali,Iran,2,1,Friendship Cup,Qatar,19,-19,1567,1634,6,-1,70,50
+2009-12-30,Qatar,North Korea,0,1,Friendship Cup,Qatar,-20,20,1531,1551,-9,9,82,73
+2009-12-30,Yemen,Tajikistan,2,1,Friendly,Yemen,9,-9,1223,1278,1,-1,151,135
+2009-12-31,Singapore,Oman,1,4,Friendly,Singapore,-14,14,1399,1597,-1,4,111,59
