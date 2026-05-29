@@ -4,6 +4,8 @@ import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 
+from .base import coerce_goal_array, ensure_non_negative
+
 
 class TreeGoalModel:
     """
@@ -35,29 +37,15 @@ class TreeGoalModel:
             n_jobs=-1,
         )
 
-    def fit(self, X, y):
+    def fit(self, X, y, sample_weight=None):
         """Fit separate Random Forest models for A and B goals."""
-        y_arr = _coerce_goal_array(y)
-        self.home_model.fit(X, y_arr[:, 0])
-        self.away_model.fit(X, y_arr[:, 1])
+        y_arr = coerce_goal_array(y)
+        self.home_model.fit(X, y_arr[:, 0], sample_weight=sample_weight)
+        self.away_model.fit(X, y_arr[:, 1], sample_weight=sample_weight)
         return self
 
     def predict(self, X):
         """Predict expected goals for A and B."""
         home_pred = self.home_model.predict(X)
         away_pred = self.away_model.predict(X)
-        return np.column_stack([home_pred, away_pred])
-
-
-def _coerce_goal_array(y) -> np.ndarray:
-    """Convert various goal formats to standardized (n_samples, 2) array."""
-    if isinstance(y, pd.DataFrame):
-        if {"goals_A", "goals_B"}.issubset(y.columns):
-            return y[["goals_A", "goals_B"]].to_numpy()
-        if {"home_goals", "away_goals"}.issubset(y.columns):
-            return y[["home_goals", "away_goals"]].to_numpy()
-        return y.iloc[:, :2].to_numpy()
-    y_arr = np.asarray(y)
-    if y_arr.ndim != 2 or y_arr.shape[1] < 2:
-        raise ValueError("Expected y with shape (n_samples, 2) for A/B goals.")
-    return y_arr[:, :2]
+        return ensure_non_negative(np.column_stack([home_pred, away_pred]))

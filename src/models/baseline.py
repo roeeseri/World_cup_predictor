@@ -3,6 +3,8 @@ from __future__ import annotations
 import numpy as np
 import pandas as pd
 
+from .base import coerce_goal_array, ensure_non_negative
+
 
 class ConstantScoreBaseline:
     """
@@ -14,19 +16,20 @@ class ConstantScoreBaseline:
         self.goals_a = goals_a
         self.goals_b = goals_b
 
-    def fit(self, X, y):
+    def fit(self, X, y, sample_weight=None):
         """Learn average goals from training data."""
-        y_arr = _coerce_goal_array(y)
+        y_arr = coerce_goal_array(y)
+        weights = _coerce_sample_weight(sample_weight, len(y_arr))
         if self.goals_a is None:
-            self.goals_a = float(np.mean(y_arr[:, 0]))
+            self.goals_a = float(np.average(y_arr[:, 0], weights=weights))
         if self.goals_b is None:
-            self.goals_b = float(np.mean(y_arr[:, 1]))
+            self.goals_b = float(np.average(y_arr[:, 1], weights=weights))
         return self
 
     def predict(self, X):
         """Predict constant goals for any number of matches."""
         n_rows = len(X) if hasattr(X, "__len__") else 1
-        return np.tile([self.goals_a, self.goals_b], (n_rows, 1))
+        return ensure_non_negative(np.tile([self.goals_a, self.goals_b], (n_rows, 1)))
 
 
 class AverageGoalsBaseline:
@@ -39,17 +42,18 @@ class AverageGoalsBaseline:
         self.avg_goals_a = 1.2
         self.avg_goals_b = 1.0
 
-    def fit(self, X, y):
+    def fit(self, X, y, sample_weight=None):
         """Learn average goals from training data."""
-        y_arr = _coerce_goal_array(y)
-        self.avg_goals_a = float(np.mean(y_arr[:, 0]))
-        self.avg_goals_b = float(np.mean(y_arr[:, 1]))
+        y_arr = coerce_goal_array(y)
+        weights = _coerce_sample_weight(sample_weight, len(y_arr))
+        self.avg_goals_a = float(np.average(y_arr[:, 0], weights=weights))
+        self.avg_goals_b = float(np.average(y_arr[:, 1], weights=weights))
         return self
 
     def predict(self, X):
         """Predict average goals for any match."""
         n_rows = len(X) if hasattr(X, "__len__") else 1
-        return np.tile([self.avg_goals_a, self.avg_goals_b], (n_rows, 1))
+        return ensure_non_negative(np.tile([self.avg_goals_a, self.avg_goals_b], (n_rows, 1)))
 
 class EloHeuristicBaseline:
     """
@@ -70,11 +74,12 @@ class EloHeuristicBaseline:
         self.avg_goals_a = 1.2
         self.avg_goals_b = 1.0
 
-    def fit(self, X, y):
+    def fit(self, X, y, sample_weight=None):
         """Learn average goals from training data."""
-        y_arr = _coerce_goal_array(y)
-        self.avg_goals_a = float(np.mean(y_arr[:, 0]))
-        self.avg_goals_b = float(np.mean(y_arr[:, 1]))
+        y_arr = coerce_goal_array(y)
+        weights = _coerce_sample_weight(sample_weight, len(y_arr))
+        self.avg_goals_a = float(np.average(y_arr[:, 0], weights=weights))
+        self.avg_goals_b = float(np.average(y_arr[:, 1], weights=weights))
         return self
 
     def predict(self, X):
@@ -85,11 +90,13 @@ class EloHeuristicBaseline:
         """
         if not isinstance(X, pd.DataFrame):
             n_rows = len(X) if hasattr(X, "__len__") else 1
-            return np.tile([self.avg_goals_a, self.avg_goals_b], (n_rows, 1))
+            return ensure_non_negative(np.tile([self.avg_goals_a, self.avg_goals_b], (n_rows, 1)))
 
         # Extract Elo difference (primary feature for this baseline)
         if "elo_diff" in X.columns:
             diff = X["elo_diff"].to_numpy(dtype=float)
+        elif {"rating_a_before", "rating_b_before"}.issubset(X.columns):
+            diff = (X["rating_a_before"] - X["rating_b_before"]).to_numpy(dtype=float)
         elif {"rating_A_before", "rating_B_before"}.issubset(X.columns):
             diff = (X["rating_A_before"] - X["rating_B_before"]).to_numpy(dtype=float)
         else:
@@ -101,7 +108,7 @@ class EloHeuristicBaseline:
         shift = np.tanh(diff / 400.0) * self.scale
         goals_a = np.clip(self.avg_goals_a + shift, 0.1, None)
         goals_b = np.clip(self.avg_goals_b - shift, 0.1, None)
-        return np.column_stack([goals_a, goals_b])
+        return ensure_non_negative(np.column_stack([goals_a, goals_b]))
 
 
 class EloBaseline:
@@ -181,14 +188,13 @@ class EloBaseline:
         self.ratings[away_team] = away_rating - delta
 
 
-def _coerce_goal_array(y) -> np.ndarray:
-    if isinstance(y, pd.DataFrame):
-        if {"goals_A", "goals_B"}.issubset(y.columns):
-            return y[["goals_A", "goals_B"]].to_numpy()
-        if {"home_goals", "away_goals"}.issubset(y.columns):
-            return y[["home_goals", "away_goals"]].to_numpy()
-        return y.iloc[:, :2].to_numpy()
-    y_arr = np.asarray(y)
-    if y_arr.ndim != 2 or y_arr.shape[1] < 2:
-        raise ValueError("Expected y with shape (n_samples, 2) for home/away goals.")
-    return y_arr[:, :2]
+def _coerce_sample_weight(sample_weight, n_rows: int) -> np.ndarray | None:
+    if sample_weight is None:
+        return None
+    weights = np.asarray(sample_weight, dtype=float)
+    if weights.shape[0] != n_rows:
+        raise ValueError("sample_weight must have one value per training row.")
+    weights = np.clip(weights, 0.0, None)
+    if np.all(weights == 0):
+        return None
+    return weights
