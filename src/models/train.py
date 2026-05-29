@@ -4,7 +4,7 @@ from pathlib import Path
 
 from joblib import dump, load
 
-from .baseline import ConstantScoreBaseline, EloBaseline
+from .baseline import AverageGoalsBaseline, ConstantScoreBaseline, EloBaseline, EloHeuristicBaseline
 from .ensemble import EnsembleGoalModel
 from .poisson_model import PoissonGoalModel
 from .tree_model import TreeGoalModel
@@ -33,7 +33,17 @@ def train_model(X_train, y_train, model_type: str = "poisson"):
         model.fit(X_train, y_train)
         return model
 
+    if model_type == "average":
+        model = AverageGoalsBaseline()
+        model.fit(X_train, y_train)
+        return model
+
     if model_type == "elo":
+        model = EloHeuristicBaseline()
+        model.fit(X_train, y_train)
+        return model
+
+    if model_type == "elo_legacy":
         model = EloBaseline()
         model.fit(X_train)
         return model

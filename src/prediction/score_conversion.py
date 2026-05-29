@@ -29,3 +29,21 @@ def outcome_probabilities(lambda_a: float, lambda_b: float, max_goals: int = 6) 
     draw = np.trace(grid)
     away_win = np.triu(grid, 1).sum()
     return {"home_win": float(home_win), "draw": float(draw), "away_win": float(away_win)}
+
+
+def convert_expected_goals_to_scores(y_pred_expected, method: str = "poisson", max_goals: int = 6) -> np.ndarray:
+    y_pred_arr = np.asarray(y_pred_expected, dtype=float)
+    if y_pred_arr.ndim != 2 or y_pred_arr.shape[1] < 2:
+        raise ValueError("Expected predictions with shape (n_samples, 2).")
+
+    scores = []
+    method = method.lower()
+    for lambda_a, lambda_b in y_pred_arr[:, :2]:
+        if method == "poisson":
+            score = most_likely_score(float(lambda_a), float(lambda_b), max_goals=max_goals)
+        elif method == "round":
+            score = round_expected_goals(float(lambda_a), float(lambda_b))
+        else:
+            raise ValueError(f"Unknown score conversion method: {method}")
+        scores.append(score)
+    return np.asarray(scores, dtype=int)
