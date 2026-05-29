@@ -10,3 +10,5 @@ python-dotenv
 playwright
 beautifulsoup4
 requests
+optuna
+seaborn

@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 
 
-MODEL_DATASET_PATH = Path("data/processed/model_dataset.csv")
+MODEL_DATASET_PATH = Path("../data/processed/model_dataset.csv")
 
 STANDARD_TARGET_COLUMNS = ["goals_A", "goals_B"]
 STANDARD_METADATA_COLUMNS = [
