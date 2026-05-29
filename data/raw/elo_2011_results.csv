@@ -1,0 +1,1105 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2011-01-02,China,Iraq,3,2,Friendly,Qatar,9,-9,1637,1580,2,-3,53,65
+2011-01-02,Iran,Angola,1,0,Friendly,Qatar,4,-4,1697,1454,0,-3,39,102
+2011-01-02,Jordan,Uzbekistan,2,2,Friendly,the United Arab Emirates,1,-1,1472,1506,-1,0,95,85
+2011-01-02,United Arab Emirates,Syria,2,0,Friendly,the United Arab Emirates,13,-13,1483,1518,3,-6,92,83
+2011-01-04,Bahrain,North Korea,0,1,Friendly,Bahrain,-11,11,1457,1536,-2,3,99,76
+2011-01-04,Saudi Arabia,Angola,0,0,Friendly,Saudi Arabia,-7,7,1652,1461,-3,5,49,97
+2011-01-05,Egypt,Tanzania,5,1,Nile Basin Tournament,Egypt,3,-3,1780,1392,0,0,20,112
+2011-01-05,Kenya,Sudan,1,0,Nile Basin Tournament,Egypt,17,-17,1290,1298,4,-4,135,132
+2011-01-05,United Arab Emirates,Australia,0,0,Friendly,the United Arab Emirates,5,-5,1488,1770,0,0,92,22
+2011-01-05,Uganda,Burundi,3,1,Nile Basin Tournament,Egypt,5,-5,1565,1204,2,-1,71,154
+2011-01-07,Qatar,Uzbekistan,0,2,Asian Cup,Qatar,-49,49,1471,1555,-13,11,95,74
+2011-01-08,Burundi,Tanzania,1,1,Nile Basin Tournament,Egypt,7,-7,1211,1385,1,-1,153,113
+2011-01-08,China,Kuwait,2,0,Asian Cup,Qatar,37,-37,1674,1598,10,-6,43,60
+2011-01-08,DR Congo,Kenya,1,0,Nile Basin Tournament,Egypt,11,-11,1403,1279,2,-4,110,139
+2011-01-08,Egypt,Uganda,1,0,Nile Basin Tournament,Egypt,4,-4,1784,1561,1,-2,19,73
+2011-01-09,Japan,Jordan,1,1,Asian Cup,Qatar,-18,18,1767,1490,-4,3,22,91
+2011-01-09,Syria,Saudi Arabia,2,1,Asian Cup,Qatar,34,-34,1552,1618,8,-6,75,56
+2011-01-10,Australia,India,4,0,Asian Cup,Qatar,3,-3,1773,1150,0,-1,21,167
+2011-01-10,South Korea,Bahrain,2,1,Asian Cup,Qatar,8,-8,1748,1449,2,-3,26,102
+2011-01-11,DR Congo,Sudan,2,1,Nile Basin Tournament,Egypt,11,-11,1414,1287,2,-3,108,135
+2011-01-11,Egypt,Burundi,3,0,Nile Basin Tournament,Egypt,1,-1,1785,1210,0,0,18,153
+2011-01-11,Iran,Iraq,2,1,Asian Cup,Qatar,17,-17,1714,1563,4,-7,35,72
+2011-01-11,North Korea,United Arab Emirates,0,0,Asian Cup,Qatar,-3,3,1533,1491,-1,1,79,91
+2011-01-11,Tanzania,Uganda,1,1,Nile Basin Tournament,Egypt,7,-7,1392,1554,0,-1,113,74
+2011-01-12,Qatar,China,2,0,Asian Cup,Qatar,48,-48,1519,1626,11,-11,84,54
+2011-01-12,Uzbekistan,Kuwait,2,1,Asian Cup,Qatar,28,-28,1583,1570,10,-8,63,68
+2011-01-13,Japan,Syria,2,1,Asian Cup,Qatar,11,-11,1778,1541,2,-2,20,77
+2011-01-13,Jordan,Saudi Arabia,1,0,Asian Cup,Qatar,34,-34,1524,1584,10,-6,83,62
+2011-01-14,Australia,South Korea,1,1,Asian Cup,Qatar,-2,2,1771,1750,0,0,22,26
+2011-01-14,Bahrain,India,5,2,Asian Cup,Qatar,13,-13,1462,1137,5,-3,97,170
+2011-01-14,Costa Rica,Honduras,1,1,CONCACAF Champ q & C Am Cup,Panama,0,0,1668,1675,0,0,43,42
+2011-01-14,Egypt,Kenya,5,1,Nile Basin Tournament,Egypt,2,-2,1787,1277,0,0,18,139
+2011-01-14,El Salvador,Nicaragua,2,0,CONCACAF Champ q & C Am Cup,Panama,5,-5,1485,1071,0,0,94,178
+2011-01-14,Panama,Belize,2,0,CONCACAF Champ q & C Am Cup,Panama,2,-2,1588,1089,1,0,60,176
+2011-01-14,Uganda,DR Congo,1,0,Nile Basin Tournament,Egypt,9,-9,1563,1405,1,-1,73,109
+2011-01-15,Iran,North Korea,1,0,Asian Cup,Qatar,13,-13,1727,1520,2,-5,33,84
+2011-01-15,Iraq,United Arab Emirates,1,0,Asian Cup,Qatar,20,-20,1583,1471,10,-2,63,95
+2011-01-16,China,Uzbekistan,2,2,Asian Cup,Qatar,-3,3,1623,1586,0,1,54,62
+2011-01-16,Costa Rica,Guatemala,2,0,CONCACAF Champ q & C Am Cup,Panama,14,-14,1682,1443,1,-2,42,102
+2011-01-16,El Salvador,Belize,5,2,CONCACAF Champ q & C Am Cup,Panama,6,-6,1491,1083,0,0,93,176
+2011-01-16,Panama,Nicaragua,2,0,CONCACAF Champ q & C Am Cup,Panama,2,-2,1590,1069,0,-1,60,179
+2011-01-16,Qatar,Kuwait,3,0,Asian Cup,Qatar,38,-38,1557,1532,11,-10,74,79
+2011-01-16,Sudan,Tanzania,2,0,Nile Basin Tournament,Egypt,29,-29,1316,1363,7,-5,128,118
+2011-01-17,DR Congo,Kenya,1,0,Nile Basin Tournament,Egypt,10,-10,1415,1267,1,0,108,139
+2011-01-17,Egypt,Uganda,3,1,Nile Basin Tournament,Egypt,6,-6,1793,1557,-1,0,19,73
+2011-01-17,Japan,Saudi Arabia,5,0,Asian Cup,Qatar,25,-25,1803,1559,3,-9,17,72
+2011-01-17,Jordan,Syria,2,1,Asian Cup,Qatar,26,-26,1550,1515,6,-8,77,85
+2011-01-18,Australia,Bahrain,1,0,Asian Cup,Qatar,7,-7,1778,1455,1,-3,21,100
+2011-01-18,Belize,Nicaragua,1,1,CONCACAF Champ q & C Am Cup,Panama,-1,1,1082,1070,0,1,176,178
+2011-01-18,Honduras,Guatemala,3,1,CONCACAF Champ q & C Am Cup,Panama,12,-12,1687,1431,2,-4,41,106
+2011-01-18,Panama,El Salvador,2,0,CONCACAF Champ q & C Am Cup,Panama,14,-14,1604,1477,3,0,57,93
+2011-01-18,South Korea,India,4,1,Asian Cup,Qatar,2,-2,1752,1135,0,0,26,170
+2011-01-19,Iran,United Arab Emirates,3,0,Asian Cup,Qatar,16,-16,1743,1455,5,-4,28,99
+2011-01-19,Iraq,North Korea,1,0,Asian Cup,Qatar,21,-21,1604,1499,6,-6,57,90
+2011-01-19,Sweden,Botswana,2,1,Friendly,South Africa,2,-2,1814,1429,0,-1,14,107
+2011-01-21,Guatemala,Nicaragua,2,1,CONCACAF Champ q & C Am Cup,Panama,4,-4,1435,1066,2,-2,104,180
+2011-01-21,Honduras,El Salvador,2,0,Central American Cup,Panama,14,-14,1701,1463,1,-2,40,95
+2011-01-21,Panama,Costa Rica,1,1,Central American Cup,Panama,-1,1,1603,1683,-3,0,60,43
+2011-01-21,Qatar,Japan,2,3,Asian Cup,Qatar,-15,15,1542,1818,-3,3,76,14
+2011-01-21,Uzbekistan,Jordan,2,1,Asian Cup,Qatar,22,-22,1608,1528,7,-3,56,80
+2011-01-22,Australia,Iraq,1,0,Asian Cup,Qatar,13,-13,1791,1591,1,-4,20,62
+2011-01-22,South Korea,Iran,1,0,Asian Cup,Qatar,24,-24,1776,1719,3,-6,23,34
+2011-01-22,United States,Chile,1,1,Friendly,the United States,1,-1,1768,1892,-1,0,24,9
+2011-01-23,Honduras,Costa Rica,2,1,Central American Cup,Panama,19,-19,1720,1664,6,-2,34,45
+2011-01-23,Panama,El Salvador,0,0,Central American Cup,Panama,-12,12,1591,1475,-2,2,61,93
+2011-01-24,Vanuatu,New Caledonia,0,0,Friendly,Vanuatu,-1,1,1223,1286,0,0,150,136
+2011-01-25,Australia,Uzbekistan,6,0,Asian Cup,Qatar,27,-27,1818,1581,6,-7,14,63
+2011-01-25,Japan,South Korea,2,2,Asian Cup,Qatar,-3,3,1815,1779,-1,1,15,22
+2011-01-28,South Korea,Uzbekistan,3,2,Asian Cup,Qatar,12,-12,1791,1569,1,-5,21,68
+2011-01-29,Japan,Australia,1,0,Asian Cup,Qatar,25,-25,1840,1793,3,-5,12,19
+2011-02-06,Poland,Moldova,1,0,Friendly,Portugal,5,-5,1671,1464,0,0,43,95
+2011-02-08,Cyprus,Sweden,0,2,Friendly tournament,Cyprus,-13,13,1538,1827,-2,1,76,14
+2011-02-08,Equatorial Guinea,Chad,2,0,Friendly,Equatorial Guinea,12,-12,1208,1221,1,-3,155,151
+2011-02-08,Ghana,Togo,4,1,Friendly,Belgium,4,-4,1745,1377,-1,-4,29,117
+2011-02-08,Ireland,Wales,3,0,Nations Cup,Ireland,8,-8,1747,1543,3,0,28,74
+2011-02-08,Ivory Coast,Mali,1,0,Friendly,France,5,-5,1717,1516,1,0,36,83
+2011-02-08,Peru,Panama,1,0,Friendly,Peru,6,-6,1635,1585,0,-2,52,62
+2011-02-08,Romania,Ukraine,2,2,Friendly tournament,Cyprus,4,-4,1716,1804,0,-1,37,17
+2011-02-09,Albania,Slovenia,1,2,Friendly,Albania,-8,8,1519,1700,-1,1,82,40
+2011-02-09,Argentina,Portugal,2,1,Friendly,Switzerland,7,-7,2000,1891,0,-1,5,9
+2011-02-09,Belarus,Kazakhstan,1,1,Friendly,Turkey,-8,8,1657,1328,-3,1,47,123
+2011-02-09,Belgium,Finland,1,1,Friendly,Belgium,-3,3,1616,1596,0,1,55,58
+2011-02-09,Cambodia,Macao,3,1,Asian Cup & Asian Challenge Cup qual,Cambodia,13,-13,817,660,0,-2,207,222
+2011-02-09,Cape Verde,Burkina Faso,1,0,Friendly,Portugal,13,-13,1412,1493,3,-5,109,91
+2011-02-09,Croatia,Czechia,4,2,Friendly,Croatia,5,-5,1917,1735,0,-1,7,31
+2011-02-09,Cyprus,Romania,1,1,Friendly tournament,Cyprus,3,-3,1541,1713,0,-1,76,38
+2011-02-09,Denmark,England,1,2,Friendly,Denmark,-7,7,1726,1931,-2,0,34,6
+2011-02-09,El Salvador,Haiti,1,0,Friendly,El Salvador,6,-6,1481,1427,0,-1,93,107
+2011-02-09,France,Brazil,1,0,Friendly,France,15,-15,1817,2080,3,0,15,3
+2011-02-09,Gabon,DR Congo,2,0,Friendly,France,9,-9,1574,1406,5,-2,65,110
+2011-02-09,Georgia,Armenia,2,1,Friendly,Cyprus,8,-8,1513,1432,2,-2,85,105
+2011-02-09,Germany,Italy,1,1,Friendly,Germany,-7,7,2060,1838,0,0,4,13
+2011-02-09,Greece,Canada,1,0,Friendly,Greece,4,-4,1752,1595,0,-1,27,59
+2011-02-09,Guinea-Bissau,Gambia,3,1,Friendly,Portugal,22,-22,1260,1383,5,-2,141,112
+2011-02-09,Honduras,Ecuador,1,1,Friendly,Honduras,-3,3,1717,1730,-1,0,35,33
+2011-02-09,Hungary,Azerbaijan,2,0,Friendly,the United Arab Emirates,8,-8,1649,1449,1,-3,50,101
+2011-02-09,Iran,Russia,1,0,Friendly,the United Arab Emirates,13,-13,1732,1813,3,-1,32,16
+2011-02-09,Israel,Serbia,0,2,Friendly,Israel,-17,17,1669,1757,-2,4,44,26
+2011-02-09,Libya,Benin,3,2,Friendly,Libya,5,-5,1530,1437,2,0,80,102
+2011-02-09,Luxembourg,Slovakia,2,1,Friendly,Luxembourg,19,-19,1132,1638,4,-5,171,51
+2011-02-09,Macedonia,Cameroon,0,1,Friendly,Macedonia,-11,11,1554,1658,-3,4,73,46
+2011-02-09,Malaysia,Hong Kong,2,0,Friendly,Malaysia,10,-10,1251,1209,0,-2,144,154
+2011-02-09,Malta,Switzerland,0,0,Friendly,Malta,9,-9,1212,1744,4,-4,152,30
+2011-02-09,Mexico,Bosnia and Herzegovina,2,0,Friendly,the United States,7,-7,1852,1621,0,-1,11,54
+2011-02-09,Moldova,Andorra,2,1,Friendly,Portugal,1,-1,1465,1012,0,0,95,186
+2011-02-09,Morocco,Niger,3,0,Friendly,Morocco,4,-4,1573,1301,1,-1,67,131
+2011-02-09,Mozambique,Botswana,1,1,Friendly,Mozambique,-1,1,1378,1430,0,1,115,106
+2011-02-09,Namibia,Malawi,1,2,Friendly,Namibia,-9,9,1280,1421,-2,1,137,108
+2011-02-09,Netherlands,Austria,3,1,Friendly,the Netherlands,1,-1,2105,1603,0,0,2,57
+2011-02-09,Nigeria,Sierra Leone,2,1,Friendly,Nigeria,1,-1,1652,1290,0,0,49,134
+2011-02-09,Philippines,Mongolia,2,0,Asian Cup & Asian Challenge Cup qual,the Philippines,11,-11,963,781,1,-1,190,209
+2011-02-09,Poland,Norway,1,0,Friendly,Portugal,14,-14,1685,1794,1,-2,42,18
+2011-02-09,San Marino,Liechtenstein,0,1,Friendly,San Marino,-6,6,901,1176,-2,2,198,160
+2011-02-09,Scotland,Northern Ireland,3,0,Nations Cup,Ireland,20,-20,1677,1556,3,-7,43,72
+2011-02-09,Senegal,Guinea,3,0,Friendly,Senegal,10,-10,1588,1503,3,-3,61,88
+2011-02-09,South Africa,Kenya,2,0,Friendly,South Africa,2,-2,1608,1265,0,0,56,139
+2011-02-09,Spain,Colombia,1,0,Friendly,Spain,1,-1,2116,1762,0,0,1,25
+2011-02-09,Swaziland,Zambia,0,4,Friendly,Swaziland,-7,7,1140,1512,-1,1,169,86
+2011-02-09,Sweden,Ukraine,1,1,Friendly tournament,Cyprus,-1,1,1826,1805,0,0,14,17
+2011-02-09,Tanzania,Palestine,1,0,Friendly,Tanzania,3,-3,1366,1181,0,-1,118,159
+2011-02-09,Turkey,South Korea,0,0,Friendly,Turkey,-2,2,1775,1793,0,2,23,19
+2011-02-09,Venezuela,Costa Rica,2,2,Friendly,Venezuela,-4,4,1699,1668,-2,0,41,45
+2011-02-10,Taiwan,Laos,5,2,Asian Cup & Asian Challenge Cup qual,Taiwan,20,-20,946,847,2,-2,192,204
+2011-02-14,Bahrain,Kuwait,0,0,Friendly,Bahrain,-1,1,1454,1533,-2,0,100,78
+2011-02-16,Laos,Taiwan,1,1,Asian Cup & Asian Challenge Cup qual,Laos,0,0,847,946,0,0,204,192
+2011-02-16,Macao,Cambodia,3,2,Asian Cup & Asian Challenge Cup qual,Macao,23,-23,683,794,2,0,220,207
+2011-03-11,Gibraltar,Faroe Islands,3,0,Friendly,Gibraltar,17,-17,1143,1192,5,-2,168,156
+2011-03-15,Mongolia,Philippines,2,1,Asian Cup & Asian Challenge Cup qual,Mongolia,25,-25,806,938,2,-3,207,193
+2011-03-16,Argentina,Venezuela,4,1,Friendly,Argentina,3,-3,2003,1696,0,0,5,41
+2011-03-16,Botswana,Namibia,1,1,Friendly,Botswana,-6,6,1424,1286,-1,2,107,135
+2011-03-17,Nepal,Bhutan,1,0,Friendly,Nepal,1,-1,977,600,0,0,188,225
+2011-03-19,Nepal,Bhutan,2,1,Friendly,Nepal,1,-1,978,599,0,0,188,225
+2011-03-21,India,Taiwan,3,0,Asian Cup & Asian Challenge Cup qual,Malaysia,18,-18,1153,928,5,-2,166,193
+2011-03-21,Maldives,Cambodia,4,0,Asian Cup & Asian Challenge Cup qual,the Maldives,5,-5,1158,789,1,-1,165,209
+2011-03-21,Myanmar,Philippines,1,1,Asian Cup & Asian Challenge Cup qual,Myanmar,-14,14,1115,952,-2,2,175,191
+2011-03-21,Palestine,Bangladesh,2,0,Asian Cup & Asian Challenge Cup qual,Myanmar,12,-12,1193,919,3,-1,156,195
+2011-03-21,Tajikistan,Kyrgyzstan,1,0,Asian Cup & Asian Challenge Cup qual,the Maldives,13,-13,1297,1151,4,-3,133,167
+2011-03-21,Turkmenistan,Pakistan,3,0,Asian Cup & Asian Challenge Cup qual,Malaysia,4,-4,1382,894,2,0,113,199
+2011-03-23,Afghanistan,Bhutan,3,0,Asian Cup & Asian Challenge Cup qual,India,18,-18,796,581,2,-2,208,227
+2011-03-23,India,Pakistan,3,1,Asian Cup & Asian Challenge Cup qual,Malaysia,11,-11,1164,883,1,-2,165,201
+2011-03-23,Maldives,Kyrgyzstan,2,1,Asian Cup & Asian Challenge Cup qual,the Maldives,14,-14,1172,1137,3,-4,162,171
+2011-03-23,Myanmar,Bangladesh,0,2,Asian Cup & Asian Challenge Cup qual,Myanmar,-51,51,1064,970,-5,6,180,189
+2011-03-23,Palestine,Philippines,0,0,Asian Cup & Asian Challenge Cup qual,Myanmar,-12,12,1181,964,-3,0,159,191
+2011-03-23,Tajikistan,Cambodia,3,0,Asian Cup & Asian Challenge Cup qual,the Maldives,4,-4,1301,785,2,-1,131,210
+2011-03-23,Turkmenistan,Taiwan,2,0,Asian Cup & Asian Challenge Cup qual,Malaysia,4,-4,1386,924,1,-1,112,194
+2011-03-24,Cuba,El Salvador,0,1,Friendly,Cuba,-13,13,1482,1494,-3,3,93,90
+2011-03-25,Afghanistan,Bhutan,2,0,Asian Cup & Asian Challenge Cup qual,India,13,-13,809,568,1,-2,207,229
+2011-03-25,Austria,Belgium,0,2,European Championship qualifier,Austria,-37,37,1566,1653,-11,7,68,48
+2011-03-25,China,New Zealand,1,1,Friendly,China,-4,4,1619,1574,-2,5,55,63
+2011-03-25,Estonia,Uruguay,2,0,Friendly,Estonia,26,-26,1499,1865,5,-1,89,10
+2011-03-25,Hungary,Netherlands,0,4,European Championship qualifier,Hungary,-9,9,1640,2114,0,0,50,2
+2011-03-25,India,Turkmenistan,1,1,Asian Cup & Asian Challenge Cup qual,Malaysia,11,-11,1175,1375,3,-5,162,117
+2011-03-25,Jamaica,Venezuela,0,2,Friendly,Jamaica,-17,17,1637,1713,-4,4,52,37
+2011-03-25,Kyrgyzstan,Cambodia,4,3,Asian Cup & Asian Challenge Cup qual,the Maldives,5,-5,1142,780,2,0,169,210
+2011-03-25,Lithuania,Poland,2,0,Friendly,Lithuania,15,-15,1603,1670,4,-1,57,43
+2011-03-25,Luxembourg,France,0,2,European Championship qualifier,Luxembourg,-2,2,1130,1819,0,0,172,15
+2011-03-25,Maldives,Tajikistan,0,0,Asian Cup & Asian Challenge Cup qual,the Maldives,2,-2,1174,1299,-1,-1,163,132
+2011-03-25,Montenegro,Uzbekistan,1,0,Friendly,Montenegro,4,-4,1720,1565,2,0,35,69
+2011-03-25,Myanmar,Palestine,1,3,Asian Cup & Asian Challenge Cup qual,Myanmar,-29,29,1035,1210,-3,6,183,153
+2011-03-25,Pakistan,Taiwan,2,0,Asian Cup & Asian Challenge Cup qual,Malaysia,34,-34,917,890,6,-6,195,200
+2011-03-25,Panama,Bolivia,2,0,Friendly,Panama,11,-11,1596,1570,5,-3,58,67
+2011-03-25,Philippines,Bangladesh,3,0,Asian Cup & Asian Challenge Cup qual,Myanmar,36,-36,1000,934,4,-4,187,193
+2011-03-25,Serbia,Northern Ireland,2,1,European Championship qualifier,Serbia,6,-6,1763,1550,1,-1,25,73
+2011-03-25,Slovenia,Italy,0,1,European Championship qualifier,Slovenia,-18,18,1682,1856,-1,2,41,11
+2011-03-25,South Korea,Honduras,4,0,Friendly,South Korea,10,-10,1803,1707,1,-4,18,39
+2011-03-25,Spain,Czechia,2,1,European Championship qualifier,Spain,2,-2,2118,1733,0,0,1,31
+2011-03-26,Albania,Belarus,1,0,European Championship qualifier,Albania,22,-22,1541,1635,6,-6,76,53
+2011-03-26,Andorra,Slovakia,0,1,European Championship qualifier,Andorra,-2,2,1010,1640,0,2,186,49
+2011-03-26,Armenia,Russia,0,0,European Championship qualifier,Armenia,13,-13,1445,1800,3,-2,102,18
+2011-03-26,Bosnia and Herzegovina,Romania,2,1,European Championship qualifier,Bosnia and Herzegovina,20,-20,1641,1693,6,-3,48,40
+2011-03-26,Bulgaria,Switzerland,0,0,European Championship qualifier,Bulgaria,-3,3,1700,1747,1,1,39,29
+2011-03-26,Burkina Faso,Namibia,4,0,African Nations Cup qualifier,Burkina Faso,11,-11,1504,1275,4,-3,88,139
+2011-03-26,Cape Verde,Liberia,4,2,African Nations Cup qualifier,Cape Verde,10,-10,1422,1218,0,-2,109,150
+2011-03-26,Chad,Botswana,0,1,African Nations Cup qualifier,Chad,-14,14,1207,1438,-4,4,155,103
+2011-03-26,Colombia,Ecuador,2,0,Friendly,Spain,14,-14,1776,1716,5,-3,21,36
+2011-03-26,Costa Rica,China,2,2,Friendly,Costa Rica,-4,4,1664,1623,0,-1,45,56
+2011-03-26,Cyprus,Iceland,0,0,European Championship qualifier,Cyprus,-11,11,1530,1446,-4,2,80,101
+2011-03-26,Georgia,Croatia,1,0,European Championship qualifier,Georgia,34,-34,1547,1883,11,-2,74,9
+2011-03-26,Germany,Kazakhstan,4,0,European Championship qualifier,Germany,1,-1,2061,1327,0,0,4,123
+2011-03-26,Guinea-Bissau,Uganda,0,1,African Nations Cup qualifier,Guinea-Bissau,-10,10,1250,1567,-3,3,144,68
+2011-03-26,Iraq,North Korea,2,0,Friendly,the United Arab Emirates,11,-11,1602,1488,2,-4,59,93
+2011-03-26,Ireland,Macedonia,2,1,European Championship qualifier,Ireland,6,-6,1753,1548,0,-1,28,73
+2011-03-26,Israel,Latvia,2,1,European Championship qualifier,Israel,8,-8,1677,1523,2,-4,42,83
+2011-03-26,Jordan,Kuwait,1,1,Friendly,the United Arab Emirates,0,0,1528,1533,-1,0,82,78
+2011-03-26,Kenya,Angola,2,1,African Nations Cup qualifier,Kenya,25,-25,1290,1436,4,-9,135,105
+2011-03-26,Malawi,Togo,1,0,African Nations Cup qualifier,Malawi,12,-12,1433,1365,1,-3,107,119
+2011-03-26,Mali,Zimbabwe,1,0,African Nations Cup qualifier,Mali,6,-6,1522,1321,-1,0,84,124
+2011-03-26,Malta,Greece,0,1,European Championship qualifier,Malta,-3,3,1209,1755,0,0,152,27
+2011-03-26,Mexico,Paraguay,3,1,Friendly,the United States,12,-12,1864,1772,1,-1,11,23
+2011-03-26,Norway,Denmark,1,1,European Championship qualifier,Norway,-9,9,1785,1735,-1,3,20,31
+2011-03-26,Portugal,Chile,1,1,Friendly,Portugal,-3,3,1888,1895,1,1,8,7
+2011-03-26,Rwanda,Burundi,3,1,African Nations Cup qualifier,Rwanda,12,-12,1371,1198,1,-3,118,156
+2011-03-26,Senegal,Cameroon,1,0,African Nations Cup qualifier,Senegal,18,-18,1606,1640,5,-3,57,49
+2011-03-26,South Africa,Egypt,1,0,African Nations Cup qualifier,South Africa,25,-25,1633,1768,1,-5,55,25
+2011-03-26,Tanzania,Central African Republic,2,1,African Nations Cup qualifier,Tanzania,9,-9,1375,1232,2,-1,116,147
+2011-03-26,United States,Argentina,1,1,Friendly,the United States,4,-4,1772,1999,1,0,23,5
+2011-03-26,Wales,England,0,2,European Championship qualifier,Wales,-10,10,1533,1941,-4,0,78,6
+2011-03-27,Algeria,Morocco,1,0,African Nations Cup qualifier,Algeria,21,-21,1482,1552,2,-5,94,71
+2011-03-27,Brazil,Scotland,2,0,Friendly,England,3,-3,2083,1674,0,-1,3,43
+2011-03-27,Congo,Ghana,0,3,African Nations Cup qualifier,Congo,-13,13,1367,1758,-4,3,117,27
+2011-03-27,DR Congo,Mauritius,3,0,African Nations Cup qualifier,DR Congo,4,-4,1410,1025,0,0,110,184
+2011-03-27,Ivory Coast,Benin,2,1,African Nations Cup qualifier,Ghana,7,-7,1724,1430,1,-3,34,107
+2011-03-27,Madagascar,Guinea,1,1,African Nations Cup qualifier,Madagascar,9,-9,1243,1494,0,-1,146,90
+2011-03-27,Mozambique,Zambia,0,2,African Nations Cup qualifier,Mozambique,-27,27,1351,1539,-5,9,120,77
+2011-03-27,Niger,Sierra Leone,3,1,African Nations Cup qualifier,Niger,21,-21,1322,1269,6,-4,125,139
+2011-03-27,Nigeria,Ethiopia,4,0,African Nations Cup qualifier,Nigeria,6,-6,1658,1314,1,-4,46,129
+2011-03-27,Sri Lanka,Tajikistan,2,2,Friendly,Sri Lanka,6,-6,946,1293,0,-2,192,134
+2011-03-27,Saint Kitts and Nevis,Grenada,0,0,Friendly,Saint Kitts and Nevis,1,-1,1170,1298,0,0,165,132
+2011-03-27,Sudan,Swaziland,3,0,African Nations Cup qualifier,Sudan,12,-12,1328,1128,5,-1,123,172
+2011-03-28,Guatemala,Bolivia,1,1,Friendly,Guatemala,1,-1,1436,1569,1,0,104,66
+2011-03-28,Libya,Comoros,3,0,African Nations Cup qualifier,Mali,1,-1,1531,863,0,-1,81,203
+2011-03-29,Belgium,Azerbaijan,4,1,European Championship qualifier,Belgium,10,-10,1663,1439,1,-2,46,102
+2011-03-29,Canada,Belarus,1,0,Friendly,Turkey,11,-11,1606,1624,4,-3,58,56
+2011-03-29,Chile,Colombia,2,0,Friendly,the Netherlands,10,-10,1905,1766,0,-3,7,24
+2011-03-29,China,Honduras,3,0,Friendly,China,17,-17,1640,1690,6,-2,50,40
+2011-03-29,Costa Rica,Argentina,0,0,Friendly,Costa Rica,6,-6,1670,1993,0,0,45,5
+2011-03-29,Cuba,Panama,0,2,Friendly,Cuba,-14,14,1468,1610,-1,3,95,57
+2011-03-29,Cyprus,Bulgaria,0,1,Friendly,Cyprus,-8,8,1522,1708,-2,1,84,38
+2011-03-29,Czechia,Liechtenstein,2,0,European Championship qualifier,Czechia,1,-1,1734,1175,0,-1,32,161
+2011-03-29,Ecuador,Peru,0,0,Friendly,the Netherlands,-2,2,1714,1637,-1,0,37,53
+2011-03-29,El Salvador,Jamaica,2,3,Friendly,El Salvador,-9,9,1485,1646,-3,4,93,48
+2011-03-29,England,Ghana,1,1,Friendly,England,-7,7,1934,1765,0,2,6,25
+2011-03-29,Equatorial Guinea,Gambia,1,0,Friendly,Equatorial Guinea,12,-12,1220,1371,4,-3,150,115
+2011-03-29,Estonia,Serbia,1,1,European Championship qualifier,Estonia,9,-9,1508,1754,2,-1,87,27
+2011-03-29,France,Croatia,0,0,Friendly,France,-1,1,1818,1884,0,0,15,9
+2011-03-29,Germany,Australia,1,2,Friendly,Germany,-18,18,2043,1811,0,3,4,16
+2011-03-29,Greece,Poland,0,0,Friendly,Greece,-5,5,1750,1675,0,1,28,43
+2011-03-29,Ireland,Uruguay,2,3,Friendly,Ireland,-10,10,1743,1875,-2,0,31,10
+2011-03-29,Israel,Georgia,1,0,European Championship qualifier,Israel,8,-8,1685,1539,1,-4,41,78
+2011-03-29,Jordan,North Korea,1,1,Friendly,the United Arab Emirates,-1,1,1527,1489,1,1,82,92
+2011-03-29,Kuwait,Iraq,1,0,Friendly,the United Arab Emirates,12,-12,1545,1590,4,-3,75,62
+2011-03-29,Lithuania,Spain,1,3,European Championship qualifier,Lithuania,-5,5,1598,2123,-2,0,60,1
+2011-03-29,Mexico,Venezuela,1,1,Friendly,the United States,-4,4,1860,1717,-1,1,12,36
+2011-03-29,Netherlands,Hungary,5,3,European Championship qualifier,the Netherlands,2,-2,2116,1638,0,-3,2,52
+2011-03-29,Nigeria,Kenya,3,0,Friendly,Nigeria,2,-2,1660,1288,-1,0,47,135
+2011-03-29,Northern Ireland,Slovenia,0,0,European Championship qualifier,Northern Ireland,2,-2,1552,1680,1,-1,71,42
+2011-03-29,Oman,Tunisia,2,1,Friendly,Oman,8,-8,1543,1566,2,-4,76,67
+2011-03-29,Portugal,Finland,2,0,Friendly,Portugal,3,-3,1891,1593,0,-1,8,61
+2011-03-29,Qatar,Russia,1,1,Friendly,Qatar,4,-4,1546,1796,1,0,74,18
+2011-03-29,Romania,Luxembourg,3,1,European Championship qualifier,Romania,1,-1,1694,1129,1,0,39,171
+2011-03-29,Slovakia,Denmark,1,2,Friendly,Slovakia,-10,10,1630,1745,-6,1,55,30
+2011-03-29,Sri Lanka,Tajikistan,0,2,Friendly,Sri Lanka,-6,6,940,1299,0,2,192,132
+2011-03-29,Sweden,Moldova,2,1,European Championship qualifier,Sweden,3,-3,1829,1462,0,0,14,96
+2011-03-29,Turkey,Austria,2,0,European Championship qualifier,Turkey,9,-9,1784,1557,0,-2,22,70
+2011-03-29,Ukraine,Italy,0,2,Friendly,Ukraine,-17,17,1788,1873,-3,1,19,11
+2011-03-29,United States,Paraguay,0,1,Friendly,the United States,-13,13,1759,1785,-3,3,26,20
+2011-04-02,Grenada,Saint Kitts and Nevis,0,1,Friendly,Grenada,-16,16,1282,1186,-3,7,136,158
+2011-04-03,Tahiti,New Caledonia,1,3,Friendly,Tahiti,-14,14,1157,1300,-1,3,166,132
+2011-04-06,Tahiti,New Caledonia,1,0,Friendly,Tahiti,11,-11,1168,1289,1,-2,165,134
+2011-04-07,Nepal,Afghanistan,1,0,Asian Cup & Asian Challenge Cup qual,Nepal,7,-7,985,802,0,-1,189,208
+2011-04-07,North Korea,Sri Lanka,4,0,Asian Cup & Asian Challenge Cup qual,Nepal,3,-3,1492,937,1,0,91,192
+2011-04-09,Afghanistan,Sri Lanka,1,0,Asian Cup & Asian Challenge Cup qual,Nepal,27,-27,829,910,3,-3,205,195
+2011-04-09,Nepal,North Korea,0,1,Asian Cup & Asian Challenge Cup qual,Nepal,-4,4,981,1496,0,1,189,90
+2011-04-11,Nepal,Sri Lanka,0,0,Asian Cup & Asian Challenge Cup qual,Nepal,-9,9,972,919,0,1,189,194
+2011-04-11,North Korea,Afghanistan,2,0,Asian Cup & Asian Challenge Cup qual,Nepal,1,-1,1497,828,0,0,90,205
+2011-04-20,Argentina,Ecuador,2,2,Friendly,Argentina,-8,8,1985,1722,0,2,5,35
+2011-04-23,Mozambique,Tanzania,2,0,Friendly,Mozambique,12,-12,1363,1363,2,-5,118,118
+2011-05-04,New Caledonia,Reunion,2,4,Friendly,New Caledonia,-17,17,1272,1356,-4,1,138,120
+2011-05-07,Monaco,Vatican,2,1,Friendly,Italy,5,-5,895,700,1,0,199,214
+2011-05-07,New Caledonia,Reunion,1,3,Friendly,New Caledonia,-16,16,1256,1372,-3,6,141,114
+2011-05-14,Tanzania,South Africa,0,1,Friendly,Tanzania,-5,5,1358,1638,-1,2,120,52
+2011-05-20,Guyana,Barbados,1,0,Friendly,Guyana,6,-6,1310,1250,1,-2,130,143
+2011-05-22,Guyana,Barbados,3,2,Friendly,Guyana,6,-6,1316,1244,1,-1,129,144
+2011-05-24,Ireland,Northern Ireland,5,0,Nations Cup,Ireland,9,-9,1752,1543,3,-4,28,75
+2011-05-25,Argentina,Paraguay,4,2,Chaco Cup,Argentina,7,-7,1992,1778,0,-2,5,22
+2011-05-25,Scotland,Wales,3,1,Nations Cup,Ireland,14,-14,1688,1519,3,-5,41,85
+2011-05-25,Swaziland,Botswana,0,0,Friendly,Swaziland,5,-5,1133,1433,1,-2,171,105
+2011-05-26,Cuba,Nicaragua,1,1,Friendly,Cuba,-9,9,1459,1075,-1,2,96,177
+2011-05-27,Barbados,Saint Vincent and the Grenadines,0,0,Friendly,Barbados,-4,4,1240,1187,-2,2,146,158
+2011-05-27,Grenada,Antigua and Barbuda,2,2,Friendly,Grenada,-3,3,1279,1261,-1,0,136,140
+2011-05-27,Wales,Northern Ireland,2,0,Nations Cup,Ireland,24,-24,1543,1519,10,-10,75,85
+2011-05-28,Cuba,Nicaragua,2,1,Friendly,Cuba,1,-1,1460,1074,0,0,96,177
+2011-05-28,Ecuador,Mexico,1,1,Friendly,the United States,4,-4,1726,1856,1,0,34,12
+2011-05-28,Ethiopia,Sudan,1,2,Friendly,Ethiopia,-12,12,1302,1340,-1,1,131,122
+2011-05-29,Barbados,Guyana,1,1,Friendly,Barbados,-1,1,1239,1317,0,0,146,129
+2011-05-29,El Salvador,Honduras,2,2,Friendly,the United States,5,-5,1490,1685,0,0,93,40
+2011-05-29,Germany,Uruguay,2,1,Friendly,Germany,4,-4,2047,1871,0,-1,4,11
+2011-05-29,Ireland,Scotland,1,0,Nations Cup,Ireland,8,-8,1760,1680,2,-1,26,42
+2011-05-29,Panama,Grenada,2,0,Friendly,Panama,2,-2,1612,1277,0,0,57,136
+2011-05-29,Swaziland,Malawi,1,1,Friendly,Swaziland,5,-5,1138,1428,0,-2,171,107
+2011-05-29,Tunisia,Central African Republic,3,0,Friendly,Tunisia,3,-3,1569,1229,2,0,65,147
+2011-06-01,Canada,Ecuador,2,2,Friendly,Canada,1,-1,1607,1725,0,0,58,34
+2011-06-01,Ethiopia,Sudan,1,1,Friendly,Ethiopia,-2,2,1300,1342,0,0,131,122
+2011-06-01,Guatemala,Venezuela,0,2,Friendly,Guatemala,-8,8,1428,1725,-3,3,106,34
+2011-06-01,Japan,Peru,0,0,Kirin Cup,Japan,-11,11,1829,1648,0,6,13,48
+2011-06-01,Mexico,New Zealand,3,0,Friendly,the United States,6,-6,1862,1568,0,-3,12,66
+2011-06-01,Nigeria,Argentina,4,1,Friendly,Nigeria,28,-28,1688,1964,7,0,40,5
+2011-06-01,Ukraine,Uzbekistan,2,0,Friendly,Ukraine,4,-4,1792,1561,0,0,19,68
+2011-06-03,Austria,Germany,1,2,European Championship qualifier,Austria,-4,4,1553,2051,1,0,69,4
+2011-06-03,Belarus,France,1,1,European Championship qualifier,Belarus,5,-5,1629,1813,1,0,55,15
+2011-06-03,Belgium,Turkey,1,1,European Championship qualifier,Belgium,1,-1,1664,1783,0,0,47,21
+2011-06-03,Croatia,Georgia,2,1,European Championship qualifier,Croatia,3,-3,1887,1536,0,-1,9,79
+2011-06-03,Faroe Islands,Slovenia,0,2,European Championship qualifier,the Faroe Islands,-6,6,1186,1686,-2,2,159,41
+2011-06-03,Ghana,Congo,3,1,African Nations Cup qualifier,Ghana,3,-3,1768,1364,2,-1,23,118
+2011-06-03,Hong Kong,Malaysia,1,1,Friendly,Hong Kong,-2,2,1207,1253,-2,0,155,142
+2011-06-03,Italy,Estonia,3,0,European Championship qualifier,Italy,5,-5,1878,1503,0,-2,10,89
+2011-06-03,Kazakhstan,Azerbaijan,2,1,European Championship qualifier,Kazakhstan,21,-21,1348,1418,2,-7,122,109
+2011-06-03,Liechtenstein,Lithuania,2,0,European Championship qualifier,Liechtenstein,52,-52,1227,1546,14,-12,148,72
+2011-06-03,Luxembourg,Hungary,0,1,Friendly,Luxembourg,-2,2,1127,1640,0,3,172,50
+2011-06-03,Moldova,Sweden,1,4,European Championship qualifier,Moldova,-12,12,1450,1841,-4,0,99,13
+2011-06-03,Romania,Bosnia and Herzegovina,3,0,European Championship qualifier,Romania,21,-21,1715,1620,1,-6,38,56
+2011-06-03,San Marino,Finland,0,1,European Championship qualifier,San Marino,-1,1,900,1594,0,1,198,60
+2011-06-03,South Korea,Serbia,2,1,Friendly,South Korea,6,-6,1809,1748,0,-1,17,29
+2011-06-04,Bolivia,Paraguay,0,2,Friendly,Bolivia,-10,10,1559,1788,-5,2,68,20
+2011-06-04,Brazil,Netherlands,0,0,Friendly,Brazil,-2,2,2081,2118,0,0,3,2
+2011-06-04,Cameroon,Senegal,0,0,African Nations Cup qualifier,Cameroon,-7,7,1633,1613,-3,2,53,57
+2011-06-04,Czechia,Peru,0,0,Kirin Cup,Japan,-4,4,1730,1652,-1,0,33,48
+2011-06-04,England,Switzerland,2,2,European Championship qualifier,England,-14,14,1920,1761,0,3,6,27
+2011-06-04,Greece,Malta,3,1,European Championship qualifier,Greece,1,-1,1751,1208,-2,0,30,154
+2011-06-04,Iceland,Denmark,0,2,European Championship qualifier,Iceland,-14,14,1432,1759,-3,3,103,28
+2011-06-04,Latvia,Israel,1,2,European Championship qualifier,Latvia,-16,16,1507,1701,-5,2,87,40
+2011-06-04,Macedonia,Ireland,0,2,European Championship qualifier,Macedonia,-21,21,1527,1781,-9,4,80,22
+2011-06-04,Montenegro,Bulgaria,1,1,European Championship qualifier,Montenegro,-6,6,1714,1714,-1,1,38,38
+2011-06-04,Morocco,Algeria,4,0,African Nations Cup qualifier,Morocco,20,-20,1572,1462,7,0,63,94
+2011-06-04,Namibia,Burkina Faso,1,4,African Nations Cup qualifier,Namibia,-23,23,1252,1527,-5,8,142,80
+2011-06-04,Portugal,Norway,1,0,European Championship qualifier,Portugal,9,-9,1900,1776,0,-3,8,23
+2011-06-04,Russia,Armenia,3,1,European Championship qualifier,Russia,4,-4,1800,1441,0,1,18,100
+2011-06-04,Sierra Leone,Niger,1,0,African Nations Cup qualifier,Sierra Leone,17,-17,1286,1305,3,-5,135,130
+2011-06-04,Slovakia,Andorra,1,0,European Championship qualifier,Slovakia,1,-1,1631,1009,0,0,54,186
+2011-06-04,Uganda,Guinea-Bissau,2,0,African Nations Cup qualifier,Uganda,5,-5,1572,1245,3,0,63,143
+2011-06-04,United States,Spain,0,4,Friendly,the United States,-7,7,1752,2130,-2,0,29,1
+2011-06-04,Zambia,Mozambique,3,0,African Nations Cup qualifier,Zambia,12,-12,1551,1351,7,-2,71,121
+2011-06-05,Angola,Kenya,1,0,African Nations Cup qualifier,Angola,8,-8,1444,1280,2,-1,99,135
+2011-06-05,Australia,New Zealand,3,0,Friendly,Australia,4,-4,1815,1564,1,0,15,66
+2011-06-05,Benin,Ivory Coast,2,6,African Nations Cup qualifier,Benin,-18,18,1412,1742,-5,4,109,32
+2011-06-05,Botswana,Malawi,0,0,African Nations Cup qualifier,Botswana,-6,6,1427,1434,-3,3,105,102
+2011-06-05,Burundi,Rwanda,3,1,African Nations Cup qualifier,Burundi,36,-36,1234,1335,8,-10,149,125
+2011-06-05,China,Uzbekistan,1,0,Friendly,China,5,-5,1645,1556,-1,-2,51,69
+2011-06-05,Central African Republic,Tanzania,2,1,African Nations Cup qualifier,Central African Republic,22,-22,1251,1336,4,-5,143,124
+2011-06-05,Comoros,Libya,1,1,African Nations Cup qualifier,the Comoros,19,-19,882,1512,1,-6,202,85
+2011-06-05,Costa Rica,Cuba,5,0,CONCACAF Championship,the United States,23,-23,1693,1437,5,-6,41,101
+2011-06-05,Egypt,South Africa,0,0,African Nations Cup qualifier,Egypt,-12,12,1756,1650,-4,3,28,49
+2011-06-05,Ethiopia,Nigeria,2,2,African Nations Cup qualifier,Ethiopia,14,-14,1314,1674,2,-5,129,46
+2011-06-05,Guinea,Madagascar,4,1,African Nations Cup qualifier,Guinea,8,-8,1502,1235,2,-3,89,148
+2011-06-05,Liberia,Cape Verde,1,0,African Nations Cup qualifier,Liberia,26,-26,1244,1396,7,-3,145,111
+2011-06-05,Mauritius,DR Congo,1,2,African Nations Cup qualifier,Mauritius,-6,6,1019,1416,-1,2,185,108
+2011-06-05,Mexico,El Salvador,5,0,CONCACAF Championship,the United States,11,-11,1873,1479,1,0,11,93
+2011-06-05,Poland,Argentina,2,1,Friendly,Poland,15,-15,1690,1949,3,0,42,5
+2011-06-05,Swaziland,Sudan,1,2,African Nations Cup qualifier,Swaziland,-14,14,1124,1356,-1,5,172,118
+2011-06-05,Tunisia,Chad,5,0,African Nations Cup qualifier,Tunisia,5,-5,1574,1202,3,-2,62,157
+2011-06-05,Zimbabwe,Mali,2,1,African Nations Cup qualifier,Zimbabwe,26,-26,1347,1496,3,-8,122,91
+2011-06-06,Guatemala,Honduras,0,0,CONCACAF Championship,the United States,16,-16,1444,1669,5,-2,99,46
+2011-06-06,Jamaica,Grenada,4,0,CONCACAF Championship,the United States,10,-10,1656,1267,2,0,48,137
+2011-06-06,Ukraine,France,1,4,Friendly,Ukraine,-21,21,1771,1834,-4,2,23,14
+2011-06-07,Australia,Serbia,0,0,Friendly,Australia,-4,4,1811,1752,-1,1,17,30
+2011-06-07,Austria,Latvia,3,1,Friendly,Austria,9,-9,1562,1498,3,-1,67,87
+2011-06-07,Azerbaijan,Germany,1,3,European Championship qualifier,Azerbaijan,-3,3,1415,2054,-1,0,108,4
+2011-06-07,Belarus,Luxembourg,2,0,European Championship qualifier,Belarus,2,-2,1631,1125,0,0,55,171
+2011-06-07,Bosnia and Herzegovina,Albania,2,0,European Championship qualifier,Bosnia and Herzegovina,16,-16,1636,1525,2,-4,54,81
+2011-06-07,Brazil,Romania,1,0,Friendly,Brazil,1,-1,2082,1714,0,0,3,37
+2011-06-07,Cameroon,Russia,0,0,Friendly,Austria,4,-4,1637,1796,0,-1,53,19
+2011-06-07,Ecuador,Greece,1,1,Friendly,the United States,1,-1,1726,1750,0,-1,35,31
+2011-06-07,Faroe Islands,Estonia,2,0,European Championship qualifier,the Faroe Islands,47,-47,1233,1456,9,-6,150,94
+2011-06-07,Gabon,Gambia,0,1,Friendly,Gabon,-17,17,1557,1388,-7,3,69,112
+2011-06-07,Ireland,Italy,2,0,Friendly,Belgium,19,-19,1800,1859,3,-2,18,12
+2011-06-07,Japan,Czechia,0,0,Kirin Cup,Japan,-8,8,1821,1738,0,1,15,33
+2011-06-07,Norway,Lithuania,1,0,Friendly,Norway,3,-3,1779,1543,0,-2,22,74
+2011-06-07,Panama,Guadeloupe,3,2,CONCACAF Championship,the United States,18,-18,1630,1487,1,-4,57,91
+2011-06-07,Paraguay,Bolivia,0,0,Friendly,Paraguay,-7,7,1781,1566,-2,2,21,65
+2011-06-07,San Marino,Hungary,0,3,European Championship qualifier,San Marino,-2,2,898,1642,0,0,198,52
+2011-06-07,Singapore,Maldives,4,0,Friendly,Singapore,7,-7,1325,1167,0,-1,126,165
+2011-06-07,South Korea,Ghana,2,1,Friendly,South Korea,6,-6,1815,1762,1,-2,16,26
+2011-06-07,Sweden,Finland,5,0,European Championship qualifier,Sweden,10,-10,1851,1584,0,-1,13,61
+2011-06-07,United States,Canada,2,0,CONCACAF Championship,the United States,15,-15,1767,1592,5,0,24,59
+2011-06-07,Venezuela,Spain,0,3,Friendly,Venezuela,-5,5,1720,2135,-1,0,36,1
+2011-06-08,China,North Korea,2,0,Friendly,China,6,-6,1651,1491,1,-2,50,90
+2011-06-08,Uruguay,Netherlands,1,1,Confraternity Cup,Uruguay,6,-6,1877,2112,1,0,10,2
+2011-06-09,Costa Rica,El Salvador,1,1,CONCACAF Championship,the United States,-14,14,1679,1493,-3,3,44,89
+2011-06-09,Mexico,Cuba,5,0,CONCACAF Championship,the United States,8,-8,1881,1429,1,-2,10,104
+2011-06-09,Poland,France,0,1,Friendly,Poland,-9,9,1681,1843,0,0,42,14
+2011-06-10,Honduras,Grenada,7,1,CONCACAF Championship,the United States,10,-10,1679,1257,2,-2,44,139
+2011-06-10,Jamaica,Guatemala,2,0,CONCACAF Championship,the United States,17,-17,1673,1427,1,-5,47,104
+2011-06-11,Canada,Guadeloupe,1,0,CONCACAF Championship,the United States,18,-18,1610,1469,0,0,59,92
+2011-06-11,Paraguay,Romania,2,0,Friendly,Paraguay,8,-8,1789,1706,1,-2,20,39
+2011-06-11,United States,Panama,1,2,CONCACAF Championship,the United States,-40,40,1727,1670,-10,9,34,48
+2011-06-12,El Salvador,Cuba,6,1,CONCACAF Championship,the United States,41,-41,1534,1388,11,-8,78,111
+2011-06-12,Mexico,Costa Rica,4,1,CONCACAF Championship,the United States,21,-21,1902,1658,2,-5,8,49
+2011-06-13,Guatemala,Grenada,4,0,CONCACAF Championship,the United States,26,-26,1453,1231,5,-11,98,150
+2011-06-13,Jamaica,Honduras,1,0,CONCACAF Championship,the United States,25,-25,1698,1654,5,-5,41,49
+2011-06-14,Canada,Panama,1,1,CONCACAF Championship,the United States,4,-4,1614,1666,1,0,58,46
+2011-06-14,United States,Guadeloupe,1,0,CONCACAF Championship,the United States,6,-6,1733,1463,1,0,33,92
+2011-06-15,Belize,Montserrat,5,2,World Cup qualifier,Trinidad and Tobago,3,-3,1085,530,0,0,175,233
+2011-06-18,Costa Rica,Honduras,1,1,CONCACAF Championship,the United States,0,0,1658,1654,0,0,48,49
+2011-06-18,Malaysia,Myanmar,2,0,Friendly,Malaysia,4,-4,1257,1031,1,0,139,183
+2011-06-18,Mexico,Guatemala,2,1,CONCACAF Championship,the United States,4,-4,1906,1449,1,-1,7,99
+2011-06-19,Anguilla,US Virgin Islands,0,0,Friendly,Anguilla,0,0,560,671,0,0,231,221
+2011-06-19,Chile,Estonia,4,0,Friendly,Chile,2,-2,1907,1454,1,-2,7,96
+2011-06-19,El Salvador,Panama,1,1,CONCACAF Championship,the United States,9,-9,1543,1657,4,-2,74,48
+2011-06-19,United States,Jamaica,2,0,CONCACAF Championship,the United States,24,-24,1757,1674,5,-3,28,44
+2011-06-20,Argentina,Albania,4,0,Friendly,Argentina,2,-2,1951,1523,0,0,5,82
+2011-06-22,Mexico,Honduras,2,0,CONCACAF Championship,the United States,14,-14,1920,1640,2,-4,6,53
+2011-06-22,United States,Panama,1,0,CONCACAF Championship,the United States,12,-12,1769,1645,4,-3,24,51
+2011-06-23,Paraguay,Chile,0,0,Friendly,Paraguay,1,-1,1790,1906,0,0,20,8
+2011-06-23,Uruguay,Estonia,3,0,BSE 100th Anniversary Cup,Uruguay,2,-2,1879,1452,0,-1,11,97
+2011-06-25,Kenya,Sudan,1,2,Friendly,Kenya,-11,11,1269,1367,-1,2,136,116
+2011-06-25,United States,Mexico,2,4,CONCACAF Championship,the United States,-32,32,1737,1952,-9,1,33,5
+2011-06-29,Bangladesh,Pakistan,3,0,World Cup qualifier,Bangladesh,24,-24,958,893,1,-4,191,199
+2011-06-29,Cambodia,Laos,4,2,World Cup qualifier,Cambodia,27,-27,807,820,1,-4,209,208
+2011-06-29,Iraq,Syria,1,2,Friendly,Iraq,-15,15,1575,1530,-1,6,61,79
+2011-06-29,Malaysia,Taiwan,2,1,World Cup qualifier,Malaysia,3,-3,1260,887,0,0,139,201
+2011-06-29,Mongolia,Myanmar,1,0,World Cup qualifier,Mongolia,27,-27,833,1004,4,-3,204,186
+2011-06-29,Nepal,East Timor,2,1,World Cup qualifier,Nepal,2,-2,974,534,0,0,189,232
+2011-06-29,Palestine,Afghanistan,2,0,World Cup qualifier,Tajikistan,6,-6,1216,822,0,-2,155,207
+2011-06-29,Sri Lanka,Philippines,1,1,World Cup qualifier,Sri Lanka,-1,1,918,1001,0,0,194,187
+2011-06-29,Vietnam,Macao,6,0,World Cup qualifier,Vietnam,2,-2,1246,681,1,0,143,220
+2011-07-01,Argentina,Bolivia,1,1,Copa America,Argentina,-22,22,1929,1588,0,5,6,60
+2011-07-02,Colombia,Costa Rica,1,0,Copa America,Argentina,17,-17,1783,1641,3,-5,21,52
+2011-07-02,Lebanon,Kuwait,0,6,Friendly,Lebanon,-9,9,1213,1554,-2,2,155,71
+2011-07-02,Nepal,East Timor,5,0,World Cup qualifier,Nepal,3,-3,977,531,0,0,189,232
+2011-07-02,Turks and Caicos Islands,Bahamas,0,4,World Cup qualifier,Turks and Caicos Islands,-44,44,781,908,-4,8,210,195
+2011-07-03,Brazil,Venezuela,0,0,Copa America,Argentina,-19,19,2063,1739,0,4,3,32
+2011-07-03,Ecuador,Paraguay,0,0,Copa America,Argentina,5,-5,1731,1785,-1,0,36,20
+2011-07-03,Laos,Cambodia,6,2,World Cup qualifier,Laos,26,-26,846,781,3,-1,204,209
+2011-07-03,Macao,Vietnam,1,7,World Cup qualifier,Macao,-5,5,676,1251,-1,2,221,141
+2011-07-03,Myanmar,Mongolia,2,0,World Cup qualifier,Myanmar,10,-10,1014,823,0,-2,186,206
+2011-07-03,Pakistan,Bangladesh,0,0,World Cup qualifier,Pakistan,-2,2,891,960,-2,0,202,191
+2011-07-03,Palestine,Afghanistan,1,1,World Cup qualifier,Palestine,-18,18,1198,840,-4,1,158,205
+2011-07-03,Philippines,Sri Lanka,4,0,World Cup qualifier,the Philippines,19,-19,1020,899,3,-4,184,198
+2011-07-03,Taiwan,Malaysia,3,2,World Cup qualifier,Taiwan,33,-33,920,1227,8,-11,194,150
+2011-07-03,US Virgin Islands,British Virgin Islands,2,0,World Cup qualifier,the US VirgIslands,35,-35,706,791,7,-2,214,207
+2011-07-04,Chile,Mexico,2,1,Copa America,Argentina,28,-28,1934,1924,3,-2,5,7
+2011-07-04,Peru,Uruguay,1,1,Copa America,Argentina,14,-14,1666,1865,1,0,46,11
+2011-07-05,Syria,Jordan,3,1,Friendly,Turkey,15,-15,1545,1512,5,-5,74,85
+2011-07-06,Argentina,Colombia,0,0,Copa America,Argentina,-15,15,1914,1798,-2,2,8,19
+2011-07-06,Kuwait,Oman,1,1,Friendly,Lebanon,0,0,1554,1543,0,0,71,75
+2011-07-06,Malawi,Namibia,0,1,Friendly,Malawi,-17,17,1417,1269,-3,4,105,136
+2011-07-07,Costa Rica,Bolivia,2,0,Copa America,Argentina,32,-32,1673,1556,6,-9,46,69
+2011-07-07,Solomon Islands,Vanuatu,2,1,Friendly,the Solomon Islands,6,-6,1286,1217,1,-1,134,153
+2011-07-08,Aruba,Saint Lucia,4,2,World Cup qualifier,Aruba,36,-36,939,1034,4,-4,193,182
+2011-07-08,Chile,Uruguay,1,1,Copa America,Argentina,-5,5,1929,1870,0,0,5,11
+2011-07-08,Dominican Republic,Anguilla,2,0,World Cup qualifier,the Dominican Republic,2,-2,1046,558,1,0,179,231
+2011-07-08,Jordan,Yemen,4,0,Friendly,Turkey,9,-9,1521,1300,1,-1,84,131
+2011-07-08,Peru,Mexico,1,0,Copa America,Argentina,41,-41,1707,1883,8,-4,39,10
+2011-07-09,Bahamas,Turks and Caicos Islands,6,0,World Cup qualifier,the Bahamas,18,-18,926,763,2,-1,194,210
+2011-07-09,Brazil,Paraguay,2,2,Copa America,Argentina,-17,17,2046,1802,-1,3,4,18
+2011-07-09,Lebanon,Oman,0,1,Friendly,Lebanon,-4,4,1209,1547,0,2,154,73
+2011-07-09,Solomon Islands,Vanuatu,0,0,Friendly,the Solomon Islands,-5,5,1281,1222,-1,1,135,152
+2011-07-09,Venezuela,Ecuador,1,0,Copa America,Argentina,24,-24,1763,1707,7,-2,25,38
+2011-07-10,British Virgin Islands,US Virgin Islands,1,2,World Cup qualifier,the British VirgIslands,-30,30,761,736,-3,2,210,212
+2011-07-10,Colombia,Bolivia,2,0,Copa America,Argentina,15,-15,1813,1541,3,-9,17,78
+2011-07-10,Dominican Republic,Anguilla,4,0,World Cup qualifier,the Dominican Republic,2,-2,1048,556,0,0,179,231
+2011-07-10,Maldives,India,1,1,Friendly,the Maldives,-3,3,1164,1178,0,1,165,162
+2011-07-11,Argentina,Costa Rica,3,0,Copa America,Argentina,11,-11,1925,1662,1,-1,6,48
+2011-07-12,Chile,Peru,1,0,Copa America,Argentina,11,-11,1940,1696,0,-3,5,41
+2011-07-12,Saint Lucia,Aruba,4,2,World Cup qualifier,Saint Lucia,15,-15,1049,924,3,-1,179,194
+2011-07-12,Uruguay,Mexico,1,0,Copa America,Argentina,26,-26,1896,1857,2,-2,9,12
+2011-07-13,Brazil,Ecuador,4,2,Copa America,Argentina,9,-9,2055,1698,1,-2,3,40
+2011-07-13,Fiji,Vanuatu,2,0,Friendly,Fiji,7,-7,1325,1215,1,-1,126,153
+2011-07-13,Jordan,Saudi Arabia,1,1,Friendly tournament,Jordan,-3,3,1518,1562,-1,1,85,66
+2011-07-13,Kuwait,Iraq,2,0,Friendly tournament,Jordan,24,-24,1578,1551,9,-9,61,70
+2011-07-13,Paraguay,Venezuela,3,3,Copa America,Argentina,-3,3,1799,1766,-1,0,20,25
+2011-07-14,Thailand,Myanmar,1,0,Friendly,Thailand,1,-1,1403,1013,0,0,109,186
+2011-07-15,Fiji,Vanuatu,1,2,Friendly,Fiji,-15,15,1310,1230,-3,3,129,150
+2011-07-15,Oman,Syria,1,1,Friendly,Oman,-3,3,1544,1548,-2,2,74,72
+2011-07-15,Thailand,Myanmar,1,1,Friendly,Thailand,-9,9,1394,1022,-1,2,110,184
+2011-07-16,Argentina,Uruguay,1,1,Copa America,Argentina,-9,9,1916,1905,-1,1,7,8
+2011-07-16,Jordan,Iraq,1,1,Friendly tournament,Jordan,-3,3,1515,1554,0,1,85,69
+2011-07-16,Kuwait,Saudi Arabia,1,0,Friendly tournament,Jordan,14,-14,1592,1548,1,-5,60,71
+2011-07-16,Peru,Colombia,2,0,Copa America,Argentina,50,-50,1746,1763,9,-8,32,25
+2011-07-17,Belize,Montserrat,3,1,World Cup qualifier,Honduras,2,-2,1087,528,0,0,175,233
+2011-07-17,Brazil,Paraguay,0,0,Copa America,Argentina,-16,16,2039,1815,-1,3,4,16
+2011-07-17,Iran,Madagascar,1,0,Friendly,Iran,1,-1,1733,1234,0,0,36,146
+2011-07-17,Qatar,India,1,2,Friendly,Qatar,-19,19,1527,1197,-6,3,79,159
+2011-07-17,United Arab Emirates,Lebanon,6,2,Friendly,the United Arab Emirates,5,-5,1460,1204,0,-2,94,156
+2011-07-17,Venezuela,Chile,2,1,Copa America,Argentina,37,-37,1803,1903,5,-3,19,8
+2011-07-18,Singapore,Taiwan,3,2,Friendly,Singapore,1,-1,1326,919,0,0,126,196
+2011-07-19,Uruguay,Peru,2,0,Copa America,Argentina,21,-21,1926,1725,2,-4,5,36
+2011-07-20,Paraguay,Venezuela,0,0,Copa America,Argentina,-1,1,1814,1804,-1,0,17,19
+2011-07-23,China,Laos,7,2,World Cup qualifier,China,0,0,1651,846,0,0,49,204
+2011-07-23,Iran,Maldives,4,0,World Cup qualifier,Iran,2,-2,1735,1162,-1,0,36,165
+2011-07-23,Iraq,Yemen,2,0,World Cup qualifier,Iraq,7,-7,1561,1293,2,-1,67,132
+2011-07-23,Jordan,Nepal,9,0,World Cup qualifier,Jordan,2,-2,1517,975,0,0,85,189
+2011-07-23,Kuwait,Philippines,3,0,World Cup qualifier,Kuwait,1,-1,1593,1019,0,0,60,185
+2011-07-23,Lebanon,Bangladesh,4,0,World Cup qualifier,Lebanon,9,-9,1213,951,3,-1,153,192
+2011-07-23,Oman,Myanmar,2,0,World Cup qualifier,Oman,2,-2,1546,1020,0,0,73,184
+2011-07-23,Peru,Venezuela,4,1,Copa America,Argentina,54,-54,1779,1750,14,-12,22,31
+2011-07-23,Qatar,Vietnam,3,0,World Cup qualifier,Qatar,7,-7,1534,1244,0,-2,79,143
+2011-07-23,Saudi Arabia,Hong Kong,3,0,World Cup qualifier,Saudi Arabia,5,-5,1553,1202,0,-1,71,156
+2011-07-23,Singapore,Malaysia,5,3,World Cup qualifier,Singapore,14,-14,1340,1213,3,-2,123,153
+2011-07-23,Syria,Tajikistan,2,1,World Cup qualifier,Jordan,8,-8,1556,1291,1,-1,70,133
+2011-07-23,Thailand,Palestine,1,0,World Cup qualifier,Thailand,6,-6,1400,1192,1,0,109,158
+2011-07-23,Turkmenistan,Indonesia,1,1,World Cup qualifier,Turkmenistan,-9,9,1366,1305,-2,3,116,130
+2011-07-23,United Arab Emirates,India,3,0,World Cup qualifier,the United Arab Emirates,8,-8,1468,1189,2,0,92,159
+2011-07-23,Uzbekistan,Kyrgyzstan,4,0,World Cup qualifier,Uzbekistan,4,-4,1560,1138,0,-1,68,170
+2011-07-24,Liberia,Gambia,3,2,Friendly,Liberia,11,-11,1255,1377,2,-2,141,113
+2011-07-24,Uruguay,Paraguay,3,0,Copa America,Argentina,30,-30,1956,1784,0,-3,5,20
+2011-07-27,Vanuatu,Solomon Islands,0,0,Friendly,Vanuatu,-1,1,1229,1282,0,0,150,135
+2011-07-28,Bangladesh,Lebanon,2,0,World Cup qualifier,Bangladesh,43,-43,994,1170,3,-10,189,163
+2011-07-28,Hong Kong,Saudi Arabia,0,5,World Cup qualifier,Hong Kong,-15,15,1187,1568,-2,4,158,67
+2011-07-28,India,United Arab Emirates,2,2,World Cup qualifier,India,9,-9,1198,1459,3,-2,156,94
+2011-07-28,Indonesia,Turkmenistan,4,3,World Cup qualifier,Indonesia,18,-18,1323,1348,3,-4,127,120
+2011-07-28,Iraq,Yemen,0,0,World Cup qualifier,the United Arab Emirates,-13,13,1548,1306,-6,1,73,131
+2011-07-28,Kyrgyzstan,Uzbekistan,0,3,World Cup qualifier,Kyrgyzstan,-9,9,1129,1569,0,2,170,66
+2011-07-28,Laos,China,1,6,World Cup qualifier,Laos,-1,1,845,1652,0,0,204,49
+2011-07-28,Malaysia,Singapore,1,1,World Cup qualifier,Malaysia,2,-2,1215,1338,0,0,153,123
+2011-07-28,Maldives,Iran,0,1,World Cup qualifier,the Maldives,-2,2,1160,1737,0,1,165,35
+2011-07-28,Myanmar,Oman,0,2,World Cup qualifier,Myanmar,-5,5,1015,1551,-2,2,186,71
+2011-07-28,Nepal,Jordan,1,1,World Cup qualifier,Nepal,17,-17,992,1500,-1,-2,190,87
+2011-07-28,Palestine,Thailand,2,2,World Cup qualifier,Palestine,6,-6,1198,1394,2,-1,156,110
+2011-07-28,Philippines,Kuwait,1,2,World Cup qualifier,the Philippines,-2,2,1017,1595,0,0,185,60
+2011-07-28,Tajikistan,Syria,0,4,World Cup qualifier,Tajikistan,-21,21,1270,1577,-3,8,136,62
+2011-07-28,Vietnam,Qatar,2,1,World Cup qualifier,Vietnam,30,-30,1274,1504,9,-6,135,85
+2011-07-29,Mauritius,Mayotte,0,2,Friendly,Mauritius,-15,15,1004,1139,-3,2,187,170
+2011-07-30,Vanuatu,Solomon Islands,2,0,Friendly,Vanuatu,13,-13,1242,1269,5,-2,145,136
+2011-07-31,Botswana,Swaziland,2,0,Friendly,South Africa,4,-4,1431,1120,0,-1,103,174
+2011-08-04,Madagascar,Mayotte,1,1,Indian Ocean Games,the Seychelles,-4,4,1230,1143,-3,2,150,168
+2011-08-04,Maldives,Mauritius,1,1,Indian Ocean Games,the Seychelles,-6,6,1154,1010,-1,1,166,186
+2011-08-04,Seychelles,Comoros,0,0,Indian Ocean Games,the Seychelles,-9,9,1014,891,-2,1,185,202
+2011-08-06,Comoros,Maldives,2,2,Indian Ocean Games,the Seychelles,10,-10,901,1144,4,-1,198,167
+2011-08-06,Reunion,Madagascar,2,1,Indian Ocean Games,the Seychelles,9,-9,1381,1221,2,-1,112,151
+2011-08-06,Seychelles,Mauritius,2,1,Indian Ocean Games,the Seychelles,11,-11,1025,999,2,-1,183,187
+2011-08-07,El Salvador,Venezuela,2,1,Friendly,the United States,15,-15,1558,1735,4,-5,70,36
+2011-08-08,Mayotte,Reunion,2,0,Indian Ocean Games,the Seychelles,36,-36,1179,1345,6,-10,162,122
+2011-08-09,Mauritius,Comoros,2,0,Indian Ocean Games,the Seychelles,16,-16,1015,885,2,-5,185,203
+2011-08-09,Seychelles,Maldives,5,1,Indian Ocean Games,the Seychelles,30,-30,1055,1114,4,-6,179,174
+2011-08-10,Albania,Montenegro,3,2,Friendly,Albania,13,-13,1536,1701,4,-3,77,40
+2011-08-10,Austria,Slovakia,1,2,Friendly,Austria,-11,11,1551,1642,-2,2,71,54
+2011-08-10,Azerbaijan,Macedonia,0,1,Friendly,Azerbaijan,-10,10,1405,1537,0,4,107,75
+2011-08-10,Bahrain,Oman,1,1,Friendly,the United Arab Emirates,3,-3,1457,1548,1,-1,95,73
+2011-08-10,Belarus,Bulgaria,1,0,Friendly,Belarus,10,-10,1641,1704,1,-2,55,39
+2011-08-10,Bolivia,Panama,1,3,Friendly,Bolivia,-15,15,1526,1660,-4,3,81,48
+2011-08-10,Bosnia and Herzegovina,Greece,0,0,Friendly,Bosnia and Herzegovina,0,0,1636,1750,-2,1,57,30
+2011-08-10,Botswana,Kenya,1,0,Friendly,Botswana,4,-4,1435,1265,2,-2,101,138
+2011-08-10,China,Jamaica,1,0,Friendly,China,8,-8,1660,1666,1,-2,48,47
+2011-08-10,Costa Rica,Ecuador,0,2,Friendly,Costa Rica,-18,18,1644,1716,-5,5,53,36
+2011-08-10,Cyprus,Moldova,3,2,Friendly,Cyprus,5,-5,1527,1445,2,-1,80,99
+2011-08-10,France,Chile,1,1,Friendly,France,-1,1,1842,1904,0,0,14,8
+2011-08-10,Gabon,Guinea,1,1,Friendly,France,-2,2,1555,1504,1,1,70,85
+2011-08-10,Gambia,DR Congo,3,0,Friendly,The Gambia,14,-14,1391,1402,2,-2,111,108
+2011-08-10,Germany,Brazil,3,2,Friendly,Germany,7,-7,2061,2032,0,0,3,4
+2011-08-10,Guinea-Bissau,Equatorial Guinea,4,1,Friendly,Portugal,16,-16,1261,1204,4,-2,140,154
+2011-08-10,Honduras,Venezuela,2,0,Friendly,the United States,19,-19,1659,1716,3,0,50,36
+2011-08-10,Hungary,Iceland,4,0,Friendly,Hungary,5,-5,1647,1427,0,-1,52,103
+2011-08-10,Ireland,Croatia,0,0,Friendly,Ireland,0,0,1800,1887,-1,0,19,10
+2011-08-10,Italy,Spain,2,1,Friendly,Italy,15,-15,1874,2120,0,0,11,1
+2011-08-10,Ivory Coast,Israel,4,3,Friendly,Switzerland,9,-9,1751,1692,3,-1,29,41
+2011-08-10,Japan,South Korea,3,0,Friendly,Japan,12,-12,1833,1803,0,-1,15,17
+2011-08-10,Kazakhstan,Syria,1,1,Friendly,Kazakhstan,4,-4,1352,1573,1,-2,118,64
+2011-08-10,Kuwait,North Korea,0,0,Friendly,Kuwait,-5,5,1590,1496,-2,3,62,88
+2011-08-10,Latvia,Finland,0,2,Friendly,Latvia,-16,16,1482,1600,-3,2,91,59
+2011-08-10,Liberia,Angola,0,0,Friendly,Liberia,3,-3,1258,1441,0,0,142,100
+2011-08-10,Liechtenstein,Switzerland,1,2,Friendly,Liechtenstein,-2,2,1225,1763,0,3,150,24
+2011-08-10,Lithuania,Armenia,3,0,Friendly,Lithuania,8,-8,1551,1433,4,-1,71,102
+2011-08-10,Malta,Central African Republic,2,1,Friendly,Malta,8,-8,1216,1243,2,-1,152,144
+2011-08-10,Niger,Togo,3,3,Friendly,Niger,-1,1,1304,1366,0,0,132,115
+2011-08-10,Norway,Czechia,3,0,Friendly,Norway,11,-11,1790,1727,2,-2,20,35
+2011-08-10,Northern Ireland,Faroe Islands,4,0,European Championship qualifier,Northern Ireland,7,-7,1526,1226,2,-1,81,149
+2011-08-10,Poland,Georgia,1,0,Friendly,Poland,4,-4,1685,1532,0,0,43,78
+2011-08-10,Portugal,Luxembourg,5,0,Friendly,Portugal,0,0,1900,1125,0,0,9,171
+2011-08-10,Russia,Serbia,1,0,Friendly,Russia,6,-6,1802,1746,1,-2,18,32
+2011-08-10,San Marino,Romania,0,1,Friendly,San Marino,0,0,898,1706,0,1,199,38
+2011-08-10,Scotland,Denmark,2,1,Friendly,Scotland,9,-9,1689,1750,2,-2,42,30
+2011-08-10,Senegal,Morocco,0,2,Friendly,Senegal,-21,21,1592,1593,-2,4,61,60
+2011-08-10,Slovenia,Belgium,0,0,Friendly,Slovenia,-3,3,1683,1667,-2,1,44,46
+2011-08-10,South Africa,Burkina Faso,3,0,Friendly,South Africa,8,-8,1658,1519,-1,-4,51,83
+2011-08-10,Tunisia,Mali,4,2,Friendly,Tunisia,8,-8,1582,1488,0,-1,63,90
+2011-08-10,Turkey,Estonia,3,0,Friendly,Turkey,3,-3,1786,1449,0,0,21,97
+2011-08-10,Ukraine,Sweden,0,1,Friendly,Ukraine,-11,11,1760,1862,-3,1,27,12
+2011-08-10,United States,Mexico,1,1,Friendly,the United States,1,-1,1738,1856,1,-1,33,13
+2011-08-10,Wales,Australia,1,2,Friendly,Wales,-6,6,1537,1817,0,1,75,16
+2011-08-10,Zimbabwe,Zambia,2,0,Friendly,Zimbabwe,19,-19,1366,1532,6,-6,115,78
+2011-08-11,Mauritius,Mayotte,0,0,Indian Ocean Games,the Seychelles,7,-7,1022,1172,1,-1,184,163
+2011-08-11,Seychelles,Reunion,2,1,Indian Ocean Games,the Seychelles,22,-22,1077,1323,2,-4,177,126
+2011-08-13,Reunion,Mayotte,1,0,Indian Ocean Games,the Seychelles,9,-9,1332,1163,0,-2,126,165
+2011-08-13,Seychelles,Mauritius,1,1,Indian Ocean Games,the Seychelles,-6,6,1071,1028,-1,0,178,184
+2011-08-14,Liberia,Niger,0,0,Friendly,Liberia,-2,2,1256,1306,0,1,142,131
+2011-08-17,Fiji,Samoa,3,0,Friendly,Fiji,1,-1,1311,698,0,-1,130,217
+2011-08-17,Lebanon,Syria,2,3,Friendly,Lebanon,-3,3,1167,1576,-1,0,164,64
+2011-08-18,Fiji,Samoa,5,1,Friendly,Fiji,1,-1,1312,697,0,0,130,217
+2011-08-19,Eritrea,Sudan,0,3,Friendly,Eritrea,-13,13,1163,1380,-2,1,164,113
+2011-08-19,Qatar,Iraq,0,1,Friendly,Qatar,-12,12,1492,1560,-3,4,88,69
+2011-08-20,Dominican Republic,Curaçao,1,0,Friendly,the Dominican Republic,9,-9,1057,1112,1,-2,180,174
+2011-08-20,Lesotho,Swaziland,0,0,Friendly,Lesotho,-4,4,1155,1124,0,1,166,172
+2011-08-21,Barbados,Saint Lucia,4,0,Friendly,Barbados,6,-6,1245,1043,2,-1,144,182
+2011-08-21,Dominican Republic,Curaçao,1,0,Friendly,the Dominican Republic,9,-9,1066,1103,0,0,180,174
+2011-08-21,Trinidad and Tobago,India,3,0,Friendly,Trinidad and Tobago,3,-3,1495,1195,0,-1,88,157
+2011-08-22,Indonesia,Palestine,4,1,Friendly,Indonesia,8,-8,1331,1190,0,-1,127,157
+2011-08-22,Jordan,Tunisia,3,3,Friendly,Jordan,-1,1,1499,1583,0,0,86,63
+2011-08-22,Lesotho,Swaziland,0,1,Friendly,Lesotho,-14,14,1141,1138,-3,2,169,170
+2011-08-22,Tuvalu,Samoa,3,0,Friendly,Fiji,16,-16,736,681,2,-3,212,220
+2011-08-24,Guyana,India,2,1,Friendly,Guyana,4,-4,1321,1191,0,0,128,156
+2011-08-24,Thailand,Singapore,0,0,Friendly,Thailand,-4,4,1390,1342,-1,0,111,122
+2011-08-25,United Arab Emirates,Qatar,3,1,Friendly,the United Arab Emirates,12,-12,1471,1480,2,-2,92,91
+2011-08-26,Antigua and Barbuda,Saint Vincent and the Grenadines,1,0,Friendly,Antigua and Barbuda,5,-5,1266,1182,2,-3,138,161
+2011-08-26,Bahrain,Sudan,1,0,Friendly,Bahrain,5,-5,1462,1375,1,-1,94,114
+2011-08-27,Angola,DR Congo,1,2,Friendly,Angola,-14,14,1427,1416,-2,2,102,106
+2011-08-27,Fiji,Tahiti,3,0,Pacific Games,New Caledonia,21,-21,1333,1147,4,-4,126,166
+2011-08-27,Jordan,Indonesia,1,0,Friendly,Jordan,4,-4,1503,1327,0,-1,86,128
+2011-08-27,New Caledonia,Vanuatu,5,0,Pacific Games,New Caledonia,27,-27,1283,1215,8,-6,134,152
+2011-08-27,Oman,Kuwait,1,0,Friendly,Oman,8,-8,1556,1582,3,-1,71,63
+2011-08-27,Papua New Guinea,Cook Islands,4,0,Pacific Games,New Caledonia,11,-11,1051,714,2,0,181,214
+2011-08-27,Solomon Islands,Guam,7,0,Pacific Games,New Caledonia,2,-2,1271,597,0,0,136,225
+2011-08-27,Tuvalu,Eastern Samoa,4,0,Pacific Games,New Caledonia,7,-7,743,347,0,0,212,238
+2011-08-28,Antigua and Barbuda,Saint Vincent and the Grenadines,2,2,Friendly,Antigua and Barbuda,-5,5,1261,1187,-2,3,141,158
+2011-08-30,Botswana,Lesotho,1,2,Friendly,Botswana,-18,18,1417,1159,-4,4,104,165
+2011-08-30,Fiji,Kiribati,9,0,Pacific Games,New Caledonia,1,-1,1334,578,0,0,126,227
+2011-08-30,New Caledonia,Guam,9,0,Pacific Games,New Caledonia,1,-1,1284,596,0,0,134,225
+2011-08-30,Solomon Islands,Eastern Samoa,4,0,Pacific Games,New Caledonia,0,0,1271,347,0,0,136,238
+2011-08-30,Tahiti,Cook Islands,7,0,Pacific Games,New Caledonia,7,-7,1154,707,0,0,166,214
+2011-08-30,Vanuatu,Tuvalu,5,1,Pacific Games,New Caledonia,5,-5,1220,738,1,0,151,212
+2011-09-01,Cook Islands,Kiribati,3,0,Pacific Games,New Caledonia,23,-23,730,555,0,-4,214,231
+2011-09-01,Guam,Eastern Samoa,2,0,Pacific Games,New Caledonia,12,-12,608,335,0,0,225,238
+2011-09-01,New Caledonia,Tuvalu,8,0,Pacific Games,New Caledonia,2,-2,1286,736,1,0,133,212
+2011-09-01,Papua New Guinea,Tahiti,1,1,Pacific Games,New Caledonia,6,-6,1057,1148,0,-1,181,167
+2011-09-01,Vanuatu,Solomon Islands,1,0,Pacific Games,New Caledonia,23,-23,1243,1248,6,-7,145,143
+2011-09-02,Albania,France,1,2,European Championship qualifier,Albania,-9,9,1527,1851,-2,1,79,13
+2011-09-02,Andorra,Armenia,0,3,European Championship qualifier,Andorra,-9,9,1000,1442,-1,1,188,99
+2011-09-02,Antigua and Barbuda,Curaçao,5,2,World Cup qualifier,Antigua and Barbuda,13,-13,1274,1090,5,-2,135,176
+2011-09-02,Argentina,Venezuela,1,0,Times of India Cup,India,7,-7,1923,1709,0,-2,7,38
+2011-09-02,Australia,Thailand,2,1,World Cup qualifier,Australia,2,-2,1819,1388,0,0,16,111
+2011-09-02,Azerbaijan,Belgium,1,1,European Championship qualifier,Azerbaijan,9,-9,1414,1658,1,-4,107,50
+2011-09-02,Bahrain,Qatar,0,0,World Cup qualifier,Bahrain,-5,5,1457,1485,-1,0,95,91
+2011-09-02,Belarus,Bosnia and Herzegovina,0,2,European Championship qualifier,Belarus,-39,39,1602,1675,-4,14,59,43
+2011-09-02,Bulgaria,England,0,3,European Championship qualifier,Bulgaria,-24,24,1680,1944,-2,0,41,6
+2011-09-02,Canada,Saint Lucia,4,1,World Cup qualifier,Canada,1,-1,1615,1042,1,1,57,182
+2011-09-02,China,Singapore,2,1,World Cup qualifier,China,3,-3,1663,1339,1,0,47,122
+2011-09-02,Cyprus,Portugal,0,4,European Championship qualifier,Cyprus,-13,13,1514,1913,-2,1,82,8
+2011-09-02,Dominica,Nicaragua,0,2,World Cup qualifier,Dominica,-39,39,1041,1113,-7,2,183,175
+2011-09-02,Ecuador,Jamaica,5,2,Friendly,Ecuador,10,-10,1726,1656,1,-5,35,52
+2011-09-02,El Salvador,Dominican Republic,3,2,World Cup qualifier,El Salvador,1,-1,1559,1065,0,1,70,179
+2011-09-02,Faroe Islands,Italy,0,1,European Championship qualifier,the Faroe Islands,-2,2,1224,1876,0,0,149,11
+2011-09-02,Finland,Moldova,4,1,European Championship qualifier,Finland,13,-13,1613,1432,1,-1,58,100
+2011-09-02,Georgia,Latvia,0,1,European Championship qualifier,Georgia,-28,28,1504,1510,-8,5,86,85
+2011-09-02,Germany,Austria,6,2,European Championship qualifier,Germany,2,-2,2063,1549,0,0,3,73
+2011-09-02,Ghana,Swaziland,2,0,African Nations Cup qualifier,Ghana,1,-1,1763,1137,1,-1,25,171
+2011-09-02,Grenada,Belize,0,3,World Cup qualifier,Grenada,-56,56,1175,1143,-12,7,160,168
+2011-09-02,Guatemala,Saint Vincent and the Grenadines,4,0,World Cup qualifier,Guatemala,8,-8,1457,1179,2,-1,95,159
+2011-09-02,Guyana,Barbados,2,0,World Cup qualifier,Guyana,16,-16,1337,1229,6,-4,123,148
+2011-09-02,Haiti,US Virgin Islands,6,0,World Cup qualifier,Haiti,1,-1,1428,735,0,-1,101,213
+2011-09-02,Hungary,Sweden,2,1,European Championship qualifier,Hungary,26,-26,1673,1836,7,-2,45,14
+2011-09-02,Iran,Indonesia,3,0,World Cup qualifier,Iran,4,-4,1741,1323,1,-1,33,129
+2011-09-02,Iraq,Jordan,0,2,World Cup qualifier,Iraq,-43,43,1517,1546,-12,12,81,74
+2011-09-02,Ireland,Slovakia,0,0,European Championship qualifier,Ireland,-13,13,1787,1655,-3,1,22,53
+2011-09-02,Israel,Greece,0,1,European Championship qualifier,Israel,-22,22,1670,1772,-5,7,46,23
+2011-09-02,Japan,North Korea,1,0,World Cup qualifier,Japan,3,-3,1836,1493,1,-2,14,89
+2011-09-02,Lithuania,Liechtenstein,0,0,European Championship qualifier,Lithuania,-17,17,1534,1242,-2,4,75,146
+2011-09-02,Luxembourg,Romania,0,2,European Championship qualifier,Luxembourg,-4,4,1121,1710,-1,1,173,37
+2011-09-02,Malta,Croatia,1,3,European Championship qualifier,Malta,-2,2,1214,1889,0,0,152,10
+2011-09-02,Netherlands,San Marino,11,0,European Championship qualifier,the Netherlands,0,0,2112,898,0,0,2,199
+2011-09-02,Norway,Iceland,1,0,European Championship qualifier,Norway,3,-3,1793,1424,0,-2,20,103
+2011-09-02,Northern Ireland,Serbia,0,1,European Championship qualifier,Northern Ireland,-13,13,1513,1759,-2,4,83,28
+2011-09-02,Oman,Saudi Arabia,0,0,World Cup qualifier,Oman,-5,5,1551,1573,-1,1,72,66
+2011-09-02,Panama,Paraguay,0,2,Friendly,Panama,-14,14,1646,1798,-7,3,55,19
+2011-09-02,Peru,Bolivia,2,2,Friendly,Peru,-8,8,1771,1534,-1,6,24,75
+2011-09-02,Poland,Mexico,1,1,Friendly,Poland,2,-2,1687,1854,3,1,40,12
+2011-09-02,Russia,Macedonia,1,0,European Championship qualifier,Russia,4,-4,1806,1533,1,-2,17,77
+2011-09-02,Slovenia,Estonia,1,2,European Championship qualifier,Slovenia,-35,35,1648,1484,-10,5,54,92
+2011-09-02,South Korea,Lebanon,6,0,World Cup qualifier,South Korea,1,-1,1804,1166,-1,0,18,162
+2011-09-02,Spain,Chile,3,2,Friendly,Switzerland,4,-4,2124,1900,0,-1,1,9
+2011-09-02,Saint Kitts and Nevis,Puerto Rico,0,0,World Cup qualifier,Saint Kitts and Nevis,-14,14,1172,1010,-1,1,161,187
+2011-09-02,Suriname,Cayman Islands,1,0,World Cup qualifier,Suriname,4,-4,1268,954,1,0,138,192
+2011-09-02,Tajikistan,Uzbekistan,0,1,World Cup qualifier,Tajikistan,-10,10,1260,1579,-5,2,141,64
+2011-09-02,Trinidad and Tobago,Bermuda,1,0,World Cup qualifier,Trinidad and Tobago,3,-3,1498,1147,0,-1,88,167
+2011-09-02,Turkey,Kazakhstan,2,1,European Championship qualifier,Turkey,2,-2,1788,1350,0,-2,21,120
+2011-09-02,United Arab Emirates,Kuwait,2,3,World Cup qualifier,the United Arab Emirates,-19,19,1452,1601,-6,3,98,60
+2011-09-02,Ukraine,Uruguay,2,3,Friendly,Ukraine,-7,7,1753,1963,-3,0,30,5
+2011-09-02,United States,Costa Rica,0,1,Friendly,the United States,-15,15,1723,1659,-3,5,36,48
+2011-09-02,Wales,Montenegro,2,1,European Championship qualifier,Wales,24,-24,1561,1677,6,-2,69,42
+2011-09-03,Burkina Faso,Equatorial Guinea,1,0,Friendly,Burkina Faso,2,-2,1521,1202,-1,0,81,153
+2011-09-03,Cameroon,Mauritius,5,0,African Nations Cup qualifier,Cameroon,1,-1,1638,1027,0,0,56,184
+2011-09-03,Colombia,Honduras,2,0,Friendly,the United States,11,-11,1774,1648,2,-5,23,53
+2011-09-03,Fiji,Cook Islands,4,1,Pacific Games,New Caledonia,2,-2,1336,728,1,0,126,214
+2011-09-03,Kenya,Guinea-Bissau,2,1,African Nations Cup qualifier,Kenya,14,-14,1279,1247,3,-3,136,143
+2011-09-03,Libya,Mozambique,1,0,African Nations Cup qualifier,Egypt,11,-11,1523,1340,4,-2,80,121
+2011-09-03,Malawi,Tunisia,0,0,African Nations Cup qualifier,Malawi,4,-4,1421,1579,0,0,104,63
+2011-09-03,Mali,Cape Verde,3,0,African Nations Cup qualifier,Mali,17,-17,1505,1379,4,-3,86,112
+2011-09-03,Namibia,Gambia,1,0,African Nations Cup qualifier,Namibia,21,-21,1290,1370,3,-4,134,114
+2011-09-03,New Caledonia,Eastern Samoa,8,0,Pacific Games,New Caledonia,0,0,1286,335,-2,0,135,238
+2011-09-03,Papua New Guinea,Kiribati,17,1,Pacific Games,New Caledonia,7,-7,1064,548,0,0,180,231
+2011-09-03,Rwanda,Ivory Coast,0,5,African Nations Cup qualifier,Rwanda,-11,11,1324,1762,-2,3,128,28
+2011-09-03,Scotland,Czechia,2,2,European Championship qualifier,Scotland,-4,4,1685,1731,-1,1,40,33
+2011-09-03,Senegal,DR Congo,2,0,African Nations Cup qualifier,Senegal,10,-10,1602,1406,3,-2,59,108
+2011-09-03,Sierra Leone,Egypt,2,1,African Nations Cup qualifier,Sierra Leone,36,-36,1322,1720,3,-7,130,36
+2011-09-03,Solomon Islands,Tuvalu,6,1,Pacific Games,New Caledonia,4,-4,1252,732,1,-1,142,213
+2011-09-03,Tanzania,Algeria,1,1,African Nations Cup qualifier,Tanzania,1,-1,1337,1461,2,0,123,94
+2011-09-03,Vanuatu,Guam,4,1,Pacific Games,New Caledonia,2,-2,1245,606,0,0,144,225
+2011-09-04,Angola,Uganda,2,0,African Nations Cup qualifier,Angola,34,-34,1461,1538,8,-7,94,74
+2011-09-04,Burundi,Benin,1,1,African Nations Cup qualifier,Burundi,4,-4,1238,1408,0,1,147,106
+2011-09-04,Central African Republic,Morocco,0,0,African Nations Cup qualifier,Central African Republic,12,-12,1255,1581,4,0,141,62
+2011-09-04,Comoros,Zambia,1,2,African Nations Cup qualifier,the Comoros,-2,2,883,1534,0,3,203,75
+2011-09-04,Congo,Sudan,0,1,African Nations Cup qualifier,Congo,-25,25,1339,1400,-4,5,121,108
+2011-09-04,Guinea,Ethiopia,1,0,African Nations Cup qualifier,Guinea,6,-6,1510,1308,2,-1,85,132
+2011-09-04,Madagascar,Nigeria,0,2,African Nations Cup qualifier,Madagascar,-7,7,1214,1681,-1,3,151,41
+2011-09-04,Mexico,Chile,1,0,Friendly,Spain,11,-11,1865,1889,0,0,12,9
+2011-09-04,Niger,South Africa,2,1,African Nations Cup qualifier,Niger,32,-32,1338,1626,9,-7,123,56
+2011-09-04,Togo,Botswana,1,0,African Nations Cup qualifier,Togo,17,-17,1383,1400,3,-3,112,108
+2011-09-04,Zimbabwe,Liberia,3,0,African Nations Cup qualifier,Zimbabwe,16,-16,1382,1240,2,-5,113,146
+2011-09-05,Bolivia,Peru,0,0,Friendly,Bolivia,4,-4,1538,1767,1,0,74,25
+2011-09-05,Brazil,Ghana,1,0,Friendly,England,4,-4,2036,1759,0,-2,4,28
+2011-09-05,Fiji,Papua New Guinea,2,0,Pacific Games,New Caledonia,10,-10,1346,1054,7,0,120,180
+2011-09-05,Guam,Tuvalu,1,1,Pacific Games,New Caledonia,7,-7,613,725,0,-1,225,214
+2011-09-05,New Caledonia,Solomon Islands,1,2,Pacific Games,New Caledonia,-27,27,1259,1279,-6,7,141,135
+2011-09-05,Tahiti,Kiribati,17,1,Pacific Games,New Caledonia,4,-4,1152,544,0,0,166,231
+2011-09-05,Vanuatu,Eastern Samoa,8,0,Pacific Games,New Caledonia,1,-1,1246,334,0,0,144,238
+2011-09-06,Argentina,Nigeria,3,1,Friendly,Bangladesh,6,-6,1929,1675,0,-3,7,44
+2011-09-06,Austria,Turkey,0,0,European Championship qualifier,Austria,8,-8,1557,1780,1,-1,71,22
+2011-09-06,Azerbaijan,Kazakhstan,3,2,European Championship qualifier,Azerbaijan,11,-11,1425,1339,2,-4,103,122
+2011-09-06,Barbados,Trinidad and Tobago,0,2,World Cup qualifier,Barbados,-16,16,1213,1514,-4,7,152,82
+2011-09-06,Belgium,United States,1,0,Friendly,Belgium,9,-9,1667,1714,4,-1,45,36
+2011-09-06,Belize,Guatemala,1,2,World Cup qualifier,Belize,-9,9,1134,1466,-4,1,172,95
+2011-09-06,Bosnia and Herzegovina,Belarus,1,0,European Championship qualifier,Bosnia and Herzegovina,11,-11,1686,1591,2,-1,42,60
+2011-09-06,Cayman Islands,El Salvador,1,4,World Cup qualifier,the Cayman Islands,-4,4,950,1563,0,1,192,68
+2011-09-06,Colombia,Jamaica,2,0,Friendly,the United States,10,-10,1784,1646,2,0,21,50
+2011-09-06,Croatia,Israel,3,1,European Championship qualifier,Croatia,8,-8,1897,1662,0,-1,9,47
+2011-09-06,Curaçao,Haiti,2,4,World Cup qualifier,Curaçao,-12,12,1078,1440,0,1,176,101
+2011-09-06,Czechia,Ukraine,4,0,Friendly,Czechia,15,-15,1746,1738,2,-2,31,32
+2011-09-06,Denmark,Norway,2,0,European Championship qualifier,Denmark,25,-25,1775,1768,7,-5,24,25
+2011-09-06,Dominican Republic,Suriname,1,1,World Cup qualifier,the Dominican Republic,6,-6,1071,1262,2,0,177,139
+2011-09-06,Ecuador,Costa Rica,4,0,Friendly,Ecuador,10,-10,1736,1649,1,0,33,48
+2011-09-06,England,Wales,1,0,European Championship qualifier,England,2,-2,1946,1559,0,-1,6,69
+2011-09-06,Estonia,Northern Ireland,4,1,European Championship qualifier,Estonia,28,-28,1512,1485,9,-9,83,93
+2011-09-06,Finland,Netherlands,0,2,European Championship qualifier,Finland,-5,5,1608,2117,1,0,57,2
+2011-09-06,Gabon,Niger,1,0,Friendly,France,4,-4,1559,1334,1,-2,69,126
+2011-09-06,Guyana,Bermuda,2,1,World Cup qualifier,Guyana,6,-6,1343,1141,5,-3,120,170
+2011-09-06,Honduras,Paraguay,0,3,Friendly,Honduras,-15,15,1633,1813,-2,2,54,17
+2011-09-06,Iceland,Cyprus,1,0,European Championship qualifier,Iceland,19,-19,1443,1495,3,-6,100,89
+2011-09-06,Indonesia,Bahrain,0,2,World Cup qualifier,Indonesia,-27,27,1296,1484,-3,2,133,94
+2011-09-06,Italy,Slovenia,1,0,European Championship qualifier,Italy,5,-5,1881,1643,0,1,11,51
+2011-09-06,Jordan,China,2,1,World Cup qualifier,Jordan,21,-21,1567,1642,7,-5,66,52
+2011-09-06,Kuwait,South Korea,1,1,World Cup qualifier,Kuwait,6,-6,1607,1798,3,-1,58,19
+2011-09-06,Latvia,Greece,1,1,European Championship qualifier,Latvia,9,-9,1519,1763,4,-3,81,27
+2011-09-06,Lebanon,United Arab Emirates,3,1,World Cup qualifier,Lebanon,45,-45,1211,1407,9,-8,153,107
+2011-09-06,Luxembourg,Albania,2,1,European Championship qualifier,Luxembourg,34,-34,1155,1493,7,-12,166,91
+2011-09-06,Macedonia,Andorra,1,0,European Championship qualifier,Macedonia,1,-1,1534,999,2,0,76,188
+2011-09-06,Malta,Georgia,1,1,European Championship qualifier,Malta,10,-10,1224,1494,3,-2,148,90
+2011-09-06,Moldova,Hungary,0,2,European Championship qualifier,Moldova,-18,18,1414,1691,-4,4,105,41
+2011-09-06,Nicaragua,Panama,1,2,World Cup qualifier,Nicaragua,-3,3,1110,1649,0,6,175,48
+2011-09-06,North Korea,Tajikistan,1,0,World Cup qualifier,North Korea,5,-5,1498,1255,2,-1,88,141
+2011-09-06,Poland,Germany,2,2,Friendly,Poland,7,-7,1694,2056,0,0,39,3
+2011-09-06,Puerto Rico,Canada,0,3,World Cup qualifier,Puerto Rico,-4,4,1006,1619,0,1,187,56
+2011-09-06,Qatar,Iran,1,1,World Cup qualifier,Qatar,8,-8,1493,1733,0,-2,91,34
+2011-09-06,Romania,France,0,0,European Championship qualifier,Romania,2,-2,1712,1849,0,0,37,13
+2011-09-06,Russia,Ireland,0,0,European Championship qualifier,Russia,-7,7,1799,1794,-1,2,18,20
+2011-09-06,San Marino,Sweden,0,5,European Championship qualifier,San Marino,-1,1,897,1837,0,0,199,14
+2011-09-06,Saudi Arabia,Australia,1,3,World Cup qualifier,Saudi Arabia,-18,18,1555,1837,-6,2,72,14
+2011-09-06,Scotland,Lithuania,1,0,European Championship qualifier,Scotland,8,-8,1693,1526,0,-2,40,78
+2011-09-06,Serbia,Faroe Islands,3,1,European Championship qualifier,Serbia,2,-2,1761,1222,-1,0,29,149
+2011-09-06,Singapore,Iraq,0,2,World Cup qualifier,Singapore,-23,23,1316,1540,-8,9,130,73
+2011-09-06,Slovakia,Armenia,0,4,European Championship qualifier,Slovakia,-64,64,1591,1506,-9,14,60,86
+2011-09-06,Spain,Liechtenstein,6,0,European Championship qualifier,Spain,0,0,2124,1242,0,0,1,145
+2011-09-06,Saint Lucia,Saint Kitts and Nevis,2,4,World Cup qualifier,Saint Lucia,-27,27,1015,1199,-3,5,185,156
+2011-09-06,Switzerland,Bulgaria,3,1,European Championship qualifier,Switzerland,16,-16,1779,1664,3,-4,23,46
+2011-09-06,Thailand,Oman,3,0,World Cup qualifier,Thailand,41,-41,1429,1510,8,-13,102,84
+2011-09-06,US Virgin Islands,Antigua and Barbuda,1,8,World Cup qualifier,the US VirgIslands,-7,7,728,1281,0,2,212,135
+2011-09-06,Uzbekistan,Japan,1,1,World Cup qualifier,Uzbekistan,8,-8,1587,1828,1,-2,62,16
+2011-09-06,Venezuela,Guinea,2,1,Friendly,Venezuela,3,-3,1712,1507,1,0,37,85
+2011-09-07,Equatorial Guinea,Central African Republic,3,0,Friendly,Equatorial Guinea,15,-15,1217,1240,4,-4,150,145
+2011-09-07,New Caledonia,Tahiti,3,1,Pacific Games,New Caledonia,14,-14,1273,1138,1,-3,139,170
+2011-09-07,Solomon Islands,Fiji,2,1,Pacific Games,New Caledonia,24,-24,1303,1322,3,-9,133,128
+2011-09-09,New Caledonia,Solomon Islands,2,0,Pacific Games,New Caledonia,24,-24,1297,1279,7,-4,132,137
+2011-09-09,Tahiti,Fiji,2,1,Pacific Games,New Caledonia,30,-30,1168,1292,7,-6,163,134
+2011-09-11,Saint Vincent and the Grenadines,Dominica,1,0,Friendly,Saint Vincent and the Grenadines,4,-4,1183,1037,0,0,161,182
+2011-09-14,Argentina,Brazil,0,0,Nicolas Leoz Cup,Argentina,0,0,1929,2036,0,0,7,4
+2011-09-18,Saint Vincent and the Grenadines,Grenada,2,1,World Cup qualifier,Saint Vincent and the Grenadines,14,-14,1197,1161,4,-3,157,165
+2011-09-23,Suriname,Curaçao,2,0,Friendly,Suriname,5,-5,1267,1073,0,0,140,176
+2011-09-25,Suriname,Curaçao,2,2,Friendly,Suriname,-7,7,1260,1080,0,0,140,176
+2011-09-28,Brazil,Argentina,2,0,Nicolas Leoz Cup,Brazil,10,-10,2046,1919,0,0,4,7
+2011-09-30,Antigua and Barbuda,Martinique,1,0,Friendly,Antigua and Barbuda,9,-9,1290,1328,1,-3,135,126
+2011-09-30,Hong Kong,Philippines,3,3,Long Teng Cup,Taiwan,-7,7,1180,1024,-1,0,161,184
+2011-09-30,Taiwan,Macao,3,0,Long Teng Cup,Taiwan,6,-6,925,670,2,-1,194,222
+2011-10-01,Ethiopia,Sudan,1,2,Friendly,Ethiopia,-10,10,1298,1410,-1,3,131,106
+2011-10-02,Antigua and Barbuda,Martinique,1,2,Friendly,Antigua and Barbuda,-12,12,1278,1340,-3,6,138,120
+2011-10-02,Hong Kong,Macao,5,1,Long Teng Cup,Taiwan,3,-3,1183,667,0,0,161,222
+2011-10-02,Taiwan,Philippines,0,0,Long Teng Cup,Taiwan,0,0,925,1024,0,0,194,184
+2011-10-04,Ethiopia,Malawi,0,0,Friendly,Ethiopia,1,-1,1299,1420,0,0,131,104
+2011-10-04,Philippines,Macao,2,0,Long Teng Cup,Taiwan,5,-5,1029,662,1,0,183,222
+2011-10-04,Taiwan,Hong Kong,0,6,Long Teng Cup,Taiwan,-18,18,907,1201,-2,5,196,156
+2011-10-05,Iran,Palestine,7,0,Friendly,Iran,1,-1,1734,1189,0,0,34,160
+2011-10-06,China,United Arab Emirates,2,1,Friendly,China,3,-3,1645,1404,1,-1,51,109
+2011-10-06,Thailand,Jordan,0,0,Friendly,Thailand,1,-1,1430,1566,0,0,102,66
+2011-10-07,Andorra,Ireland,0,2,European Championship qualifier,Andorra,-1,1,998,1795,0,1,188,19
+2011-10-07,Argentina,Chile,4,1,World Cup qualifier,Argentina,22,-22,1941,1867,1,0,6,10
+2011-10-07,Armenia,Macedonia,4,1,European Championship qualifier,Armenia,28,-28,1534,1506,9,-9,77,85
+2011-10-07,Australia,Malaysia,5,0,Friendly,Australia,1,-1,1838,1214,-1,1,15,150
+2011-10-07,Azerbaijan,Austria,1,4,European Championship qualifier,Azerbaijan,-32,32,1393,1589,-6,9,109,62
+2011-10-07,Barbados,Guyana,0,2,World Cup qualifier,Barbados,-27,27,1186,1370,-7,3,160,116
+2011-10-07,Belgium,Kazakhstan,4,1,European Championship qualifier,Belgium,5,-5,1672,1334,0,-2,45,124
+2011-10-07,Belize,Grenada,1,4,World Cup qualifier,Belize,-42,42,1092,1203,-3,11,175,154
+2011-10-07,Bermuda,Trinidad and Tobago,2,1,World Cup qualifier,Bermuda,33,-33,1174,1481,7,-11,163,93
+2011-10-07,Bosnia and Herzegovina,Luxembourg,5,0,European Championship qualifier,Bosnia and Herzegovina,2,-2,1688,1153,0,-1,42,168
+2011-10-07,Cayman Islands,Suriname,0,1,World Cup qualifier,the Cayman Islands,-9,9,941,1269,0,0,192,140
+2011-10-07,Costa Rica,Brazil,0,1,Friendly,Costa Rica,-3,3,1646,2049,-2,0,50,4
+2011-10-07,Curaçao,Antigua and Barbuda,0,1,World Cup qualifier,Curaçao,-15,15,1065,1293,-3,4,179,134
+2011-10-07,Cyprus,Denmark,1,4,European Championship qualifier,Cyprus,-18,18,1477,1793,-5,4,94,20
+2011-10-07,Czechia,Spain,0,2,European Championship qualifier,Czechia,-10,10,1736,2134,-2,0,33,1
+2011-10-07,Dominica,Panama,0,5,World Cup qualifier,Dominica,-4,4,1033,1653,0,0,182,48
+2011-10-07,Dominican Republic,El Salvador,1,2,World Cup qualifier,the Dominican Republic,-4,4,1067,1567,-1,0,178,68
+2011-10-07,DR Congo,Cameroon,2,3,African Nations Cup qualifier,DR Congo,-13,13,1393,1651,-1,4,109,49
+2011-10-07,Ecuador,Venezuela,2,0,World Cup qualifier,Ecuador,20,-20,1756,1692,3,-3,30,40
+2011-10-07,Finland,Sweden,1,2,European Championship qualifier,Finland,-13,13,1595,1850,-4,0,61,14
+2011-10-07,France,Albania,3,0,European Championship qualifier,France,5,-5,1854,1488,0,1,13,90
+2011-10-07,Gabon,Equatorial Guinea,2,0,Friendly,France,4,-4,1563,1213,-2,-2,71,152
+2011-10-07,Greece,Croatia,2,0,European Championship qualifier,Greece,33,-33,1796,1864,9,-3,18,12
+2011-10-07,Indonesia,Saudi Arabia,0,0,Friendly,Malaysia,6,-6,1302,1549,2,0,131,72
+2011-10-07,Japan,Vietnam,1,0,Friendly,Japan,0,0,1828,1274,0,0,16,139
+2011-10-07,Latvia,Malta,2,0,European Championship qualifier,Latvia,6,-6,1525,1218,1,-1,80,149
+2011-10-07,Montenegro,England,2,2,European Championship qualifier,Montenegro,9,-9,1686,1937,0,-1,43,7
+2011-10-07,Netherlands,Moldova,1,0,European Championship qualifier,the Netherlands,0,0,2117,1414,0,1,2,104
+2011-10-07,Northern Ireland,Estonia,1,2,European Championship qualifier,Northern Ireland,-24,24,1461,1536,-3,8,96,75
+2011-10-07,Peru,Paraguay,2,0,World Cup qualifier,Peru,25,-25,1792,1788,4,-6,22,23
+2011-10-07,Portugal,Iceland,5,3,European Championship qualifier,Portugal,2,-2,1915,1441,0,-1,8,101
+2011-10-07,Puerto Rico,Saint Kitts and Nevis,1,1,World Cup qualifier,Puerto Rico,5,-5,1011,1194,1,0,186,157
+2011-10-07,Romania,Belarus,2,2,European Championship qualifier,Romania,-11,11,1701,1602,0,2,37,58
+2011-10-07,Serbia,Italy,1,1,European Championship qualifier,Serbia,1,-1,1762,1880,2,2,27,9
+2011-10-07,Singapore,Philippines,2,0,Friendly,Singapore,3,-3,1319,1026,0,-1,129,184
+2011-10-07,Slovakia,Russia,0,1,European Championship qualifier,Slovakia,-14,14,1577,1813,-6,1,66,17
+2011-10-07,South Korea,Poland,2,2,Friendly,South Korea,-5,5,1793,1699,-1,1,20,38
+2011-10-07,Saint Lucia,Canada,0,7,World Cup qualifier,Saint Lucia,-5,5,1010,1624,-2,0,187,56
+2011-10-07,Saint Vincent and the Grenadines,Guatemala,0,3,World Cup qualifier,Saint Vincent and the Grenadines,-19,19,1178,1485,-4,4,162,91
+2011-10-07,Turkey,Germany,1,3,European Championship qualifier,Turkey,-16,16,1764,2072,-4,0,26,3
+2011-10-07,Ukraine,Bulgaria,3,0,Friendly,Ukraine,9,-9,1747,1655,1,-1,31,47
+2011-10-07,Uruguay,Bolivia,4,2,World Cup qualifier,Uruguay,3,-3,1966,1535,0,-2,5,76
+2011-10-07,US Virgin Islands,Haiti,0,7,World Cup qualifier,the US VirgIslands,-3,3,725,1443,-1,1,213,100
+2011-10-07,Wales,Switzerland,2,0,European Championship qualifier,Wales,40,-40,1599,1739,9,-9,60,32
+2011-10-08,Cape Verde,Zimbabwe,2,1,African Nations Cup qualifier,Cape Verde,15,-15,1394,1367,6,-4,109,117
+2011-10-08,Chad,Malawi,2,2,African Nations Cup qualifier,Chad,7,-7,1209,1413,2,-1,153,104
+2011-10-08,Egypt,Niger,3,0,African Nations Cup qualifier,Egypt,4,-4,1724,1330,0,-3,35,127
+2011-10-08,Ethiopia,Madagascar,4,2,African Nations Cup qualifier,Ethiopia,15,-15,1314,1199,2,-6,130,156
+2011-10-08,Gambia,Burkina Faso,1,1,African Nations Cup qualifier,The Gambia,3,-3,1373,1518,1,-1,115,83
+2011-10-08,Guinea-Bissau,Angola,0,2,African Nations Cup qualifier,Guinea-Bissau,-20,20,1227,1481,-5,3,147,93
+2011-10-08,Liberia,Mali,2,2,African Nations Cup qualifier,Liberia,9,-9,1249,1496,3,-1,142,87
+2011-10-08,Liechtenstein,Scotland,0,1,European Championship qualifier,Liechtenstein,-5,5,1237,1698,-2,0,146,39
+2011-10-08,Mozambique,Comoros,3,0,African Nations Cup qualifier,Mozambique,3,-3,1343,880,-1,0,121,203
+2011-10-08,Nigeria,Guinea,2,2,African Nations Cup qualifier,Nigeria,-13,13,1662,1520,-1,2,45,82
+2011-10-08,South Africa,Sierra Leone,0,0,African Nations Cup qualifier,South Africa,-16,16,1610,1338,-1,5,56,123
+2011-10-08,Sudan,Ghana,0,2,African Nations Cup qualifier,Sudan,-12,12,1398,1771,-3,4,108,25
+2011-10-08,Swaziland,Congo,0,1,African Nations Cup qualifier,Swaziland,-14,14,1123,1353,-1,4,172,118
+2011-10-08,Tunisia,Togo,2,0,African Nations Cup qualifier,Tunisia,9,-9,1588,1374,2,-2,63,114
+2011-10-08,Uganda,Kenya,0,0,African Nations Cup qualifier,Uganda,-16,16,1522,1295,-7,3,81,134
+2011-10-08,United States,Honduras,1,0,Friendly,the United States,5,-5,1719,1628,0,0,36,54
+2011-10-08,Zambia,Libya,0,0,African Nations Cup qualifier,Zambia,-6,6,1528,1529,-1,4,78,77
+2011-10-09,Algeria,Central African Republic,2,0,African Nations Cup qualifier,Algeria,8,-8,1469,1232,1,-2,96,146
+2011-10-09,Benin,Rwanda,0,1,African Nations Cup qualifier,Benin,-30,30,1378,1354,-8,10,113,118
+2011-10-09,Ivory Coast,Burundi,2,1,African Nations Cup qualifier,Ivory Coast,1,-1,1763,1237,0,1,28,144
+2011-10-09,Mauritius,Senegal,0,2,African Nations Cup qualifier,Mauritius,-4,4,1023,1606,-1,0,184,58
+2011-10-09,Morocco,Tanzania,3,1,African Nations Cup qualifier,Morocco,7,-7,1588,1330,2,-3,63,127
+2011-10-11,Albania,Romania,1,1,European Championship qualifier,Albania,6,-6,1494,1695,2,-3,88,40
+2011-10-11,Antigua and Barbuda,US Virgin Islands,10,0,World Cup qualifier,Antigua and Barbuda,2,-2,1295,723,2,-1,133,214
+2011-10-11,Australia,Oman,3,0,World Cup qualifier,Australia,5,-5,1843,1505,1,0,14,84
+2011-10-11,Bermuda,Guyana,1,1,World Cup qualifier,Bermuda,5,-5,1179,1365,2,-1,161,117
+2011-10-11,Bolivia,Colombia,1,2,World Cup qualifier,Bolivia,-12,12,1523,1796,-3,3,78,21
+2011-10-11,Bulgaria,Wales,0,1,European Championship qualifier,Bulgaria,-28,28,1627,1627,-6,7,53,53
+2011-10-11,Canada,Puerto Rico,0,0,World Cup qualifier,Canada,-19,19,1605,1030,-4,2,59,184
+2011-10-11,Chile,Peru,4,2,World Cup qualifier,Chile,16,-16,1883,1776,1,-2,9,24
+2011-10-11,China,Iraq,0,1,World Cup qualifier,China,-31,31,1614,1571,-3,4,55,69
+2011-10-11,Croatia,Latvia,2,0,European Championship qualifier,Croatia,4,-4,1868,1521,0,0,12,80
+2011-10-11,Denmark,Portugal,2,1,European Championship qualifier,Denmark,21,-21,1814,1894,3,0,17,8
+2011-10-11,El Salvador,Cayman Islands,4,0,World Cup qualifier,El Salvador,1,-1,1568,940,-2,0,70,192
+2011-10-11,Equatorial Guinea,Cameroon,1,1,Friendly,Equatorial Guinea,7,-7,1220,1644,2,-1,149,50
+2011-10-11,Estonia,Ukraine,0,2,Friendly,Estonia,-10,10,1526,1757,-3,0,77,31
+2011-10-11,France,Bosnia and Herzegovina,1,1,European Championship qualifier,France,-13,13,1841,1701,-2,3,15,39
+2011-10-11,Georgia,Greece,1,2,European Championship qualifier,Georgia,-10,10,1484,1806,-3,-1,91,19
+2011-10-11,Germany,Belgium,3,1,European Championship qualifier,Germany,3,-3,2075,1669,0,1,3,43
+2011-10-11,Ghana,Nigeria,0,0,Friendly,England,-3,3,1768,1665,-1,-1,26,46
+2011-10-11,Guatemala,Belize,3,1,World Cup qualifier,Guatemala,3,-3,1488,1089,2,-1,89,176
+2011-10-11,Haiti,Curaçao,2,2,World Cup qualifier,Haiti,-18,18,1425,1083,-2,2,102,177
+2011-10-11,Honduras,Jamaica,2,1,Friendly,Honduras,8,-8,1636,1638,2,-1,52,51
+2011-10-11,Hungary,Finland,0,0,European Championship qualifier,Hungary,-10,10,1681,1605,-1,2,42,59
+2011-10-11,Indonesia,Qatar,2,3,World Cup qualifier,Indonesia,-15,15,1287,1508,-5,6,137,83
+2011-10-11,Iran,Bahrain,6,0,World Cup qualifier,Iran,10,-10,1744,1474,1,-2,33,94
+2011-10-11,Ireland,Armenia,2,1,European Championship qualifier,Ireland,4,-4,1799,1530,-1,2,20,74
+2011-10-11,Italy,Northern Ireland,3,0,European Championship qualifier,Italy,3,-3,1883,1458,0,0,9,98
+2011-10-11,Japan,Tajikistan,8,0,World Cup qualifier,Japan,2,-2,1830,1253,0,1,16,140
+2011-10-11,Kazakhstan,Austria,0,0,European Championship qualifier,Kazakhstan,8,-8,1342,1581,2,-4,123,66
+2011-10-11,Lebanon,Kuwait,2,2,World Cup qualifier,Lebanon,14,-14,1225,1593,5,-4,147,61
+2011-10-11,Lithuania,Czechia,1,4,European Championship qualifier,Lithuania,-24,24,1502,1760,-7,3,86,30
+2011-10-11,Macedonia,Slovakia,1,1,European Championship qualifier,Macedonia,-2,2,1504,1579,0,-1,85,67
+2011-10-11,Malta,Israel,0,2,European Championship qualifier,Malta,-7,7,1211,1669,-3,2,152,43
+2011-10-11,Mexico,Brazil,1,2,Friendly,Mexico,-8,8,1857,2057,-2,0,13,4
+2011-10-11,Moldova,San Marino,4,0,European Championship qualifier,Moldova,2,-2,1416,895,0,0,103,199
+2011-10-11,North Korea,Uzbekistan,0,1,World Cup qualifier,North Korea,-21,21,1477,1608,-7,8,93,57
+2011-10-11,Norway,Cyprus,3,1,European Championship qualifier,Norway,6,-6,1774,1471,1,0,25,95
+2011-10-11,Panama,Nicaragua,5,1,World Cup qualifier,Panama,2,-2,1655,1108,0,-1,48,175
+2011-10-11,Paraguay,Uruguay,1,1,World Cup qualifier,Paraguay,4,-4,1792,1962,0,0,23,5
+2011-10-11,Philippines,Nepal,4,0,Friendly,the Philippines,12,-12,1038,980,1,0,182,190
+2011-10-11,Poland,Belarus,2,0,Friendly,Germany,11,-11,1710,1591,1,-3,37,62
+2011-10-11,Russia,Andorra,6,0,European Championship qualifier,Russia,0,0,1813,998,-1,0,18,188
+2011-10-11,Singapore,Jordan,0,3,World Cup qualifier,Singapore,-21,21,1298,1587,-2,4,131,65
+2011-10-11,Slovenia,Serbia,1,0,European Championship qualifier,Slovenia,21,-21,1664,1741,6,-5,47,34
+2011-10-11,South Korea,United Arab Emirates,2,1,World Cup qualifier,South Korea,2,-2,1795,1402,-2,0,22,105
+2011-10-11,Spain,Scotland,3,1,European Championship qualifier,Spain,3,-3,2137,1695,0,-1,1,40
+2011-10-11,Saint Kitts and Nevis,Saint Lucia,1,1,World Cup qualifier,Saint Kitts and Nevis,-13,13,1181,1023,-3,2,160,185
+2011-10-11,Suriname,Dominican Republic,1,3,World Cup qualifier,Suriname,-51,51,1218,1118,-10,5,150,173
+2011-10-11,Sweden,Netherlands,3,2,European Championship qualifier,Sweden,29,-29,1879,2088,3,0,11,2
+2011-10-11,Switzerland,Montenegro,2,0,European Championship qualifier,Switzerland,18,-18,1757,1668,1,-2,31,45
+2011-10-11,Thailand,Saudi Arabia,0,0,World Cup qualifier,Thailand,1,-1,1431,1548,1,-1,101,73
+2011-10-11,Trinidad and Tobago,Barbados,4,0,World Cup qualifier,Trinidad and Tobago,7,-7,1488,1179,4,-1,89,161
+2011-10-11,Turkey,Azerbaijan,1,0,European Championship qualifier,Turkey,2,-2,1766,1391,-1,-1,28,110
+2011-10-11,United States,Ecuador,0,1,Friendly,the United States,-12,12,1707,1768,-2,4,38,26
+2011-10-11,Venezuela,Argentina,1,0,World Cup qualifier,Venezuela,28,-28,1720,1913,4,-1,36,7
+2011-10-15,Grenada,Saint Vincent and the Grenadines,1,1,World Cup qualifier,Grenada,-7,7,1196,1185,-2,4,156,159
+2011-10-31,Namibia,Lesotho,0,0,Friendly,Namibia,-6,6,1284,1165,-1,2,137,165
+2011-11-01,Djibouti,Somalia,1,0,Friendly,Djibouti,10,-10,800,896,0,-1,207,198
+2011-11-04,Kuwait,Bahrain,0,1,Friendly,Kuwait,-16,16,1577,1490,-6,5,67,89
+2011-11-04,Qatar,Oman,0,0,Friendly,Qatar,-3,3,1505,1508,-1,1,84,83
+2011-11-05,Antigua and Barbuda,Guadeloupe,0,0,Friendly,Antigua and Barbuda,2,-2,1297,1461,1,0,132,97
+2011-11-06,DR Congo,Lesotho,3,0,Friendly,South Africa,7,-7,1400,1158,3,-2,106,167
+2011-11-06,Iraq,Lebanon,1,0,Friendly,Qatar,2,-2,1573,1223,0,0,69,147
+2011-11-08,Lebanon,Thailand,3,1,Friendly,Qatar,23,-23,1246,1408,5,-3,142,104
+2011-11-10,Gabon,Brazil,0,2,Friendly,Gabon,-3,3,1560,2060,0,0,72,4
+2011-11-11,Albania,Azerbaijan,0,1,Friendly,Albania,-15,15,1479,1406,-4,6,92,104
+2011-11-11,Antigua and Barbuda,Haiti,1,0,World Cup qualifier,Antigua and Barbuda,22,-22,1319,1403,3,-4,129,105
+2011-11-11,Argentina,Bolivia,1,1,World Cup qualifier,Argentina,-18,18,1895,1541,-1,4,8,74
+2011-11-11,Bahrain,Iran,1,1,World Cup qualifier,Bahrain,8,-8,1498,1736,2,1,87,32
+2011-11-11,Belgium,Romania,2,1,Friendly,Belgium,8,-8,1677,1687,0,-1,43,41
+2011-11-11,Belize,Saint Vincent and the Grenadines,1,1,World Cup qualifier,Belize,0,0,1089,1185,-1,-1,177,160
+2011-11-11,Bermuda,Barbados,2,1,World Cup qualifier,Bermuda,14,-14,1193,1165,7,-4,155,166
+2011-11-11,Bosnia and Herzegovina,Portugal,0,0,European Championship qualifier,Bosnia and Herzegovina,5,-5,1706,1889,2,-2,37,10
+2011-11-11,Burkina Faso,Mali,1,1,Friendly,France,-1,1,1517,1497,1,-1,81,88
+2011-11-11,Cameroon,Sudan,3,1,LG Cup,Morocco,9,-9,1653,1389,2,-2,48,110
+2011-11-11,Chad,Tanzania,1,2,World Cup qualifier,Chad,-19,19,1190,1349,-4,7,157,120
+2011-11-11,Colombia,Venezuela,1,1,World Cup qualifier,Colombia,-9,9,1787,1729,-2,1,23,35
+2011-11-11,Comoros,Mozambique,0,1,World Cup qualifier,the Comoros,-4,4,876,1347,0,-1,203,123
+2011-11-11,Cyprus,Scotland,1,2,Friendly,Cyprus,-7,7,1464,1702,-1,1,96,39
+2011-11-11,Czechia,Montenegro,2,0,European Championship qualifier,Czechia,15,-15,1775,1653,5,-3,25,48
+2011-11-11,Denmark,Sweden,2,0,Friendly,Denmark,13,-13,1827,1866,1,0,16,11
+2011-11-11,Djibouti,Namibia,0,4,World Cup qualifier,Djibouti,-7,7,793,1291,0,1,207,136
+2011-11-11,Dominican Republic,Cayman Islands,4,0,World Cup qualifier,the Dominican Republic,13,-13,1131,927,2,0,171,192
+2011-11-11,Equatorial Guinea,Madagascar,2,0,World Cup qualifier,Equatorial Guinea,20,-20,1240,1179,5,-7,144,162
+2011-11-11,Eritrea,Rwanda,1,1,World Cup qualifier,Eritrea,5,-5,1168,1349,1,-2,164,120
+2011-11-11,Estonia,Ireland,0,4,European Championship qualifier,Estonia,-20,20,1506,1819,-7,3,84,17
+2011-11-11,France,United States,1,0,Friendly,France,4,-4,1845,1703,1,0,14,38
+2011-11-11,Georgia,Moldova,2,0,Friendly,Georgia,8,-8,1492,1408,2,-1,90,103
+2011-11-11,Greece,Russia,1,1,Friendly,Greece,-3,3,1803,1816,-3,0,22,18
+2011-11-11,Guatemala,Grenada,3,0,World Cup qualifier,Guatemala,7,-7,1495,1189,1,-2,89,158
+2011-11-11,Guinea-Bissau,Togo,1,1,World Cup qualifier,Guinea-Bissau,3,-3,1230,1371,0,-2,147,116
+2011-11-11,Guyana,Trinidad and Tobago,2,1,World Cup qualifier,Guyana,21,-21,1386,1467,5,-5,112,95
+2011-11-11,Hungary,Liechtenstein,5,0,Friendly,Hungary,2,-2,1683,1235,0,-1,42,145
+2011-11-11,Iraq,China,1,0,World Cup qualifier,Qatar,22,-22,1595,1592,10,-6,59,61
+2011-11-11,Jordan,Singapore,2,0,World Cup qualifier,Jordan,6,-6,1593,1292,4,-3,60,134
+2011-11-11,Kuwait,Lebanon,0,1,World Cup qualifier,Kuwait,-37,37,1540,1283,-8,5,75,137
+2011-11-11,Lesotho,Burundi,1,0,World Cup qualifier,Lesotho,19,-19,1177,1218,4,-5,163,149
+2011-11-11,Mexico,Serbia,2,0,Friendly,Mexico,7,-7,1864,1734,1,1,12,33
+2011-11-11,Morocco,Uganda,0,1,LG Cup,Morocco,-22,22,1566,1544,-7,6,69,73
+2011-11-11,Netherlands,Switzerland,0,0,Friendly,the Netherlands,-8,8,2080,1765,0,3,2,28
+2011-11-11,Nicaragua,Dominica,1,0,World Cup qualifier,Nicaragua,11,-11,1119,1022,2,-2,173,185
+2011-11-11,Oman,Australia,1,0,World Cup qualifier,Oman,32,-32,1540,1811,8,-5,75,19
+2011-11-11,Panama,Costa Rica,2,0,Friendly,Panama,10,-10,1665,1636,3,-2,45,51
+2011-11-11,Paraguay,Ecuador,2,1,World Cup qualifier,Paraguay,13,-13,1805,1755,3,-5,20,31
+2011-11-11,Poland,Italy,0,2,Friendly,Poland,-12,12,1698,1895,-3,1,40,8
+2011-11-11,Puerto Rico,Saint Lucia,4,0,World Cup qualifier,Puerto Rico,26,-26,1056,997,5,-3,179,188
+2011-11-11,Qatar,Indonesia,4,0,World Cup qualifier,Qatar,10,-10,1515,1277,2,-3,82,139
+2011-11-11,Sao Tome and Principe,Congo,0,5,World Cup qualifier,Sao Tome and Principe,-18,18,1026,1371,-2,3,183,116
+2011-11-11,Saudi Arabia,Thailand,3,0,World Cup qualifier,Saudi Arabia,14,-14,1562,1394,2,-3,71,107
+2011-11-11,Senegal,Guinea,4,1,Friendly,France,13,-13,1619,1507,3,-2,55,83
+2011-11-11,Seychelles,Kenya,0,3,World Cup qualifier,the Seychelles,-23,23,1048,1318,-3,4,181,130
+2011-11-11,Saint Kitts and Nevis,Canada,0,0,World Cup qualifier,Saint Kitts and Nevis,15,-15,1196,1590,7,-4,154,63
+2011-11-11,Suriname,El Salvador,1,3,World Cup qualifier,Suriname,-12,12,1206,1580,-2,4,152,66
+2011-11-11,Swaziland,DR Congo,1,3,World Cup qualifier,Swaziland,-16,16,1107,1416,-3,5,175,101
+2011-11-11,Tajikistan,Japan,0,4,World Cup qualifier,Tajikistan,-5,5,1248,1835,-2,1,142,15
+2011-11-11,Turkey,Croatia,0,3,European Championship qualifier,Turkey,-35,35,1731,1903,-6,5,34,7
+2011-11-11,United Arab Emirates,South Korea,0,2,World Cup qualifier,the United Arab Emirates,-9,9,1393,1804,-4,1,109,21
+2011-11-11,Ukraine,Germany,3,3,Friendly,Ukraine,6,-6,1763,2069,2,0,29,3
+2011-11-11,Uruguay,Chile,4,0,World Cup qualifier,Uruguay,20,-20,1982,1863,0,-4,5,13
+2011-11-11,US Virgin Islands,Curaçao,0,3,World Cup qualifier,the US VirgIslands,-13,13,710,1096,0,1,214,176
+2011-11-11,Uzbekistan,North Korea,1,0,World Cup qualifier,Uzbekistan,8,-8,1616,1469,1,1,56,93
+2011-11-12,Algeria,Tunisia,1,0,Friendly,Algeria,11,-11,1480,1577,1,-3,92,67
+2011-11-12,England,Spain,1,0,Friendly,England,13,-13,1950,2124,0,0,6,1
+2011-11-12,Ethiopia,Somalia,0,0,World Cup qualifier,Djibouti,-17,17,1297,913,-1,2,132,196
+2011-11-12,Nigeria,Botswana,0,0,Friendly,Nigeria,-8,8,1657,1408,-2,3,47,103
+2011-11-12,South Africa,Ivory Coast,1,1,Nelson Mandela Challenge Cup,South Africa,2,-2,1612,1761,0,0,57,29
+2011-11-12,Wales,Norway,4,1,Friendly,Wales,20,-20,1647,1754,3,-5,50,31
+2011-11-13,India,Malaysia,1,1,Friendly,India,-2,2,1189,1216,-1,0,157,150
+2011-11-13,Morocco,Cameroon,1,1,LG Cup,Morocco,-1,1,1565,1654,0,0,69,48
+2011-11-13,Sudan,Uganda,0,0,LG Cup,Morocco,6,-6,1395,1538,3,-3,107,76
+2011-11-14,Bermuda,Barbados,2,1,World Cup qualifier,Bermuda,13,-13,1206,1152,3,-2,152,168
+2011-11-14,Brazil,Egypt,2,0,Friendly,Qatar,4,-4,2064,1720,0,1,4,35
+2011-11-14,Cayman Islands,Dominican Republic,1,1,World Cup qualifier,the Cayman Islands,6,-6,933,1125,0,-1,192,172
+2011-11-14,Honduras,Serbia,2,0,Friendly,Honduras,15,-15,1651,1719,2,-3,50,36
+2011-11-14,Puerto Rico,Saint Lucia,3,0,World Cup qualifier,Puerto Rico,20,-20,1076,977,1,-2,178,190
+2011-11-15,Belarus,Libya,1,1,Friendly,the United Arab Emirates,-2,2,1589,1531,0,1,62,77
+2011-11-15,Burkina Faso,Guinea,1,1,Friendly,France,0,0,1517,1507,-1,-2,82,85
+2011-11-15,Burundi,Lesotho,2,2,World Cup qualifier,Burundi,-8,8,1210,1185,-3,3,152,160
+2011-11-15,Canada,Saint Kitts and Nevis,4,0,World Cup qualifier,Canada,4,-4,1594,1192,2,-2,61,157
+2011-11-15,Chile,Paraguay,2,0,World Cup qualifier,Chile,17,-17,1880,1788,2,-1,11,21
+2011-11-15,Colombia,Argentina,1,2,World Cup qualifier,Colombia,-20,20,1767,1915,-2,1,25,7
+2011-11-15,Congo,Sao Tome and Principe,1,1,World Cup qualifier,Congo,-17,17,1354,1043,-3,2,119,181
+2011-11-15,Costa Rica,Spain,2,2,Friendly,Costa Rica,8,-8,1644,2116,2,0,51,1
+2011-11-15,Croatia,Turkey,0,0,European Championship qualifier,Croatia,-13,13,1890,1744,-2,1,9,32
+2011-11-15,Curaçao,US Virgin Islands,6,1,World Cup qualifier,Curaçao,5,-5,1101,705,0,0,176,214
+2011-11-15,Denmark,Finland,2,1,Friendly,Denmark,3,-3,1830,1602,1,-1,15,59
+2011-11-15,DR Congo,Swaziland,5,1,World Cup qualifier,DR Congo,7,-7,1423,1100,0,-2,101,177
+2011-11-15,Ecuador,Peru,2,0,World Cup qualifier,Ecuador,23,-23,1778,1753,7,-7,23,31
+2011-11-15,El Salvador,Suriname,4,0,World Cup qualifier,El Salvador,5,-5,1585,1201,2,-2,63,154
+2011-11-15,England,Sweden,1,0,Friendly,England,5,-5,1955,1861,0,-2,6,13
+2011-11-15,France,Belgium,0,0,Friendly,France,-6,6,1839,1683,0,1,14,42
+2011-11-15,Germany,Netherlands,3,0,Friendly,Germany,13,-13,2082,2067,1,-1,2,3
+2011-11-15,Ghana,Gabon,2,1,Friendly,France,5,-5,1773,1555,2,2,24,70
+2011-11-15,Grenada,Guatemala,1,4,World Cup qualifier,Grenada,-16,16,1173,1511,-5,6,162,83
+2011-11-15,Haiti,Antigua and Barbuda,2,1,World Cup qualifier,Haiti,10,-10,1413,1309,4,-2,102,131
+2011-11-15,Indonesia,Iran,1,4,World Cup qualifier,Indonesia,-8,8,1269,1744,-1,0,140,32
+2011-11-15,Ireland,Estonia,1,1,European Championship qualifier,Ireland,-17,17,1802,1523,-1,5,18,79
+2011-11-15,Italy,Uruguay,0,1,Friendly,Italy,-10,10,1885,1992,-2,0,10,5
+2011-11-15,Jordan,Iraq,1,3,World Cup qualifier,Jordan,-38,38,1555,1633,-10,5,70,54
+2011-11-15,Kenya,Seychelles,4,0,World Cup qualifier,Kenya,8,-8,1326,1040,2,-1,128,182
+2011-11-15,Kuwait,United Arab Emirates,2,1,World Cup qualifier,Kuwait,8,-8,1548,1385,1,-1,73,111
+2011-11-15,Lebanon,South Korea,2,1,World Cup qualifier,Lebanon,37,-37,1320,1767,8,-4,129,25
+2011-11-15,Luxembourg,Switzerland,0,1,Friendly,Luxembourg,-1,1,1152,1766,1,0,166,27
+2011-11-15,Macedonia,Albania,0,0,Friendly,Macedonia,-3,3,1501,1482,-4,0,89,93
+2011-11-15,Madagascar,Equatorial Guinea,2,1,World Cup qualifier,Madagascar,18,-18,1197,1222,6,-3,156,147
+2011-11-15,Montenegro,Czechia,0,1,European Championship qualifier,Montenegro,-19,19,1634,1794,-4,5,53,20
+2011-11-15,Mozambique,Comoros,4,1,World Cup qualifier,Mozambique,3,-3,1350,873,2,0,121,203
+2011-11-15,Namibia,Djibouti,4,0,World Cup qualifier,Namibia,2,-2,1293,791,1,0,135,207
+2011-11-15,Niger,Botswana,1,1,Friendly,Niger,-1,1,1329,1409,1,-1,127,104
+2011-11-15,Nigeria,Zambia,2,0,Friendly,Nigeria,6,-6,1663,1522,1,-1,46,80
+2011-11-15,North Korea,Japan,1,0,World Cup qualifier,North Korea,33,-33,1502,1802,7,-3,87,18
+2011-11-15,Panama,Dominica,3,0,World Cup qualifier,Panama,1,-1,1666,1021,0,0,45,185
+2011-11-15,Poland,Hungary,2,1,Friendly,Poland,7,-7,1705,1676,1,-1,39,43
+2011-11-15,Portugal,Bosnia and Herzegovina,6,2,European Championship qualifier,Portugal,12,-12,1901,1694,2,-4,8,41
+2011-11-15,Qatar,Bahrain,0,0,World Cup qualifier,Qatar,-6,6,1509,1504,-2,1,84,86
+2011-11-15,Romania,Greece,3,1,Friendly,Austria,20,-20,1707,1783,3,0,38,22
+2011-11-15,Rwanda,Eritrea,3,1,World Cup qualifier,Rwanda,10,-10,1359,1158,2,-1,118,165
+2011-11-15,Saudi Arabia,Oman,0,0,World Cup qualifier,Saudi Arabia,-7,7,1555,1547,1,0,70,74
+2011-11-15,Singapore,China,0,4,World Cup qualifier,Singapore,-18,18,1274,1610,-4,3,138,58
+2011-11-15,Slovenia,United States,2,3,Friendly,Slovenia,-12,12,1652,1715,-2,1,48,37
+2011-11-15,Saint Vincent and the Grenadines,Belize,0,2,World Cup qualifier,Saint Vincent and the Grenadines,-45,45,1140,1134,-10,6,170,171
+2011-11-15,Tanzania,Chad,0,1,World Cup qualifier,Tanzania,-33,33,1316,1223,-10,10,130,146
+2011-11-15,Thailand,Australia,0,1,World Cup qualifier,Thailand,-6,6,1388,1817,-1,3,109,16
+2011-11-15,Togo,Guinea-Bissau,1,0,World Cup qualifier,Togo,8,-8,1379,1222,2,0,114,147
+2011-11-15,Trinidad and Tobago,Guyana,2,0,World Cup qualifier,Trinidad and Tobago,16,-16,1483,1370,3,-5,92,117
+2011-11-15,Ukraine,Austria,2,1,Friendly,Ukraine,3,-3,1766,1578,1,-1,27,65
+2011-11-15,Uzbekistan,Tajikistan,3,0,World Cup qualifier,Uzbekistan,4,-4,1620,1244,0,-1,56,143
+2011-11-15,Venezuela,Bolivia,1,0,World Cup qualifier,Venezuela,6,-6,1735,1535,0,-3,34,76
+2011-11-15,Zimbabwe,South Africa,2,1,Friendly,Zimbabwe,14,-14,1381,1598,6,-3,112,60
+2011-11-16,Ethiopia,Somalia,5,0,World Cup qualifier,Ethiopia,5,-5,1302,908,0,0,133,196
+2011-11-16,India,Malaysia,3,2,Friendly,India,8,-8,1197,1208,2,-2,156,152
+2011-11-22,Eastern Samoa,Tonga,2,1,World Cup and Oceania Cup qualifier,Samoa,35,-35,369,654,0,-4,238,222
+2011-11-22,Maldives,Seychelles,3,0,Friendly,the Maldives,9,-9,1123,1031,1,-1,174,183
+2011-11-22,Samoa,Cook Islands,3,2,World Cup and Oceania Cup qualifier,Samoa,17,-17,698,711,3,-1,217,213
+2011-11-24,Cook Islands,Eastern Samoa,1,1,World Cup and Oceania Cup qualifier,Samoa,-15,15,696,384,-3,0,216,238
+2011-11-24,Maldives,Seychelles,2,1,Friendly,the Maldives,5,-5,1128,1026,1,0,173,183
+2011-11-24,Samoa,Tonga,1,1,World Cup and Oceania Cup qualifier,Samoa,-8,8,690,662,-1,1,218,221
+2011-11-25,Burundi,Somalia,4,1,CECAFA Cup,Tanzania,10,-10,1220,898,1,-2,150,198
+2011-11-25,Uganda,Zanzibar,2,1,CECAFA Cup,Tanzania,10,-10,1548,1342,2,-2,73,122
+2011-11-26,Samoa,Eastern Samoa,1,0,World Cup and Oceania Cup qualifier,Samoa,4,-4,694,380,1,0,217,238
+2011-11-26,Tanzania,Rwanda,0,1,CECAFA Cup,Tanzania,-23,23,1293,1382,-4,6,134,112
+2011-11-26,Tonga,Cook Islands,2,1,World Cup and Oceania Cup qualifier,Samoa,22,-22,684,674,2,-4,219,220
+2011-11-27,Burundi,Zanzibar,0,0,CECAFA Cup,Tanzania,7,-7,1227,1335,4,-3,146,125
+2011-11-27,Zimbabwe,Djibouti,2,0,CECAFA Cup,Tanzania,2,-2,1383,789,1,0,112,207
+2011-11-28,Ethiopia,Sudan,1,1,CECAFA Cup,Tanzania,5,-5,1307,1390,2,-1,130,108
+2011-11-28,Malawi,Kenya,2,0,CECAFA Cup,Tanzania,23,-23,1436,1303,1,-4,101,132
+2011-11-28,Uganda,Somalia,4,0,CECAFA Cup,Tanzania,2,-2,1550,896,0,0,73,198
+2011-11-29,India,Zambia,0,5,Friendly,India,-9,9,1188,1531,-3,3,159,77
+2011-11-29,Rwanda,Zimbabwe,2,0,CECAFA Cup,Tanzania,30,-30,1412,1353,9,-7,104,119
+2011-11-29,Tanzania,Djibouti,3,0,CECAFA Cup,Tanzania,2,-2,1295,787,0,0,134,207
+2011-11-30,Kenya,Ethiopia,2,0,CECAFA Cup,Tanzania,30,-30,1333,1277,6,-7,126,137
+2011-11-30,Malawi,Sudan,0,0,CECAFA Cup,Tanzania,-3,3,1433,1393,0,0,101,109
+2011-12-01,Burundi,Uganda,1,0,CECAFA Cup,Tanzania,35,-35,1262,1515,5,-9,141,82
+2011-12-01,Zanzibar,Somalia,3,0,CECAFA Cup,Tanzania,5,-5,1340,891,2,-3,123,201
+2011-12-02,Bangladesh,Pakistan,0,0,South Asian Championship,India,-6,6,988,897,0,3,188,198
+2011-12-02,Bonaire,Curaçao,3,1,ABCS Tournament,Suriname,25,-25,1094,1076,2,-2,177,178
+2011-12-02,Ethiopia,Malawi,1,1,CECAFA Cup,Tanzania,8,-8,1285,1425,1,0,136,101
+2011-12-02,Maldives,Nepal,1,1,South Asian Championship,India,-8,8,1120,988,-1,1,174,188
+2011-12-02,Rwanda,Djibouti,5,2,CECAFA Cup,Tanzania,2,-2,1414,785,1,0,103,207
+2011-12-02,Suriname,Aruba,0,0,ABCS Tournament,Suriname,-12,12,1189,936,-3,2,157,192
+2011-12-03,India,Afghanistan,1,1,South Asian Championship,India,-17,17,1171,857,-3,1,162,204
+2011-12-03,Sri Lanka,Bhutan,3,0,South Asian Championship,India,9,-9,908,559,1,-1,196,229
+2011-12-03,Sudan,Kenya,1,0,CECAFA Cup,Tanzania,17,-17,1410,1316,4,-3,105,129
+2011-12-03,Tanzania,Zimbabwe,1,2,CECAFA Cup,Tanzania,-22,22,1273,1375,-6,3,139,116
+2011-12-04,Aruba,Bonaire,2,2,ABCS Tournament,Suriname,6,-6,942,1088,0,0,192,177
+2011-12-04,Maldives,Pakistan,0,0,South Asian Championship,India,-11,11,1109,908,-1,2,175,196
+2011-12-04,Nepal,Bangladesh,1,0,South Asian Championship,India,20,-20,1008,968,1,-2,187,190
+2011-12-04,Suriname,Curaçao,2,0,ABCS Tournament,Suriname,10,-10,1199,1066,2,-1,155,179
+2011-12-05,Afghanistan,Sri Lanka,3,1,South Asian Championship,India,34,-34,891,874,3,-7,201,203
+2011-12-05,India,Bhutan,5,0,South Asian Championship,India,1,-1,1172,558,0,0,162,229
+2011-12-05,Rwanda,Zanzibar,2,1,CECAFA Cup,Tanzania,16,-16,1430,1324,2,-4,101,127
+2011-12-05,Sudan,Burundi,2,0,CECAFA Cup,Tanzania,18,-18,1428,1244,3,-2,102,143
+2011-12-06,Bahrain,Palestine,0,1,Friendly,Bahrain,-18,18,1486,1207,-5,5,91,153
+2011-12-06,Maldives,Bangladesh,3,1,South Asian Championship,India,18,-18,1127,950,2,-1,173,191
+2011-12-06,Nepal,Pakistan,1,1,South Asian Championship,India,-6,6,1002,914,0,0,187,196
+2011-12-06,Tanzania,Malawi,1,0,CECAFA Cup,Tanzania,23,-23,1296,1402,6,-5,133,108
+2011-12-06,Uganda,Zimbabwe,1,0,CECAFA Cup,Tanzania,12,-12,1527,1363,3,-2,79,118
+2011-12-07,Afghanistan,Bhutan,8,1,South Asian Championship,India,12,-12,903,546,3,-1,198,230
+2011-12-07,India,Sri Lanka,3,0,South Asian Championship,India,6,-6,1178,868,1,-1,161,204
+2011-12-08,Rwanda,Sudan,2,1,CECAFA Cup,Tanzania,20,-20,1450,1408,1,-3,100,105
+2011-12-08,Tanzania,Uganda,1,3,CECAFA Cup,Tanzania,-19,19,1277,1546,-4,4,137,75
+2011-12-09,Afghanistan,Nepal,1,0,South Asian Championship,India,26,-26,929,976,4,-2,194,189
+2011-12-09,India,Maldives,3,1,South Asian Championship,India,18,-18,1196,1109,3,-2,158,175
+2011-12-10,Qatar,Bahrain,2,2,Pan-Arab Games,Qatar,-7,7,1502,1493,-1,1,85,90
+2011-12-10,Rwanda,Uganda,2,2,CECAFA Cup,Tanzania,5,-5,1455,1541,1,0,99,75
+2011-12-10,Tanzania,Sudan,0,1,CECAFA Cup,Tanzania,-18,18,1259,1426,-3,3,140,102
+2011-12-11,Cuba,Costa Rica,1,1,Friendly,Cuba,4,-4,1392,1640,0,0,110,51
+2011-12-11,India,Afghanistan,4,0,South Asian Championship,India,8,-8,1204,921,4,-2,154,196
+2011-12-11,Jordan,Palestine,4,1,Pan-Arab Games,Qatar,8,-8,1563,1199,0,-3,70,156
+2011-12-11,Oman,Saudi Arabia,0,0,Pan-Arab Games,Qatar,0,0,1547,1555,0,-1,74,71
+2011-12-11,Sudan,Libya,1,0,Pan-Arab Games,Qatar,26,-26,1452,1505,1,-7,101,84
+2011-12-13,Bahrain,Iraq,3,0,Pan-Arab Games,Qatar,48,-48,1541,1585,15,-8,75,62
+2011-12-14,Angola,Cameroon,1,1,Friendly,Angola,2,-2,1483,1652,2,0,92,47
+2011-12-14,Jordan,Sudan,0,0,Pan-Arab Games,Qatar,-6,6,1557,1458,-1,3,71,98
+2011-12-14,Kuwait,Oman,2,0,Pan-Arab Games,Qatar,30,-30,1578,1517,8,-7,65,81
+2011-12-14,Libya,Palestine,1,1,Pan-Arab Games,Qatar,-14,14,1491,1213,-6,5,91,151
+2011-12-16,Qatar,Iraq,0,0,Pan-Arab Games,Qatar,-1,1,1501,1586,-2,0,87,62
+2011-12-17,Jordan,Libya,0,0,Pan-Arab Games,Qatar,-4,4,1553,1495,-1,1,72,90
+2011-12-17,Kuwait,Saudi Arabia,2,0,Pan-Arab Games,Qatar,28,-28,1606,1527,7,-6,58,78
+2011-12-17,Palestine,Sudan,2,0,Pan-Arab Games,Qatar,48,-48,1261,1410,11,-6,140,104
+2011-12-18,Angola,Zambia,1,0,Friendly,Angola,9,-9,1492,1522,1,-3,91,79
+2011-12-20,Bahrain,Palestine,3,1,Pan-Arab Games,Qatar,10,-10,1551,1251,0,-1,73,141
+2011-12-20,Jordan,Kuwait,2,0,Pan-Arab Games,Qatar,35,-35,1588,1571,10,-11,62,69
+2011-12-21,Botswana,Lesotho,3,0,Friendly,South Africa,8,-8,1417,1177,2,-1,103,161
+2011-12-21,Chile,Paraguay,3,2,Friendly,Chile,5,-5,1885,1783,1,0,10,21
+2011-12-22,Angola,Namibia,0,0,Friendly,Angola,-7,7,1485,1300,-1,1,92,132
+2011-12-22,Kuwait,Palestine,3,0,Pan-Arab Games,Qatar,10,-10,1581,1241,4,-4,65,145
+2011-12-22,Venezuela,Costa Rica,0,2,Friendly,Venezuela,-23,23,1712,1663,-3,5,37,46
+2011-12-23,Bahrain,Jordan,1,0,Pan-Arab Games,Qatar,22,-22,1573,1566,4,-8,69,70

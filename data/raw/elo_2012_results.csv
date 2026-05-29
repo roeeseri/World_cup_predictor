@@ -1,0 +1,1037 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2012-01-06,Equatorial Guinea,South Africa,0,0,Friendly,Equatorial Guinea,7,-7,1229,1591,1,-1,148,60
+2012-01-07,Botswana,Zimbabwe,0,0,Friendly,Botswana,-4,4,1413,1367,0,0,103,118
+2012-01-09,Gabon,Burkina Faso,0,0,Friendly,Gabon,-4,4,1551,1521,0,1,73,80
+2012-01-09,Tunisia,Sudan,3,0,Friendly,the United Arab Emirates,10,-10,1587,1400,5,-3,62,108
+2012-01-11,Nigeria,Angola,0,0,Friendly,Nigeria,-7,7,1656,1492,-1,1,47,91
+2012-01-11,South Africa,Zambia,1,1,Friendly,South Africa,-5,5,1586,1527,-2,2,62,77
+2012-01-12,Senegal,Sudan,1,0,Friendly,Senegal,3,-3,1622,1397,1,0,55,108
+2012-01-13,Ivory Coast,Tunisia,2,0,Friendly,the United Arab Emirates,8,-8,1769,1579,4,-4,25,65
+2012-01-14,Angola,Sierra Leone,3,1,Friendly,Angola,6,-6,1498,1332,2,0,89,124
+2012-01-14,Namibia,Zambia,0,0,Friendly,South Africa,6,-6,1306,1521,1,-2,131,79
+2012-01-15,Oman,DR Congo,2,2,Friendly,Oman,-5,5,1512,1428,0,0,82,102
+2012-01-15,Sao Tome and Principe,Lesotho,1,0,African Nations Cup qualifier,Sao Tome and Principe,22,-22,1065,1155,1,-4,180,165
+2012-01-15,South Africa,Ghana,1,1,Friendly,South Africa,2,-2,1588,1771,0,0,61,24
+2012-01-16,Gabon,Sudan,0,0,Friendly,Gabon,-6,6,1545,1403,0,1,73,107
+2012-01-16,Ivory Coast,Libya,1,0,Friendly,the United Arab Emirates,3,-3,1772,1492,1,0,24,91
+2012-01-17,Kuwait,Uzbekistan,1,0,Friendly,Kuwait,8,-8,1589,1612,4,0,60,56
+2012-01-18,Sweden,Bahrain,2,0,Friendly,Qatar,5,-5,1866,1568,1,0,12,69
+2012-01-18,Thailand,Norway,0,1,King's Cup,Thailand,-5,5,1383,1759,-1,0,112,30
+2012-01-21,Equatorial Guinea,Libya,1,0,African Nations Cup,Equatorial Guinea,36,-36,1265,1456,8,-7,140,98
+2012-01-21,United States,Venezuela,1,0,Friendly,the United States,7,-7,1722,1705,2,-1,34,38
+2012-01-21,Zambia,Senegal,2,1,African Nations Cup,Equatorial Guinea,32,-32,1553,1590,6,-4,73,59
+2012-01-22,Angola,Burkina Faso,2,1,African Nations Cup,Equatorial Guinea,27,-27,1525,1494,10,-10,79,90
+2012-01-22,Ivory Coast,Sudan,1,0,African Nations Cup,Equatorial Guinea,5,-5,1777,1398,0,-1,24,108
+2012-01-22,Lebanon,Iraq,1,0,Friendly,Lebanon,14,-14,1334,1572,4,-5,124,68
+2012-01-22,Lesotho,Sao Tome and Principe,0,0,African Nations Cup qualifier,Lesotho,-10,10,1145,1075,-2,1,167,179
+2012-01-22,Trinidad and Tobago,Finland,2,3,Friendly,Trinidad and Tobago,-9,9,1474,1611,-2,1,94,56
+2012-01-23,Gabon,Niger,2,0,African Nations Cup,Gabon,10,-10,1555,1319,2,-1,72,128
+2012-01-23,Tunisia,Morocco,2,1,African Nations Cup,Gabon,24,-24,1603,1541,6,-3,58,74
+2012-01-24,Ghana,Botswana,1,0,African Nations Cup,Gabon,6,-6,1777,1407,1,-2,24,105
+2012-01-24,Mali,Guinea,1,0,African Nations Cup,Gabon,26,-26,1523,1481,9,-8,80,92
+2012-01-25,Equatorial Guinea,Senegal,2,1,African Nations Cup,Equatorial Guinea,39,-39,1304,1551,7,-12,133,72
+2012-01-25,Libya,Zambia,2,2,African Nations Cup,Equatorial Guinea,7,-7,1463,1546,2,0,96,73
+2012-01-25,Mexico,Venezuela,3,1,Friendly,the United States,9,-9,1873,1696,1,-2,12,40
+2012-01-25,Panama,United States,0,1,Friendly,Panama,-11,11,1655,1733,-2,0,47,34
+2012-01-26,Angola,Sudan,2,2,African Nations Cup,Equatorial Guinea,-9,9,1516,1407,-3,3,82,105
+2012-01-26,Ivory Coast,Burkina Faso,2,0,African Nations Cup,Equatorial Guinea,12,-12,1789,1482,3,-1,21,90
+2012-01-27,Gabon,Morocco,3,2,African Nations Cup,Gabon,17,-17,1572,1524,4,-4,67,78
+2012-01-27,Romania,Turkmenistan,4,0,Friendly,Turkey,4,-4,1711,1344,0,0,37,121
+2012-01-27,Tunisia,Niger,2,1,African Nations Cup,Gabon,8,-8,1611,1311,2,-1,56,129
+2012-01-28,Ghana,Mali,2,0,African Nations Cup,Gabon,14,-14,1791,1509,4,-6,21,85
+2012-01-28,Guinea,Botswana,6,1,African Nations Cup,Gabon,40,-40,1521,1367,12,-12,80,117
+2012-01-29,Equatorial Guinea,Zambia,0,1,African Nations Cup,Equatorial Guinea,-15,15,1289,1561,-2,1,135,72
+2012-01-29,Libya,Senegal,2,1,African Nations Cup,Equatorial Guinea,31,-31,1494,1520,6,-9,90,81
+2012-01-29,United Arab Emirates,Uzbekistan,1,0,Friendly,the United Arab Emirates,14,-14,1399,1598,2,-3,108,58
+2012-01-30,Ivory Coast,Angola,2,0,African Nations Cup,Equatorial Guinea,13,-13,1802,1503,4,-3,18,85
+2012-01-30,Sudan,Burkina Faso,2,1,African Nations Cup,Equatorial Guinea,30,-30,1437,1452,3,-8,102,100
+2012-01-31,Gabon,Tunisia,1,0,African Nations Cup,Gabon,21,-21,1593,1590,8,-5,59,60
+2012-01-31,Morocco,Niger,1,0,African Nations Cup,Gabon,11,-11,1535,1300,3,-3,74,132
+2012-02-01,Ghana,Guinea,1,1,African Nations Cup,Gabon,-16,16,1775,1537,-3,5,25,74
+2012-02-01,Mali,Botswana,2,1,African Nations Cup,Gabon,15,-15,1524,1352,5,-2,79,119
+2012-02-04,Equatorial Guinea,Ivory Coast,0,3,African Nations Cup,Equatorial Guinea,-7,7,1282,1809,-1,0,136,18
+2012-02-04,Zambia,Sudan,3,0,African Nations Cup,Equatorial Guinea,29,-29,1590,1408,12,-2,60,104
+2012-02-05,Gabon,Mali,1,1,African Nations Cup,Gabon,-11,11,1582,1535,-5,4,64,75
+2012-02-05,Ghana,Tunisia,2,1,African Nations Cup,Gabon,13,-13,1788,1577,3,-7,22,67
+2012-02-08,Ivory Coast,Mali,1,0,African Nations Cup,Gabon,9,-9,1818,1526,2,-4,16,79
+2012-02-08,Zambia,Ghana,1,0,African Nations Cup,Equatorial Guinea,38,-38,1628,1750,5,-9,54,31
+2012-02-11,Mali,Ghana,2,0,African Nations Cup,Equatorial Guinea,59,-59,1585,1691,16,-10,63,41
+2012-02-12,Ivory Coast,Zambia,0,0,African Nations Cup,Gabon,-12,12,1806,1640,-2,2,18,52
+2012-02-15,Liberia,Nigeria,0,2,Friendly,Liberia,-4,4,1245,1660,-1,0,143,46
+2012-02-15,Paraguay,Chile,2,0,Friendly,Paraguay,15,-15,1798,1870,1,-2,21,12
+2012-02-17,Kuwait,North Korea,1,1,Friendly,China,-2,2,1587,1504,-2,1,62,85
+2012-02-19,Saint Vincent and the Grenadines,Guyana,1,0,Friendly,Saint Vincent and the Grenadines,14,-14,1154,1356,5,-1,165,117
+2012-02-22,China,Kuwait,2,0,Friendly,China,10,-10,1620,1577,1,-5,56,67
+2012-02-22,Grenada,Guyana,1,2,Friendly,Grenada,-8,8,1165,1364,-1,0,162,117
+2012-02-22,Jamaica,Cuba,1,0,Friendly,Jamaica,2,-2,1640,1390,1,0,52,110
+2012-02-22,Namibia,Mozambique,3,0,Friendly,Namibia,15,-15,1321,1335,2,-3,128,123
+2012-02-22,Paraguay,Guatemala,2,1,Friendly,Paraguay,2,-2,1800,1509,0,0,21,84
+2012-02-23,Iran,Jordan,2,2,Friendly,the United Arab Emirates,-5,5,1739,1571,-1,1,32,71
+2012-02-23,Oman,India,5,1,Friendly,Oman,3,-3,1515,1201,0,0,83,155
+2012-02-23,Tanzania,DR Congo,0,0,Friendly,Tanzania,2,-2,1261,1426,0,0,141,102
+2012-02-24,Azerbaijan,Singapore,2,2,Friendly,the United Arab Emirates,-4,4,1402,1278,-1,0,107,138
+2012-02-24,Jamaica,Cuba,3,0,Friendly,Jamaica,4,-4,1644,1386,0,-1,52,111
+2012-02-24,Japan,Iceland,3,1,Friendly,Japan,2,-2,1804,1439,0,0,19,101
+2012-02-24,Nicaragua,Puerto Rico,1,0,Friendly,Nicaragua,6,-6,1125,1070,1,-1,173,179
+2012-02-24,Thailand,Maldives,3,0,Friendly,Thailand,4,-4,1387,1105,1,0,110,175
+2012-02-24,United Arab Emirates,Palestine,3,0,Friendly,the United Arab Emirates,6,-6,1405,1235,2,0,106,146
+2012-02-25,South Korea,Uzbekistan,4,2,Friendly,South Korea,5,-5,1772,1593,0,-1,25,59
+2012-02-26,Nicaragua,Puerto Rico,4,1,Friendly,Nicaragua,10,-10,1135,1060,2,-1,171,180
+2012-02-27,Azerbaijan,India,3,0,Friendly,the United Arab Emirates,8,-8,1410,1193,3,-3,104,158
+2012-02-28,Brazil,Bosnia and Herzegovina,2,1,Friendly,Switzerland,2,-2,2066,1692,0,0,4,40
+2012-02-28,Serbia,Armenia,2,0,Friendly,Cyprus,8,-8,1727,1522,1,-2,34,80
+2012-02-29,Antigua and Barbuda,Trinidad and Tobago,0,4,Friendly,Antigua and Barbuda,-15,15,1294,1489,-3,2,133,92
+2012-02-29,Armenia,Canada,3,1,Friendly,Cyprus,18,-18,1540,1576,3,-10,77,68
+2012-02-29,Australia,Saudi Arabia,4,2,World Cup qualifier,Australia,6,-6,1823,1521,0,-4,16,82
+2012-02-29,Austria,Finland,3,1,Friendly,Austria,12,-12,1590,1599,6,-1,60,58
+2012-02-29,Bahrain,Indonesia,10,0,World Cup qualifier,Bahrain,10,-10,1578,1259,5,-3,67,143
+2012-02-29,Belarus,Moldova,0,0,Friendly,Turkey,-5,5,1584,1413,-3,0,63,105
+2012-02-29,Bolivia,Cuba,1,0,Friendly,Bolivia,4,-4,1539,1382,-2,1,78,110
+2012-02-29,Burundi,Zimbabwe,2,1,African Nations Cup qualifier,Burundi,21,-21,1265,1346,5,-4,139,120
+2012-02-29,Chad,Malawi,3,2,African Nations Cup qualifier,Chad,24,-24,1247,1378,3,-4,146,112
+2012-02-29,Chile,Ghana,1,1,Friendly,the United States,-5,5,1865,1696,0,2,12,39
+2012-02-29,China,Jordan,3,1,World Cup qualifier,China,18,-18,1638,1553,3,-1,53,72
+2012-02-29,Colombia,Mexico,2,0,Friendly,the United States,19,-19,1786,1854,4,-3,22,14
+2012-02-29,Congo,Uganda,3,1,African Nations Cup qualifier,Congo,37,-37,1391,1504,10,-11,108,85
+2012-02-29,Croatia,Sweden,1,3,Friendly,Croatia,-20,20,1870,1886,-1,4,10,9
+2012-02-29,Cyprus,Serbia,0,0,Friendly,Cyprus,4,-4,1468,1723,0,0,95,34
+2012-02-29,Denmark,Russia,0,2,Friendly,Denmark,-20,20,1810,1836,-2,2,17,15
+2012-02-29,Ecuador,Honduras,2,0,Friendly,Ecuador,6,-6,1784,1645,1,-1,23,51
+2012-02-29,Egypt,Niger,1,0,Friendly,Qatar,2,-2,1722,1298,0,1,35,131
+2012-02-29,England,Netherlands,2,3,Friendly,England,-10,10,1945,2077,0,1,6,2
+2012-02-29,Estonia,El Salvador,2,0,Friendly,the United States,18,-18,1541,1567,3,-9,76,71
+2012-02-29,Ethiopia,Benin,0,0,African Nations Cup qualifier,Ethiopia,0,0,1285,1378,0,2,135,112
+2012-02-29,Gambia,Algeria,1,2,African Nations Cup qualifier,The Gambia,-20,20,1353,1500,-1,5,116,88
+2012-02-29,Georgia,Albania,2,1,Friendly,Georgia,7,-7,1499,1475,2,-2,89,94
+2012-02-29,Germany,France,1,2,Friendly,Germany,-18,18,2064,1857,-2,1,4,13
+2012-02-29,Greece,Belgium,1,1,Friendly,Greece,-5,5,1778,1688,-2,0,25,42
+2012-02-29,Guinea-Bissau,Cameroon,0,1,African Nations Cup qualifier,Guinea-Bissau,-5,5,1217,1657,-2,2,152,46
+2012-02-29,Guyana,Guatemala,0,2,Friendly,Guyana,-13,13,1351,1522,-1,3,118,81
+2012-02-29,Hong Kong,Taiwan,5,1,Friendly,Hong Kong,4,-4,1205,903,0,0,155,198
+2012-02-29,Hungary,Bulgaria,1,1,Friendly,Hungary,-4,4,1672,1631,-1,-1,44,56
+2012-02-29,Iran,Qatar,2,2,World Cup qualifier,Iran,-15,15,1724,1516,-1,5,33,83
+2012-02-29,Iraq,Singapore,7,1,World Cup qualifier,Qatar,13,-13,1585,1265,9,-1,61,139
+2012-02-29,Ireland,Czechia,1,1,Friendly,Ireland,-3,3,1799,1797,1,1,19,21
+2012-02-29,Israel,Ukraine,2,3,Friendly,Israel,-10,10,1659,1776,-1,1,45,26
+2012-02-29,Italy,United States,0,1,Friendly,Italy,-16,16,1869,1749,-1,2,11,31
+2012-02-29,Ivory Coast,Guinea,0,0,Friendly,Ivory Coast,-8,8,1798,1545,-2,1,20,74
+2012-02-29,Japan,Uzbekistan,0,1,World Cup qualifier,Japan,-34,34,1770,1627,-8,2,27,57
+2012-02-29,Kazakhstan,Latvia,0,0,Friendly,Turkey,5,-5,1347,1516,2,-2,119,83
+2012-02-29,Kenya,Togo,2,1,African Nations Cup qualifier,Kenya,18,-18,1334,1361,5,-2,124,115
+2012-02-29,Liberia,Namibia,1,0,African Nations Cup qualifier,Liberia,19,-19,1264,1302,2,-2,141,130
+2012-02-29,Luxembourg,Macedonia,2,1,Friendly,Luxembourg,16,-16,1168,1485,5,-5,161,93
+2012-02-29,Madagascar,Cape Verde,0,4,African Nations Cup qualifier,Madagascar,-27,27,1170,1421,-3,6,160,103
+2012-02-29,Malta,Liechtenstein,2,1,Friendly,Malta,8,-8,1219,1227,1,-3,151,149
+2012-02-29,Montenegro,Iceland,2,1,Friendly,Montenegro,3,-3,1637,1436,0,-1,54,102
+2012-02-29,Morocco,Burkina Faso,2,0,Friendly,Morocco,8,-8,1543,1444,1,0,75,100
+2012-02-29,New Zealand,Jamaica,2,3,Friendly,New Zealand,-11,11,1553,1655,1,5,72,47
+2012-02-29,Northern Ireland,Norway,0,3,Friendly,Northern Ireland,-8,8,1450,1767,-2,1,99,28
+2012-02-29,Oman,Thailand,2,0,World Cup qualifier,Oman,13,-13,1528,1374,4,-4,79,114
+2012-02-29,Palestine,Azerbaijan,2,0,Friendly,the United Arab Emirates,22,-22,1257,1388,2,-5,144,109
+2012-02-29,Paraguay,Panama,1,0,Friendly,Paraguay,4,-4,1804,1651,3,-2,18,49
+2012-02-29,Philippines,Malaysia,1,1,Friendly,the Philippines,2,-2,1040,1206,0,0,182,153
+2012-02-29,Poland,Portugal,0,0,Friendly,Poland,3,-3,1708,1898,0,0,37,8
+2012-02-29,Romania,Uruguay,1,1,Friendly,Romania,5,-5,1716,1987,0,0,36,5
+2012-02-29,Rwanda,Nigeria,0,0,African Nations Cup qualifier,Rwanda,6,-6,1461,1654,2,-2,96,48
+2012-02-29,Sao Tome and Principe,Sierra Leone,2,1,African Nations Cup qualifier,Sao Tome and Principe,28,-28,1103,1304,2,-4,176,129
+2012-02-29,Seychelles,DR Congo,0,4,African Nations Cup qualifier,the Seychelles,-11,11,1015,1437,-2,1,185,101
+2012-02-29,Slovenia,Scotland,1,1,Friendly,Slovenia,-1,1,1651,1703,-1,0,49,38
+2012-02-29,South Africa,Senegal,0,0,Friendly,South Africa,-4,4,1584,1524,-2,2,63,80
+2012-02-29,South Korea,Kuwait,2,0,World Cup qualifier,South Korea,9,-9,1781,1568,1,-3,24,70
+2012-02-29,Spain,Venezuela,5,0,Friendly,Spain,2,-2,2118,1694,0,-1,1,40
+2012-02-29,Switzerland,Argentina,1,3,Friendly,Switzerland,-13,13,1753,1928,-2,0,29,7
+2012-02-29,Tajikistan,North Korea,1,1,World Cup qualifier,Tajikistan,9,-9,1253,1495,-1,-5,145,90
+2012-02-29,Tanzania,Mozambique,1,1,African Nations Cup qualifier,Tanzania,-1,1,1260,1336,-1,0,142,123
+2012-02-29,Tunisia,Peru,1,1,Friendly,Tunisia,2,-2,1579,1751,1,0,66,30
+2012-02-29,Turkey,Slovakia,1,2,Friendly,Turkey,-16,16,1728,1595,-1,6,32,59
+2012-02-29,United Arab Emirates,Lebanon,4,2,World Cup qualifier,the United Arab Emirates,16,-16,1421,1318,4,-3,103,127
+2012-02-29,Wales,Costa Rica,0,1,Friendly,Wales,-12,12,1635,1675,-4,2,55,43
+2012-03-02,DR Congo,Egypt,0,0,Friendly,Qatar,7,-7,1444,1715,1,-1,100,36
+2012-03-03,Martinique,Guadeloupe,1,2,Friendly,Martinique,-9,9,1331,1470,-3,1,125,95
+2012-03-03,Saint Kitts and Nevis,Antigua and Barbuda,1,0,Friendly,Saint Kitts and Nevis,10,-10,1202,1284,2,-2,156,135
+2012-03-08,Nepal,Palestine,0,2,Asian Cup qual & Asian Challenge Cup,Nepal,-16,16,960,1273,-1,5,190,139
+2012-03-08,Turkmenistan,Maldives,3,1,Asian Cup qual & Asian Challenge Cup,Nepal,12,-12,1356,1093,5,-2,116,177
+2012-03-09,North Korea,Philippines,2,0,Asian Cup qual & Asian Challenge Cup,Nepal,4,-4,1499,1036,1,0,89,182
+2012-03-09,Tajikistan,India,2,0,Asian Cup qual & Asian Challenge Cup,Nepal,25,-25,1278,1168,7,-2,138,160
+2012-03-10,Nepal,Maldives,0,1,Asian Cup qual & Asian Challenge Cup,Nepal,-18,18,942,1111,-1,2,191,175
+2012-03-10,Palestine,Turkmenistan,0,0,Asian Cup qual & Asian Challenge Cup,Nepal,5,-5,1278,1351,2,-2,138,118
+2012-03-11,North Korea,Tajikistan,2,0,Asian Cup qual & Asian Challenge Cup,Nepal,13,-13,1512,1265,4,-2,85,140
+2012-03-11,Philippines,India,2,0,Asian Cup qual & Asian Challenge Cup,Nepal,41,-41,1077,1127,3,-13,179,173
+2012-03-12,Nepal,Turkmenistan,0,3,Asian Cup qual & Asian Challenge Cup,Nepal,-10,10,932,1361,-2,3,193,115
+2012-03-12,Palestine,Maldives,2,0,Asian Cup qual & Asian Challenge Cup,Nepal,17,-17,1295,1094,5,-2,133,177
+2012-03-13,North Korea,India,4,0,Asian Cup qual & Asian Challenge Cup,Nepal,7,-7,1519,1120,2,-1,83,174
+2012-03-13,Philippines,Tajikistan,2,1,Asian Cup qual & Asian Challenge Cup,Nepal,30,-30,1107,1235,4,-7,175,147
+2012-03-16,North Korea,Palestine,2,0,Asian Cup qual & Asian Challenge Cup,Nepal,13,-13,1532,1282,4,-3,79,136
+2012-03-16,Turkmenistan,Philippines,2,1,Asian Cup qual & Asian Challenge Cup,Nepal,8,-8,1369,1099,0,-2,115,177
+2012-03-19,North Korea,Turkmenistan,2,1,Asian Cup qual & Asian Challenge Cup,Nepal,11,-11,1543,1358,4,-1,75,116
+2012-03-19,Philippines,Palestine,4,3,Asian Cup qual & Asian Challenge Cup,Nepal,30,-30,1129,1252,5,-8,172,144
+2012-03-21,Chile,Peru,3,1,Pacific Cup,Chile,10,-10,1875,1741,2,-1,10,31
+2012-03-21,French Guiana,Guyana,1,0,Friendly,French Guiana,12,-12,1197,1339,0,-2,158,121
+2012-03-21,Jamaica,Costa Rica,0,0,Friendly,Jamaica,-2,2,1653,1677,-1,0,48,43
+2012-03-22,French Guiana,Guyana,0,2,Friendly,French Guiana,-13,13,1184,1352,0,3,158,118
+2012-03-29,Egypt,Uganda,2,1,Friendly,Sudan,5,-5,1720,1499,1,-3,35,89
+2012-03-30,Saint Vincent and the Grenadines,Antigua and Barbuda,1,0,Friendly,Saint Vincent and the Grenadines,11,-11,1165,1273,3,-3,162,138
+2012-03-31,Egypt,Chad,4,0,Friendly,Sudan,2,-2,1722,1245,0,-1,35,146
+2012-04-01,Saint Vincent and the Grenadines,Antigua and Barbuda,1,2,Friendly,Saint Vincent and the Grenadines,-10,10,1155,1283,-3,3,165,135
+2012-04-07,Guadeloupe,Martinique,0,1,Friendly,Guadeloupe,-16,16,1454,1347,-3,5,98,120
+2012-04-11,Costa Rica,Honduras,1,1,Friendly,Costa Rica,-4,4,1673,1649,0,0,43,51
+2012-04-11,Peru,Chile,0,3,Pacific Cup,Peru,-24,24,1717,1899,-4,2,35,8
+2012-04-12,Egypt,Nigeria,3,2,Friendly,the United Arab Emirates,8,-8,1730,1646,3,-4,31,51
+2012-04-15,Egypt,Mauritania,3,0,Friendly,the United Arab Emirates,1,-1,1731,1141,0,0,31,169
+2012-04-17,Egypt,Iraq,0,0,Friendly,the United Arab Emirates,-4,4,1727,1589,-1,0,32,61
+2012-04-18,Iran,Mauritania,2,0,Friendly,Iran,1,-1,1725,1140,0,0,33,169
+2012-04-25,Guatemala,Paraguay,0,1,Friendly,Guatemala,-5,5,1517,1809,-1,0,83,18
+2012-04-28,Malaysia,Sri Lanka,6,0,Friendly,Malaysia,3,-3,1209,865,0,0,153,204
+2012-05-02,Iran,Mozambique,3,0,Friendly,Iran,2,-2,1727,1334,1,0,32,123
+2012-05-02,Martinique,Guyana,2,2,Friendly,Martinique,-3,3,1344,1355,-2,1,122,117
+2012-05-04,Guadeloupe,Guyana,1,2,Friendly,Guadeloupe,-15,15,1439,1370,-3,2,101,115
+2012-05-07,Egypt,Libya,4,0,Friendly,Egypt,5,-5,1732,1489,1,0,31,91
+2012-05-11,Lebanon,Egypt,1,4,Friendly,Lebanon,-5,5,1313,1737,0,0,127,31
+2012-05-15,Kurdistan,Mauritania,3,1,Al Nakba Cup,Palestine,8,-8,1408,1132,0,-3,107,172
+2012-05-16,Angola,Zambia,0,0,Friendly,Angola,1,-1,1504,1639,0,0,86,52
+2012-05-17,Indonesia,Mauritania,2,0,Al Nakba Cup,Palestine,15,-15,1274,1117,5,-4,139,176
+2012-05-18,Jamaica,Guyana,1,0,Friendly,Jamaica,2,-2,1655,1368,0,0,47,116
+2012-05-18,Lebanon,Jordan,1,2,Friendly,Lebanon,-6,6,1307,1559,0,0,128,72
+2012-05-19,Indonesia,Kurdistan,1,1,Al Nakba Cup,Palestine,6,-6,1280,1402,1,-1,138,108
+2012-05-20,Egypt,Cameroon,2,1,Friendly,Sudan,8,-8,1745,1649,0,-3,31,49
+2012-05-20,Panama,Guyana,2,0,Friendly,Panama,3,-3,1654,1365,1,0,47,116
+2012-05-22,Albania,Qatar,2,1,Friendly,Spain,11,-11,1486,1505,1,-1,93,85
+2012-05-22,Egypt,Togo,3,0,Friendly,Sudan,3,-3,1748,1358,0,0,31,117
+2012-05-22,Palestine,Indonesia,2,1,Al Nakba Cup,Palestine,12,-12,1264,1268,2,-2,143,140
+2012-05-22,Poland,Latvia,1,0,Friendly,Austria,5,-5,1713,1511,0,0,37,84
+2012-05-23,Botswana,Lesotho,3,0,Friendly,Botswana,5,-5,1357,1140,1,-1,119,169
+2012-05-23,El Salvador,New Zealand,2,2,Friendly,the United States,0,0,1567,1553,0,0,71,73
+2012-05-23,Iraq,Sierra Leone,1,0,Friendly,Turkey,3,-3,1592,1301,1,-1,60,131
+2012-05-23,Japan,Azerbaijan,2,0,Friendly,Japan,2,-2,1772,1386,0,0,27,110
+2012-05-23,Libya,Rwanda,2,0,Friendly,Tunisia,14,-14,1503,1447,4,-2,87,98
+2012-05-23,Peru,Nigeria,1,0,Friendly,Peru,5,-5,1722,1641,0,0,35,51
+2012-05-23,Venezuela,Moldova,4,0,Friendly,Venezuela,4,-4,1698,1409,1,-1,39,106
+2012-05-24,Turkey,Georgia,3,1,Friendly,Austria,6,-6,1734,1493,0,-1,32,91
+2012-05-25,Belgium,Montenegro,2,2,Friendly,Belgium,-4,4,1684,1641,0,3,42,51
+2012-05-25,Costa Rica,Guatemala,3,2,Friendly,Costa Rica,4,-4,1677,1513,0,0,43,83
+2012-05-25,Croatia,Estonia,3,1,Friendly,Croatia,2,-2,1872,1539,0,0,11,77
+2012-05-25,Morocco,Senegal,0,1,Friendly,Morocco,-13,13,1530,1537,-5,2,80,79
+2012-05-25,Russia,Uruguay,1,1,Friendly,Russia,1,-1,1837,1986,0,0,15,5
+2012-05-26,Algeria,Niger,3,0,Friendly,Algeria,5,-5,1505,1293,4,-1,85,133
+2012-05-26,Brazil,Denmark,3,1,Friendly,Germany,6,-6,2072,1804,1,-1,2,18
+2012-05-26,Burkina Faso,Benin,2,2,Friendly,Burkina Faso,-4,4,1440,1382,-1,2,100,111
+2012-05-26,Cameroon,Guinea,2,1,Friendly,France,7,-7,1656,1538,4,-4,45,78
+2012-05-26,Czechia,Israel,2,1,Friendly,Austria,6,-6,1803,1653,1,-4,20,49
+2012-05-26,El Salvador,Moldova,2,0,Friendly,the United States,9,-9,1576,1400,3,-2,68,108
+2012-05-26,Finland,Turkey,3,2,Friendly,Austria,14,-14,1613,1720,0,-2,58,34
+2012-05-26,Greece,Slovenia,1,1,Friendly,Austria,-4,4,1774,1655,-2,2,27,46
+2012-05-26,Ireland,Bosnia and Herzegovina,1,0,Friendly,Ireland,5,-5,1804,1687,1,0,18,41
+2012-05-26,Jordan,Sierra Leone,4,0,Friendly,Jordan,4,-4,1563,1297,-1,0,73,131
+2012-05-26,Mozambique,Namibia,0,0,Friendly,Germany,-1,1,1333,1303,-1,0,125,130
+2012-05-26,Netherlands,Bulgaria,1,2,Friendly,the Netherlands,-19,19,2058,1650,-1,6,3,50
+2012-05-26,New Zealand,Honduras,1,0,Friendly,the United States,13,-13,1566,1636,1,-6,72,55
+2012-05-26,Norway,England,0,1,Friendly,Norway,-8,8,1759,1953,-2,0,30,6
+2012-05-26,Poland,Slovakia,1,0,Friendly,Austria,7,-7,1720,1588,3,-2,34,61
+2012-05-26,Portugal,Macedonia,0,0,Friendly,Portugal,-9,9,1889,1494,0,3,9,91
+2012-05-26,Spain,Serbia,2,0,Friendly,Switzerland,3,-3,2121,1720,0,0,1,34
+2012-05-26,Switzerland,Germany,5,3,Friendly,Switzerland,23,-23,1776,2041,4,0,25,4
+2012-05-26,Tanzania,Malawi,0,0,Friendly,Tanzania,1,-1,1261,1377,0,-1,145,114
+2012-05-26,United States,Scotland,5,1,Friendly,the United States,11,-11,1760,1692,1,-2,29,40
+2012-05-27,Albania,Iran,1,0,Friendly,Turkey,16,-16,1502,1711,5,-5,89,37
+2012-05-27,France,Iceland,3,2,Friendly,France,1,-1,1858,1435,-1,0,14,102
+2012-05-27,Ivory Coast,Mali,2,1,Friendly,France,5,-5,1803,1580,1,-4,20,66
+2012-05-27,Jamaica,Panama,0,1,Friendly,Jamaica,-13,13,1642,1667,-4,3,50,45
+2012-05-27,Libya,Chad,1,0,Friendly,Tunisia,4,-4,1507,1241,3,0,85,147
+2012-05-27,Mexico,Wales,2,0,Friendly,the United States,7,-7,1861,1628,1,0,13,56
+2012-05-27,Oman,Lebanon,1,1,Friendly,Oman,-7,7,1521,1314,0,0,81,128
+2012-05-27,Tunisia,Rwanda,5,1,Friendly,Tunisia,8,-8,1587,1439,4,-2,62,100
+2012-05-28,Botswana,Iraq,1,1,Friendly,Turkey,6,-6,1363,1586,3,-3,116,62
+2012-05-28,Colombia,Guyana,7,1,Friendly,Colombia,2,-2,1788,1363,0,0,22,116
+2012-05-28,Qatar,Palestine,0,0,Friendly,Qatar,-8,8,1497,1272,-5,3,91,140
+2012-05-28,Ukraine,Estonia,4,0,Friendly,Austria,8,-8,1784,1531,2,-3,23,79
+2012-05-28,Zanzibar,Malawi,1,1,Friendly,Zanzibar,-1,1,1323,1378,0,0,127,114
+2012-05-29,Angola,Macedonia,0,0,Friendly,Portugal,0,0,1504,1494,-1,0,88,92
+2012-05-29,Lithuania,Russia,0,0,Friendly,Switzerland,7,-7,1509,1830,3,0,85,15
+2012-05-29,Turkey,Bulgaria,2,0,Friendly,Austria,12,-12,1732,1638,1,-4,32,53
+2012-05-30,Andorra,Azerbaijan,0,0,Friendly,Germany,8,-8,1006,1378,0,-3,188,113
+2012-05-30,Chad,Rwanda,1,1,Friendly,Tunisia,5,-5,1246,1434,1,-1,146,101
+2012-05-30,Netherlands,Slovakia,2,0,Friendly,the Netherlands,1,-1,2059,1587,0,0,3,60
+2012-05-30,Spain,South Korea,4,1,Friendly,Switzerland,4,-4,2125,1777,0,0,1,25
+2012-05-30,Sweden,Iceland,3,2,Friendly,Sweden,1,-1,1887,1434,0,1,10,101
+2012-05-30,Switzerland,Romania,0,1,Friendly,Switzerland,-14,14,1762,1730,-2,3,28,33
+2012-05-30,United States,Brazil,1,4,Friendly,the United States,-8,8,1752,2080,-1,0,30,2
+2012-05-31,France,Serbia,2,0,Friendly,France,6,-6,1864,1714,0,-1,14,36
+2012-05-31,Germany,Israel,2,0,Friendly,Germany,2,-2,2043,1651,0,0,4,48
+2012-05-31,Greece,Armenia,1,0,Friendly,Austria,4,-4,1778,1536,1,-3,25,78
+2012-05-31,Mexico,Bosnia and Herzegovina,2,1,Friendly,the United States,5,-5,1866,1682,0,-1,13,42
+2012-06-01,Austria,Ukraine,3,2,Friendly,Austria,13,-13,1603,1771,0,-4,59,27
+2012-06-01,Czechia,Hungary,1,2,Friendly,Czechia,-16,16,1787,1688,-2,3,22,41
+2012-06-01,Egypt,Mozambique,2,0,World Cup qualifier,Egypt,3,-3,1751,1330,0,-2,31,127
+2012-06-01,Estonia,Finland,1,2,Baltic Cup,Estonia,-16,16,1515,1629,-5,2,84,56
+2012-06-01,Ghana,Lesotho,7,0,World Cup qualifier,Ghana,2,-2,1698,1138,1,0,38,169
+2012-06-01,Guatemala,Costa Rica,1,0,Friendly,Guatemala,12,-12,1525,1665,2,-2,81,45
+2012-06-01,Hong Kong,Singapore,1,0,Friendly,Hong Kong,9,-9,1214,1256,3,-3,153,145
+2012-06-01,Kazakhstan,Kyrgyzstan,5,2,Friendly,Kazakhstan,5,-5,1352,1124,0,-1,121,173
+2012-06-01,Latvia,Lithuania,5,0,Baltic Cup,Estonia,30,-30,1541,1479,9,-9,75,94
+2012-06-01,Malaysia,Philippines,0,0,Friendly,Malaysia,-5,5,1204,1134,-2,2,156,170
+2012-06-01,New Caledonia,Vanuatu,5,2,World Cup qualifier and Oceania Cup,the Solomon Islands,37,-37,1334,1209,7,-8,124,154
+2012-06-01,Panama,Jamaica,2,1,Friendly,Panama,7,-7,1674,1635,1,-6,44,55
+2012-06-01,Puerto Rico,Nicaragua,3,1,Friendly,Puerto Rico,14,-14,1074,1121,1,-4,181,174
+2012-06-01,Russia,Italy,3,0,Friendly,Switzerland,19,-19,1849,1850,0,-2,15,14
+2012-06-01,Tahiti,Samoa,10,1,World Cup qualifier and Oceania Cup,the Solomon Islands,8,-8,1176,686,1,-1,160,219
+2012-06-02,Algeria,Rwanda,4,0,World Cup qualifier,Algeria,20,-20,1525,1414,5,-3,81,104
+2012-06-02,Argentina,Ecuador,4,0,World Cup qualifier,Argentina,15,-15,1943,1769,0,-4,7,27
+2012-06-02,Bolivia,Chile,0,2,World Cup qualifier,Bolivia,-11,11,1528,1910,-3,0,79,8
+2012-06-02,Burkina Faso,Congo,0,0,World Cup qualifier,Burkina Faso,-8,8,1432,1399,-3,0,102,109
+2012-06-02,Cameroon,DR Congo,1,0,World Cup qualifier,Cameroon,6,-6,1662,1438,0,-2,46,100
+2012-06-02,Central African Republic,Botswana,2,0,World Cup qualifier,Central African Republic,33,-33,1265,1330,6,-10,142,126
+2012-06-02,Denmark,Australia,2,0,Friendly,Denmark,12,-12,1816,1811,2,-1,16,17
+2012-06-02,England,Belgium,1,0,Friendly,England,2,-2,1955,1682,0,0,6,42
+2012-06-02,Gambia,Morocco,1,1,World Cup qualifier,The Gambia,4,-4,1357,1526,1,0,119,80
+2012-06-02,Honduras,El Salvador,3,0,Friendly,the United States,15,-15,1651,1561,6,-5,48,73
+2012-06-02,Ivory Coast,Tanzania,2,0,World Cup qualifier,Ivory Coast,1,-1,1804,1260,1,0,19,144
+2012-06-02,Kenya,Malawi,0,0,World Cup qualifier,Kenya,-3,3,1331,1381,-1,1,125,112
+2012-06-02,Luxembourg,Malta,0,2,Friendly,Luxembourg,-17,17,1151,1236,-5,3,167,148
+2012-06-02,Netherlands,Northern Ireland,6,0,Friendly,the Netherlands,1,-1,2060,1449,0,0,3,97
+2012-06-02,New Zealand,Fiji,1,0,World Cup qualifier and Oceania Cup,the Solomon Islands,9,-9,1575,1283,2,-2,70,136
+2012-06-02,Norway,Croatia,1,1,Friendly,Norway,0,0,1759,1872,0,1,29,10
+2012-06-02,Poland,Andorra,4,0,Friendly,Poland,0,0,1720,1006,0,0,35,188
+2012-06-02,Portugal,Turkey,1,3,Friendly,Portugal,-24,24,1865,1756,-3,2,12,30
+2012-06-02,Senegal,Liberia,3,1,World Cup qualifier,Senegal,6,-6,1543,1258,4,-2,74,145
+2012-06-02,Sierra Leone,Cape Verde,2,1,World Cup qualifier,Sierra Leone,21,-21,1318,1400,3,-4,129,107
+2012-06-02,Solomon Islands,Papua New Guinea,1,0,World Cup qualifier and Oceania Cup,the Solomon Islands,7,-7,1286,1047,4,0,134,183
+2012-06-02,Sudan,Zambia,2,0,World Cup qualifier,Sudan,41,-41,1449,1598,9,-8,97,59
+2012-06-02,Tunisia,Equatorial Guinea,3,1,World Cup qualifier,Tunisia,5,-5,1592,1277,0,-1,60,138
+2012-06-02,Uruguay,Venezuela,1,1,World Cup qualifier,Uruguay,-16,16,1970,1714,0,2,5,36
+2012-06-03,Angola,Uganda,1,1,World Cup qualifier,Angola,-6,6,1498,1505,-3,2,90,87
+2012-06-03,Benin,Mali,1,0,World Cup qualifier,Benin,25,-25,1407,1555,4,-7,106,73
+2012-06-03,Canada,United States,0,0,Friendly,Canada,2,-2,1578,1750,4,-1,64,32
+2012-06-03,Estonia,Lithuania,1,0,Baltic Cup,Estonia,9,-9,1524,1470,2,0,83,94
+2012-06-03,Finland,Latvia,1,1,Baltic Cup,Estonia,-4,4,1625,1545,-1,1,56,75
+2012-06-03,Japan,Oman,3,0,World Cup qualifier,Japan,8,-8,1780,1513,2,-2,23,85
+2012-06-03,Jordan,Iraq,1,1,World Cup qualifier,Jordan,-4,4,1559,1590,0,1,72,61
+2012-06-03,Lebanon,Qatar,0,1,World Cup qualifier,Lebanon,-15,15,1299,1512,-3,4,133,86
+2012-06-03,Mexico,Brazil,2,0,Friendly,the United States,23,-23,1889,2057,2,-1,9,3
+2012-06-03,Niger,Gabon,0,0,World Cup qualifier,Niger,10,-10,1303,1572,3,-3,130,68
+2012-06-03,Nigeria,Namibia,1,0,World Cup qualifier,Nigeria,3,-3,1644,1300,0,0,50,132
+2012-06-03,Peru,Colombia,0,1,World Cup qualifier,Peru,-22,22,1700,1810,-4,3,38,18
+2012-06-03,Puerto Rico,Nicaragua,1,1,Friendly,Puerto Rico,-2,2,1072,1123,0,0,181,174
+2012-06-03,South Africa,Ethiopia,1,1,World Cup qualifier,South Africa,-16,16,1568,1301,-6,4,69,131
+2012-06-03,Spain,China,1,0,Friendly,Spain,1,-1,2126,1637,0,-1,1,53
+2012-06-03,Tahiti,New Caledonia,4,3,World Cup qualifier and Oceania Cup,the Solomon Islands,36,-36,1212,1298,5,-11,155,134
+2012-06-03,Togo,Libya,1,1,World Cup qualifier,Togo,3,-3,1361,1504,0,-2,117,88
+2012-06-03,Uzbekistan,Iran,0,1,World Cup qualifier,Uzbekistan,-21,21,1606,1732,0,5,57,33
+2012-06-03,Vanuatu,Samoa,5,0,World Cup qualifier and Oceania Cup,the Solomon Islands,5,-5,1214,681,1,-1,153,220
+2012-06-03,Zimbabwe,Guinea,0,1,World Cup qualifier,Zimbabwe,-15,15,1331,1553,-2,3,123,74
+2012-06-04,Hungary,Ireland,0,0,Friendly,Hungary,0,0,1688,1804,0,0,41,20
+2012-06-04,Kurdistan,Western Sahara,6,0,VIVA World Cup,Kurdistan,4,-4,1406,996,0,0,107,189
+2012-06-04,New Zealand,Papua New Guinea,2,1,World Cup qualifier and Oceania Cup,the Solomon Islands,2,-2,1577,1045,1,0,66,183
+2012-06-04,Solomon Islands,Fiji,0,0,World Cup qualifier and Oceania Cup,the Solomon Islands,-7,7,1279,1290,-2,1,137,135
+2012-06-05,Armenia,Kazakhstan,3,0,Friendly,Armenia,6,-6,1542,1346,0,0,78,120
+2012-06-05,Austria,Romania,0,0,Friendly,Austria,1,-1,1604,1729,0,0,58,34
+2012-06-05,France,Estonia,4,0,Friendly,France,3,-3,1867,1521,1,0,12,83
+2012-06-05,New Caledonia,Samoa,9,0,World Cup qualifier and Oceania Cup,the Solomon Islands,3,-3,1301,678,3,0,131,221
+2012-06-05,Philippines,Indonesia,2,2,Friendly,the Philippines,1,-1,1135,1267,0,0,170,141
+2012-06-05,Sweden,Serbia,2,1,Friendly,Sweden,3,-3,1890,1711,1,-1,9,37
+2012-06-05,Tahiti,Vanuatu,4,1,World Cup qualifier and Oceania Cup,the Solomon Islands,44,-44,1256,1170,9,-7,146,160
+2012-06-05,Turkey,Ukraine,2,0,Friendly,Germany,16,-16,1772,1755,4,-4,26,30
+2012-06-06,Fiji,Papua New Guinea,1,1,World Cup qualifier and Oceania Cup,the Solomon Islands,-15,15,1275,1060,-3,0,138,183
+2012-06-06,Solomon Islands,New Zealand,1,1,World Cup qualifier and Oceania Cup,the Solomon Islands,13,-13,1292,1564,2,-4,135,70
+2012-06-07,Belarus,Lithuania,1,1,Friendly,Belarus,-5,5,1579,1475,0,0,63,94
+2012-06-08,Bahrain,Kuwait,1,1,Friendly,Egypt,0,0,1578,1568,-1,-1,65,69
+2012-06-08,China,Vietnam,3,0,Friendly,China,2,-2,1639,1272,1,0,52,139
+2012-06-08,Costa Rica,El Salvador,2,2,World Cup qualifier,Costa Rica,-11,11,1654,1572,-2,4,47,67
+2012-06-08,Cuba,Canada,0,1,World Cup qualifier,Cuba,-15,15,1367,1593,-4,4,115,60
+2012-06-08,Honduras,Panama,0,2,World Cup qualifier,Honduras,-37,37,1614,1711,-8,7,56,37
+2012-06-08,Jamaica,Guatemala,2,1,World Cup qualifier,Jamaica,9,-9,1644,1516,5,-3,49,84
+2012-06-08,Japan,Jordan,6,0,World Cup qualifier,Japan,12,-12,1792,1547,0,-1,23,73
+2012-06-08,Lebanon,Uzbekistan,1,1,World Cup qualifier,Lebanon,11,-11,1310,1595,5,-2,129,59
+2012-06-08,Mexico,Guyana,3,1,World Cup qualifier,Mexico,2,-2,1891,1361,1,-1,9,117
+2012-06-08,New Caledonia,New Zealand,2,0,Oceania Nations Cup,the Solomon Islands,61,-61,1362,1503,15,-17,116,87
+2012-06-08,Northern Cyprus,Zanzibar,2,0,VIVA World Cup,Kurdistan,19,-19,1474,1304,1,-4,95,131
+2012-06-08,Oman,Australia,0,0,World Cup qualifier,Oman,10,-10,1523,1801,4,-4,81,21
+2012-06-08,Poland,Greece,1,1,European Championship,Poland,-3,3,1717,1781,0,0,35,24
+2012-06-08,Qatar,South Korea,1,4,World Cup qualifier,Qatar,-20,20,1492,1797,-6,3,92,22
+2012-06-08,Russia,Czechia,4,1,European Championship,Poland,36,-36,1885,1751,4,-9,11,31
+2012-06-08,Singapore,Malaysia,2,2,Causeway Challenge Cup,Singapore,-6,6,1250,1210,-1,1,147,155
+2012-06-08,Solomon Islands,Tahiti,0,1,Oceania Nations Cup,the Solomon Islands,-34,34,1258,1290,-10,11,145,135
+2012-06-08,United States,Antigua and Barbuda,3,1,World Cup qualifier,the United States,2,-2,1752,1281,2,0,30,136
+2012-06-09,Argentina,Brazil,4,3,Friendly,the United States,13,-13,1956,2044,1,0,6,3
+2012-06-09,Bolivia,Paraguay,3,1,World Cup qualifier,Bolivia,44,-44,1572,1765,10,-8,68,26
+2012-06-09,Botswana,South Africa,1,1,World Cup qualifier,Botswana,8,-8,1338,1560,3,-2,123,71
+2012-06-09,Cape Verde,Tunisia,1,2,World Cup qualifier,Cape Verde,-15,15,1385,1607,-3,3,111,58
+2012-06-09,Congo,Niger,1,0,World Cup qualifier,Congo,10,-10,1409,1293,3,-2,107,134
+2012-06-09,Denmark,Netherlands,1,0,European Championship,Ukraine,40,-40,1856,2020,2,-2,14,4
+2012-06-09,Equatorial Guinea,Sierra Leone,2,2,World Cup qualifier,Equatorial Guinea,-3,3,1274,1321,-1,1,138,127
+2012-06-09,French Guiana,Suriname,2,1,Friendly,French Guiana,8,-8,1192,1191,1,-1,158,159
+2012-06-09,Gabon,Burkina Faso,1,0,World Cup qualifier,Gabon,8,-8,1580,1424,3,0,64,102
+2012-06-09,Germany,Portugal,1,0,European Championship,Ukraine,13,-13,2056,1852,2,-1,2,15
+2012-06-09,Kurdistan,Northern Cyprus,2,1,VIVA World Cup,Kurdistan,18,-18,1424,1456,5,-1,102,96
+2012-06-09,Malawi,Nigeria,1,1,World Cup qualifier,Malawi,9,-9,1390,1635,1,-4,110,53
+2012-06-09,Morocco,Ivory Coast,2,2,World Cup qualifier,Morocco,9,-9,1535,1795,0,-2,79,21
+2012-06-09,Namibia,Kenya,1,0,World Cup qualifier,Namibia,16,-16,1316,1315,6,-5,128,129
+2012-06-09,Uganda,Senegal,1,1,World Cup qualifier,Uganda,-4,4,1501,1547,-3,1,88,74
+2012-06-09,Venezuela,Chile,0,2,World Cup qualifier,Venezuela,-22,22,1692,1932,-3,0,39,8
+2012-06-09,Zambia,Ghana,1,0,World Cup qualifier,Zambia,20,-20,1618,1678,2,-4,56,44
+2012-06-10,Croatia,Ireland,3,1,European Championship,Poland,30,-30,1902,1774,3,-6,9,24
+2012-06-10,DR Congo,Togo,2,0,World Cup qualifier,DR Congo,16,-16,1454,1345,3,-2,97,119
+2012-06-10,Ecuador,Colombia,1,0,World Cup qualifier,Ecuador,17,-17,1786,1793,3,-3,22,20
+2012-06-10,Ethiopia,Central African Republic,2,0,World Cup qualifier,Ethiopia,19,-19,1320,1246,5,-4,128,146
+2012-06-10,Guinea,Egypt,2,3,World Cup qualifier,Guinea,-15,15,1538,1766,-5,5,78,26
+2012-06-10,Hong Kong,Vietnam,1,2,Friendly,Hong Kong,-11,11,1203,1283,-2,3,156,136
+2012-06-10,Italy,Spain,1,1,European Championship,Poland,17,-17,1867,2109,3,0,13,1
+2012-06-10,Lesotho,Sudan,0,0,World Cup qualifier,Lesotho,11,-11,1149,1438,1,-3,168,100
+2012-06-10,Liberia,Angola,0,0,World Cup qualifier,Liberia,8,-8,1266,1490,2,-3,143,92
+2012-06-10,Libya,Cameroon,2,1,World Cup qualifier,Tunisia,29,-29,1533,1633,5,-8,80,53
+2012-06-10,Mali,Algeria,2,1,World Cup qualifier,Burkina Faso,18,-18,1573,1507,4,-6,68,86
+2012-06-10,Mozambique,Zimbabwe,0,0,World Cup qualifier,Mozambique,-6,6,1324,1337,0,3,126,122
+2012-06-10,Rwanda,Benin,1,1,World Cup qualifier,Rwanda,-6,6,1408,1413,-3,3,108,105
+2012-06-10,Solomon Islands,New Zealand,3,4,Oceania Nations Cup,the Solomon Islands,-15,15,1243,1518,-3,2,148,84
+2012-06-10,Tahiti,New Caledonia,1,0,Oceania Nations Cup,the Solomon Islands,30,-30,1320,1332,7,-8,128,124
+2012-06-10,Tanzania,Gambia,2,1,World Cup qualifier,Tanzania,20,-20,1280,1337,6,-2,138,122
+2012-06-10,Uruguay,Peru,4,2,World Cup qualifier,Uruguay,6,-6,1976,1694,0,0,5,38
+2012-06-11,England,France,1,1,European Championship,Ukraine,-6,6,1949,1873,0,1,7,12
+2012-06-11,Ukraine,Sweden,2,1,European Championship,Ukraine,28,-28,1783,1862,7,-3,23,14
+2012-06-12,Antigua and Barbuda,Jamaica,0,0,World Cup qualifier,Antigua and Barbuda,13,-13,1294,1631,2,-5,135,53
+2012-06-12,Australia,Japan,1,1,World Cup qualifier,Australia,-6,6,1795,1798,-2,3,19,18
+2012-06-12,Canada,Honduras,0,0,World Cup qualifier,Canada,-4,4,1589,1618,0,1,61,56
+2012-06-12,Czechia,Greece,2,1,European Championship,Poland,27,-27,1778,1754,8,-7,24,31
+2012-06-12,El Salvador,Mexico,1,2,World Cup qualifier,El Salvador,-9,9,1563,1900,-2,0,71,10
+2012-06-12,Guatemala,United States,1,1,World Cup qualifier,Guatemala,7,-7,1523,1745,3,-1,82,32
+2012-06-12,Guyana,Costa Rica,0,4,World Cup qualifier,Guyana,-19,19,1342,1673,-4,1,120,45
+2012-06-12,Iran,Qatar,0,0,World Cup qualifier,Iran,-15,15,1717,1507,-2,5,35,86
+2012-06-12,Iraq,Oman,1,1,World Cup qualifier,Qatar,-4,4,1586,1527,-1,0,63,81
+2012-06-12,Kuwait,Bahrain,1,0,Friendly,Egypt,10,-10,1578,1568,5,-4,66,70
+2012-06-12,Malaysia,Singapore,2,0,Causeway Challenge Cup,Malaysia,19,-19,1229,1231,3,-5,151,150
+2012-06-12,Panama,Cuba,1,0,World Cup qualifier,Panama,3,-3,1714,1364,0,0,36,115
+2012-06-12,Philippines,Guam,3,0,Friendly,the Philippines,1,-1,1136,612,0,0,170,227
+2012-06-12,Poland,Russia,1,1,European Championship,Poland,5,-5,1722,1880,1,0,34,11
+2012-06-12,South Korea,Lebanon,3,0,World Cup qualifier,South Korea,2,-2,1799,1308,1,0,17,132
+2012-06-13,Germany,Netherlands,2,1,European Championship,Ukraine,22,-22,2078,1998,0,0,2,4
+2012-06-13,Portugal,Denmark,3,2,European Championship,Ukraine,25,-25,1877,1831,4,-1,12,16
+2012-06-14,Croatia,Italy,1,1,European Championship,Poland,-3,3,1899,1870,-1,0,10,14
+2012-06-14,Spain,Ireland,4,0,European Championship,Poland,12,-12,2121,1762,0,-3,1,28
+2012-06-15,Algeria,Gambia,4,1,African Nations Cup qualifier,Algeria,12,-12,1519,1325,1,-3,85,125
+2012-06-15,Egypt,Central African Republic,2,3,African Nations Cup qualifier,Egypt,-39,39,1727,1285,-7,8,33,137
+2012-06-15,England,Sweden,3,2,European Championship,Ukraine,19,-19,1968,1843,1,0,6,15
+2012-06-15,South Africa,Gabon,3,0,Friendly,South Africa,14,-14,1574,1566,5,-7,67,71
+2012-06-15,Ukraine,France,0,2,European Championship,Ukraine,-39,39,1744,1912,-8,4,31,9
+2012-06-16,Cameroon,Guinea-Bissau,1,0,African Nations Cup qualifier,Cameroon,2,-2,1635,1215,0,0,52,154
+2012-06-16,Cape Verde,Madagascar,3,1,African Nations Cup qualifier,Cape Verde,8,-8,1393,1162,1,-3,110,163
+2012-06-16,Greece,Russia,1,0,European Championship,Poland,34,-34,1788,1846,6,-2,23,14
+2012-06-16,Malawi,Chad,2,0,African Nations Cup qualifier,Malawi,12,-12,1402,1234,3,-3,107,149
+2012-06-16,Namibia,Liberia,0,0,African Nations Cup qualifier,Namibia,-8,8,1308,1274,-1,3,131,141
+2012-06-16,Nigeria,Rwanda,2,0,African Nations Cup qualifier,Nigeria,8,-8,1643,1400,3,0,48,108
+2012-06-16,Poland,Czechia,0,1,European Championship,Poland,-28,28,1694,1806,-3,6,37,17
+2012-06-16,Sierra Leone,Sao Tome and Principe,4,2,African Nations Cup qualifier,Sierra Leone,8,-8,1329,1095,2,-1,125,178
+2012-06-16,Uganda,Congo,4,0,African Nations Cup qualifier,Uganda,19,-19,1520,1390,4,-4,85,111
+2012-06-17,Benin,Ethiopia,1,1,African Nations Cup qualifier,Benin,-10,10,1403,1330,-1,3,106,125
+2012-06-17,DR Congo,Seychelles,3,0,African Nations Cup qualifier,DR Congo,3,-3,1457,1012,1,-1,96,187
+2012-06-17,Germany,Denmark,2,1,European Championship,Ukraine,10,-10,2088,1821,0,0,2,16
+2012-06-17,Mozambique,Tanzania,1,1,African Nations Cup qualifier,Mozambique,-8,8,1316,1288,-2,2,129,137
+2012-06-17,Portugal,Netherlands,2,1,European Championship,Ukraine,33,-33,1910,1965,2,-2,10,6
+2012-06-17,Togo,Kenya,1,0,African Nations Cup qualifier,Togo,13,-13,1358,1302,2,-4,116,134
+2012-06-17,Zimbabwe,Burundi,1,0,African Nations Cup qualifier,Zimbabwe,11,-11,1348,1254,4,0,118,145
+2012-06-18,Italy,Ireland,2,0,European Championship,Poland,26,-26,1896,1736,1,-4,12,31
+2012-06-18,Spain,Croatia,1,0,European Championship,Poland,11,-11,2132,1888,0,-1,1,13
+2012-06-18,Yemen,Palestine,1,2,Friendly,Yemen,-14,14,1292,1286,-4,5,136,138
+2012-06-19,Sweden,France,2,0,European Championship,Ukraine,45,-45,1888,1867,3,-5,12,14
+2012-06-19,Ukraine,England,0,1,European Championship,Ukraine,-16,16,1728,1984,-2,1,32,4
+2012-06-21,Portugal,Czechia,1,0,European Championship,Poland,18,-18,1928,1788,0,-5,9,22
+2012-06-22,Germany,Greece,4,2,European Championship,Poland,11,-11,2099,1777,0,-2,2,24
+2012-06-22,Saudi Arabia,Kuwait,4,0,Arab Cup,Saudi Arabia,33,-33,1554,1545,11,-10,72,75
+2012-06-23,Libya,Yemen,3,1,Arab Cup,Saudi Arabia,12,-12,1545,1280,6,-4,75,140
+2012-06-23,Morocco,Bahrain,4,0,Arab Cup,Saudi Arabia,41,-41,1576,1527,15,-12,65,81
+2012-06-23,Spain,France,2,0,European Championship,Ukraine,13,-13,2145,1854,0,0,1,14
+2012-06-23,Vietnam,Mozambique,1,0,Friendly,Vietnam,8,-8,1291,1308,4,0,136,129
+2012-06-24,Egypt,Sudan,1,1,Arab Cup,Saudi Arabia,-14,14,1713,1452,-2,2,35,98
+2012-06-24,England,Italy,0,0,European Championship,Ukraine,-6,6,1978,1902,0,1,4,10
+2012-06-24,Iraq,Lebanon,1,0,Arab Cup,Saudi Arabia,7,-7,1593,1301,2,-4,61,133
+2012-06-25,Kuwait,Palestine,2,0,Arab Cup,Saudi Arabia,11,-11,1556,1275,3,-2,72,140
+2012-06-26,Libya,Morocco,0,0,Arab Cup,Saudi Arabia,2,-2,1547,1574,2,-1,74,66
+2012-06-26,Yemen,Bahrain,2,0,Arab Cup,Saudi Arabia,48,-48,1328,1479,12,-12,127,93
+2012-06-27,Iraq,Egypt,2,1,Arab Cup,Saudi Arabia,27,-27,1620,1686,5,-6,56,41
+2012-06-27,Portugal,Spain,0,0,European Championship,Ukraine,14,-14,1942,2131,1,0,8,1
+2012-06-27,Sudan,Lebanon,2,0,Arab Cup,Saudi Arabia,18,-18,1470,1283,3,-5,95,139
+2012-06-28,Italy,Germany,2,1,European Championship,Poland,38,-38,1940,2061,1,0,9,2
+2012-06-28,Saudi Arabia,Palestine,2,2,Arab Cup,Saudi Arabia,-16,16,1538,1291,-6,4,79,136
+2012-06-29,Libya,Bahrain,2,1,Arab Cup,Saudi Arabia,16,-16,1563,1463,2,-3,71,96
+2012-06-29,Morocco,Yemen,4,0,Arab Cup,Saudi Arabia,15,-15,1589,1313,4,-2,62,129
+2012-06-30,Central African Republic,Egypt,1,1,African Nations Cup qualifier,Central African Republic,14,-14,1299,1672,5,-4,134,45
+2012-06-30,Egypt,Lebanon,1,1,Arab Cup,Saudi Arabia,-16,16,1656,1299,-4,6,45,134
+2012-06-30,Iraq,Sudan,1,1,Arab Cup,Saudi Arabia,-8,8,1612,1478,-2,1,58,93
+2012-07-01,Spain,Italy,4,0,European Championship,Ukraine,23,-23,2154,1917,0,-1,1,10
+2012-07-03,Morocco,Iraq,2,1,Arab Cup,Saudi Arabia,21,-21,1610,1591,4,-5,58,63
+2012-07-03,Saudi Arabia,Libya,0,2,Arab Cup,Saudi Arabia,-36,36,1502,1599,-8,10,87,61
+2012-07-05,Saudi Arabia,Iraq,0,1,Arab Cup,Saudi Arabia,-21,21,1481,1612,-5,5,92,58
+2012-07-06,Malawi,Zambia,1,0,Friendly,Malawi,13,-13,1415,1605,2,-4,105,60
+2012-07-06,Morocco,Libya,1,1,Arab Cup,Saudi Arabia,-1,1,1609,1600,1,0,58,62
+2012-07-07,British Virgin Islands,Anguilla,1,0,Friendly,the British VirgIslands,3,-3,764,553,1,0,211,231
+2012-07-10,South Sudan,Uganda,2,2,Friendly,South Sudan,7,-7,1107,1513,0,-2,177,85
+2012-07-12,Kenya,Botswana,3,1,Friendly,Kenya,12,-12,1314,1326,4,-4,129,126
+2012-07-13,Aruba,Curaçao,3,2,ABCS Tournament,Aruba,16,-16,958,1050,1,-1,193,184
+2012-07-13,Suriname,Bonaire,8,0,ABCS Tournament,Aruba,25,-25,1216,1063,5,-1,154,182
+2012-07-15,Aruba,Suriname,1,0,ABCS Tournament,Aruba,21,-21,979,1195,2,-4,191,158
+2012-07-15,Curaçao,Bonaire,9,2,ABCS Tournament,Aruba,35,-35,1085,1028,3,-2,181,184
+2012-07-16,Botswana,Zimbabwe,1,0,Friendly tournament,Botswana,12,-12,1338,1336,5,-4,121,122
+2012-07-17,Zimbabwe,Lesotho,5,3,Friendly tournament,Botswana,11,-11,1347,1138,4,-1,118,169
+2012-07-18,Botswana,Lesotho,0,0,Friendly tournament,Botswana,-10,10,1328,1148,-4,1,126,168
+2012-07-18,Guam,Northern Mariana Islands,3,1,East Asian Championship qualifier,Guam,14,-14,626,485,0,-1,228,238
+2012-07-20,Macao,Northern Mariana Islands,5,1,East Asian Championship qualifier,Guam,20,-20,682,465,3,0,222,238
+2012-07-22,Guam,Macao,3,0,East Asian Championship qualifier,Guam,31,-31,657,651,3,-5,225,227
+2012-08-08,Zambia,Zimbabwe,2,1,Friendly,Zambia,2,-2,1607,1345,1,-1,59,119
+2012-08-11,El Salvador,Guatemala,1,0,Friendly,the United States,9,-9,1572,1514,2,-3,70,84
+2012-08-13,Jordan,Uzbekistan,0,1,Friendly,Jordan,-11,11,1536,1606,-5,2,79,61
+2012-08-14,Burkina Faso,Togo,3,0,Friendly,France,14,-14,1438,1344,1,-3,101,119
+2012-08-14,Liechtenstein,Andorra,1,0,Friendly,Liechtenstein,3,-3,1230,1003,1,0,151,189
+2012-08-14,San Marino,Malta,2,3,Friendly,San Marino,-4,4,891,1240,-2,0,204,147
+2012-08-15,Albania,Moldova,0,0,Friendly,Albania,-5,5,1497,1405,-1,1,88,107
+2012-08-15,Angola,Mozambique,2,0,Friendly,Angola,5,-5,1495,1303,0,-2,90,133
+2012-08-15,Armenia,Belarus,1,2,Friendly,Armenia,-12,12,1530,1591,-3,0,80,66
+2012-08-15,Austria,Turkey,2,0,Friendly,Austria,18,-18,1622,1754,7,-3,55,28
+2012-08-15,Azerbaijan,Bahrain,3,0,Friendly,Azerbaijan,17,-17,1395,1446,3,-3,110,99
+2012-08-15,Belgium,Netherlands,4,2,Friendly,Belgium,22,-22,1704,1943,3,-2,38,8
+2012-08-15,Bolivia,Guyana,2,0,Friendly,Bolivia,4,-4,1576,1338,3,0,67,121
+2012-08-15,Botswana,Tanzania,3,3,Friendly,Botswana,-4,4,1324,1292,-1,2,127,138
+2012-08-15,Bulgaria,Cyprus,1,0,Friendly,Bulgaria,3,-3,1641,1465,1,0,50,95
+2012-08-15,Canada,Trinidad and Tobago,2,0,Friendly,the United States,11,-11,1600,1478,1,-1,63,92
+2012-08-15,China,Ghana,1,1,Friendly,China,-2,2,1637,1680,-1,0,51,43
+2012-08-15,Costa Rica,Peru,0,1,Friendly,Costa Rica,-12,12,1661,1706,-1,-1,45,37
+2012-08-15,Croatia,Switzerland,2,4,Friendly,Croatia,-24,24,1864,1786,-1,3,13,24
+2012-08-15,Denmark,Slovakia,1,3,Friendly,Denmark,-26,26,1795,1613,-3,8,19,57
+2012-08-15,Ecuador,Chile,3,0,Friendly,the United States,24,-24,1810,1908,7,-1,16,10
+2012-08-15,England,Italy,2,1,Friendly,Switzerland,8,-8,1986,1909,0,1,4,9
+2012-08-15,Equatorial Guinea,Liberia,1,0,Friendly,Equatorial Guinea,7,-7,1281,1267,1,-1,141,143
+2012-08-15,Estonia,Poland,1,0,Friendly,Estonia,12,-12,1533,1682,2,-6,79,42
+2012-08-15,France,Uruguay,0,0,Friendly,France,1,-1,1855,1975,0,-1,14,6
+2012-08-15,Germany,Argentina,1,3,Friendly,Germany,-23,23,2038,1979,-1,2,3,5
+2012-08-15,Guatemala,Paraguay,3,3,Friendly,the United States,6,-6,1520,1759,2,-1,82,27
+2012-08-15,Hungary,Israel,1,1,Friendly,Hungary,-4,4,1684,1655,-1,1,41,46
+2012-08-15,Iceland,Faroe Islands,2,0,Friendly,Iceland,4,-4,1438,1218,1,0,101,153
+2012-08-15,Iran,Tunisia,2,2,Friendly,Hungary,-3,3,1714,1610,0,-1,33,60
+2012-08-15,Jamaica,El Salvador,2,0,Friendly,the United States,12,-12,1643,1560,4,-2,49,72
+2012-08-15,Japan,Venezuela,1,1,Friendly,Japan,-5,5,1793,1697,-2,-2,20,40
+2012-08-15,Jordan,Uzbekistan,2,0,Friendly,Jordan,14,-14,1550,1592,4,-4,75,65
+2012-08-15,Libya,Ethiopia,2,1,Friendly,Libya,2,-2,1602,1328,1,-1,62,125
+2012-08-15,Luxembourg,Georgia,1,2,Friendly,Luxembourg,-4,4,1147,1497,-1,1,168,88
+2012-08-15,Macedonia,Lithuania,1,0,Friendly,Macedonia,7,-7,1501,1468,1,0,87,94
+2012-08-15,Mexico,United States,0,1,Friendly,Mexico,-16,16,1884,1761,0,3,11,26
+2012-08-15,Montenegro,Latvia,2,0,Friendly,Montenegro,7,-7,1648,1538,1,-3,48,78
+2012-08-15,Morocco,Guinea,1,2,Friendly,Morocco,-15,15,1594,1553,-6,4,64,74
+2012-08-15,Niger,Nigeria,0,0,Friendly,Niger,6,-6,1299,1637,3,-3,134,51
+2012-08-15,Norway,Greece,2,3,Friendly,Norway,-12,12,1747,1789,-1,2,29,22
+2012-08-15,Northern Ireland,Finland,3,3,Friendly,Northern Ireland,2,-2,1451,1623,1,1,98,54
+2012-08-15,Oman,Egypt,1,1,Friendly,Oman,1,-1,1528,1655,-1,-1,81,46
+2012-08-15,Portugal,Panama,2,0,Friendly,Portugal,4,-4,1946,1710,1,0,7,34
+2012-08-15,Puerto Rico,Spain,1,2,Friendly,Puerto Rico,0,0,1072,2154,0,0,182,1
+2012-08-15,Russia,Ivory Coast,1,1,Friendly,Russia,-4,4,1842,1799,0,1,15,18
+2012-08-15,Scotland,Australia,3,1,Friendly,Scotland,15,-15,1707,1780,2,-6,36,25
+2012-08-15,Serbia,Ireland,0,0,Friendly,Serbia,-2,2,1709,1738,0,0,35,30
+2012-08-15,Singapore,Hong Kong,2,0,Friendly,Singapore,10,-10,1241,1193,3,-2,147,158
+2012-08-15,Slovenia,Romania,4,3,Friendly,Slovenia,9,-9,1664,1720,2,-1,44,32
+2012-08-15,South Korea,Zambia,2,1,Friendly,South Korea,3,-3,1802,1604,0,-2,17,61
+2012-08-15,Sweden,Brazil,0,3,Friendly,Sweden,-15,15,1873,2059,0,1,12,2
+2012-08-15,Ukraine,Czechia,0,0,Friendly,Ukraine,-1,1,1727,1789,1,0,31,22
+2012-08-15,Wales,Bosnia and Herzegovina,0,2,Friendly,Wales,-17,17,1611,1699,-5,2,59,39
+2012-08-22,India,Syria,2,1,Nehru Gold Cup,India,35,-35,1155,1541,10,-10,165,77
+2012-08-23,Maldives,Nepal,2,1,Nehru Gold Cup,India,11,-11,1105,921,2,-2,178,198
+2012-08-25,India,Maldives,3,0,Nehru Gold Cup,India,21,-21,1176,1084,5,-3,160,181
+2012-08-26,Botswana,Uganda,0,0,Friendly,Botswana,3,-3,1327,1510,1,0,126,85
+2012-08-26,Libya,Sudan,3,0,Friendly,Tunisia,12,-12,1614,1466,5,-2,57,94
+2012-08-27,Maldives,Syria,2,1,Nehru Gold Cup,India,37,-37,1121,1504,5,-9,176,86
+2012-08-28,India,Nepal,0,0,Nehru Gold Cup,India,-15,15,1161,936,-4,3,164,195
+2012-08-30,Syria,Nepal,2,0,Nehru Gold Cup,India,2,-2,1506,934,0,0,86,195
+2012-09-01,Saint Vincent and the Grenadines,Barbados,2,0,Friendly,Saint Vincent and the Grenadines,11,-11,1166,1141,5,-3,161,170
+2012-09-02,Saint Vincent and the Grenadines,Barbados,1,1,Friendly,Saint Vincent and the Grenadines,-3,3,1163,1144,-1,1,162,169
+2012-09-04,Liberia,Malawi,1,0,Friendly,Liberia,11,-11,1278,1404,1,-2,142,107
+2012-09-05,Cambodia,Philippines,0,0,Friendly,Cambodia,6,-6,787,1130,1,-1,210,172
+2012-09-05,Jordan,Iran,0,0,Friendly,Jordan,2,-2,1552,1712,0,0,74,33
+2012-09-05,Martinique,British Virgin Islands,16,0,CONCACAF Champ & Carib Champ q,Martinique,3,-3,1347,761,2,-1,117,213
+2012-09-05,Suriname,Montserrat,7,1,CONCACAF Champ & Carib Champ q,Martinique,2,-2,1197,526,0,0,157,236
+2012-09-06,Japan,United Arab Emirates,1,0,Friendly,Japan,1,-1,1794,1420,0,0,20,104
+2012-09-06,Lebanon,Australia,0,3,Friendly,Lebanon,-4,4,1295,1784,-2,0,136,25
+2012-09-06,Sweden,China,1,0,Friendly,Sweden,3,-3,1876,1634,0,-2,12,53
+2012-09-06,Tajikistan,Qatar,2,1,Friendly,Germany,17,-17,1252,1490,3,-5,146,90
+2012-09-07,Albania,Cyprus,3,1,World Cup qualifier,Albania,19,-19,1516,1446,3,-4,84,99
+2012-09-07,Andorra,Hungary,0,5,World Cup qualifier,Andorra,-3,3,1000,1687,0,1,189,40
+2012-09-07,Argentina,Paraguay,3,1,World Cup qualifier,Argentina,8,-8,1987,1751,0,1,5,26
+2012-09-07,Azerbaijan,Israel,1,1,World Cup qualifier,Azerbaijan,9,-9,1404,1646,4,-1,106,47
+2012-09-07,Brazil,South Africa,1,0,Friendly,Brazil,1,-1,2060,1573,0,2,2,66
+2012-09-07,Bulgaria,Italy,2,2,World Cup qualifier,Bulgaria,9,-9,1650,1900,4,-2,46,11
+2012-09-07,Canada,Panama,1,0,World Cup qualifier,Canada,21,-21,1621,1689,7,-5,56,39
+2012-09-07,Colombia,Uruguay,4,0,World Cup qualifier,Colombia,46,-46,1839,1929,5,-2,16,8
+2012-09-07,Costa Rica,Mexico,0,2,World Cup qualifier,Costa Rica,-20,20,1641,1904,-4,1,49,10
+2012-09-07,Croatia,Macedonia,1,0,World Cup qualifier,Croatia,3,-3,1867,1498,-1,-2,14,88
+2012-09-07,Cuba,Honduras,0,3,World Cup qualifier,Cuba,-20,20,1344,1638,-4,6,119,50
+2012-09-07,Ecuador,Bolivia,1,0,World Cup qualifier,Ecuador,5,-5,1815,1571,-1,-1,17,68
+2012-09-07,El Salvador,Guyana,2,2,World Cup qualifier,El Salvador,-15,15,1545,1353,-3,5,74,116
+2012-09-07,Estonia,Romania,0,2,World Cup qualifier,Estonia,-23,23,1510,1743,-7,3,85,29
+2012-09-07,Finland,France,0,1,World Cup qualifier,Finland,-13,13,1610,1868,-5,1,59,13
+2012-09-07,Georgia,Belarus,1,0,World Cup qualifier,Georgia,20,-20,1517,1571,4,-2,83,68
+2012-09-07,Germany,Faroe Islands,3,0,World Cup qualifier,Germany,0,0,2038,1218,0,1,3,152
+2012-09-07,Guatemala,Antigua and Barbuda,3,1,World Cup qualifier,Guatemala,8,-8,1528,1286,2,-3,79,140
+2012-09-07,Haiti,Saint Martin,7,0,CONCACAF Champ & Carib Champ q,Haiti,2,-2,1415,890,0,-2,105,205
+2012-09-07,Iceland,Norway,2,0,World Cup qualifier,Iceland,46,-46,1484,1701,10,-9,91,38
+2012-09-07,Jamaica,United States,2,1,World Cup qualifier,Jamaica,21,-21,1664,1740,5,-4,44,30
+2012-09-07,Kazakhstan,Ireland,1,2,World Cup qualifier,Kazakhstan,-6,6,1340,1744,-3,3,121,27
+2012-09-07,Latvia,Greece,1,2,World Cup qualifier,Latvia,-12,12,1526,1801,-4,2,81,20
+2012-09-07,Liechtenstein,Bosnia and Herzegovina,1,8,World Cup qualifier,Liechtenstein,-10,10,1220,1709,0,4,151,35
+2012-09-07,Lithuania,Slovakia,1,1,World Cup qualifier,Lithuania,3,-3,1471,1610,-1,-1,94,59
+2012-09-07,Luxembourg,Portugal,1,2,World Cup qualifier,Luxembourg,-1,1,1146,1947,-1,0,169,7
+2012-09-07,Malta,Armenia,0,1,World Cup qualifier,Malta,-10,10,1230,1540,0,1,149,78
+2012-09-07,Martinique,Montserrat,5,0,CONCACAF Champ & Carib Champ q,Martinique,0,0,1347,526,0,0,117,236
+2012-09-07,Moldova,England,0,5,World Cup qualifier,Moldova,-5,5,1400,1991,-3,0,109,4
+2012-09-07,Montenegro,Poland,2,2,World Cup qualifier,Montenegro,-4,4,1644,1686,0,1,48,41
+2012-09-07,Netherlands,Turkey,2,0,World Cup qualifier,the Netherlands,10,-10,1953,1744,2,1,6,27
+2012-09-07,New Caledonia,New Zealand,0,2,World Cup qualifier,New Caledonia,-23,23,1309,1541,-7,6,129,77
+2012-09-07,Peru,Venezuela,2,1,World Cup qualifier,Peru,14,-14,1720,1683,4,-2,33,42
+2012-09-07,Puerto Rico,Bermuda,2,1,CONCACAF Champ & Carib Champ q,Haiti,27,-27,1099,1179,2,-4,180,159
+2012-09-07,Russia,Northern Ireland,2,0,World Cup qualifier,Russia,3,-3,1845,1448,0,0,15,98
+2012-09-07,Singapore,Philippines,0,2,Friendly,Singapore,-23,23,1218,1153,-4,5,152,167
+2012-09-07,Slovenia,Switzerland,0,2,World Cup qualifier,Slovenia,-28,28,1636,1814,-8,6,52,18
+2012-09-07,Solomon Islands,Tahiti,2,0,World Cup qualifier,the Solomon Islands,28,-28,1271,1292,3,-8,144,136
+2012-09-07,Spain,Saudi Arabia,5,0,Friendly,Spain,0,0,2154,1481,0,-1,1,92
+2012-09-07,Suriname,British Virgin Islands,4,0,CONCACAF Champ & Carib Champ q,Martinique,6,-6,1203,755,2,-1,155,214
+2012-09-07,Uzbekistan,Kuwait,3,0,Friendly,Uzbekistan,11,-11,1603,1545,2,-2,63,74
+2012-09-07,Wales,Belgium,0,2,World Cup qualifier,Wales,-31,31,1580,1735,-5,7,65,31
+2012-09-08,Cape Verde,Cameroon,2,0,African Nations Cup qualifier,Cape Verde,42,-42,1435,1593,9,-11,102,64
+2012-09-08,Central African Republic,Burkina Faso,1,0,African Nations Cup qualifier,Central African Republic,22,-22,1321,1416,8,-3,125,105
+2012-09-08,Denmark,Czechia,0,0,World Cup qualifier,Denmark,-6,6,1789,1795,-2,2,24,22
+2012-09-08,Gabon,Togo,1,1,African Nations Cup qualifier,Gabon,-15,15,1551,1359,-2,4,72,115
+2012-09-08,Ghana,Malawi,2,0,African Nations Cup qualifier,Ghana,6,-6,1686,1398,2,-5,41,111
+2012-09-08,Ivory Coast,Senegal,4,2,African Nations Cup qualifier,Ivory Coast,7,-7,1806,1540,2,-4,19,77
+2012-09-08,Liberia,Nigeria,2,2,African Nations Cup qualifier,Liberia,13,-13,1291,1624,4,-2,138,53
+2012-09-08,Mali,Botswana,3,0,African Nations Cup qualifier,Mali,8,-8,1581,1319,1,-1,65,126
+2012-09-08,Scotland,Serbia,0,0,World Cup qualifier,Scotland,-5,5,1702,1714,0,1,37,34
+2012-09-08,Sierra Leone,Tunisia,2,2,African Nations Cup qualifier,Sierra Leone,10,-10,1339,1600,1,-3,122,62
+2012-09-08,Saint Barthelemy,Guadeloupe,1,8,Friendly,Saint Barthelemy,-1,1,694,1440,0,0,219,101
+2012-09-08,Sudan,Ethiopia,5,3,African Nations Cup qualifier,Sudan,12,-12,1478,1316,2,-3,93,127
+2012-09-08,Zambia,Uganda,1,0,African Nations Cup qualifier,Zambia,10,-10,1614,1500,6,-2,56,87
+2012-09-09,Algeria,Libya,1,0,African Nations Cup qualifier,Morocco,25,-25,1544,1589,7,-7,75,63
+2012-09-09,DR Congo,Equatorial Guinea,4,0,African Nations Cup qualifier,DR Congo,13,-13,1470,1268,1,-2,95,144
+2012-09-09,Guinea,Niger,1,0,African Nations Cup qualifier,Guinea,5,-5,1558,1294,1,-1,69,135
+2012-09-09,Haiti,Bermuda,3,1,CONCACAF Champ & Carib Champ q,Haiti,8,-8,1423,1171,2,0,104,159
+2012-09-09,Martinique,Suriname,2,2,CONCACAF Champ & Carib Champ q,Martinique,-12,12,1335,1215,-5,1,123,154
+2012-09-09,Montserrat,British Virgin Islands,7,0,CONCACAF Champ & Carib Champ q,Martinique,71,-71,597,684,7,-6,229,220
+2012-09-09,Mozambique,Morocco,2,0,African Nations Cup qualifier,Mozambique,45,-45,1348,1549,14,-9,119,72
+2012-09-09,Puerto Rico,Saint Martin,9,0,CONCACAF Champ & Carib Champ q,Haiti,23,-23,1122,867,4,-1,176,206
+2012-09-09,Zimbabwe,Angola,3,1,African Nations Cup qualifier,Zimbabwe,34,-34,1379,1461,5,-7,114,96
+2012-09-10,Brazil,China,8,0,Friendly,Brazil,2,-2,2062,1632,0,0,2,52
+2012-09-10,Indonesia,North Korea,0,2,Friendly,Indonesia,-8,8,1259,1551,0,5,145,71
+2012-09-10,Laos,Philippines,2,1,Friendly,Laos,15,-15,860,1138,0,-4,208,171
+2012-09-11,Antigua and Barbuda,Guatemala,0,1,World Cup qualifier,Antigua and Barbuda,-12,12,1274,1540,0,3,141,77
+2012-09-11,Austria,Germany,1,2,World Cup qualifier,Austria,-6,6,1616,2044,-1,0,55,3
+2012-09-11,Belgium,Croatia,1,1,World Cup qualifier,Belgium,2,-2,1737,1865,0,-1,31,15
+2012-09-11,Bermuda,Saint Martin,8,0,CONCACAF Champ & Carib Champ q,Haiti,14,-14,1185,853,0,-2,159,208
+2012-09-11,Bosnia and Herzegovina,Latvia,4,1,World Cup qualifier,Bosnia and Herzegovina,11,-11,1720,1515,1,0,35,82
+2012-09-11,Bulgaria,Armenia,1,0,World Cup qualifier,Bulgaria,9,-9,1659,1531,2,-1,44,79
+2012-09-11,Chile,Colombia,1,3,World Cup qualifier,Chile,-44,44,1864,1883,-7,5,16,11
+2012-09-11,Cyprus,Iceland,1,0,World Cup qualifier,Cyprus,16,-16,1462,1468,3,-4,96,94
+2012-09-11,Czechia,Finland,0,1,Friendly,Czechia,-17,17,1778,1627,-2,7,24,51
+2012-09-11,England,Ukraine,1,1,World Cup qualifier,England,-16,16,1975,1743,-1,2,5,30
+2012-09-11,France,Belarus,3,1,World Cup qualifier,France,6,-6,1874,1565,0,-1,13,68
+2012-09-11,Gabon,Saudi Arabia,1,0,Friendly,France,8,-8,1559,1473,0,-1,71,92
+2012-09-11,Georgia,Spain,0,1,World Cup qualifier,Georgia,-2,2,1515,2156,1,0,82,1
+2012-09-11,Greece,Lithuania,2,0,World Cup qualifier,Greece,5,-5,1806,1466,2,-1,19,95
+2012-09-11,Guyana,El Salvador,2,3,World Cup qualifier,Guyana,-15,15,1338,1560,-4,4,122,70
+2012-09-11,Haiti,Puerto Rico,2,1,CONCACAF Champ & Carib Champ q,Haiti,4,-4,1427,1118,0,-1,104,177
+2012-09-11,Honduras,Cuba,1,0,World Cup qualifier,Honduras,4,-4,1642,1340,2,0,48,120
+2012-09-11,Hungary,Netherlands,1,4,World Cup qualifier,Hungary,-19,19,1668,1972,-2,0,42,6
+2012-09-11,Ireland,Oman,4,1,Friendly,England,8,-8,1752,1520,0,-1,27,81
+2012-09-11,Israel,Russia,0,4,World Cup qualifier,Israel,-27,27,1619,1872,-7,1,54,14
+2012-09-11,Italy,Malta,2,0,World Cup qualifier,Italy,1,-1,1901,1229,1,0,10,149
+2012-09-11,Japan,Iraq,1,0,World Cup qualifier,Japan,7,-7,1801,1605,2,-2,21,59
+2012-09-11,Jordan,Australia,2,1,World Cup qualifier,Jordan,27,-27,1579,1757,5,0,65,25
+2012-09-11,Lebanon,Iran,1,0,World Cup qualifier,Lebanon,34,-34,1329,1678,8,-6,126,41
+2012-09-11,Liberia,Ghana,2,0,Friendly,Liberia,25,-25,1316,1661,8,-2,130,43
+2012-09-11,Malaysia,Vietnam,0,2,Friendly,Malaysia,-17,17,1212,1308,-5,4,155,134
+2012-09-11,Mexico,Costa Rica,1,0,World Cup qualifier,Mexico,4,-4,1908,1637,1,0,9,49
+2012-09-11,Myanmar,Singapore,1,1,Friendly,Myanmar,3,-3,1018,1215,0,0,187,152
+2012-09-11,New Zealand,Solomon Islands,6,1,World Cup qualifier,New Zealand,8,-8,1549,1263,3,0,74,143
+2012-09-11,Norway,Slovenia,2,1,World Cup qualifier,Norway,11,-11,1712,1625,2,-1,36,52
+2012-09-11,Northern Ireland,Luxembourg,1,1,World Cup qualifier,Northern Ireland,-16,16,1432,1162,-5,4,103,164
+2012-09-11,Panama,Canada,2,0,World Cup qualifier,Panama,17,-17,1706,1604,1,-5,38,60
+2012-09-11,Paraguay,Venezuela,0,2,World Cup qualifier,Paraguay,-43,43,1708,1726,-11,9,37,34
+2012-09-11,Peru,Argentina,1,1,World Cup qualifier,Peru,9,-9,1729,1978,0,1,33,4
+2012-09-11,Poland,Moldova,2,0,World Cup qualifier,Poland,6,-6,1692,1394,2,-2,39,111
+2012-09-11,Portugal,Azerbaijan,3,0,World Cup qualifier,Portugal,2,-2,1949,1402,0,-1,7,108
+2012-09-11,Romania,Andorra,4,0,World Cup qualifier,Romania,1,-1,1744,999,0,0,29,189
+2012-09-11,San Marino,Montenegro,0,6,World Cup qualifier,San Marino,-2,2,889,1646,-1,1,204,47
+2012-09-11,Scotland,Macedonia,1,1,World Cup qualifier,Scotland,-14,14,1688,1512,-3,4,40,84
+2012-09-11,Serbia,Wales,6,1,World Cup qualifier,Serbia,17,-17,1731,1563,2,-4,32,69
+2012-09-11,Slovakia,Liechtenstein,2,0,World Cup qualifier,Slovakia,3,-3,1613,1217,1,0,57,151
+2012-09-11,South Africa,Mozambique,2,0,Friendly,South Africa,4,-4,1577,1344,0,0,66,119
+2012-09-11,Sweden,Kazakhstan,2,0,World Cup qualifier,Sweden,2,-2,1878,1338,0,-1,12,122
+2012-09-11,Switzerland,Albania,2,0,World Cup qualifier,Switzerland,6,-6,1820,1510,0,-1,18,85
+2012-09-11,Tahiti,New Caledonia,0,4,World Cup qualifier,Tahiti,-46,46,1246,1355,-11,13,147,118
+2012-09-11,Turkey,Estonia,3,0,World Cup qualifier,Turkey,9,-9,1753,1501,1,-2,26,87
+2012-09-11,United Arab Emirates,Kuwait,3,0,Friendly,the United Arab Emirates,19,-19,1439,1526,4,-6,101,80
+2012-09-11,Uruguay,Ecuador,1,1,World Cup qualifier,Uruguay,-11,11,1918,1826,0,0,8,17
+2012-09-11,United States,Jamaica,1,0,World Cup qualifier,the United States,11,-11,1751,1653,2,-2,28,46
+2012-09-11,Uzbekistan,South Korea,2,2,World Cup qualifier,Uzbekistan,6,-6,1609,1796,2,-2,58,22
+2012-09-12,Thailand,Laos,2,1,Friendly,Thailand,1,-1,1375,859,0,0,115,207
+2012-09-15,Indonesia,Vietnam,0,0,Friendly,Indonesia,-1,1,1258,1309,0,0,144,134
+2012-09-15,Mauritius,Reunion,1,1,Friendly,Mauritius,5,-5,1028,1327,1,-1,184,126
+2012-09-16,French Guiana,Haiti,1,2,Friendly,French Guiana,-6,6,1186,1433,0,1,158,103
+2012-09-19,Brazil,Argentina,2,1,Nicolas Leoz Cup,Brazil,8,-8,2070,1970,0,-2,2,6
+2012-09-20,Malaysia,Cambodia,3,0,Friendly,Malaysia,2,-2,1214,785,0,0,155,210
+2012-09-20,Nepal,Bangladesh,1,1,Friendly,Nepal,-2,2,932,952,-1,0,196,194
+2012-09-22,Guadeloupe,Saint Pierre and Miquelon,13,0,French Territory Cup,France,1,-1,1441,687,0,0,100,219
+2012-09-22,Martinique,New Caledonia,2,0,French Territory Cup,France,24,-24,1359,1331,8,-7,116,125
+2012-09-22,Mayotte,Tahiti,3,1,French Territory Cup,France,28,-28,1191,1218,4,-2,158,149
+2012-09-22,Reunion,French Guiana,2,0,French Territory Cup,France,14,-14,1341,1172,6,-2,120,160
+2012-09-23,Aruba,Dominican Republic,2,2,CONCACAF Champ & Carib Champ q,Barbados,8,-8,987,1117,0,-4,191,177
+2012-09-23,Barbados,Dominica,1,0,CONCACAF Champ & Carib Champ q,Barbados,9,-9,1153,1012,1,-1,168,187
+2012-09-24,Guadeloupe,French Guiana,4,2,French Territory Cup,France,8,-8,1449,1164,1,-2,99,162
+2012-09-24,Mayotte,New Caledonia,2,0,French Territory Cup,France,31,-31,1222,1300,8,-11,150,136
+2012-09-24,Reunion,Saint Pierre and Miquelon,10,0,French Territory Cup,France,2,-2,1343,685,1,0,119,219
+2012-09-24,Tahiti,Martinique,3,2,French Territory Cup,France,21,-21,1239,1338,2,-6,147,122
+2012-09-25,Barbados,Dominican Republic,0,1,CONCACAF Champ & Carib Champ q,Barbados,-27,27,1126,1144,-5,8,173,169
+2012-09-25,Dominica,Aruba,3,2,CONCACAF Champ & Carib Champ q,Barbados,19,-19,1031,968,3,-1,184,192
+2012-09-25,Macao,Taiwan,2,2,Peace Cup,the Philippines,9,-9,660,894,2,-1,225,202
+2012-09-25,Philippines,Guam,1,0,Peace Cup,the Philippines,1,-1,1139,656,0,-1,171,226
+2012-09-26,Brunei,Indonesia,0,5,Friendly,Brunei,-2,2,652,1260,0,0,227,144
+2012-09-26,French Guiana,Saint Pierre and Miquelon,11,1,French Territory Cup,France,5,-5,1169,680,1,-2,161,221
+2012-09-26,Martinique,Mayotte,3,0,French Territory Cup,France,18,-18,1356,1204,3,-6,119,156
+2012-09-26,Reunion,Guadeloupe,2,1,French Territory Cup,France,19,-19,1362,1430,3,-5,116,104
+2012-09-26,Tahiti,New Caledonia,1,0,French Territory Cup,France,18,-18,1257,1282,2,-3,145,139
+2012-09-27,Barbados,Aruba,2,1,CONCACAF Champ & Carib Champ q,Barbados,7,-7,1133,961,0,-1,173,193
+2012-09-27,Dominican Republic,Dominica,2,1,CONCACAF Champ & Carib Champ q,Barbados,14,-14,1158,1017,2,-3,167,187
+2012-09-27,Philippines,Macao,5,0,Peace Cup,the Philippines,2,-2,1141,658,0,0,171,225
+2012-09-27,Taiwan,Guam,2,0,Peace Cup,the Philippines,9,-9,903,647,1,-1,201,227
+2012-09-28,French Guiana,Tahiti,2,1,French Territory Cup,France,19,-19,1188,1238,2,-2,159,147
+2012-09-28,New Caledonia,Saint Pierre and Miquelon,16,1,French Territory Cup,France,3,-3,1285,677,0,-1,139,222
+2012-09-28,Oman,Yemen,2,1,Friendly,Oman,3,-3,1523,1310,0,0,81,132
+2012-09-29,Guadeloupe,Mayotte,1,0,French Territory Cup,France,6,-6,1436,1198,3,-1,101,157
+2012-09-29,Guam,Macao,3,0,Peace Cup,the Philippines,27,-27,674,631,4,-2,223,227
+2012-09-29,Martinique,Reunion,2,2,French Territory Cup,France,0,0,1356,1362,0,0,119,116
+2012-09-29,Philippines,Taiwan,3,1,Peace Cup,the Philippines,6,-6,1147,897,1,0,170,201
+2012-10-05,East Timor,Cambodia,5,1,Southeast Asian Championship qual,Myanmar,61,-61,592,724,5,-4,231,214
+2012-10-05,Myanmar,Brunei,1,0,Southeast Asian Championship qual,Myanmar,3,-3,1021,649,0,0,186,226
+2012-10-07,Laos,Cambodia,1,0,Southeast Asian Championship qual,Myanmar,13,-13,872,711,1,0,206,214
+2012-10-07,Myanmar,East Timor,2,1,Southeast Asian Championship qual,Myanmar,2,-2,1023,590,0,0,186,231
+2012-10-08,Qatar,Jordan,1,1,Friendly,Qatar,0,0,1490,1579,0,0,89,65
+2012-10-09,Brunei,Cambodia,3,2,Southeast Asian Championship qual,Myanmar,24,-24,673,687,1,-4,225,218
+2012-10-09,East Timor,Laos,3,1,Southeast Asian Championship qual,Myanmar,50,-50,640,822,4,-3,227,209
+2012-10-09,Niger,Liberia,4,3,Friendly,Niger,8,-8,1302,1308,0,-4,136,133
+2012-10-09,Qatar,Oman,1,1,Friendly,Qatar,-2,2,1488,1525,0,0,89,81
+2012-10-10,Saint Kitts and Nevis,Anguilla,2,0,CONCACAF Champ & Carib Champ q,Saint Kitts and Nevis,1,-1,1203,552,0,0,156,234
+2012-10-10,Trinidad and Tobago,French Guiana,4,1,CONCACAF Champ & Carib Champ q,Saint Kitts and Nevis,11,-11,1489,1177,1,-1,89,160
+2012-10-11,Brazil,Iraq,6,0,Friendly,Sweden,3,-3,2073,1602,0,-1,2,60
+2012-10-11,Kuwait,Syria,1,1,Friendly,Kuwait,-3,3,1523,1509,-1,0,81,86
+2012-10-11,Laos,Brunei,3,1,Southeast Asian Championship qual,Myanmar,18,-18,840,655,1,-1,208,226
+2012-10-11,Myanmar,Cambodia,3,0,Southeast Asian Championship qual,Myanmar,5,-5,1028,682,2,-2,184,220
+2012-10-12,Albania,Iceland,1,2,World Cup qualifier,Albania,-28,28,1482,1496,-7,6,92,88
+2012-10-12,Antigua and Barbuda,United States,1,2,World Cup qualifier,Antigua and Barbuda,-4,4,1270,1755,0,0,141,28
+2012-10-12,Argentina,Uruguay,3,0,World Cup qualifier,Argentina,21,-21,1991,1897,2,-2,4,10
+2012-10-12,Armenia,Italy,1,3,World Cup qualifier,Armenia,-10,10,1521,1911,-3,2,82,8
+2012-10-12,Bahrain,Philippines,0,0,Friendly,Bahrain,-8,8,1438,1155,-1,2,100,168
+2012-10-12,Belarus,Spain,0,4,World Cup qualifier,Belarus,-4,4,1561,2160,-2,0,70,1
+2012-10-12,Bolivia,Peru,1,1,World Cup qualifier,Bolivia,3,-3,1574,1726,0,0,67,33
+2012-10-12,Bulgaria,Denmark,1,1,World Cup qualifier,Bulgaria,2,-2,1661,1787,1,0,43,23
+2012-10-12,Canada,Cuba,3,0,World Cup qualifier,Canada,8,-8,1612,1332,2,-3,57,124
+2012-10-12,Colombia,Paraguay,2,0,World Cup qualifier,Colombia,10,-10,1893,1698,0,1,11,36
+2012-10-12,Czechia,Malta,3,1,World Cup qualifier,Czechia,1,-1,1779,1228,-1,2,25,147
+2012-10-12,Ecuador,Chile,3,1,World Cup qualifier,Ecuador,25,-25,1851,1839,1,-1,16,17
+2012-10-12,Egypt,Congo,3,0,Friendly,the United Arab Emirates,6,-6,1661,1384,2,0,43,112
+2012-10-12,El Salvador,Costa Rica,0,1,World Cup qualifier,El Salvador,-21,21,1539,1658,-8,3,78,46
+2012-10-12,England,San Marino,5,0,World Cup qualifier,England,0,0,1975,889,-1,0,5,204
+2012-10-12,Estonia,Hungary,0,1,World Cup qualifier,Estonia,-16,16,1485,1684,-3,2,90,40
+2012-10-12,Faroe Islands,Sweden,1,2,World Cup qualifier,the Faroe Islands,-2,2,1216,1880,0,-1,150,13
+2012-10-12,Finland,Georgia,1,1,World Cup qualifier,Finland,-11,11,1616,1526,-4,3,55,79
+2012-10-12,France,Japan,0,1,Friendly,France,-15,15,1859,1816,-2,3,15,18
+2012-10-12,French Guiana,Anguilla,4,1,CONCACAF Champ & Carib Champ q,Saint Kitts and Nevis,2,-2,1179,550,0,0,160,234
+2012-10-12,Greece,Bosnia and Herzegovina,0,0,World Cup qualifier,Greece,-10,10,1796,1730,-2,4,21,31
+2012-10-12,Guatemala,Jamaica,2,1,World Cup qualifier,Guatemala,21,-21,1561,1632,7,-3,70,49
+2012-10-12,Ireland,Germany,1,6,World Cup qualifier,Ireland,-20,20,1732,2064,-2,0,29,3
+2012-10-12,Kazakhstan,Austria,0,0,World Cup qualifier,Kazakhstan,9,-9,1347,1607,3,-3,120,58
+2012-10-12,Lesotho,Swaziland,2,1,Friendly,Lesotho,6,-6,1154,1094,0,-1,169,181
+2012-10-12,Liechtenstein,Lithuania,0,2,World Cup qualifier,Liechtenstein,-18,18,1199,1484,-4,4,155,91
+2012-10-12,Luxembourg,Israel,0,6,World Cup qualifier,Luxembourg,-10,10,1152,1629,-6,2,170,52
+2012-10-12,Macedonia,Croatia,1,2,World Cup qualifier,Macedonia,-8,8,1504,1873,-1,1,85,14
+2012-10-12,Mexico,Guyana,5,0,World Cup qualifier,the United States,3,-3,1911,1335,1,0,8,123
+2012-10-12,Moldova,Ukraine,0,0,World Cup qualifier,Moldova,12,-12,1406,1731,4,0,107,30
+2012-10-12,Netherlands,Andorra,3,0,World Cup qualifier,the Netherlands,0,0,1972,999,-1,0,6,189
+2012-10-12,Panama,Honduras,0,0,World Cup qualifier,Panama,-9,9,1697,1651,1,1,37,47
+2012-10-12,Poland,South Africa,1,0,Friendly,Poland,4,-4,1696,1573,1,-2,38,68
+2012-10-12,Russia,Portugal,1,0,World Cup qualifier,Russia,19,-19,1891,1930,2,0,12,7
+2012-10-12,Serbia,Belgium,0,3,World Cup qualifier,Serbia,-44,44,1687,1781,-7,7,39,24
+2012-10-12,Slovakia,Latvia,2,1,World Cup qualifier,Slovakia,10,-10,1623,1505,3,-2,54,84
+2012-10-12,Slovenia,Cyprus,2,1,World Cup qualifier,Slovenia,7,-7,1632,1455,3,-2,49,98
+2012-10-12,Solomon Islands,New Caledonia,2,6,World Cup qualifier,the Solomon Islands,-46,46,1217,1331,-6,14,149,125
+2012-10-12,Saint Kitts and Nevis,Trinidad and Tobago,0,1,CONCACAF Champ & Carib Champ q,Saint Kitts and Nevis,-10,10,1193,1499,-1,2,157,87
+2012-10-12,Switzerland,Norway,1,1,World Cup qualifier,Switzerland,-11,11,1809,1723,-1,1,19,35
+2012-10-12,Tahiti,New Zealand,0,2,World Cup qualifier,Tahiti,-14,14,1224,1563,-1,5,148,69
+2012-10-12,Turkey,Romania,0,1,World Cup qualifier,Turkey,-26,26,1727,1770,-6,3,32,26
+2012-10-12,United Arab Emirates,Uzbekistan,2,2,Friendly,the United Arab Emirates,2,-2,1441,1607,1,0,99,58
+2012-10-12,Wales,Scotland,2,1,World Cup qualifier,Wales,21,-21,1584,1667,5,-2,64,42
+2012-10-13,Botswana,Mali,1,4,African Nations Cup qualifier,Botswana,-20,20,1299,1601,-8,5,137,60
+2012-10-13,Brunei,East Timor,2,1,Southeast Asian Championship qual,Myanmar,19,-19,674,621,3,-2,223,229
+2012-10-13,Malawi,Ghana,0,1,African Nations Cup qualifier,Malawi,-11,11,1387,1672,0,1,111,42
+2012-10-13,Morocco,Mozambique,4,0,African Nations Cup qualifier,Morocco,11,-11,1560,1333,3,-2,72,123
+2012-10-13,Myanmar,Laos,0,0,Southeast Asian Championship qual,Myanmar,-14,14,1014,854,-3,1,187,207
+2012-10-13,Namibia,Rwanda,0,0,Friendly,Namibia,0,0,1308,1400,1,0,133,110
+2012-10-13,Nigeria,Liberia,6,1,African Nations Cup qualifier,Nigeria,7,-7,1631,1301,1,-2,52,136
+2012-10-13,Senegal,Ivory Coast,0,2,African Nations Cup qualifier,Senegal,-17,17,1523,1823,-3,2,80,18
+2012-10-13,Tunisia,Sierra Leone,0,0,African Nations Cup qualifier,Tunisia,-16,16,1584,1355,-3,2,64,120
+2012-10-13,Uganda,Zambia,1,0,African Nations Cup qualifier,Uganda,21,-21,1521,1593,4,-5,82,61
+2012-10-14,Algeria,Libya,2,0,African Nations Cup qualifier,Algeria,25,-25,1569,1564,8,-6,68,69
+2012-10-14,Angola,Zimbabwe,2,0,African Nations Cup qualifier,Angola,16,-16,1477,1363,2,-2,94,116
+2012-10-14,Burkina Faso,Central African Republic,3,1,African Nations Cup qualifier,Burkina Faso,15,-15,1431,1306,2,-6,104,134
+2012-10-14,Cameroon,Cape Verde,2,1,African Nations Cup qualifier,Cameroon,7,-7,1600,1428,0,-3,61,105
+2012-10-14,Equatorial Guinea,DR Congo,2,1,African Nations Cup qualifier,Equatorial Guinea,26,-26,1294,1444,4,-2,138,97
+2012-10-14,Ethiopia,Sudan,2,0,African Nations Cup qualifier,Ethiopia,35,-35,1351,1443,8,-5,121,98
+2012-10-14,Lesotho,Swaziland,0,1,Friendly,Lesotho,-14,14,1140,1108,-2,2,171,179
+2012-10-14,Niger,Guinea,2,0,African Nations Cup qualifier,Niger,43,-43,1345,1515,12,-9,123,83
+2012-10-14,Saudi Arabia,Congo,3,2,Friendly,Saudi Arabia,5,-5,1478,1379,1,-2,93,114
+2012-10-14,Saint Kitts and Nevis,French Guiana,0,3,CONCACAF Champ & Carib Champ q,Saint Kitts and Nevis,-46,46,1147,1225,-12,12,169,148
+2012-10-14,Togo,Gabon,2,1,African Nations Cup qualifier,Togo,26,-26,1385,1533,5,-3,112,76
+2012-10-14,Trinidad and Tobago,Anguilla,10,0,CONCACAF Champ & Carib Champ q,Saint Kitts and Nevis,0,0,1499,550,0,0,87,234
+2012-10-16,Albania,Slovenia,1,0,World Cup qualifier,Albania,23,-23,1505,1609,5,-8,87,57
+2012-10-16,Andorra,Estonia,0,1,World Cup qualifier,Andorra,-4,4,995,1489,-1,1,190,89
+2012-10-16,Australia,Iraq,2,1,World Cup qualifier,Qatar,12,-12,1769,1590,2,-4,25,63
+2012-10-16,Austria,Kazakhstan,4,0,World Cup qualifier,Austria,8,-8,1615,1339,1,-3,56,125
+2012-10-16,Belarus,Georgia,2,0,World Cup qualifier,Belarus,19,-19,1580,1507,6,-9,65,86
+2012-10-16,Belgium,Scotland,2,0,World Cup qualifier,Belgium,14,-14,1795,1653,2,-4,22,47
+2012-10-16,Bolivia,Uruguay,4,1,World Cup qualifier,Bolivia,55,-55,1629,1842,13,-6,53,16
+2012-10-16,Bosnia and Herzegovina,Lithuania,3,0,World Cup qualifier,Bosnia and Herzegovina,8,-8,1738,1476,1,-2,30,93
+2012-10-16,Brazil,Japan,4,0,Friendly,Poland,7,-7,2080,1809,0,-2,2,21
+2012-10-16,Chile,Argentina,1,2,World Cup qualifier,Chile,-17,17,1822,2008,-2,0,19,4
+2012-10-16,Colombia,Cameroon,3,0,Friendly,Colombia,3,-3,1896,1597,1,1,10,60
+2012-10-16,Costa Rica,Guyana,7,0,World Cup qualifier,Costa Rica,7,-7,1665,1328,1,-4,45,128
+2012-10-16,Croatia,Wales,2,0,World Cup qualifier,Croatia,6,-6,1879,1578,1,-4,13,67
+2012-10-16,Cuba,Panama,1,1,World Cup qualifier,Cuba,13,-13,1345,1684,3,-3,123,40
+2012-10-16,Cyprus,Norway,1,3,World Cup qualifier,Cyprus,-17,17,1438,1740,-4,6,100,29
+2012-10-16,Czechia,Bulgaria,0,0,World Cup qualifier,Czechia,-11,11,1768,1672,-1,1,26,43
+2012-10-16,Faroe Islands,Ireland,1,4,World Cup qualifier,the Faroe Islands,-6,6,1210,1738,-3,-1,154,30
+2012-10-16,Germany,Sweden,4,4,World Cup qualifier,Germany,-13,13,2051,1893,0,2,3,11
+2012-10-16,Honduras,Canada,8,1,World Cup qualifier,Honduras,28,-28,1679,1584,6,-8,41,64
+2012-10-16,Hong Kong,Malaysia,0,3,Friendly,Hong Kong,-21,21,1172,1235,-1,9,159,146
+2012-10-16,Hungary,Turkey,3,1,World Cup qualifier,Hungary,25,-25,1709,1702,5,-4,35,36
+2012-10-16,Iceland,Switzerland,0,2,World Cup qualifier,Iceland,-14,14,1482,1823,-2,3,90,17
+2012-10-16,Iran,South Korea,1,0,World Cup qualifier,Iran,21,-21,1699,1775,3,-2,38,23
+2012-10-16,Israel,Luxembourg,3,0,World Cup qualifier,Israel,2,-2,1631,1150,2,0,51,168
+2012-10-16,Italy,Denmark,3,1,World Cup qualifier,Italy,13,-13,1924,1774,1,-1,7,24
+2012-10-16,Jamaica,Antigua and Barbuda,4,1,World Cup qualifier,Jamaica,5,-5,1637,1265,0,0,49,142
+2012-10-16,Kenya,South Africa,1,2,Friendly,Kenya,-6,6,1308,1579,0,1,130,66
+2012-10-16,Kuwait,Philippines,2,1,Friendly,Kuwait,1,-1,1524,1154,0,1,79,166
+2012-10-16,Latvia,Liechtenstein,2,0,World Cup qualifier,Latvia,5,-5,1510,1194,1,-1,84,157
+2012-10-16,Lebanon,Yemen,2,1,Friendly,Lebanon,7,-7,1336,1303,2,-4,126,135
+2012-10-16,Macedonia,Serbia,1,0,World Cup qualifier,Macedonia,25,-25,1529,1662,8,-7,78,46
+2012-10-16,Mexico,El Salvador,2,0,World Cup qualifier,Mexico,4,-4,1915,1535,0,-1,8,76
+2012-10-16,New Caledonia,Solomon Islands,5,0,World Cup qualifier,New Caledonia,18,-18,1349,1199,5,-5,122,155
+2012-10-16,New Zealand,Tahiti,3,0,World Cup qualifier,New Zealand,5,-5,1568,1219,1,-2,69,151
+2012-10-16,Oman,Jordan,2,1,World Cup qualifier,Oman,17,-17,1542,1562,3,-6,75,71
+2012-10-16,Paraguay,Peru,1,0,World Cup qualifier,Paraguay,16,-16,1714,1710,3,-1,33,34
+2012-10-16,Portugal,Northern Ireland,1,1,World Cup qualifier,Portugal,-19,19,1911,1451,-2,6,9,97
+2012-10-16,Qatar,Uzbekistan,0,1,World Cup qualifier,Qatar,-19,19,1469,1626,-5,3,94,54
+2012-10-16,Romania,Netherlands,1,4,World Cup qualifier,Romania,-25,25,1745,1997,-2,1,28,5
+2012-10-16,Russia,Azerbaijan,1,0,World Cup qualifier,Russia,1,-1,1892,1401,0,0,12,109
+2012-10-16,San Marino,Moldova,0,2,World Cup qualifier,San Marino,-5,5,884,1411,0,0,204,107
+2012-10-16,Singapore,India,2,0,Friendly,Singapore,9,-9,1224,1152,2,-3,150,167
+2012-10-16,Slovakia,Greece,0,1,World Cup qualifier,Slovakia,-16,16,1607,1812,-4,1,58,20
+2012-10-16,Spain,France,1,1,World Cup qualifier,Spain,-16,16,2144,1875,0,1,1,14
+2012-10-16,Tunisia,Egypt,1,0,Friendly,the United Arab Emirates,12,-12,1596,1649,2,-4,61,48
+2012-10-16,United Arab Emirates,Bahrain,6,2,Friendly,the United Arab Emirates,13,-13,1454,1425,3,-5,96,105
+2012-10-16,Ukraine,Montenegro,0,1,World Cup qualifier,Ukraine,-30,30,1701,1676,-7,6,37,42
+2012-10-16,United States,Guatemala,3,1,World Cup qualifier,the United States,9,-9,1764,1552,1,-2,27,73
+2012-10-16,Venezuela,Ecuador,1,1,World Cup qualifier,Venezuela,1,-1,1727,1850,1,1,32,15
+2012-10-16,Vietnam,Indonesia,0,0,Friendly,Vietnam,-4,4,1305,1264,-1,0,133,143
+2012-10-17,Poland,England,1,1,World Cup qualifier,Poland,9,-9,1705,1966,3,0,36,6
+2012-10-21,Saint Lucia,Curaçao,5,1,CONCACAF Champ & Carib Champ q,Saint Lucia,38,-38,1015,1047,4,-1,187,183
+2012-10-21,Saint Vincent and the Grenadines,Guyana,2,1,CONCACAF Champ & Carib Champ q,Saint Lucia,29,-29,1192,1299,4,-8,158,136
+2012-10-23,Guadeloupe,Dominican Republic,0,2,CONCACAF Champ & Carib Champ q,Guadeloupe,-54,54,1382,1212,-11,10,112,154
+2012-10-23,Guyana,Curaçao,2,1,CONCACAF Champ & Carib Champ q,Saint Lucia,8,-8,1307,1039,5,0,131,183
+2012-10-23,Martinique,Puerto Rico,2,1,CONCACAF Champ & Carib Champ q,Guadeloupe,8,-8,1364,1110,3,-1,116,178
+2012-10-23,Saint Lucia,Saint Vincent and the Grenadines,1,0,CONCACAF Champ & Carib Champ q,Saint Lucia,24,-24,1039,1168,4,-4,183,162
+2012-10-24,Vietnam,Turkmenistan,0,1,Vietnam FF Cup,Vietnam,-17,17,1288,1375,-7,4,140,115
+2012-10-25,Dominican Republic,Martinique,1,1,CONCACAF Champ & Carib Champ q,Guadeloupe,8,-8,1220,1356,3,-2,151,119
+2012-10-25,Guadeloupe,Puerto Rico,4,1,CONCACAF Champ & Carib Champ q,Guadeloupe,7,-7,1389,1103,2,-2,110,180
+2012-10-25,Saint Lucia,Guyana,0,3,CONCACAF Champ & Carib Champ q,Saint Lucia,-19,19,1020,1326,-2,3,185,128
+2012-10-25,Saint Vincent and the Grenadines,Curaçao,4,0,CONCACAF Champ & Carib Champ q,Saint Lucia,24,-24,1192,1015,3,-4,159,187
+2012-10-26,Vietnam,Laos,4,0,Vietnam FF Cup,Vietnam,2,-2,1290,852,0,-1,140,208
+2012-10-27,Dominican Republic,Puerto Rico,3,1,CONCACAF Champ & Carib Champ q,Guadeloupe,20,-20,1240,1083,5,-1,146,181
+2012-10-27,Guadeloupe,Martinique,3,3,CONCACAF Champ & Carib Champ q,Guadeloupe,-7,7,1382,1363,-2,2,112,117
+2012-10-28,Turkmenistan,Laos,4,2,Vietnam FF Cup,Vietnam,2,-2,1377,850,0,0,115,208
+2012-11-03,Vietnam,Malaysia,1,0,Friendly,Vietnam,6,-6,1296,1229,3,-1,137,148
+2012-11-06,Iran,Tajikistan,6,1,Friendly,Iran,2,-2,1701,1250,1,0,38,145
+2012-11-07,Qatar,Iraq,2,1,Friendly,Qatar,11,-11,1480,1579,3,-2,91,65
+2012-11-07,Thailand,Malaysia,2,0,Friendly,Thailand,6,-6,1381,1223,3,-3,113,151
+2012-11-08,Bahrain,Jordan,3,0,Friendly,Bahrain,19,-19,1444,1543,6,-3,98,74
+2012-11-08,Oman,Estonia,1,2,Friendly,Oman,-14,14,1528,1503,-3,1,78,88
+2012-11-11,Swaziland,Lesotho,0,0,Friendly,Swaziland,-2,2,1106,1142,-1,0,179,171
+2012-11-14,Albania,Cameroon,0,0,Friendly,Switzerland,3,-3,1508,1594,1,-2,86,62
+2012-11-14,Algeria,Bosnia and Herzegovina,0,1,Friendly,Algeria,-8,8,1561,1746,-1,0,69,30
+2012-11-14,Andorra,Iceland,0,2,Friendly,Andorra,-3,3,992,1485,0,-1,191,91
+2012-11-14,Angola,Congo,1,1,Friendly,Portugal,-3,3,1474,1382,0,3,93,112
+2012-11-14,Armenia,Lithuania,4,2,Friendly,Armenia,9,-9,1530,1467,4,0,77,94
+2012-11-14,Austria,Ivory Coast,0,3,Friendly,Austria,-12,12,1603,1835,-1,0,57,17
+2012-11-14,Bolivia,Costa Rica,1,1,Friendly,Bolivia,-2,2,1627,1667,-1,0,54,45
+2012-11-14,Brazil,Colombia,1,1,Friendly,the United States,-5,5,2075,1901,0,-1,2,11
+2012-11-14,Bulgaria,Ukraine,0,1,Friendly,Bulgaria,-12,12,1660,1713,-3,5,46,33
+2012-11-14,Burkina Faso,DR Congo,1,0,Friendly,Morocco,10,-10,1441,1434,2,-4,101,102
+2012-11-14,China,New Zealand,1,1,Friendly,China,-4,4,1628,1572,-3,2,53,67
+2012-11-14,Cuba,Suriname,5,0,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,26,-26,1371,1189,6,-5,117,158
+2012-11-14,Cyprus,Finland,0,3,Friendly,Cyprus,-14,14,1424,1630,-2,3,103,52
+2012-11-14,Czechia,Slovakia,3,0,Friendly,Czechia,6,-6,1774,1601,1,0,25,58
+2012-11-14,Gabon,Portugal,2,2,Friendly,Gabon,7,-7,1540,1904,2,-1,74,10
+2012-11-14,Georgia,Egypt,0,0,Friendly,Georgia,1,-1,1508,1648,0,-2,86,50
+2012-11-14,Ghana,Cape Verde,1,0,Friendly,Portugal,4,-4,1676,1424,1,1,42,103
+2012-11-14,Grenada,French Guiana,1,1,CONCACAF Champ & Carib Champ q,Grenada,-2,2,1163,1227,0,0,163,149
+2012-11-14,Haiti,Guyana,1,0,CONCACAF Champ & Carib Champ q,Grenada,14,-14,1447,1312,4,-2,98,130
+2012-11-14,Honduras,Peru,0,0,Friendly,the United States,1,-1,1680,1709,1,0,40,34
+2012-11-14,Hungary,Norway,0,2,Friendly,Hungary,-18,18,1691,1758,-3,1,38,28
+2012-11-14,Indonesia,East Timor,1,0,Friendly,Indonesia,0,0,1264,621,0,0,143,229
+2012-11-14,Iran,Uzbekistan,0,1,World Cup qualifier,Iran,-29,29,1672,1655,-6,7,44,47
+2012-11-14,Iraq,Jordan,1,0,World Cup qualifier,Qatar,18,-18,1597,1525,4,-4,61,78
+2012-11-14,Ireland,Greece,0,1,Friendly,Ireland,-11,11,1727,1823,-1,1,31,19
+2012-11-14,Israel,Belarus,1,2,Friendly,Israel,-14,14,1617,1594,-4,2,55,62
+2012-11-14,Italy,France,1,2,Friendly,Italy,-14,14,1910,1889,-1,2,8,12
+2012-11-14,Kuwait,Bahrain,1,1,Friendly,Kuwait,-5,5,1519,1449,-2,1,81,97
+2012-11-14,Liechtenstein,Malta,0,1,Friendly,Liechtenstein,-12,12,1182,1240,-2,2,160,146
+2012-11-14,Luxembourg,Scotland,1,2,Friendly,Luxembourg,-2,2,1148,1655,0,0,168,47
+2012-11-14,Macedonia,Slovenia,3,2,Friendly,Macedonia,9,-9,1538,1600,2,-3,75,60
+2012-11-14,Malaysia,Hong Kong,1,1,Friendly,Malaysia,-4,4,1219,1176,0,0,151,161
+2012-11-14,Montenegro,San Marino,3,0,World Cup qualifier,Montenegro,0,0,1676,884,0,0,42,204
+2012-11-14,Morocco,Togo,0,1,Friendly,Morocco,-17,17,1543,1402,-2,2,73,109
+2012-11-14,Netherlands,Germany,0,0,Friendly,the Netherlands,-1,1,1996,2052,0,0,5,3
+2012-11-14,Niger,Senegal,1,1,Friendly,Niger,2,-2,1347,1521,-1,1,124,79
+2012-11-14,Nigeria,Venezuela,3,1,Friendly,the United States,19,-19,1650,1708,2,-3,49,35
+2012-11-14,Northern Ireland,Azerbaijan,1,1,World Cup qualifier,Northern Ireland,-8,8,1443,1409,-2,1,99,107
+2012-11-14,Oman,Japan,1,2,World Cup qualifier,Oman,-10,10,1518,1819,-4,1,82,20
+2012-11-14,Panama,Spain,1,5,Friendly,Panama,-4,4,1680,2148,0,0,40,1
+2012-11-14,Paraguay,Guatemala,3,1,Friendly,Paraguay,5,-5,1719,1547,1,0,32,72
+2012-11-14,Poland,Uruguay,1,3,Friendly,Poland,-13,13,1692,1855,-1,1,37,15
+2012-11-14,Qatar,Lebanon,1,0,World Cup qualifier,Qatar,8,-8,1488,1328,2,-1,89,127
+2012-11-14,Romania,Belgium,2,1,Friendly,Romania,9,-9,1754,1786,-1,0,29,22
+2012-11-14,Russia,United States,2,2,Friendly,Russia,-6,6,1886,1770,-1,1,13,26
+2012-11-14,Rwanda,Namibia,2,2,Friendly,Rwanda,-5,5,1395,1313,-1,1,110,129
+2012-11-14,Saudi Arabia,Argentina,0,0,Friendly,Saudi Arabia,8,-8,1486,2000,2,0,90,4
+2012-11-14,Serbia,Chile,3,1,Friendly,Switzerland,21,-21,1683,1801,7,-2,39,21
+2012-11-14,South Africa,Zambia,0,1,Nelson Mandela Challenge Cup,South Africa,-19,19,1560,1612,-5,6,70,56
+2012-11-14,South Korea,Australia,1,2,Friendly,South Korea,-13,13,1762,1782,-4,2,27,23
+2012-11-14,Sweden,England,4,2,Friendly,Sweden,14,-14,1907,1952,2,0,9,6
+2012-11-14,Tanzania,Kenya,1,0,Friendly,Tanzania,8,-8,1300,1300,4,-5,135,135
+2012-11-14,Thailand,Bhutan,5,0,Friendly,Thailand,0,0,1381,546,-1,0,114,235
+2012-11-14,Trinidad and Tobago,Saint Vincent and the Grenadines,1,1,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,-16,16,1483,1208,-3,4,92,155
+2012-11-14,Tunisia,Switzerland,1,2,Friendly,Tunisia,-6,6,1590,1829,-3,-1,64,18
+2012-11-14,Turkey,Denmark,1,1,Friendly,Turkey,-1,1,1701,1775,1,0,36,24
+2012-11-14,United Arab Emirates,Estonia,2,1,Friendly,the United Arab Emirates,9,-9,1463,1494,1,0,95,88
+2012-11-15,Philippines,Singapore,1,0,Friendly,the Philippines,9,-9,1163,1215,3,-2,163,152
+2012-11-16,Cuba,Saint Vincent and the Grenadines,1,1,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,-9,9,1362,1217,-2,3,119,152
+2012-11-16,French Guiana,Haiti,1,0,CONCACAF Champ & Carib Champ q,Grenada,31,-31,1258,1416,5,-7,144,105
+2012-11-16,Grenada,Guyana,2,1,CONCACAF Champ & Carib Champ q,Grenada,23,-23,1186,1289,5,-10,158,140
+2012-11-16,Trinidad and Tobago,Suriname,3,0,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,7,-7,1490,1182,3,-2,89,160
+2012-11-17,Palestine,Syria,1,1,Friendly,Jordan,6,-6,1297,1503,2,-2,137,87
+2012-11-17,Thailand,Bangladesh,5,0,Friendly,Thailand,2,-2,1383,950,2,0,112,194
+2012-11-18,Grenada,Haiti,0,2,CONCACAF Champ & Carib Champ q,Grenada,-19,19,1167,1435,-5,4,163,101
+2012-11-18,Guyana,French Guiana,4,3,CONCACAF Champ & Carib Champ q,Grenada,18,-18,1307,1240,10,-2,130,146
+2012-11-18,Suriname,Saint Vincent and the Grenadines,1,0,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,22,-22,1204,1195,5,-6,155,158
+2012-11-18,Trinidad and Tobago,Cuba,1,0,CONCACAF Champ & Carib Champ q,Trinidad and Tobago,8,-8,1498,1354,1,-2,88,121
+2012-11-19,Singapore,Pakistan,4,0,Friendly,Singapore,3,-3,1218,911,0,0,152,200
+2012-11-20,Malaysia,Bangladesh,1,1,Friendly,Malaysia,-8,8,1211,958,-3,0,153,194
+2012-11-20,Palestine,Syria,2,1,Friendly,Jordan,15,-15,1312,1488,8,-2,130,89
+2012-11-21,Argentina,Brazil,2,1,Nicolas Leoz Cup,Argentina,14,-14,2014,2061,0,0,4,2
+2012-11-24,Ethiopia,South Sudan,1,0,CECAFA Cup,Uganda,8,-8,1359,1099,2,-1,120,179
+2012-11-24,Guam,Northern Mariana Islands,8,0,Friendly,Guam,7,-7,681,458,2,0,221,238
+2012-11-24,Myanmar,Vietnam,1,1,Southeast Asian Championship,Thailand,13,-13,1027,1283,3,-1,185,140
+2012-11-24,Thailand,Philippines,2,1,Southeast Asian Championship,Thailand,5,-5,1388,1158,1,-1,111,165
+2012-11-24,Uganda,Kenya,1,0,CECAFA Cup,Uganda,5,-5,1526,1295,1,-2,78,138
+2012-11-25,Burundi,Somalia,5,1,CECAFA Cup,Uganda,8,-8,1262,883,1,-1,143,204
+2012-11-25,Indonesia,Laos,2,2,Southeast Asian Championship,Malaysia,-17,17,1247,867,-3,2,146,206
+2012-11-25,Malaysia,Singapore,0,3,Southeast Asian Championship,Malaysia,-44,44,1167,1262,-9,8,162,143
+2012-11-25,Tanzania,Sudan,2,0,CECAFA Cup,Uganda,42,-42,1342,1401,11,-11,125,109
+2012-11-26,Eritrea,Zanzibar,0,0,CECAFA Cup,Uganda,8,-8,1166,1296,1,-3,164,137
+2012-11-26,Rwanda,Malawi,2,0,CECAFA Cup,Uganda,29,-29,1424,1358,8,-8,102,120
+2012-11-27,Kenya,South Sudan,2,0,CECAFA Cup,Uganda,15,-15,1310,1084,6,-1,132,180
+2012-11-27,Philippines,Vietnam,1,0,Southeast Asian Championship,Thailand,27,-27,1185,1256,8,-4,158,144
+2012-11-27,Thailand,Myanmar,4,0,Southeast Asian Championship,Thailand,5,-5,1393,1022,0,0,111,185
+2012-11-27,Uganda,Ethiopia,1,0,CECAFA Cup,Uganda,7,-7,1533,1352,1,-3,77,122
+2012-11-28,Burundi,Tanzania,1,0,CECAFA Cup,Uganda,25,-25,1287,1317,2,-4,140,129
+2012-11-28,Indonesia,Singapore,1,0,Southeast Asian Championship,Malaysia,21,-21,1268,1241,4,-4,142,146
+2012-11-28,Malaysia,Laos,4,1,Southeast Asian Championship,Malaysia,6,-6,1173,861,1,-1,162,207
+2012-11-28,Sudan,Somalia,1,0,CECAFA Cup,Uganda,2,-2,1403,881,2,0,108,204
+2012-11-29,Bahrain,Palestine,2,0,Friendly,Qatar,9,-9,1458,1303,1,-4,96,135
+2012-11-29,Malawi,Eritrea,3,2,CECAFA Cup,Uganda,10,-10,1368,1156,3,-1,116,166
+2012-11-29,Zanzibar,Rwanda,2,1,CECAFA Cup,Uganda,27,-27,1323,1397,9,-8,129,110
+2012-11-30,Kenya,Ethiopia,3,1,CECAFA Cup,Uganda,34,-34,1344,1318,8,-8,124,130
+2012-11-30,Philippines,Myanmar,2,0,Southeast Asian Championship,Thailand,17,-17,1202,1005,3,-4,155,189
+2012-11-30,Thailand,Vietnam,3,1,Southeast Asian Championship,Thailand,12,-12,1405,1244,4,-1,107,145
+2012-11-30,Uganda,South Sudan,4,0,CECAFA Cup,Uganda,3,-3,1536,1081,1,-1,76,181
+2012-12-01,Burundi,Sudan,1,0,CECAFA Cup,Uganda,26,-26,1313,1377,9,-7,131,115
+2012-12-01,Hong Kong,Guam,2,1,East Asian Championship qualifier,Hong Kong,1,-1,1177,680,-1,0,162,221
+2012-12-01,Malawi,Zanzibar,2,0,CECAFA Cup,Uganda,26,-26,1394,1297,5,-10,111,139
+2012-12-01,Malaysia,Indonesia,2,0,Southeast Asian Championship,Malaysia,30,-30,1203,1238,7,-7,155,149
+2012-12-01,North Korea,Taiwan,6,1,East Asian Championship qualifier,Hong Kong,2,-2,1553,895,0,0,71,201
+2012-12-01,Rwanda,Eritrea,2,0,CECAFA Cup,Uganda,12,-12,1409,1144,5,-3,106,169
+2012-12-01,Singapore,Laos,4,3,Southeast Asian Championship,Malaysia,4,-4,1245,857,2,0,144,207
+2012-12-01,Tanzania,Somalia,7,0,CECAFA Cup,Uganda,7,-7,1324,874,2,0,129,204
+2012-12-03,Bahrain,Iraq,0,0,Friendly,Qatar,4,-4,1462,1593,0,-2,96,63
+2012-12-03,Burundi,Zanzibar,0,0,CECAFA Cup,Uganda,-1,1,1312,1298,-1,0,132,139
+2012-12-03,Hong Kong,Australia,0,1,East Asian Championship qualifier,Hong Kong,-2,2,1175,1784,0,0,162,23
+2012-12-03,North Korea,Guam,5,0,East Asian Championship qualifier,Hong Kong,1,-1,1554,679,0,0,71,221
+2012-12-03,Tanzania,Rwanda,2,0,CECAFA Cup,Uganda,37,-37,1361,1372,9,-10,120,116
+2012-12-04,Kenya,Malawi,1,0,CECAFA Cup,Uganda,23,-23,1367,1371,8,-6,117,116
+2012-12-04,Uganda,Ethiopia,2,0,CECAFA Cup,Uganda,8,-8,1544,1310,3,-2,73,132
+2012-12-05,Australia,North Korea,1,1,East Asian Championship qualifier,Hong Kong,-12,12,1772,1566,-2,3,25,68
+2012-12-05,Guam,Taiwan,1,1,East Asian Championship qualifier,Hong Kong,11,-11,690,884,3,-1,218,202
+2012-12-05,Saudi Arabia,Zambia,2,1,Friendly,Saudi Arabia,11,-11,1497,1601,3,-1,88,57
+2012-12-06,Kenya,Zanzibar,2,2,CECAFA Cup,Uganda,-4,4,1363,1302,0,2,117,137
+2012-12-06,Uganda,Tanzania,3,0,CECAFA Cup,Uganda,11,-11,1555,1350,1,-2,72,123
+2012-12-07,Antigua and Barbuda,Dominican Republic,1,2,CONCACAF Champ q & Carib Champ,Antigua and Barbuda,-27,27,1238,1267,-6,4,148,142
+2012-12-07,Australia,Guam,9,0,East Asian Championship qualifier,Hong Kong,0,0,1772,690,0,0,25,218
+2012-12-07,Haiti,Trinidad and Tobago,0,0,CONCACAF Champ q & Carib Champ,Antigua and Barbuda,4,-4,1439,1494,0,-1,100,88
+2012-12-07,Hong Kong,Taiwan,2,0,East Asian Championship qualifier,Hong Kong,6,-6,1181,878,0,-1,162,203
+2012-12-08,French Guiana,Jamaica,2,1,CONCACAF Champ q & Carib Champ,Antigua and Barbuda,36,-36,1276,1601,5,-5,141,56
+2012-12-08,Kuwait,Palestine,2,1,West Asian Championship,Kuwait,6,-6,1525,1297,2,-4,79,139
+2012-12-08,Lebanon,Oman,1,0,West Asian Championship,Kuwait,30,-30,1358,1488,8,-7,120,89
+2012-12-08,Martinique,Cuba,1,0,CONCACAF Champ q & Carib Champ,Antigua and Barbuda,19,-19,1382,1335,7,-5,110,127
+2012-12-08,Philippines,Singapore,0,0,Southeast Asian Championship,the Philippines,-3,3,1199,1248,0,-1,156,145
+2012-12-08,Tanzania,Zanzibar,1,1,CECAFA Cup,Uganda,-3,3,1347,1305,-1,2,124,135
+2012-12-08,Uganda,Kenya,2,1,CECAFA Cup,Uganda,6,-6,1561,1357,2,-4,70,121
+2012-12-09,Antigua and Barbuda,Trinidad and Tobago,2,0,CONCACAF Champ q & Carib Champ,Antigua and Barbuda,43,-43,1281,1451,7,-10,141,97
+2012-12-09,Australia,Taiwan,8,0,East Asian Championship qualifier,Hong Kong,1,-1,1773,877,0,0,25,203
+2012-12-09,Bahrain,Yemen,1,0,West Asian Championship,Kuwait,11,-11,1473,1292,3,-4,93,140
+2012-12-09,Haiti,Dominican Republic,2,1,CONCACAF Champ q & Carib Champ,Antigua and Barbuda,11,-11,1450,1256,2,-1,98,144
+2012-12-09,Hong Kong,North Korea,0,4,East Asian Championship qualifier,Hong Kong,-12,12,1169,1578,-1,2,163,66
+2012-12-09,Iran,Saudi Arabia,0,0,West Asian Championship,Kuwait,-9,9,1663,1506,-1,0,45,86
+2012-12-09,Malaysia,Thailand,1,1,Southeast Asian Championship,Malaysia,6,-6,1209,1399,1,-2,154,109
+2012-12-10,Cuba,French Guiana,2,1,CONCACAF Champ q & Carib Champ,Antigua and Barbuda,17,-17,1352,1259,4,-1,123,143
+2012-12-10,Iraq,Jordan,1,0,West Asian Championship,Kuwait,16,-16,1609,1509,8,-4,55,83
+2012-12-10,Jamaica,Martinique,0,0,CONCACAF Champ q & Carib Champ,Antigua and Barbuda,-11,11,1590,1393,-7,0,63,110
+2012-12-11,Antigua and Barbuda,Haiti,0,1,CONCACAF Champ q & Carib Champ,Antigua and Barbuda,-16,16,1265,1466,-1,3,142,95
+2012-12-11,Kuwait,Oman,0,2,West Asian Championship,Kuwait,-41,41,1484,1529,-12,9,91,79
+2012-12-11,Palestine,Lebanon,1,0,West Asian Championship,Kuwait,23,-23,1320,1335,8,-7,130,127
+2012-12-11,Trinidad and Tobago,Dominican Republic,2,1,CONCACAF Champ q & Carib Champ,Antigua and Barbuda,10,-10,1461,1246,0,-2,97,146
+2012-12-12,Bahrain,Iran,0,0,West Asian Championship,Kuwait,10,-10,1483,1653,1,-3,92,48
+2012-12-12,Cuba,Jamaica,1,0,CONCACAF Champ q & Carib Champ,Antigua and Barbuda,32,-32,1384,1558,11,-9,111,72
+2012-12-12,Martinique,French Guiana,3,1,CONCACAF Champ q & Carib Champ,Antigua and Barbuda,19,-19,1412,1240,5,-4,105,147
+2012-12-12,Saudi Arabia,Yemen,1,0,West Asian Championship,Kuwait,9,-9,1515,1283,5,0,81,140
+2012-12-12,Singapore,Philippines,1,0,Southeast Asian Championship,Singapore,12,-12,1260,1187,2,-3,143,159
+2012-12-13,Iraq,Syria,1,1,West Asian Championship,Kuwait,-7,7,1602,1495,-1,1,56,87
+2012-12-13,Thailand,Malaysia,2,0,Southeast Asian Championship,Thailand,10,-10,1409,1199,3,-1,107,155
+2012-12-14,Cuba,Haiti,1,0,Caribbean Championship,Antigua and Barbuda,25,-25,1409,1441,4,-4,107,99
+2012-12-14,Kuwait,Lebanon,2,1,West Asian Championship,Kuwait,8,-8,1492,1327,2,-1,89,128
+2012-12-14,Martinique,Trinidad and Tobago,1,1,Caribbean Championship,Antigua and Barbuda,3,-3,1415,1458,0,1,105,96
+2012-12-14,Oman,Palestine,2,1,West Asian Championship,Kuwait,9,-9,1538,1311,3,-2,76,132
+2012-12-14,Poland,Macedonia,4,1,Friendly,Turkey,10,-10,1702,1528,1,-3,36,79
+2012-12-15,Angola,Gambia,1,1,Friendly,Angola,-6,6,1468,1331,0,1,93,128
+2012-12-15,Bahrain,Saudi Arabia,1,0,West Asian Championship,Kuwait,22,-22,1505,1493,6,-8,86,89
+2012-12-15,Iran,Yemen,2,1,West Asian Championship,Kuwait,4,-4,1657,1279,2,0,46,140
+2012-12-16,Cuba,Trinidad and Tobago,1,0,Caribbean Championship,Antigua and Barbuda,23,-23,1432,1435,5,-4,102,100
+2012-12-16,Haiti,Martinique,1,0,Caribbean Championship,Antigua and Barbuda,19,-19,1460,1396,3,-6,96,111
+2012-12-16,Syria,Jordan,2,1,West Asian Championship,Kuwait,21,-21,1516,1488,6,-7,81,90
+2012-12-18,Bahrain,Syria,1,1,West Asian Championship,Kuwait,1,-1,1506,1515,0,1,86,80
+2012-12-18,Iraq,Oman,2,0,West Asian Championship,Kuwait,25,-25,1627,1513,3,-6,53,82
+2012-12-19,Angola,Cameroon,1,0,Friendly,Angola,11,-11,1479,1583,0,-3,93,64
+2012-12-19,Oman,Benin,2,0,Friendly,Oman,7,-7,1520,1396,2,0,80,109
+2012-12-19,Singapore,Thailand,3,1,Southeast Asian Championship,Singapore,34,-34,1294,1375,4,-9,139,116
+2012-12-20,Oman,Bahrain,1,0,West Asian Championship,Kuwait,19,-19,1539,1487,3,-5,77,91
+2012-12-20,Syria,Iraq,1,0,West Asian Championship,Kuwait,26,-26,1541,1601,6,-3,75,56
+2012-12-22,Angola,Rwanda,1,0,Friendly,Angola,5,-5,1484,1367,0,0,93,117
+2012-12-22,South Africa,Malawi,3,1,Friendly,South Africa,5,-5,1565,1366,3,0,68,118
+2012-12-22,Tanzania,Zambia,1,0,Friendly,Tanzania,14,-14,1361,1587,3,-6,121,62
+2012-12-22,Thailand,Singapore,1,0,Southeast Asian Championship,Thailand,10,-10,1385,1284,5,-1,111,140
+2012-12-25,United Arab Emirates,Yemen,2,0,Friendly,Qatar,8,-8,1471,1271,1,-1,94,142
+2012-12-26,Bahrain,Burkina Faso,0,0,Friendly,Bahrain,-4,4,1483,1445,-2,1,93,98
+2012-12-28,Qatar,Egypt,0,2,Friendly,Qatar,-12,12,1476,1660,-4,5,93,45
+2012-12-29,Bahrain,Guinea,3,0,Friendly,Bahrain,14,-14,1497,1501,6,-3,86,85
+2012-12-29,Oman,Togo,0,1,Friendly,Oman,-16,16,1523,1418,-3,2,80,106
+2012-12-29,United Arab Emirates,Yemen,3,1,Friendly,Qatar,7,-7,1478,1264,1,-1,93,143
+2012-12-30,Ethiopia,Niger,1,0,Friendly,Ethiopia,8,-8,1318,1339,3,0,130,125
+2012-12-30,Tunisia,Iraq,2,1,Friendly,the United Arab Emirates,10,-10,1600,1591,3,-5,58,61

@@ -1,0 +1,844 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2006-01-02,Qatar,Libya,2,0,Friendly,Qatar,10,-10,1520,1471,2,-2,77,91
+2006-01-05,Egypt,Zimbabwe,2,0,Friendly,Egypt,4,-4,1717,1498,2,-3,37,84
+2006-01-07,Guinea,Togo,1,0,Friendly,France,12,-12,1514,1572,2,-3,79,65
+2006-01-09,Morocco,DR Congo,3,0,Friendly,Morocco,5,-5,1686,1448,1,0,45,96
+2006-01-11,Togo,Ghana,1,0,Friendly,Tunisia,11,-11,1583,1591,3,-3,62,60
+2006-01-12,Tunisia,Libya,1,0,Friendly,Tunisia,2,-2,1714,1469,0,0,40,91
+2006-01-14,Egypt,South Africa,1,2,Friendly,Egypt,-17,17,1700,1534,-4,4,41,74
+2006-01-14,Morocco,Zimbabwe,1,0,Friendly,Morocco,3,-3,1689,1495,1,-1,44,85
+2006-01-14,Senegal,DR Congo,0,0,Friendly,Senegal,-8,8,1693,1456,-2,0,43,96
+2006-01-15,Tunisia,Ghana,2,0,Friendly,Tunisia,7,-7,1721,1584,2,-1,37,61
+2006-01-17,Ivory Coast,Jordan,2,0,Friendly,the United Arab Emirates,9,-9,1710,1535,0,-2,40,73
+2006-01-17,Morocco,Angola,2,2,Friendly,Morocco,-6,6,1683,1552,-1,0,45,70
+2006-01-18,Saudi Arabia,Sweden,1,1,Friendly,Saudi Arabia,6,-6,1574,1897,0,0,66,10
+2006-01-18,United Arab Emirates,South Korea,1,0,Friendly,the United Arab Emirates,13,-13,1474,1674,4,-4,90,48
+2006-01-20,Egypt,Libya,3,0,African Nations Cup,Egypt,11,-11,1711,1458,1,-3,40,95
+2006-01-21,Cameroon,Angola,3,1,African Nations Cup,Egypt,19,-19,1761,1533,2,-3,31,73
+2006-01-21,DR Congo,Togo,2,0,African Nations Cup,Egypt,51,-51,1507,1532,15,-12,81,74
+2006-01-21,Greece,South Korea,1,1,LG Cup,Saudi Arabia,-6,6,1805,1680,0,1,23,47
+2006-01-21,Ivory Coast,Morocco,1,0,African Nations Cup,Egypt,23,-23,1733,1660,7,-6,34,50
+2006-01-21,Saudi Arabia,Finland,1,1,LG Cup,Saudi Arabia,-1,1,1573,1660,1,1,65,50
+2006-01-22,Guinea,South Africa,2,0,African Nations Cup,Egypt,40,-40,1554,1494,10,-14,69,86
+2006-01-22,Tunisia,Zambia,4,1,African Nations Cup,Egypt,21,-21,1742,1505,4,-5,34,81
+2006-01-22,United States,Canada,0,0,Friendly,the United States,-8,8,1833,1573,-1,1,18,65
+2006-01-23,Jordan,Sweden,0,0,Friendly,the United Arab Emirates,8,-8,1543,1889,1,-1,71,11
+2006-01-23,Nigeria,Ghana,1,0,African Nations Cup,Egypt,14,-14,1765,1570,4,-5,29,66
+2006-01-23,Senegal,Zimbabwe,2,0,African Nations Cup,Egypt,18,-18,1711,1477,2,-4,41,89
+2006-01-24,Egypt,Morocco,0,0,African Nations Cup,Egypt,-10,10,1701,1670,-1,2,42,48
+2006-01-24,Ivory Coast,Libya,2,1,African Nations Cup,Egypt,9,-9,1742,1449,1,0,34,96
+2006-01-25,Angola,DR Congo,0,0,African Nations Cup,Egypt,-2,2,1531,1509,-1,0,74,79
+2006-01-25,Cameroon,Togo,2,0,African Nations Cup,Egypt,16,-16,1777,1516,5,-3,27,77
+2006-01-25,Ecuador,Honduras,1,0,Friendly,Ecuador,7,-7,1722,1718,2,-2,38,39
+2006-01-25,Mexico,Norway,2,1,Friendly,the United States,8,-8,1843,1759,0,-4,17,32
+2006-01-25,Saudi Arabia,Greece,1,1,LG Cup,Saudi Arabia,5,-5,1578,1800,2,0,62,23
+2006-01-25,South Korea,Finland,1,0,LG Cup,Saudi Arabia,14,-14,1694,1646,3,0,44,51
+2006-01-26,Guinea,Zambia,2,1,African Nations Cup,Egypt,21,-21,1575,1484,4,-4,65,85
+2006-01-26,Tunisia,South Africa,2,0,African Nations Cup,Egypt,15,-15,1757,1479,1,-3,33,88
+2006-01-27,Ghana,Senegal,1,0,African Nations Cup,Egypt,35,-35,1605,1676,11,-6,56,47
+2006-01-27,Nigeria,Zimbabwe,2,0,African Nations Cup,Egypt,12,-12,1777,1465,2,-3,27,92
+2006-01-27,Northern Cyprus,Kyrgyzstan,3,2,Friendly,Northern Cyprus,2,-2,1463,1193,2,0,93,159
+2006-01-27,Saudi Arabia,Lebanon,1,2,Friendly,Saudi Arabia,-17,17,1561,1367,-6,4,68,110
+2006-01-28,Egypt,Ivory Coast,3,1,African Nations Cup,Egypt,31,-31,1732,1711,5,-6,36,41
+2006-01-28,Libya,Morocco,0,0,African Nations Cup,Egypt,14,-14,1463,1656,3,-2,93,50
+2006-01-29,Angola,Togo,3,2,African Nations Cup,Egypt,24,-24,1555,1492,4,-6,70,83
+2006-01-29,Cameroon,DR Congo,2,0,African Nations Cup,Egypt,13,-13,1790,1496,2,-3,25,82
+2006-01-29,South Korea,Croatia,2,0,Carlsberg Cup,Hong Kong,33,-33,1727,1831,6,-5,37,18
+2006-01-29,United States,Norway,5,0,Friendly,the United States,11,-11,1844,1748,3,-2,15,34
+2006-01-30,Bahrain,Syria,1,1,Friendly,Bahrain,-4,4,1533,1505,0,-1,73,80
+2006-01-30,Guinea,Tunisia,3,0,African Nations Cup,Egypt,65,-65,1640,1692,11,-11,54,43
+2006-01-30,Zambia,South Africa,1,0,African Nations Cup,Egypt,25,-25,1509,1454,7,-8,78,96
+2006-01-31,Nigeria,Senegal,2,1,African Nations Cup,Egypt,18,-18,1795,1658,4,-2,24,49
+2006-01-31,Zimbabwe,Ghana,2,1,African Nations Cup,Egypt,35,-35,1500,1570,9,-9,82,66
+2006-02-01,Hong Kong,Croatia,0,4,Carlsberg Cup,Hong Kong,-3,3,1231,1834,-1,0,146,18
+2006-02-01,Thailand,Jordan,0,0,Friendly,Thailand,3,-3,1321,1540,0,0,122,72
+2006-02-03,Egypt,DR Congo,4,1,African Nations Cup,Egypt,11,-11,1743,1485,1,-2,34,86
+2006-02-03,Kuwait,Singapore,2,2,Friendly,Kuwait,-5,5,1423,1334,-1,0,100,119
+2006-02-03,Senegal,Guinea,3,2,African Nations Cup,Egypt,24,-24,1682,1616,5,-1,44,55
+2006-02-04,Cameroon,Ivory Coast,1,1,African Nations Cup,Egypt,-6,6,1784,1717,0,1,26,40
+2006-02-04,Nigeria,Tunisia,1,1,African Nations Cup,Egypt,-7,7,1788,1699,-1,1,25,42
+2006-02-04,United States,South Korea,1,2,Friendly,the United States,-16,16,1828,1743,-3,2,18,34
+2006-02-06,Oman,Singapore,1,0,Friendly,Qatar,4,-4,1568,1330,0,0,67,119
+2006-02-07,Egypt,Senegal,2,1,African Nations Cup,Egypt,14,-14,1757,1668,2,-3,32,47
+2006-02-07,Ivory Coast,Nigeria,1,0,African Nations Cup,Egypt,30,-30,1747,1758,5,-6,35,31
+2006-02-07,Kuwait,Jordan,2,1,Friendly,Kuwait,10,-10,1433,1530,2,-2,98,74
+2006-02-07,Syria,Palestine,3,0,Friendly,Syria,4,-4,1509,1246,2,0,78,140
+2006-02-09,Nigeria,Senegal,1,0,African Nations Cup,Egypt,19,-19,1777,1649,3,-3,28,50
+2006-02-10,Egypt,Ivory Coast,0,0,African Nations Cup,Egypt,-8,8,1749,1755,-2,2,34,33
+2006-02-10,United States,Japan,3,2,Friendly,the United States,7,-7,1835,1805,1,0,17,22
+2006-02-11,Costa Rica,South Korea,1,0,Friendly,the United States,10,-10,1743,1733,1,-1,36,37
+2006-02-12,China,Honduras,0,1,Friendly,China,-11,11,1633,1729,0,2,53,38
+2006-02-13,Oman,Iraq,1,0,Friendly,Oman,8,-8,1576,1600,2,-1,65,57
+2006-02-14,Jordan,Kazakhstan,2,0,Friendly,Jordan,4,-4,1534,1313,2,-4,72,127
+2006-02-14,Qatar,Tajikistan,2,0,Friendly,Qatar,5,-5,1525,1346,1,-1,75,115
+2006-02-14,Saudi Arabia,Syria,1,1,Friendly,Saudi Arabia,-4,4,1557,1513,-1,0,69,78
+2006-02-15,Hong Kong,Singapore,1,1,Friendly,Hong Kong,0,0,1231,1330,0,0,146,119
+2006-02-15,South Korea,Mexico,1,0,Friendly,the United States,13,-13,1746,1830,1,-2,36,18
+2006-02-16,Bahrain,Palestine,0,2,Friendly,Bahrain,-27,27,1506,1273,-7,4,80,136
+2006-02-16,Thailand,Iraq,4,3,Friendly,Thailand,15,-15,1336,1585,3,-4,119,61
+2006-02-18,Hong Kong,India,2,2,Friendly,Hong Kong,-4,4,1227,1186,-1,1,147,160
+2006-02-18,Japan,Finland,2,0,Friendly,Japan,6,-6,1811,1640,0,-1,22,52
+2006-02-18,Palestine,Pakistan,3,0,Friendly,Bahrain,3,-3,1276,884,0,0,136,198
+2006-02-19,New Zealand,Malaysia,1,0,Friendly,New Zealand,2,-2,1516,1194,0,-2,76,158
+2006-02-19,United States,Guatemala,4,0,Friendly,the United States,4,-4,1839,1578,0,0,16,62
+2006-02-22,Bahrain,Australia,1,3,Asian Cup qualifier,Bahrain,-17,17,1489,1782,-5,4,85,26
+2006-02-22,China,Palestine,2,0,Asian Cup qualifier,China,4,-4,1637,1272,0,-1,53,137
+2006-02-22,Hong Kong,Qatar,0,3,Asian Cup qualifier,Hong Kong,-17,17,1210,1542,-6,3,153,71
+2006-02-22,Iran,Taiwan,4,0,Asian Cup qualifier,Iran,0,0,1828,974,0,0,19,191
+2006-02-22,Japan,India,6,0,Asian Cup qualifier,Japan,1,-1,1812,1185,0,1,22,159
+2006-02-22,Jordan,Pakistan,3,0,Asian Cup qualifier,Jordan,1,-1,1535,883,-1,0,73,198
+2006-02-22,Lebanon,Kuwait,1,1,Asian Cup qualifier,Lebanon,-2,2,1365,1435,-1,0,111,98
+2006-02-22,Singapore,Iraq,2,0,Asian Cup qualifier,Singapore,43,-43,1373,1542,12,-10,108,71
+2006-02-22,Syria,South Korea,1,2,Asian Cup qualifier,Syria,-13,13,1500,1759,-3,4,80,32
+2006-02-22,United Arab Emirates,Oman,1,0,Asian Cup qualifier,the United Arab Emirates,20,-20,1494,1556,7,-3,83,68
+2006-02-22,Uzbekistan,Bangladesh,5,0,Asian Cup qualifier,Uzbekistan,2,-2,1580,1051,1,-1,61,181
+2006-02-22,Yemen,Saudi Arabia,0,4,Asian Cup qualifier,Yemen,-14,14,1182,1571,-5,4,161,65
+2006-02-23,New Zealand,Malaysia,2,1,Friendly,New Zealand,2,-2,1518,1192,0,-1,76,158
+2006-02-24,Guyana,Antigua and Barbuda,2,1,Friendly,Guyana,7,-7,1114,1104,2,-1,169,171
+2006-02-24,Kazakhstan,North Korea,0,0,Friendly,Cyprus,5,-5,1318,1481,4,-3,123,89
+2006-02-25,Saint Kitts and Nevis,Saint Martin,6,1,Friendly,Saint Kitts and Nevis,5,-5,1251,1011,0,-2,141,188
+2006-02-26,Benin,Equatorial Guinea,0,1,Friendly,Benin,-17,17,1269,1104,-3,6,138,171
+2006-02-26,Guyana,Antigua and Barbuda,4,1,Friendly,Guyana,12,-12,1126,1092,1,-5,168,176
+2006-02-28,Algeria,Burkina Faso,0,0,Friendly,France,0,0,1407,1407,0,0,102,102
+2006-02-28,Azerbaijan,Ukraine,0,0,Friendly,Azerbaijan,7,-7,1356,1768,1,0,114,30
+2006-02-28,Bosnia and Herzegovina,Japan,2,2,Friendly,Germany,5,-5,1635,1807,1,0,53,22
+2006-02-28,Cyprus,Slovenia,0,1,Friendly tournament,Cyprus,-14,14,1449,1611,-4,1,96,56
+2006-02-28,Finland,Kazakhstan,0,0,Friendly tournament,Cyprus,-11,11,1629,1329,-2,2,54,121
+2006-02-28,Greece,Belarus,1,0,Friendly tournament,Cyprus,7,-7,1807,1581,1,-1,22,61
+2006-02-28,Romania,Armenia,2,0,Friendly tournament,Cyprus,3,-3,1851,1409,0,0,13,101
+2006-02-28,Trinidad and Tobago,Iceland,2,0,Friendly,England,12,-12,1589,1495,3,-4,60,82
+2006-03-01,Albania,Lithuania,1,2,Friendly,Albania,-15,15,1517,1478,-1,3,75,89
+2006-03-01,Austria,Canada,0,2,Friendly,Austria,-23,23,1645,1596,-4,6,51,58
+2006-03-01,Bangladesh,Hong Kong,0,1,Asian Cup qualifier,Bangladesh,-17,17,1034,1227,-2,6,183,147
+2006-03-01,Belarus,Finland,2,2,Friendly tournament,Cyprus,2,-2,1583,1627,-1,1,62,53
+2006-03-01,Croatia,Argentina,3,2,Friendly,Switzerland,13,-13,1847,1917,2,0,15,8
+2006-03-01,Cyprus,Armenia,2,0,Friendly tournament,Cyprus,14,-14,1463,1395,3,-2,93,103
+2006-03-01,England,Uruguay,2,1,Friendly,England,4,-4,1967,1817,2,0,3,21
+2006-03-01,France,Slovakia,1,2,Friendly,France,-18,18,1955,1700,-3,2,6,42
+2006-03-01,Greece,Kazakhstan,2,0,Friendly tournament,Cyprus,3,-3,1810,1326,0,-1,22,122
+2006-03-01,India,Yemen,0,3,Asian Cup qualifier,India,-45,45,1140,1227,-6,14,165,147
+2006-03-01,Iran,Costa Rica,3,2,Friendly,Iran,5,-5,1833,1738,-1,1,20,36
+2006-03-01,Iraq,China,2,1,Asian Cup qualifier,the United Arab Emirates,25,-25,1567,1612,6,-3,65,55
+2006-03-01,Ireland,Sweden,3,0,Friendly,Ireland,16,-16,1839,1873,3,-1,17,12
+2006-03-01,Israel,Denmark,0,2,Friendly,Israel,-12,12,1712,1900,-2,2,41,10
+2006-03-01,Italy,Germany,4,1,Friendly,Italy,10,-10,1949,1881,0,-1,7,11
+2006-03-01,Kuwait,Bahrain,0,0,Asian Cup qualifier,Kuwait,-3,3,1432,1492,0,1,98,84
+2006-03-01,Luxembourg,Belgium,0,2,Friendly,Luxembourg,-1,1,980,1699,0,0,190,43
+2006-03-01,Macedonia,Bulgaria,0,1,Friendly,Macedonia,-6,6,1476,1723,-2,2,90,39
+2006-03-01,Malta,Georgia,0,2,Friendly tournament,Malta,-14,14,1252,1512,-1,5,140,76
+2006-03-01,Mexico,Ghana,1,0,Friendly,the United States,4,-4,1834,1566,-1,-1,19,67
+2006-03-01,Netherlands,Ecuador,1,0,Friendly,the Netherlands,2,-2,1994,1720,0,0,2,40
+2006-03-01,Northern Ireland,Estonia,1,0,Friendly,Northern Ireland,5,-5,1506,1420,-1,0,79,100
+2006-03-01,Oman,Jordan,3,0,Asian Cup qualifier,Oman,23,-23,1579,1512,5,-3,63,76
+2006-03-01,Pakistan,United Arab Emirates,1,4,Asian Cup qualifier,Pakistan,-4,4,879,1498,-2,1,200,82
+2006-03-01,Palestine,Singapore,1,0,Asian Cup qualifier,Jordan,26,-26,1298,1347,4,-7,132,115
+2006-03-01,Portugal,Saudi Arabia,3,0,Friendly,Germany,4,-4,1914,1567,0,0,9,65
+2006-03-01,Qatar,Uzbekistan,2,1,Asian Cup qualifier,Qatar,16,-16,1558,1564,1,-6,70,68
+2006-03-01,Romania,Slovenia,2,0,Friendly tournament,Cyprus,9,-9,1860,1602,0,-1,13,57
+2006-03-01,Russia,Brazil,0,1,Friendly,Russia,-5,5,1752,2032,0,0,33,1
+2006-03-01,Scotland,Switzerland,1,3,Friendly,Scotland,-15,15,1666,1795,-1,2,46,25
+2006-03-01,Senegal,Norway,2,1,Friendly,Senegal,10,-10,1659,1738,2,0,48,36
+2006-03-01,South Korea,Angola,1,0,Friendly,South Korea,3,-3,1762,1552,1,-2,31,71
+2006-03-01,Spain,Ivory Coast,3,2,Friendly,Spain,3,-3,1960,1752,1,1,5,33
+2006-03-01,Taiwan,Syria,0,4,Asian Cup qualifier,Taiwan,-6,6,968,1506,0,0,191,79
+2006-03-01,Tunisia,Serbia and Montenegro,0,1,Friendly,Tunisia,-10,10,1689,1801,-2,0,44,24
+2006-03-01,Turkey,Czechia,2,2,Friendly,Turkey,1,-1,1845,1964,-1,0,16,4
+2006-03-01,United States,Poland,1,0,Friendly,Germany,10,-10,1849,1837,2,-4,14,18
+2006-03-01,Venezuela,Colombia,1,1,Friendly,Venezuela,2,-2,1607,1762,1,0,56,31
+2006-03-01,Wales,Paraguay,0,0,Friendly,Wales,2,-2,1595,1776,-1,-1,60,29
+2006-03-04,Equatorial Guinea,Congo,2,1,CEMAC Cup,Equatorial Guinea,29,-29,1133,1346,4,-9,167,115
+2006-03-06,Equatorial Guinea,Chad,1,1,CEMAC Cup,Equatorial Guinea,5,-5,1138,1308,0,-1,167,129
+2006-03-08,Chad,Congo,0,0,CEMAC Cup,Equatorial Guinea,2,-2,1310,1344,0,-2,129,117
+2006-03-08,Central African Republic,Gabon,2,2,CEMAC Cup,Equatorial Guinea,10,-10,1217,1383,4,0,151,104
+2006-03-11,Equatorial Guinea,Gabon,0,0,CEMAC Cup,Equatorial Guinea,8,-8,1146,1375,2,-1,165,105
+2006-03-14,Chad,Gabon,2,2,CEMAC Cup,Equatorial Guinea,4,-4,1314,1371,3,-2,126,107
+2006-03-15,Saudi Arabia,Iraq,2,2,Friendly,Saudi Arabia,-3,3,1564,1570,-2,0,67,65
+2006-03-22,Albania,Georgia,0,0,Friendly,Albania,-3,3,1514,1515,-1,1,76,75
+2006-03-22,Germany,United States,4,1,Friendly,Germany,11,-11,1892,1838,0,-3,11,17
+2006-03-26,Thailand,Philippines,5,0,Friendly,Thailand,1,-1,1337,697,0,0,120,216
+2006-03-28,Saudi Arabia,Poland,1,2,Friendly,Saudi Arabia,-5,5,1559,1842,-1,2,68,16
+2006-03-29,Equatorial Guinea,Benin,2,0,Friendly,Equatorial Guinea,16,-16,1162,1253,0,-1,165,139
+2006-03-29,Mexico,Paraguay,2,1,Friendly,the United States,8,-8,1842,1768,3,0,16,29
+2006-03-30,Japan,Ecuador,1,0,Friendly,Japan,5,-5,1812,1715,1,0,22,40
+2006-04-01,Bangladesh,Cambodia,2,1,Asian Challenge Cup,Bangladesh,6,-6,1040,819,0,0,183,206
+2006-04-01,India,Afghanistan,2,0,Asian Challenge Cup,Bangladesh,8,-8,1148,807,0,0,166,207
+2006-04-01,Palestine,Guam,11,0,Asian Challenge Cup,Bangladesh,1,-1,1299,533,0,0,132,231
+2006-04-01,Taiwan,Philippines,1,0,Asian Challenge Cup,Bangladesh,7,-7,975,690,0,0,191,216
+2006-04-01,Tanzania,Zanzibar,2,2,Friendly,Tanzania,-2,2,1182,1213,0,1,160,153
+2006-04-02,Nepal,Bhutan,2,0,Asian Challenge Cup,Bangladesh,10,-10,852,553,1,-1,201,228
+2006-04-02,Pakistan,Kyrgyzstan,1,0,Asian Challenge Cup,Bangladesh,34,-34,913,1159,4,-7,196,165
+2006-04-02,Sri Lanka,Brunei,1,0,Asian Challenge Cup,Bangladesh,11,-11,924,724,1,0,194,212
+2006-04-02,Tajikistan,Macao,4,0,Asian Challenge Cup,Bangladesh,4,-4,1350,823,1,-1,114,205
+2006-04-03,Afghanistan,Taiwan,2,2,Asian Challenge Cup,Bangladesh,9,-9,816,966,1,0,206,191
+2006-04-03,Bangladesh,Guam,3,0,Asian Challenge Cup,Bangladesh,2,-2,1042,531,1,0,182,231
+2006-04-03,India,Philippines,1,1,Asian Challenge Cup,Bangladesh,-17,17,1131,707,-1,2,167,214
+2006-04-03,Palestine,Cambodia,4,0,Asian Challenge Cup,Bangladesh,4,-4,1303,815,2,-1,130,207
+2006-04-04,Brunei,Nepal,2,1,Asian Challenge Cup,Bangladesh,27,-27,751,825,1,-3,211,204
+2006-04-04,Kyrgyzstan,Macao,1,0,Asian Challenge Cup,Bangladesh,5,-5,1164,818,1,0,164,205
+2006-04-04,Sri Lanka,Bhutan,1,0,Asian Challenge Cup,Bangladesh,4,-4,928,549,0,0,194,228
+2006-04-04,Tajikistan,Pakistan,2,0,Asian Challenge Cup,Bangladesh,4,-4,1354,909,0,0,114,196
+2006-04-05,Afghanistan,Philippines,1,1,Asian Challenge Cup,Bangladesh,-6,6,810,713,0,0,206,214
+2006-04-05,Bangladesh,Palestine,1,1,Asian Challenge Cup,Bangladesh,9,-9,1051,1294,1,-4,181,134
+2006-04-05,Cambodia,Guam,0,0,Asian Challenge Cup,Bangladesh,-13,13,802,544,0,2,207,229
+2006-04-05,India,Taiwan,0,0,Asian Challenge Cup,Bangladesh,-9,9,1122,975,-3,0,170,191
+2006-04-06,Bhutan,Brunei,0,0,Asian Challenge Cup,Bangladesh,10,-10,559,741,0,0,228,211
+2006-04-06,Cambodia,Guam,3,0,Asian Challenge Cup,Bangladesh,13,-13,815,531,1,-2,206,231
+2006-04-06,Kyrgyzstan,Tajikistan,1,0,Asian Challenge Cup,Bangladesh,30,-30,1194,1324,6,-9,158,123
+2006-04-06,Macao,Pakistan,2,2,Asian Challenge Cup,Bangladesh,5,-5,823,904,0,0,205,196
+2006-04-06,Nepal,Sri Lanka,1,1,Asian Challenge Cup,Bangladesh,6,-6,831,922,1,-1,203,195
+2006-04-07,Kyrgyzstan,Macao,2,0,Asian Challenge Cup,Bangladesh,6,-6,1200,817,2,0,156,205
+2006-04-08,Sri Lanka,Taiwan,3,0,Asian Challenge Cup,Bangladesh,40,-40,962,935,4,-2,191,193
+2006-04-09,Kyrgyzstan,Palestine,1,0,Asian Challenge Cup,Bangladesh,25,-25,1225,1269,6,-3,150,137
+2006-04-09,Nepal,India,3,0,Asian Challenge Cup,Bangladesh,59,-59,890,1063,4,-8,199,178
+2006-04-10,Bangladesh,Tajikistan,1,6,Asian Challenge Cup,Bangladesh,-22,22,1029,1346,-4,8,185,115
+2006-04-11,United States,Jamaica,1,1,Friendly,the United States,-7,7,1831,1653,-1,0,20,50
+2006-04-12,Azerbaijan,Turkey,1,1,Friendly,Azerbaijan,8,-8,1364,1837,2,-3,110,18
+2006-04-12,Nepal,Sri Lanka,1,1,Asian Challenge Cup,Bangladesh,4,-4,894,958,1,0,198,191
+2006-04-13,Tajikistan,Kyrgyzstan,2,0,Asian Challenge Cup,Bangladesh,20,-20,1366,1205,6,-6,109,156
+2006-04-14,Lesotho,Swaziland,5,0,Friendly,Lesotho,18,-18,1146,1178,1,-4,166,162
+2006-04-16,Lesotho,Swaziland,2,2,Friendly,Lesotho,-2,2,1144,1180,0,0,166,162
+2006-04-16,Tajikistan,Sri Lanka,4,0,Asian Challenge Cup,Bangladesh,7,-7,1373,951,3,0,106,191
+2006-04-22,Kosovo,Monaco,7,1,Friendly,France,3,-3,1374,890,3,0,105,199
+2006-04-25,Chile,New Zealand,4,1,Friendly,Chile,6,-6,1687,1512,0,-2,45,76
+2006-04-27,Chile,New Zealand,1,0,Friendly,Chile,3,-3,1690,1509,1,-1,44,77
+2006-04-29,Angola,Mauritius,5,1,COSAFA Cup,Lesotho,16,-16,1568,1313,5,-7,66,128
+2006-04-29,Lesotho,Mozambique,0,0,COSAFA Cup,Lesotho,3,-3,1147,1286,0,0,166,134
+2006-04-30,Lesotho,Angola,1,3,COSAFA Cup,Lesotho,-8,8,1139,1576,-1,1,167,65
+2006-04-30,Mauritius,Mozambique,0,0,COSAFA Cup,Lesotho,-2,2,1311,1288,0,0,128,134
+2006-05-02,Poland,Lithuania,0,1,Friendly,Poland,-19,19,1823,1497,-5,6,20,83
+2006-05-02,United Arab Emirates,Syria,2,1,Friendly,the United Arab Emirates,7,-7,1505,1499,2,-3,80,82
+2006-05-05,Mexico,Venezuela,1,0,Friendly,the United States,4,-4,1846,1603,0,0,15,56
+2006-05-09,Japan,Bulgaria,1,2,Kirin Cup,Japan,-22,22,1790,1745,-3,3,25,36
+2006-05-10,Lesotho,South Africa,0,0,Friendly,Lesotho,6,-6,1145,1448,1,0,166,96
+2006-05-10,Trinidad and Tobago,Peru,1,1,Friendly,Trinidad and Tobago,-1,1,1588,1664,0,0,61,47
+2006-05-11,Belgium,Saudi Arabia,2,1,Friendly,the Netherlands,6,-6,1705,1553,1,-2,42,71
+2006-05-11,Scotland,Bulgaria,5,1,Kirin Cup,Japan,34,-34,1700,1711,3,-5,43,41
+2006-05-12,Mexico,DR Congo,2,1,Friendly,Mexico,1,-1,1847,1484,1,0,14,87
+2006-05-13,Japan,Scotland,0,0,Kirin Cup,Japan,-7,7,1783,1707,-1,1,26,42
+2006-05-14,Botswana,Zambia,0,0,Friendly,Botswana,3,-3,1314,1506,3,-1,125,78
+2006-05-14,Poland,Faroe Islands,4,0,Friendly,Poland,1,-1,1824,1212,0,-1,20,154
+2006-05-14,Saudi Arabia,Togo,1,0,Friendly,the Netherlands,8,-8,1561,1484,2,-1,69,86
+2006-05-18,Moldova,Azerbaijan,0,0,Friendly,Moldova,-4,4,1425,1368,0,1,99,110
+2006-05-20,Botswana,Madagascar,2,0,COSAFA Cup,Botswana,16,-16,1330,1225,4,-7,121,149
+2006-05-20,Guadeloupe,Saint Lucia,2,1,Friendly tournament,Guadeloupe,8,-8,1364,1258,2,0,112,138
+2006-05-20,Slovakia,Belgium,1,1,Friendly,Slovakia,-3,3,1697,1708,0,1,44,42
+2006-05-20,South Africa,Swaziland,1,0,COSAFA Cup,Botswana,7,-7,1455,1173,0,0,96,162
+2006-05-21,Botswana,South Africa,0,0,COSAFA Cup,Botswana,1,-1,1331,1454,0,0,121,96
+2006-05-21,Swaziland,Madagascar,2,0,COSAFA Cup,Botswana,34,-34,1207,1191,7,-10,155,159
+2006-05-21,Uruguay,Northern Ireland,1,0,Friendly,the United States,3,-3,1820,1503,0,-2,21,80
+2006-05-23,Austria,Croatia,1,4,Friendly,Austria,-13,13,1632,1860,-1,1,52,13
+2006-05-23,South Korea,Senegal,1,1,Friendly,South Korea,-5,5,1757,1664,-1,0,32,48
+2006-05-23,United States,Morocco,0,1,Friendly,the United States,-17,17,1814,1673,-2,2,21,47
+2006-05-24,Belgium,Turkey,3,3,Friendly,Belgium,1,-1,1709,1836,0,0,42,17
+2006-05-24,Colombia,Ecuador,1,1,Friendly,the United States,-1,1,1761,1716,0,0,31,39
+2006-05-24,Hungary,New Zealand,2,0,Friendly,Hungary,8,-8,1604,1501,2,-3,56,80
+2006-05-24,Ireland,Chile,0,1,Friendly,Ireland,-16,16,1823,1706,-4,1,20,44
+2006-05-24,Norway,Paraguay,2,2,Friendly,Norway,-2,2,1736,1770,-1,0,37,29
+2006-05-24,Uruguay,Romania,2,0,Friendly,the United States,17,-17,1837,1843,4,-2,16,15
+2006-05-25,Australia,Greece,1,0,Friendly,Australia,8,-8,1790,1802,2,0,25,22
+2006-05-25,Sweden,Finland,0,0,Friendly,Sweden,-8,8,1865,1635,0,2,12,51
+2006-05-26,Czechia,Saudi Arabia,2,0,Friendly,Austria,3,-3,1967,1558,1,-1,3,70
+2006-05-26,Ghana,Turkey,1,1,Friendly,Germany,7,-7,1573,1829,1,-1,66,18
+2006-05-26,Romania,Northern Ireland,2,0,Friendly,the United States,4,-4,1847,1499,1,-2,14,81
+2006-05-26,South Korea,Bosnia and Herzegovina,2,0,Friendly,South Korea,7,-7,1764,1628,1,-2,31,53
+2006-05-26,United States,Venezuela,2,0,Friendly,the United States,4,-4,1818,1599,0,-1,21,58
+2006-05-27,Colombia,Romania,0,0,Friendly,the United States,2,-2,1763,1845,0,0,32,14
+2006-05-27,Denmark,Paraguay,1,1,Friendly,Denmark,-6,6,1894,1776,0,0,10,29
+2006-05-27,France,Mexico,1,0,Friendly,France,5,-5,1960,1842,1,-1,5,15
+2006-05-27,Germany,Luxembourg,7,0,Friendly,Germany,0,0,1892,980,0,0,11,190
+2006-05-27,Netherlands,Cameroon,1,0,Friendly,the Netherlands,3,-3,1997,1781,0,-1,2,27
+2006-05-27,New Zealand,Georgia,3,1,Friendly,Germany,16,-16,1517,1499,5,-6,74,80
+2006-05-27,Portugal,Cape Verde,4,1,Friendly,Portugal,1,-1,1915,1313,0,-2,9,128
+2006-05-27,Serbia and Montenegro,Uruguay,1,1,Friendly,Serbia and Montenegro,-2,2,1799,1839,0,0,23,16
+2006-05-27,Spain,Russia,0,0,Friendly,Spain,-7,7,1953,1759,-1,0,6,33
+2006-05-27,Switzerland,Ivory Coast,1,1,Friendly,Switzerland,-4,4,1791,1756,0,-1,24,34
+2006-05-27,Wales,Trinidad and Tobago,2,1,Friendly,Austria,10,-10,1605,1578,4,-2,56,63
+2006-05-28,Croatia,Iran,2,2,Friendly,Croatia,-4,4,1856,1837,0,0,13,17
+2006-05-28,Estonia,Turkey,1,1,Friendly,Germany,8,-8,1428,1821,1,-2,99,20
+2006-05-28,Macedonia,Ecuador,2,1,Friendly,Spain,16,-16,1492,1700,5,-5,85,44
+2006-05-28,Mali,Morocco,1,0,Friendly,France,14,-14,1536,1659,0,-2,73,49
+2006-05-28,Ukraine,Costa Rica,4,0,Friendly,Ukraine,12,-12,1780,1726,2,-2,28,38
+2006-05-28,United States,Latvia,1,0,Friendly,the United States,2,-2,1820,1482,0,-3,21,89
+2006-05-29,Ghana,Jamaica,4,1,Friendly,England,21,-21,1594,1632,5,-1,61,51
+2006-05-29,Northern Cyprus,Greenland,1,0,Mini World Cup,Germany,2,-2,1465,980,0,0,93,189
+2006-05-30,Argentina,Angola,2,0,Friendly,Italy,4,-4,1921,1572,0,1,8,65
+2006-05-30,Chile,Ivory Coast,1,1,Friendly,France,1,-1,1707,1755,1,0,42,34
+2006-05-30,Czechia,Costa Rica,1,0,Friendly,Czechia,2,-2,1969,1724,0,0,3,38
+2006-05-30,England,Hungary,3,1,Friendly,England,2,-2,1969,1602,0,0,3,57
+2006-05-30,Germany,Japan,2,2,Friendly,Germany,-5,5,1887,1788,0,0,11,26
+2006-05-30,Northern Cyprus,Zanzibar,3,1,Mini World Cup,Germany,11,-11,1476,1202,2,-4,91,156
+2006-05-30,Poland,Colombia,1,2,Friendly,Poland,-14,14,1810,1777,-3,3,21,29
+2006-05-30,Tunisia,Belarus,3,0,LG Cup,Tunisia,12,-12,1701,1571,2,-4,44,66
+2006-05-30,Uruguay,Libya,2,1,LG Cup,Tunisia,3,-3,1842,1460,1,-1,15,95
+2006-05-31,Estonia,New Zealand,1,1,Friendly,Estonia,0,0,1428,1517,0,0,99,74
+2006-05-31,France,Denmark,2,0,Friendly,France,8,-8,1968,1886,0,-1,5,11
+2006-05-31,Gibraltar,Tibet,5,0,Mini World Cup,Germany,7,-7,1095,669,2,-1,174,221
+2006-05-31,Iran,Bosnia and Herzegovina,5,2,Friendly,Iran,5,-5,1842,1623,2,0,15,53
+2006-05-31,Paraguay,Georgia,1,0,Friendly,Austria,3,-3,1779,1496,2,-3,29,83
+2006-05-31,Singapore,Malaysia,0,0,Tiger Challenge,Singapore,-9,9,1338,1201,-3,1,118,157
+2006-05-31,Slovenia,Trinidad and Tobago,3,1,Friendly,Slovenia,10,-10,1612,1568,2,-4,55,67
+2006-05-31,Switzerland,Italy,1,1,Friendly,Switzerland,2,-2,1793,1947,0,0,24,7
+2006-05-31,Turkey,Saudi Arabia,1,0,Friendly,Germany,4,-4,1825,1554,1,-1,18,71
+2006-05-31,Zanzibar,Greenland,4,2,Mini World Cup,Germany,13,-13,1215,967,4,-1,152,190
+2006-06-01,Netherlands,Mexico,2,1,Friendly,the Netherlands,4,-4,2001,1838,0,-2,2,17
+2006-06-01,Northern Cyprus,Gibraltar,2,0,Mini World Cup,Germany,6,-6,1482,1089,2,-2,89,176
+2006-06-01,Norway,South Korea,0,0,Friendly,Norway,-2,2,1734,1766,0,0,36,32
+2006-06-02,Belarus,Libya,1,1,LG Cup,Tunisia,-5,5,1566,1465,-2,1,67,94
+2006-06-02,Germany,Colombia,3,0,Friendly,Germany,8,-8,1895,1769,0,-1,10,31
+2006-06-02,Italy,Ukraine,0,0,Friendly,Switzerland,-4,4,1943,1784,0,1,7,27
+2006-06-02,Liechtenstein,Togo,0,1,Friendly,Liechtenstein,-4,4,1121,1488,0,0,169,87
+2006-06-02,Sweden,Chile,1,1,Friendly,Sweden,-6,6,1859,1713,0,3,12,39
+2006-06-02,Tunisia,Uruguay,0,0,LG Cup,Tunisia,2,-2,1703,1840,0,-1,44,16
+2006-06-02,Turkey,Angola,3,2,Friendly,the Netherlands,4,-4,1829,1568,0,-1,18,65
+2006-06-03,Czechia,Trinidad and Tobago,3,0,Friendly,Czechia,2,-2,1971,1566,-1,-2,4,67
+2006-06-03,England,Jamaica,6,0,Friendly,England,3,-3,1972,1629,0,-2,3,53
+2006-06-03,Malaysia,Singapore,0,0,Tiger Challenge,Malaysia,2,-2,1203,1336,-1,-3,158,121
+2006-06-03,Northern Cyprus,Zanzibar,0,0,Mini World Cup,Germany,-13,13,1469,1228,-5,5,94,147
+2006-06-03,Poland,Croatia,1,0,Friendly,Germany,11,-11,1821,1845,1,0,20,13
+2006-06-03,Portugal,Luxembourg,3,0,Friendly,France,0,0,1915,980,0,-1,9,190
+2006-06-03,Spain,Egypt,2,0,Friendly,Spain,4,-4,1957,1745,0,0,6,35
+2006-06-03,Switzerland,China,4,1,Friendly,Switzerland,6,-6,1799,1606,1,-2,23,57
+2006-06-04,Algeria,Sudan,1,0,Friendly,Algeria,5,-5,1412,1298,0,-1,102,132
+2006-06-04,Brazil,New Zealand,4,0,Friendly,Switzerland,2,-2,2034,1515,0,0,1,75
+2006-06-04,Colombia,Morocco,2,0,Friendly,Spain,10,-10,1779,1649,2,0,29,50
+2006-06-04,Ghana,South Korea,3,1,Friendly,Scotland,22,-22,1616,1744,7,-3,55,35
+2006-06-04,Ivory Coast,Slovenia,3,0,Friendly,France,11,-11,1766,1601,2,-4,32,60
+2006-06-04,Japan,Malta,1,0,Friendly,Germany,1,-1,1789,1251,0,0,26,141
+2006-06-04,Macedonia,Turkey,1,0,Friendly,Germany,17,-17,1509,1812,8,-3,78,21
+2006-06-04,Netherlands,Australia,1,1,Friendly,the Netherlands,-7,7,1994,1797,0,0,2,25
+2006-06-05,Ukraine,Libya,3,0,Friendly,Switzerland,5,-5,1789,1460,1,-1,26,96
+2006-06-05,United States,Angola,1,0,Friendly,Germany,4,-4,1824,1564,2,-2,18,68
+2006-06-07,Australia,Liechtenstein,3,1,Friendly,Germany,1,-1,1798,1120,0,0,25,170
+2006-06-07,France,China,3,1,Friendly,France,2,-2,1970,1604,0,-1,5,58
+2006-06-07,Spain,Croatia,2,1,Friendly,Switzerland,7,-7,1964,1838,0,-3,6,16
+2006-06-08,Luxembourg,Ukraine,0,3,Friendly,Luxembourg,-1,1,979,1790,0,0,190,26
+2006-06-09,Ecuador,Poland,2,0,World Cup,Germany,60,-60,1760,1761,12,-12,33,32
+2006-06-09,Germany,Costa Rica,4,2,World Cup,Germany,16,-16,1911,1708,0,-5,10,43
+2006-06-10,Argentina,Ivory Coast,2,1,World Cup,Germany,17,-17,1938,1749,0,-3,8,34
+2006-06-10,England,Paraguay,1,0,World Cup,Germany,15,-15,1987,1764,0,-2,3,30
+2006-06-10,Sweden,Trinidad and Tobago,0,0,World Cup,Germany,-21,21,1838,1587,-3,3,15,63
+2006-06-11,Mexico,Iran,3,1,World Cup,Germany,46,-46,1884,1796,3,-10,12,23
+2006-06-11,Netherlands,Serbia and Montenegro,1,0,World Cup,Germany,15,-15,2009,1784,0,-4,2,26
+2006-06-11,Portugal,Angola,1,0,World Cup,Germany,7,-7,1922,1557,0,-3,9,71
+2006-06-12,Australia,Japan,3,1,World Cup,Germany,44,-44,1842,1745,8,-9,14,34
+2006-06-12,Czechia,United States,3,0,World Cup,Germany,32,-32,2003,1792,1,-6,3,23
+2006-06-12,Italy,Ghana,2,0,World Cup,Germany,12,-12,1955,1604,0,-2,7,57
+2006-06-13,Brazil,Croatia,1,0,World Cup,Germany,15,-15,2049,1823,0,-1,1,17
+2006-06-13,France,Switzerland,0,0,World Cup,Germany,-14,14,1956,1813,-1,2,6,19
+2006-06-13,South Korea,Togo,2,1,World Cup,Germany,11,-11,1755,1477,3,-3,33,91
+2006-06-14,Germany,Poland,1,0,World Cup,Germany,12,-12,1923,1749,1,-3,9,33
+2006-06-14,Saudi Arabia,Tunisia,2,2,World Cup,Germany,12,-12,1566,1691,5,-1,67,46
+2006-06-14,Spain,Ukraine,4,0,World Cup,Germany,30,-30,1994,1760,1,-5,4,29
+2006-06-15,Ecuador,Costa Rica,3,0,World Cup,Germany,45,-45,1805,1663,8,-6,21,49
+2006-06-15,England,Trinidad and Tobago,2,0,World Cup,Germany,8,-8,1995,1579,1,0,4,63
+2006-06-15,Sweden,Paraguay,1,0,World Cup,Germany,24,-24,1862,1740,3,-8,13,36
+2006-06-16,Angola,Mexico,0,0,World Cup,Germany,22,-22,1579,1862,9,0,63,12
+2006-06-16,Argentina,Serbia and Montenegro,6,0,World Cup,Germany,37,-37,1975,1747,2,-7,6,32
+2006-06-16,Netherlands,Ivory Coast,2,1,World Cup,Germany,11,-11,2020,1738,0,-4,2,36
+2006-06-17,Ghana,Czechia,2,0,World Cup,Germany,82,-82,1686,1921,11,-7,46,10
+2006-06-17,Italy,United States,1,1,World Cup,Germany,-13,13,1942,1805,0,3,8,21
+2006-06-17,Portugal,Iran,2,0,World Cup,Germany,29,-29,1951,1767,3,-4,7,27
+2006-06-18,Brazil,Australia,2,0,World Cup,Germany,21,-21,2070,1821,0,-2,1,17
+2006-06-18,Croatia,Japan,0,0,World Cup,Germany,-7,7,1816,1752,-1,2,18,31
+2006-06-18,France,South Korea,1,1,World Cup,Germany,-16,16,1940,1771,-2,3,8,27
+2006-06-19,Spain,Tunisia,3,1,World Cup,Germany,13,-13,2007,1678,1,-1,3,46
+2006-06-19,Switzerland,Togo,2,0,World Cup,Germany,11,-11,1824,1466,3,-3,16,94
+2006-06-19,Ukraine,Saudi Arabia,4,0,World Cup,Germany,28,-28,1788,1538,5,-5,24,73
+2006-06-20,England,Sweden,2,2,World Cup,Germany,-11,11,1984,1873,0,0,4,12
+2006-06-20,Germany,Ecuador,3,0,World Cup,Germany,23,-23,1946,1782,2,-3,7,24
+2006-06-20,Paraguay,Trinidad and Tobago,2,0,World Cup,Germany,26,-26,1766,1553,4,-8,31,71
+2006-06-20,Poland,Costa Rica,2,1,World Cup,Germany,23,-23,1772,1640,4,-1,28,51
+2006-06-21,Angola,Iran,1,1,World Cup,Germany,15,-15,1594,1752,0,-3,63,33
+2006-06-21,Argentina,Netherlands,0,0,World Cup,Germany,4,-4,1979,2016,0,0,5,2
+2006-06-21,Ivory Coast,Serbia and Montenegro,3,2,World Cup,Germany,31,-31,1769,1716,6,-4,30,38
+2006-06-21,Portugal,Mexico,2,1,World Cup,Germany,22,-22,1973,1840,0,-1,6,14
+2006-06-22,Australia,Croatia,2,2,World Cup,Germany,0,0,1821,1816,0,0,18,19
+2006-06-22,Brazil,Japan,4,1,World Cup,Germany,15,-15,2085,1737,0,-2,1,35
+2006-06-22,Ghana,United States,2,1,World Cup,Germany,40,-40,1726,1765,7,-10,38,31
+2006-06-22,Italy,Czechia,2,0,World Cup,Germany,42,-42,1984,1879,4,-1,4,11
+2006-06-23,France,Togo,2,0,World Cup,Germany,6,-6,1946,1460,1,-1,8,95
+2006-06-23,Spain,Saudi Arabia,1,0,World Cup,Germany,4,-4,2011,1534,0,-1,3,74
+2006-06-23,Switzerland,South Korea,2,0,World Cup,Germany,38,-38,1862,1733,3,-8,13,36
+2006-06-23,Ukraine,Tunisia,1,0,World Cup,Germany,21,-21,1809,1657,1,-3,21,49
+2006-06-24,Argentina,Mexico,2,1,World Cup,Germany,19,-19,1998,1821,2,-2,4,17
+2006-06-24,Germany,Sweden,2,0,World Cup,Germany,24,-24,1970,1849,0,-1,8,13
+2006-06-24,Malawi,Zimbabwe,1,1,Independence Tournament,Mozambique,7,-7,1332,1493,2,-5,122,86
+2006-06-24,Mozambique,Swaziland,4,0,Independence Tournament,Mozambique,15,-15,1303,1192,4,-3,131,159
+2006-06-25,England,Ecuador,1,0,World Cup,Germany,14,-14,1998,1768,1,-5,4,28
+2006-06-25,Mozambique,Malawi,1,2,Independence Tournament,Mozambique,-18,18,1285,1350,-4,6,135,116
+2006-06-25,Portugal,Netherlands,1,0,World Cup,Germany,34,-34,2007,1982,4,-5,3,7
+2006-06-25,Zimbabwe,Swaziland,2,1,Independence Tournament,Mozambique,5,-5,1498,1187,3,-1,83,160
+2006-06-26,Italy,Australia,1,0,World Cup,Germany,17,-17,2001,1804,2,-4,4,21
+2006-06-26,Switzerland,Ukraine,0,0,World Cup,Germany,-5,5,1857,1814,0,2,12,19
+2006-06-26,Tanzania,Mauritius,2,1,Independence Tournament,the Seychelles,20,-20,1202,1291,3,-4,158,134
+2006-06-27,Brazil,Ghana,3,0,World Cup,Germany,12,-12,2097,1714,0,-1,1,39
+2006-06-27,France,Spain,3,1,World Cup,Germany,53,-53,1999,1958,5,-7,4,9
+2006-06-28,Seychelles,Mauritius,2,1,Independence Tournament,the Seychelles,21,-21,1074,1270,2,-2,179,136
+2006-06-30,Germany,Argentina,1,1,World Cup,Germany,-6,6,1964,2004,0,1,8,4
+2006-06-30,Italy,Ukraine,3,0,World Cup,Germany,27,-27,2028,1787,1,-3,2,22
+2006-06-30,Seychelles,Tanzania,2,1,Independence Tournament,the Seychelles,16,-16,1090,1186,2,-3,177,161
+2006-07-01,England,Portugal,0,0,World Cup,Germany,1,-1,1999,2006,0,-1,6,4
+2006-07-01,France,Brazil,1,0,World Cup,Germany,38,-38,2037,2059,3,0,2,1
+2006-07-02,Kazakhstan,Tajikistan,4,1,Friendly,Kazakhstan,15,-15,1341,1358,4,-6,120,114
+2006-07-04,Germany,Italy,0,2,World Cup,Germany,-50,50,1914,2078,-1,2,9,1
+2006-07-05,France,Portugal,1,0,World Cup,Germany,27,-27,2064,1979,1,-3,2,7
+2006-07-05,Kazakhstan,Kyrgyzstan,1,0,Friendly,Kazakhstan,4,-4,1345,1201,2,-1,118,157
+2006-07-06,Malawi,Botswana,2,1,Independence Tournament,Malawi,10,-10,1360,1321,2,0,114,124
+2006-07-08,Germany,Portugal,3,1,World Cup,Germany,40,-40,1954,1939,1,-2,8,9
+2006-07-08,Malawi,Botswana,0,0,Independence Tournament,Malawi,-6,6,1354,1327,-2,0,116,124
+2006-07-09,France,Italy,1,1,World Cup,Germany,1,-1,2065,2077,0,0,2,1
+2006-07-15,Saba,Sint Eustatius,3,5,Friendly,Saba,-17,17,672,756,-3,2,221,211
+2006-07-15,Syria,Iraq,1,3,Friendly,Syria,-16,16,1483,1586,-7,2,88,64
+2006-07-15,Zambia,Zimbabwe,0,0,Friendly,Zambia,-3,3,1503,1501,-1,2,80,81
+2006-07-16,Saba,Sint Eustatius,5,5,Friendly,Saba,0,0,672,756,0,0,221,211
+2006-07-17,Ethiopia,Yemen,1,0,Friendly,Ethiopia,3,-3,1442,1224,0,-2,98,150
+2006-07-21,Jordan,Iraq,2,1,Friendly,Jordan,9,-9,1521,1577,2,-2,75,66
+2006-07-22,Namibia,Seychelles,1,1,COSAFA Cup,Namibia,-9,9,1160,1099,-2,3,166,174
+2006-07-22,Zambia,Malawi,3,1,COSAFA Cup,Namibia,18,-18,1521,1336,5,-6,75,122
+2006-07-23,Namibia,Malawi,3,2,COSAFA Cup,Namibia,24,-24,1184,1312,4,-7,162,129
+2006-07-23,Zambia,Seychelles,2,0,COSAFA Cup,Namibia,5,-5,1526,1094,0,-1,75,175
+2006-07-25,Syria,Iraq,1,2,Friendly,Syria,-10,10,1473,1587,-3,2,91,64
+2006-07-26,Rwanda,Uganda,1,1,Friendly,Rwanda,-1,1,1313,1374,-1,2,127,106
+2006-07-28,Guyana,Saint Lucia,3,2,Friendly,Guyana,11,-11,1137,1247,0,-3,169,142
+2006-07-30,Guyana,Saint Lucia,2,0,Friendly,Guyana,15,-15,1152,1232,2,-2,167,144
+2006-07-30,Jordan,Syria,3,0,Friendly,Jordan,10,-10,1531,1463,1,-2,75,93
+2006-07-30,Tanzania,Rwanda,1,0,Friendly,Tanzania,11,-11,1197,1302,2,-2,159,129
+2006-08-05,Syria,Libya,2,1,Friendly,Syria,7,-7,1470,1453,1,-2,92,97
+2006-08-05,Uganda,Botswana,0,0,Friendly,Uganda,-4,4,1370,1331,-3,0,109,123
+2006-08-08,Iran,United Arab Emirates,1,0,Friendly,Iran,2,-2,1754,1503,0,0,32,80
+2006-08-09,Japan,Trinidad and Tobago,2,0,Friendly,Japan,5,-5,1742,1548,0,0,34,71
+2006-08-09,Jordan,Iraq,0,1,Friendly,Jordan,-11,11,1520,1598,-1,2,76,62
+2006-08-09,Macao,Taiwan,0,1,Friendly,Macao,-9,9,808,944,-2,1,208,193
+2006-08-09,Saudi Arabia,Bahrain,1,0,Friendly,Saudi Arabia,6,-6,1540,1486,1,0,73,86
+2006-08-11,Ethiopia,Kenya,1,0,Friendly,Ethiopia,5,-5,1447,1359,0,-1,98,113
+2006-08-12,Hong Kong,Singapore,1,2,Friendly,Hong Kong,-10,10,1217,1346,-3,6,151,116
+2006-08-13,Ethiopia,Kenya,1,0,Friendly,Ethiopia,5,-5,1452,1354,0,-2,98,115
+2006-08-15,Gabon,Algeria,2,0,Friendly,France,17,-17,1388,1395,3,-1,105,103
+2006-08-15,Ghana,Togo,2,0,Friendly,England,6,-6,1720,1454,1,0,38,95
+2006-08-15,Iceland,Spain,0,0,Friendly,Iceland,8,-8,1503,1950,5,-1,80,8
+2006-08-15,Slovakia,Malta,3,0,Friendly,Slovakia,1,-1,1698,1250,0,-1,45,141
+2006-08-15,Slovenia,Israel,1,1,Friendly,Slovenia,0,0,1601,1712,0,0,60,41
+2006-08-15,Ukraine,Azerbaijan,6,0,Friendly,Ukraine,2,-2,1789,1366,0,0,22,110
+2006-08-15,Wales,Bulgaria,0,0,Friendly,Wales,0,0,1605,1711,0,0,57,42
+2006-08-16,Australia,Kuwait,2,0,Asian Cup qualifier,Australia,4,-4,1808,1428,1,-1,19,100
+2006-08-16,Austria,Hungary,1,2,Friendly,Austria,-14,14,1618,1616,-3,2,56,57
+2006-08-16,Bangladesh,Qatar,1,4,Asian Cup qualifier,Bangladesh,-5,5,1024,1563,0,2,186,68
+2006-08-16,Belarus,Andorra,3,0,Friendly,Belarus,1,-1,1567,1103,0,0,67,172
+2006-08-16,Belgium,Kazakhstan,0,0,European Championship qualifier,Belgium,-17,17,1692,1362,-2,5,45,113
+2006-08-16,Bosnia and Herzegovina,France,1,2,Friendly,Bosnia and Herzegovina,-2,2,1621,2067,2,1,53,1
+2006-08-16,Cameroon,Guinea,1,1,Friendly,France,-4,4,1777,1620,-1,2,24,54
+2006-08-16,Chile,Colombia,1,2,Friendly,Chile,-11,11,1702,1790,-3,2,43,22
+2006-08-16,China,Singapore,1,0,Asian Cup qualifier,China,5,-5,1609,1341,0,-4,58,120
+2006-08-16,Czechia,Serbia,1,3,Friendly,Czechia,-25,25,1854,1741,-2,6,13,33
+2006-08-16,Denmark,Poland,2,0,Friendly,Denmark,7,-7,1893,1765,0,-2,10,28
+2006-08-16,Egypt,Uruguay,0,2,Friendly,Egypt,-15,15,1730,1855,-4,3,37,12
+2006-08-16,England,Greece,4,0,Friendly,England,6,-6,2005,1796,1,0,4,21
+2006-08-16,Estonia,Macedonia,0,1,European Championship qualifier,Estonia,-21,21,1407,1530,-1,4,101,75
+2006-08-16,Faroe Islands,Georgia,0,6,European Championship qualifier,the Faroe Islands,-22,22,1190,1518,-6,7,160,78
+2006-08-16,Finland,Northern Ireland,1,2,Friendly,Finland,-16,16,1619,1515,-3,3,55,80
+2006-08-16,Germany,Sweden,3,0,Friendly,Germany,8,-8,1962,1841,0,-3,7,16
+2006-08-16,Guatemala,Haiti,1,1,Friendly,the United States,-3,3,1575,1476,0,-1,66,92
+2006-08-16,India,Saudi Arabia,0,3,Asian Cup qualifier,India,-7,7,1056,1547,-1,1,181,72
+2006-08-16,Iran,Syria,1,1,Asian Cup qualifier,Iran,-16,16,1738,1486,-3,5,35,87
+2006-08-16,Ireland,Netherlands,0,4,Friendly,Ireland,-16,16,1807,1998,-4,0,20,6
+2006-08-16,Italy,Croatia,0,2,Friendly,Italy,-27,27,2050,1843,-2,3,3,15
+2006-08-16,Japan,Yemen,2,0,Asian Cup qualifier,Japan,2,-2,1744,1222,2,-2,32,151
+2006-08-16,Jordan,United Arab Emirates,1,2,Asian Cup qualifier,Jordan,-26,26,1494,1529,-9,4,85,76
+2006-08-16,Libya,Uganda,3,2,Friendly,Libya,5,-5,1458,1365,1,-1,96,110
+2006-08-16,Liechtenstein,Switzerland,0,3,Friendly,Liechtenstein,-1,1,1119,1858,0,1,170,11
+2006-08-16,Luxembourg,Turkey,0,1,Friendly,Luxembourg,0,0,979,1812,0,1,190,18
+2006-08-16,Mali,Tunisia,1,0,Friendly,France,13,-13,1549,1644,4,0,70,49
+2006-08-16,Moldova,Lithuania,3,2,Friendly,Moldova,9,-9,1434,1488,2,-2,99,86
+2006-08-16,Morocco,Burkina Faso,1,0,Friendly,Morocco,2,-2,1651,1405,2,0,48,102
+2006-08-16,Namibia,South Africa,0,1,Friendly,Namibia,-5,5,1179,1459,-2,0,164,95
+2006-08-16,Norway,Brazil,1,1,Friendly,Norway,6,-6,1740,2053,1,1,34,2
+2006-08-16,Pakistan,Oman,1,4,Asian Cup qualifier,Pakistan,-2,2,902,1581,0,0,197,65
+2006-08-16,Peru,Panama,0,2,Friendly,Peru,-25,25,1639,1500,-4,6,51,84
+2006-08-16,Romania,Cyprus,2,0,Friendly,Romania,2,-2,1847,1461,0,0,14,94
+2006-08-16,Russia,Latvia,1,0,Friendly,Russia,2,-2,1761,1480,1,-3,30,91
+2006-08-16,San Marino,Albania,0,3,Friendly,San Marino,-2,2,939,1516,0,-1,194,79
+2006-08-16,Senegal,Ivory Coast,1,0,Friendly,France,13,-13,1677,1756,1,-4,46,31
+2006-08-16,Taiwan,South Korea,0,3,Asian Cup qualifier,Taiwan,-1,1,943,1734,0,0,193,36
+2006-08-16,Uzbekistan,Hong Kong,2,2,Asian Cup qualifier,Uzbekistan,-17,17,1547,1234,-4,7,72,144
+2006-08-16,Venezuela,Honduras,0,0,Friendly,Venezuela,1,-1,1600,1728,0,-1,61,38
+2006-08-17,Iraq,Palestine,3,0,Asian Cup qualifier,Jordan,9,-9,1607,1260,3,0,59,138
+2006-08-19,Zambia,Botswana,1,0,COSAFA Cup,Zambia,6,-6,1532,1325,2,0,75,123
+2006-08-23,Malaysia,Indonesia,1,1,Independence Tournament,Malaysia,0,0,1203,1296,0,0,155,132
+2006-08-25,Indonesia,Myanmar,0,0,Independence Tournament,Malaysia,-7,7,1289,1120,-1,1,133,170
+2006-08-26,Swaziland,Lesotho,3,1,Friendly,Swaziland,9,-9,1196,1136,2,-1,159,169
+2006-08-26,Tanzania,Zanzibar,1,0,Friendly,Tanzania,8,-8,1205,1220,3,-2,155,150
+2006-08-26,Yemen,Libya,0,1,Friendly,Yemen,-6,6,1216,1464,-2,2,153,94
+2006-08-27,Antigua and Barbuda,Saint Vincent and the Grenadines,1,0,Friendly,Antigua and Barbuda,14,-14,1106,1328,5,-3,172,122
+2006-08-27,Malaysia,Myanmar,1,2,Independence Tournament,Malaysia,-22,22,1181,1142,-7,2,163,168
+2006-08-27,Saudi Arabia,United Arab Emirates,1,0,Friendly,Saudi Arabia,7,-7,1554,1522,2,0,70,77
+2006-08-29,Myanmar,Indonesia,2,1,Independence Tournament,Malaysia,21,-21,1163,1268,2,-4,166,137
+2006-08-29,Togo,Niger,1,1,Friendly,Togo,-6,6,1448,1308,-1,0,98,129
+2006-08-29,Uganda,Burkina Faso,0,0,Friendly,Uganda,-2,2,1363,1407,-2,1,112,101
+2006-08-29,Yemen,Libya,1,1,Friendly,Yemen,4,-4,1220,1460,3,-1,150,95
+2006-09-01,Denmark,Portugal,4,2,Friendly,Denmark,13,-13,1906,1926,0,0,10,9
+2006-09-01,Oman,Syria,3,0,Friendly,Oman,9,-9,1590,1477,0,-4,65,91
+2006-09-02,Austria,Costa Rica,2,2,Friendly tournament,Switzerland,1,-1,1619,1639,0,-1,56,51
+2006-09-02,Bahamas,Cayman Islands,3,1,CONCACAF Champ & Carib Cup qual,Cuba,49,-49,876,1031,2,-4,203,183
+2006-09-02,Bahrain,Jordan,0,2,Friendly,Bahrain,-19,19,1467,1513,-6,4,93,81
+2006-09-02,Barbados,Guyana,0,1,Friendly tournament,Barbados,-24,24,1271,1176,-2,2,134,166
+2006-09-02,Belarus,Albania,2,2,European Championship qualifier,Belarus,-8,8,1559,1524,-1,1,68,78
+2006-09-02,Cuba,Turks and Caicos Islands,6,0,CONCACAF Champ & Carib Cup qual,Cuba,1,-1,1545,763,-1,0,75,210
+2006-09-02,Czechia,Wales,2,1,European Championship qualifier,Czechia,5,-5,1859,1600,1,0,12,60
+2006-09-02,Egypt,Burundi,4,1,African Nations Cup qualifier,Egypt,2,-2,1732,1227,2,-1,35,148
+2006-09-02,England,Andorra,5,0,European Championship qualifier,England,0,0,2005,1103,0,-1,4,174
+2006-09-02,Estonia,Israel,0,1,European Championship qualifier,Estonia,-9,9,1398,1721,-1,1,102,39
+2006-09-02,Gabon,Madagascar,4,0,African Nations Cup qualifier,Gabon,11,-11,1399,1180,4,-5,101,164
+2006-09-02,Georgia,France,0,3,European Championship qualifier,Georgia,-5,5,1513,2072,-3,0,81,1
+2006-09-02,Germany,Ireland,1,0,European Championship qualifier,Germany,7,-7,1969,1800,0,-1,7,21
+2006-09-02,Hungary,Norway,1,4,European Championship qualifier,Hungary,-33,33,1583,1773,-8,8,65,26
+2006-09-02,Italy,Lithuania,1,1,European Championship qualifier,Italy,-19,19,2031,1507,0,3,3,83
+2006-09-02,Kenya,Eritrea,1,2,African Nations Cup qualifier,Kenya,-35,35,1319,1131,-6,5,122,170
+2006-09-02,Latvia,Sweden,0,1,European Championship qualifier,Latvia,-7,7,1473,1848,0,2,90,14
+2006-09-02,Luxembourg,Netherlands,0,1,European Championship qualifier,Luxembourg,0,0,979,1998,0,0,190,6
+2006-09-02,Malta,Bosnia and Herzegovina,2,5,European Championship qualifier,Malta,-12,12,1238,1633,-2,0,143,53
+2006-09-02,Mauritania,Botswana,4,0,African Nations Cup qualifier,Mauritania,46,-46,1186,1279,9,-9,160,132
+2006-09-02,Moldova,Greece,0,1,European Championship qualifier,Moldova,-7,7,1427,1803,-1,1,100,20
+2006-09-02,Morocco,Malawi,2,0,African Nations Cup qualifier,Morocco,4,-4,1655,1308,-1,1,49,127
+2006-09-02,Nigeria,Niger,2,0,African Nations Cup qualifier,Nigeria,2,-2,1779,1306,0,1,24,128
+2006-09-02,Northern Ireland,Iceland,0,3,European Championship qualifier,Northern Ireland,-46,46,1469,1549,-11,10,91,72
+2006-09-02,Poland,Finland,1,3,European Championship qualifier,Poland,-48,48,1717,1667,-13,7,41,48
+2006-09-02,Romania,Bulgaria,2,2,European Championship qualifier,Romania,-12,12,1835,1723,-2,3,16,38
+2006-09-02,Scotland,Faroe Islands,6,0,European Championship qualifier,Scotland,2,-2,1709,1188,0,1,42,159
+2006-09-02,Senegal,Mozambique,2,0,African Nations Cup qualifier,Senegal,3,-3,1680,1282,0,2,46,131
+2006-09-02,Serbia,Azerbaijan,1,0,European Championship qualifier,Serbia,2,-2,1743,1364,0,-2,33,111
+2006-09-02,Slovakia,Cyprus,6,1,European Championship qualifier,Slovakia,10,-10,1708,1451,1,-2,43,96
+2006-09-02,South Africa,Congo,0,0,African Nations Cup qualifier,South Africa,-11,11,1448,1355,-1,2,97,116
+2006-09-02,South Korea,Iran,1,1,Asian Cup qualifier,South Korea,-5,5,1729,1743,0,2,36,33
+2006-09-02,Spain,Liechtenstein,4,0,European Championship qualifier,Spain,0,0,1950,1119,0,-1,8,172
+2006-09-02,Switzerland,Venezuela,1,0,Friendly tournament,Switzerland,3,-3,1861,1597,0,1,11,61
+2006-09-02,Tanzania,Burkina Faso,2,1,African Nations Cup qualifier,Tanzania,26,-26,1231,1381,8,-5,147,106
+2006-09-02,Thailand,Uzbekistan,0,1,Friendly,Thailand,-7,7,1330,1554,1,3,120,70
+2006-09-02,Uganda,Lesotho,3,0,African Nations Cup qualifier,Uganda,9,-9,1372,1127,3,-1,109,171
+2006-09-03,Antigua and Barbuda,Dominica,1,0,Friendly,Antigua and Barbuda,5,-5,1111,1009,0,-2,173,189
+2006-09-03,Brazil,Argentina,3,0,Friendly,England,15,-15,2068,1989,0,-1,2,6
+2006-09-03,Chad,Zambia,0,2,African Nations Cup qualifier,Chad,-20,20,1294,1552,-4,4,129,72
+2006-09-03,DR Congo,Namibia,3,2,African Nations Cup qualifier,DR Congo,4,-4,1488,1175,0,-2,86,167
+2006-09-03,Equatorial Guinea,Liberia,2,1,African Nations Cup qualifier,Equatorial Guinea,21,-21,1183,1252,8,-5,161,138
+2006-09-03,Ethiopia,Libya,1,0,African Nations Cup qualifier,Ethiopia,15,-15,1467,1445,2,-4,93,98
+2006-09-03,Gambia,Cape Verde,2,0,African Nations Cup qualifier,The Gambia,20,-20,1358,1293,5,-4,114,130
+2006-09-03,Guinea,Algeria,0,0,African Nations Cup qualifier,Guinea,-15,15,1605,1410,-3,2,58,101
+2006-09-03,Mauritius,Tunisia,0,0,African Nations Cup qualifier,Mauritius,13,-13,1283,1631,4,-3,131,53
+2006-09-03,Rwanda,Cameroon,0,3,African Nations Cup qualifier,Rwanda,-7,7,1295,1784,1,1,128,24
+2006-09-03,Saudi Arabia,Japan,1,0,Asian Cup qualifier,Saudi Arabia,25,-25,1579,1719,4,-8,66,40
+2006-09-03,Sierra Leone,Mali,0,0,African Nations Cup qualifier,Sierra Leone,7,-7,1322,1542,1,-4,122,76
+2006-09-03,Sudan,Seychelles,3,0,African Nations Cup qualifier,Sudan,10,-10,1308,1084,5,-2,125,178
+2006-09-03,Swaziland,Angola,0,2,African Nations Cup qualifier,Swaziland,-9,9,1187,1603,-1,4,159,59
+2006-09-03,Togo,Benin,2,1,African Nations Cup qualifier,Togo,6,-6,1454,1247,2,-1,95,140
+2006-09-04,Canada,Jamaica,1,0,Friendly,Canada,8,-8,1604,1621,4,0,59,54
+2006-09-04,Cuba,Bahamas,6,0,CONCACAF Champ & Carib Cup qual,Cuba,1,-1,1546,875,0,0,75,203
+2006-09-04,Turks and Caicos Islands,Cayman Islands,2,0,CONCACAF Champ & Carib Cup qual,Cuba,49,-49,812,982,3,-6,207,189
+2006-09-05,Brazil,Wales,2,0,Friendly,England,2,-2,2070,1598,0,0,2,62
+2006-09-06,Albania,Romania,0,2,European Championship qualifier,Albania,-14,14,1510,1849,-4,2,82,14
+2006-09-06,Armenia,Belgium,0,1,European Championship qualifier,Armenia,-10,10,1385,1702,0,2,104,43
+2006-09-06,Azerbaijan,Kazakhstan,1,1,European Championship qualifier,Azerbaijan,-6,6,1358,1368,-2,3,113,110
+2006-09-06,Bahamas,Turks and Caicos Islands,3,2,CONCACAF Champ & Carib Cup qual,Cuba,16,-16,891,796,3,-2,200,209
+2006-09-06,Bosnia and Herzegovina,Hungary,1,3,European Championship qualifier,Bosnia and Herzegovina,-42,42,1591,1625,-11,12,63,53
+2006-09-06,Bulgaria,Slovenia,3,0,European Championship qualifier,Bulgaria,15,-15,1738,1586,3,-4,34,65
+2006-09-06,Cuba,Cayman Islands,7,0,CONCACAF Champ & Carib Cup qual,Cuba,2,-2,1548,980,3,-1,72,190
+2006-09-06,Ecuador,Peru,1,1,Friendly,the United States,-4,4,1764,1643,-1,0,28,50
+2006-09-06,Finland,Portugal,1,1,European Championship qualifier,Finland,9,-9,1676,1917,0,1,48,8
+2006-09-06,France,Italy,3,1,European Championship qualifier,France,18,-18,2090,2013,0,0,1,3
+2006-09-06,Guatemala,Panama,1,2,Friendly,Guatemala,-15,15,1560,1515,-1,5,68,80
+2006-09-06,Guyana,Suriname,5,0,CONCACAF Champ & Carib Cup qual,the Netherlands Antilles,47,-47,1223,1193,16,-17,150,158
+2006-09-06,Honduras,El Salvador,2,0,Friendly,Honduras,2,-2,1730,1381,0,0,36,105
+2006-09-06,Hong Kong,Uzbekistan,0,0,Asian Cup qualifier,Hong Kong,11,-11,1245,1543,3,-3,141,74
+2006-09-06,Iceland,Denmark,0,2,European Championship qualifier,Iceland,-11,11,1538,1917,-3,2,76,8
+2006-09-06,Iraq,Palestine,2,2,Asian Cup qualifier,the United Arab Emirates,-15,15,1592,1275,-5,3,62,134
+2006-09-06,Israel,Andorra,4,1,European Championship qualifier,the Netherlands,2,-2,1723,1101,0,-1,38,175
+2006-09-06,Kuwait,Australia,2,0,Asian Cup qualifier,Kuwait,50,-50,1478,1758,10,-12,89,31
+2006-09-06,Lithuania,Scotland,1,2,European Championship qualifier,Lithuania,-14,14,1493,1723,-3,4,86,38
+2006-09-06,Luxembourg,Latvia,0,0,Friendly,Luxembourg,8,-8,987,1465,1,-4,189,94
+2006-09-06,Macedonia,England,0,1,European Championship qualifier,Macedonia,-4,4,1526,2009,0,0,77,4
+2006-09-06,Netherlands,Belarus,3,0,European Championship qualifier,the Netherlands,3,-3,2001,1556,0,-1,5,70
+2006-09-06,Norway,Moldova,2,0,European Championship qualifier,Norway,4,-4,1777,1423,1,0,25,100
+2006-09-06,Netherlands Antilles,Grenada,1,1,CONCACAF Champ & Carib Cup qual,the Netherlands Antilles,-3,3,1179,1227,-4,3,166,147
+2006-09-06,Northern Ireland,Spain,3,2,European Championship qualifier,Northern Ireland,36,-36,1505,1914,7,-2,84,10
+2006-09-06,Oman,Pakistan,5,0,Asian Cup qualifier,Oman,1,-1,1591,901,1,0,63,197
+2006-09-06,Poland,Serbia,1,1,European Championship qualifier,Poland,-4,4,1713,1747,-1,-1,42,33
+2006-09-06,Qatar,Bangladesh,3,0,Asian Cup qualifier,Qatar,2,-2,1565,1022,1,0,67,185
+2006-09-06,Russia,Croatia,0,0,European Championship qualifier,Russia,-1,1,1760,1844,1,-1,29,16
+2006-09-06,San Marino,Germany,0,13,European Championship qualifier,San Marino,-1,1,938,1970,0,0,194,7
+2006-09-06,Saudi Arabia,India,7,1,Asian Cup qualifier,Saudi Arabia,2,-2,1581,1054,0,0,66,180
+2006-09-06,Singapore,China,0,0,Asian Cup qualifier,Singapore,9,-9,1350,1600,1,-4,118,60
+2006-09-06,Slovakia,Czechia,0,3,European Championship qualifier,Slovakia,-30,30,1678,1889,-3,1,46,11
+2006-09-06,South Korea,Taiwan,8,0,Asian Cup qualifier,South Korea,1,-1,1730,942,-1,0,36,193
+2006-09-06,Sweden,Liechtenstein,3,1,European Championship qualifier,Sweden,1,-1,1849,1118,0,0,14,172
+2006-09-06,Switzerland,Costa Rica,2,0,Friendly tournament,Switzerland,6,-6,1867,1633,-1,-1,12,51
+2006-09-06,Syria,Iran,0,2,Asian Cup qualifier,Syria,-17,17,1460,1760,-7,3,95,29
+2006-09-06,Turkey,Malta,2,0,European Championship qualifier,Germany,2,-2,1814,1236,0,0,18,143
+2006-09-06,United Arab Emirates,Jordan,0,0,Asian Cup qualifier,the United Arab Emirates,-6,6,1516,1519,0,3,79,78
+2006-09-06,Ukraine,Georgia,3,2,European Championship qualifier,Ukraine,4,-4,1793,1509,2,-2,21,83
+2006-09-06,Venezuela,Austria,1,0,Friendly tournament,Switzerland,16,-16,1613,1603,8,-3,55,58
+2006-09-06,Yemen,Japan,0,1,Asian Cup qualifier,Yemen,-4,4,1216,1723,-3,2,154,38
+2006-09-08,Netherlands Antilles,Guyana,0,5,CONCACAF Champ & Carib Cup qual,the Netherlands Antilles,-46,46,1133,1269,-3,13,169,137
+2006-09-08,Suriname,Grenada,1,0,CONCACAF Champ & Carib Cup qual,the Netherlands Antilles,22,-22,1215,1205,4,-9,154,156
+2006-09-10,Barbados,Saint Vincent and the Grenadines,1,1,Friendly,Barbados,-1,1,1270,1329,-1,0,136,121
+2006-09-10,Guyana,Grenada,1,0,CONCACAF Champ & Carib Cup qual,the Netherlands Antilles,16,-16,1285,1189,6,-2,131,158
+2006-09-10,Netherlands Antilles,Suriname,0,1,CONCACAF Champ & Carib Cup qual,the Netherlands Antilles,-21,21,1112,1236,-3,10,172,144
+2006-09-15,Haiti,Dominican Republic,3,1,Friendly,Haiti,1,-1,1477,1062,0,0,90,179
+2006-09-17,Dominica,Barbados,0,5,Friendly,Dominica,-11,11,998,1281,0,2,188,134
+2006-09-17,Haiti,Dominican Republic,2,1,Friendly,Haiti,1,-1,1478,1061,1,0,89,179
+2006-09-17,Zimbabwe,Angola,1,2,COSAFA Cup,Zimbabwe,-20,20,1481,1623,-2,4,87,54
+2006-09-20,Antigua and Barbuda,Anguilla,5,3,CONCACAF Champ & Carib Cup qual,Antigua and Barbuda,1,-1,1112,543,1,0,172,230
+2006-09-20,Barbados,Saint Kitts and Nevis,1,1,CONCACAF Champ & Carib Cup qual,Antigua and Barbuda,-2,2,1279,1253,0,1,134,139
+2006-09-20,Guadeloupe,Saint Martin,1,0,CONCACAF Champ & Carib Cup qual,Guadeloupe,3,-3,1367,1008,1,0,111,187
+2006-09-20,Martinique,Dominica,4,0,CONCACAF Champ & Carib Cup qual,Guadeloupe,8,-8,1366,990,1,0,112,188
+2006-09-22,Antigua and Barbuda,Barbados,1,3,CONCACAF Champ & Carib Cup qual,Antigua and Barbuda,-24,24,1088,1303,-5,6,177,128
+2006-09-22,Guadeloupe,Dominica,1,0,CONCACAF Champ & Carib Cup qual,Guadeloupe,2,-2,1369,988,0,0,111,188
+2006-09-22,Martinique,Saint Martin,1,0,CONCACAF Champ & Carib Cup qual,Guadeloupe,5,-5,1371,1003,2,0,110,187
+2006-09-22,Saint Kitts and Nevis,Anguilla,6,1,CONCACAF Champ & Carib Cup qual,Antigua and Barbuda,1,-1,1254,542,0,0,139,230
+2006-09-24,Antigua and Barbuda,Saint Kitts and Nevis,1,0,CONCACAF Champ & Carib Cup qual,Antigua and Barbuda,24,-24,1112,1230,5,-9,172,148
+2006-09-24,Barbados,Anguilla,7,1,CONCACAF Champ & Carib Cup qual,Antigua and Barbuda,1,-1,1304,541,0,0,128,230
+2006-09-24,Dominica,Saint Martin,0,0,CONCACAF Champ & Carib Cup qual,Guadeloupe,1,-1,989,1002,0,0,188,187
+2006-09-24,Guadeloupe,Martinique,4,0,CONCACAF Champ & Carib Cup qual,Guadeloupe,27,-27,1396,1344,7,-9,104,119
+2006-09-27,Haiti,Saint Vincent and the Grenadines,4,0,CONCACAF Champ & Carib Cup qual,Jamaica,22,-22,1500,1307,4,-5,85,126
+2006-09-27,Jamaica,Saint Lucia,4,0,CONCACAF Champ & Carib Cup qual,Jamaica,4,-4,1625,1228,1,-3,54,148
+2006-09-27,US Virgin Islands,Bermuda,0,6,CONCACAF Champ & Carib Cup qual,the US VirgIslands,-8,8,672,1175,-1,1,220,166
+2006-09-27,Venezuela,Uruguay,1,0,Friendly,Venezuela,14,-14,1627,1841,3,-3,53,16
+2006-09-29,Bermuda,Dominican Republic,3,1,CONCACAF Champ & Carib Cup qual,the US VirgIslands,20,-20,1195,1041,8,-3,158,182
+2006-09-29,Haiti,Saint Lucia,7,1,CONCACAF Champ & Carib Cup qual,Jamaica,15,-15,1515,1213,5,-6,80,154
+2006-09-29,Jamaica,Saint Vincent and the Grenadines,1,2,CONCACAF Champ & Carib Cup qual,Jamaica,-37,37,1588,1344,-10,7,64,119
+2006-09-30,Tanzania,Kenya,0,0,Friendly,Tanzania,0,0,1231,1319,0,0,146,123
+2006-10-01,Jamaica,Haiti,2,0,CONCACAF Champ & Carib Cup qual,Jamaica,16,-16,1604,1499,7,-5,57,85
+2006-10-01,Libya,Sudan,1,0,Friendly,Libya,4,-4,1449,1304,1,-2,98,127
+2006-10-01,Saint Vincent and the Grenadines,Saint Lucia,8,0,CONCACAF Champ & Carib Cup qual,Jamaica,30,-30,1374,1183,11,-8,108,162
+2006-10-01,US Virgin Islands,Dominican Republic,1,6,CONCACAF Champ & Carib Cup qual,the US VirgIslands,-14,14,658,1055,-3,3,223,179
+2006-10-03,Botswana,Lesotho,1,0,Friendly,Botswana,4,-4,1283,1123,2,0,133,170
+2006-10-04,Ethiopia,Swaziland,2,0,Friendly,Ethiopia,3,-3,1470,1184,1,-1,91,161
+2006-10-04,Iran,Iraq,2,0,LG Cup,Jordan,12,-12,1772,1580,3,-4,26,66
+2006-10-04,Japan,Ghana,0,1,Friendly,Japan,-13,13,1710,1733,-4,6,42,35
+2006-10-06,Jordan,Iran,0,0,LG Cup,Jordan,6,-6,1525,1766,0,0,78,26
+2006-10-06,Liechtenstein,Austria,1,2,Friendly,Liechtenstein,-2,2,1116,1605,0,3,171,56
+2006-10-07,Algeria,Gambia,1,0,African Nations Cup qualifier,Algeria,12,-12,1422,1346,0,-4,101,118
+2006-10-07,Armenia,Finland,0,0,European Championship qualifier,Armenia,10,-10,1395,1666,-1,1,106,47
+2006-10-07,Australia,Paraguay,1,1,Friendly,Australia,-3,3,1755,1769,-1,2,32,24
+2006-10-07,Botswana,Egypt,0,0,African Nations Cup qualifier,Botswana,15,-15,1298,1717,3,-6,130,42
+2006-10-07,Bulgaria,Netherlands,1,1,European Championship qualifier,Bulgaria,9,-9,1747,1992,0,1,34,4
+2006-10-07,Burkina Faso,Senegal,1,0,African Nations Cup qualifier,Burkina Faso,30,-30,1411,1650,4,-4,102,49
+2006-10-07,Cameroon,Equatorial Guinea,3,0,African Nations Cup qualifier,Cameroon,1,-1,1785,1182,2,-1,21,163
+2006-10-07,Cape Verde,Guinea,1,0,African Nations Cup qualifier,Cape Verde,31,-31,1324,1574,8,-9,123,65
+2006-10-07,Chile,Peru,3,2,Pacific Cup,Chile,9,-9,1711,1634,0,0,43,50
+2006-10-07,Croatia,Andorra,7,0,European Championship qualifier,Croatia,1,-1,1845,1100,0,-1,15,176
+2006-10-07,Cyprus,Ireland,5,2,European Championship qualifier,Cyprus,57,-57,1508,1743,14,-15,83,35
+2006-10-07,Czechia,San Marino,7,0,European Championship qualifier,Czechia,0,0,1889,938,1,0,10,194
+2006-10-07,Denmark,Northern Ireland,0,0,European Championship qualifier,Denmark,-18,18,1899,1523,-1,6,9,78
+2006-10-07,England,Macedonia,0,0,European Championship qualifier,England,-19,19,1990,1545,-1,3,5,74
+2006-10-07,Eritrea,Swaziland,0,0,African Nations Cup qualifier,Eritrea,-3,3,1128,1187,0,1,169,160
+2006-10-07,Faroe Islands,Lithuania,0,1,European Championship qualifier,the Faroe Islands,-9,9,1179,1502,-8,0,167,86
+2006-10-07,Germany,Georgia,2,0,Friendly,Germany,1,-1,1971,1508,0,0,7,83
+2006-10-07,Greece,Norway,1,0,European Championship qualifier,Greece,13,-13,1816,1764,0,-2,19,27
+2006-10-07,Honduras,Guatemala,3,2,Friendly,the United States,5,-5,1735,1555,1,-1,36,69
+2006-10-07,Hungary,Turkey,0,1,European Championship qualifier,Hungary,-15,15,1610,1829,-1,1,55,17
+2006-10-07,Italy,Ukraine,2,0,European Championship qualifier,Italy,8,-8,2021,1785,0,0,3,21
+2006-10-07,Kazakhstan,Poland,0,1,European Championship qualifier,Kazakhstan,-8,8,1360,1721,-1,1,113,40
+2006-10-07,Latvia,Iceland,4,0,European Championship qualifier,Latvia,35,-35,1500,1503,7,-9,87,85
+2006-10-07,Malawi,Zimbabwe,1,0,African Nations Cup qualifier,Malawi,24,-24,1332,1457,4,-7,121,95
+2006-10-07,Moldova,Bosnia and Herzegovina,2,2,European Championship qualifier,Moldova,4,-4,1427,1587,0,1,100,61
+2006-10-07,Namibia,Ethiopia,1,0,African Nations Cup qualifier,Namibia,30,-30,1205,1440,12,-8,155,99
+2006-10-07,Panama,El Salvador,1,0,Friendly,Panama,4,-4,1519,1377,1,-1,79,107
+2006-10-07,Portugal,Azerbaijan,3,0,European Championship qualifier,Portugal,2,-2,1919,1356,0,-1,8,115
+2006-10-07,Romania,Belarus,3,1,European Championship qualifier,Romania,6,-6,1855,1550,-1,-2,14,72
+2006-10-07,Russia,Israel,1,1,European Championship qualifier,Russia,-8,8,1752,1731,-3,1,33,38
+2006-10-07,Scotland,France,1,0,European Championship qualifier,Scotland,33,-33,1756,2057,9,-1,30,2
+2006-10-07,Serbia,Belgium,1,0,European Championship qualifier,Serbia,12,-12,1759,1690,4,-2,29,45
+2006-10-07,Seychelles,Mauritius,2,1,African Nations Cup qualifier,the Seychelles,26,-26,1110,1257,4,-5,174,138
+2006-10-07,Slovenia,Luxembourg,2,0,European Championship qualifier,Slovenia,1,-1,1587,986,3,0,61,189
+2006-10-07,Sweden,Spain,2,0,European Championship qualifier,Sweden,27,-27,1876,1887,1,-1,12,11
+2006-10-07,Trinidad and Tobago,Saint Vincent and the Grenadines,5,0,Friendly,Trinidad and Tobago,7,-7,1555,1367,3,-3,69,111
+2006-10-07,Tunisia,Sudan,1,0,African Nations Cup qualifier,Tunisia,3,-3,1634,1301,2,-2,50,129
+2006-10-07,Wales,Slovakia,1,5,European Championship qualifier,Wales,-40,40,1558,1718,-7,5,68,41
+2006-10-08,Angola,Kenya,3,1,African Nations Cup qualifier,Angola,5,-5,1628,1314,1,0,53,125
+2006-10-08,Benin,Sierra Leone,2,0,African Nations Cup qualifier,Benin,28,-28,1275,1294,6,-6,134,130
+2006-10-08,Burundi,Mauritania,3,1,African Nations Cup qualifier,Burundi,18,-18,1245,1168,7,-6,141,167
+2006-10-08,Congo,Chad,3,1,African Nations Cup qualifier,Congo,17,-17,1372,1277,5,-1,111,133
+2006-10-08,Ivory Coast,Gabon,5,0,African Nations Cup qualifier,Ivory Coast,5,-5,1761,1394,1,-3,29,106
+2006-10-08,Jamaica,Canada,2,1,Friendly,Jamaica,7,-7,1611,1597,2,-2,55,59
+2006-10-08,Lesotho,Nigeria,0,1,African Nations Cup qualifier,Lesotho,-2,2,1121,1781,0,0,170,23
+2006-10-08,Liberia,Rwanda,3,2,African Nations Cup qualifier,Liberia,17,-17,1269,1278,1,-1,138,132
+2006-10-08,Libya,DR Congo,1,1,African Nations Cup qualifier,Libya,-3,3,1446,1491,0,0,97,89
+2006-10-08,Mali,Togo,1,0,African Nations Cup qualifier,Mali,10,-10,1552,1444,5,-2,71,98
+2006-10-08,Mozambique,Tanzania,0,0,African Nations Cup qualifier,Mozambique,-8,8,1274,1239,-2,3,136,143
+2006-10-08,Niger,Uganda,0,0,African Nations Cup qualifier,Niger,-2,2,1304,1374,1,2,126,108
+2006-10-08,South Korea,Ghana,1,3,Friendly,South Korea,-19,19,1711,1752,-3,4,42,33
+2006-10-08,Zambia,South Africa,0,1,African Nations Cup qualifier,Zambia,-31,31,1521,1479,-7,7,78,91
+2006-10-10,Brazil,Ecuador,2,1,Friendly,Sweden,3,-3,2073,1761,0,-1,1,28
+2006-10-10,Honduras,Guatemala,2,1,Friendly,the United States,5,-5,1740,1550,0,-2,37,71
+2006-10-11,Andorra,Macedonia,0,3,European Championship qualifier,Andorra,-8,8,1092,1553,-1,3,177,71
+2006-10-11,Australia,Bahrain,2,0,Asian Cup qualifier,Australia,6,-6,1761,1461,3,-1,29,95
+2006-10-11,Austria,Switzerland,2,1,Friendly,Austria,14,-14,1619,1853,3,-2,54,15
+2006-10-11,Bangladesh,Uzbekistan,0,4,Asian Cup qualifier,Bangladesh,-6,6,1016,1549,0,1,185,74
+2006-10-11,Belarus,Slovenia,4,2,European Championship qualifier,Belarus,25,-25,1575,1562,7,-7,64,68
+2006-10-11,Belgium,Azerbaijan,3,0,European Championship qualifier,Belgium,5,-5,1695,1351,0,1,45,115
+2006-10-11,Bosnia and Herzegovina,Greece,0,4,European Championship qualifier,Bosnia and Herzegovina,-24,24,1563,1840,-6,2,67,17
+2006-10-11,China,Palestine,2,0,Asian Cup qualifier,Jordan,8,-8,1608,1267,1,-6,57,140
+2006-10-11,Croatia,England,2,0,European Championship qualifier,Croatia,34,-34,1879,1956,2,-2,13,7
+2006-10-11,France,Faroe Islands,5,0,European Championship qualifier,France,0,0,2057,1179,0,0,2,166
+2006-10-11,Georgia,Italy,1,3,European Championship qualifier,Georgia,-5,5,1503,2026,0,0,83,3
+2006-10-11,Iceland,Sweden,1,2,European Championship qualifier,Iceland,-7,7,1496,1883,0,0,85,12
+2006-10-11,India,Japan,0,3,Asian Cup qualifier,India,-3,3,1051,1713,0,2,180,42
+2006-10-11,Iraq,Singapore,4,2,Asian Cup qualifier,the United Arab Emirates,13,-13,1593,1337,4,-3,60,120
+2006-10-11,Ireland,Czechia,1,1,European Championship qualifier,Ireland,3,-3,1746,1886,1,-1,35,11
+2006-10-11,Kazakhstan,Finland,0,2,European Championship qualifier,Kazakhstan,-14,14,1346,1680,-2,1,116,46
+2006-10-11,Kuwait,Lithuania,1,0,Friendly,Kuwait,8,-8,1486,1494,2,0,90,86
+2006-10-11,Liechtenstein,Denmark,0,4,European Championship qualifier,Liechtenstein,-1,1,1115,1900,0,1,171,8
+2006-10-11,Luxembourg,Bulgaria,0,1,European Championship qualifier,Luxembourg,-1,1,985,1748,0,1,189,34
+2006-10-11,Malta,Hungary,2,1,European Championship qualifier,Malta,33,-33,1269,1577,8,-6,137,62
+2006-10-11,Netherlands,Albania,2,1,European Championship qualifier,the Netherlands,1,-1,1993,1509,0,1,4,81
+2006-10-11,Northern Ireland,Latvia,1,0,European Championship qualifier,Northern Ireland,13,-13,1536,1487,1,-2,76,89
+2006-10-11,Oman,United Arab Emirates,2,1,Asian Cup qualifier,Oman,11,-11,1602,1505,2,-2,58,82
+2006-10-11,Pakistan,Jordan,0,3,Asian Cup qualifier,Pakistan,-3,3,898,1528,-1,-1,198,77
+2006-10-11,Peru,Chile,0,1,Pacific Cup,Peru,-16,16,1618,1727,-5,2,55,40
+2006-10-11,Poland,Portugal,2,1,European Championship qualifier,Poland,25,-25,1746,1894,4,-2,35,10
+2006-10-11,Qatar,Hong Kong,2,0,Asian Cup qualifier,Qatar,5,-5,1570,1240,0,-2,66,143
+2006-10-11,Russia,Estonia,2,0,European Championship qualifier,Russia,4,-4,1756,1394,1,-1,32,104
+2006-10-11,Saudi Arabia,Yemen,5,0,Asian Cup qualifier,Saudi Arabia,5,-5,1586,1211,2,0,61,153
+2006-10-11,Serbia,Armenia,3,0,European Championship qualifier,Serbia,5,-5,1764,1390,3,-1,27,106
+2006-10-11,Slovakia,Germany,1,4,European Championship qualifier,Slovakia,-21,21,1697,1992,-3,2,43,5
+2006-10-11,South Korea,Syria,1,1,Asian Cup qualifier,South Korea,-15,15,1696,1475,-2,2,44,93
+2006-10-11,Spain,Argentina,2,1,Friendly,Spain,10,-10,1897,1979,2,0,9,6
+2006-10-11,Taiwan,Iran,0,2,Asian Cup qualifier,Taiwan,-1,1,941,1767,0,0,193,25
+2006-10-11,Trinidad and Tobago,Panama,2,1,Friendly,Trinidad and Tobago,6,-6,1561,1513,0,-1,69,80
+2006-10-11,Turkey,Moldova,5,0,European Championship qualifier,Germany,7,-7,1836,1420,-1,-1,18,101
+2006-10-11,Ukraine,Scotland,2,0,European Championship qualifier,Ukraine,19,-19,1804,1737,1,-7,20,38
+2006-10-11,Wales,Cyprus,3,1,European Championship qualifier,Wales,18,-18,1576,1490,5,-5,63,88
+2006-10-17,Haiti,Cuba,0,0,Friendly,Haiti,-1,1,1498,1549,0,1,84,74
+2006-10-18,Taiwan,Sao Tome and Principe,2,2,Friendly,Taiwan,0,0,941,1044,0,0,193,181
+2006-10-18,Uruguay,Venezuela,4,0,Friendly,Uruguay,5,-5,1846,1622,0,0,16,53
+2006-10-19,Haiti,Cuba,0,1,Friendly,Haiti,-11,11,1487,1560,-4,4,88,70
+2006-10-21,Zambia,Angola,2,0,COSAFA Cup,Zambia,31,-31,1552,1597,5,-6,73,58
+2006-10-22,Saint Vincent and the Grenadines,Martinique,1,1,Friendly,Saint Vincent and the Grenadines,-3,3,1364,1347,-1,3,113,116
+2006-11-01,Saint Vincent and the Grenadines,Grenada,4,1,Independence Cup,Saint Vincent and the Grenadines,9,-9,1373,1180,2,-5,111,164
+2006-11-03,Antigua and Barbuda,Grenada,1,1,Independence Cup,Saint Vincent and the Grenadines,3,-3,1115,1177,1,-2,171,166
+2006-11-05,Barbados,Grenada,2,2,Friendly,Barbados,-6,6,1298,1183,-2,6,128,160
+2006-11-05,Saint Vincent and the Grenadines,Antigua and Barbuda,2,2,Independence Cup,Saint Vincent and the Grenadines,-12,12,1361,1127,-2,1,113,170
+2006-11-08,Cuba,Haiti,2,1,CONCACAF Champ & Carib Cup qual,Martinique,16,-16,1576,1471,7,-5,63,93
+2006-11-08,Martinique,Suriname,1,0,CONCACAF Champ & Carib Cup qual,Martinique,9,-9,1356,1227,1,-2,115,148
+2006-11-08,Oman,Bahrain,1,1,Friendly,Oman,-6,6,1596,1467,-2,0,59,95
+2006-11-08,Saudi Arabia,Jordan,2,1,Friendly,Saudi Arabia,6,-6,1592,1522,0,0,61,78
+2006-11-09,Kuwait,Taiwan,10,0,Friendly,the United Arab Emirates,2,-2,1488,939,1,0,88,193
+2006-11-10,Cuba,Suriname,3,1,CONCACAF Champ & Carib Cup qual,Martinique,7,-7,1583,1220,1,-1,62,149
+2006-11-10,Martinique,Haiti,1,0,CONCACAF Champ & Carib Cup qual,Martinique,21,-21,1377,1450,8,-3,107,96
+2006-11-11,Singapore,Indonesia,1,2,Friendly,Singapore,-15,15,1322,1283,-3,7,123,132
+2006-11-12,Brunei,East Timor,3,2,Southeast Asian Championship qual,the Philippines,15,-15,756,645,2,-1,211,223
+2006-11-12,Haiti,Suriname,1,1,CONCACAF Champ & Carib Cup qual,Martinique,-12,12,1438,1232,-3,3,99,146
+2006-11-12,Martinique,Cuba,0,0,CONCACAF Champ & Carib Cup qual,Martinique,6,-6,1383,1577,0,0,107,62
+2006-11-12,Philippines,Laos,1,2,Southeast Asian Championship qual,the Philippines,-16,16,697,896,-2,4,217,199
+2006-11-14,Australia,Ghana,1,1,Friendly,England,0,0,1761,1752,0,0,29,33
+2006-11-14,Cambodia,Laos,2,2,Southeast Asian Championship qual,the Philippines,5,-5,820,891,0,-1,206,200
+2006-11-14,Mali,Congo,1,0,Friendly,France,5,-5,1557,1367,1,0,72,112
+2006-11-14,Philippines,East Timor,7,0,Southeast Asian Championship qual,the Philippines,26,-26,723,619,3,-1,214,224
+2006-11-14,Wales,Liechtenstein,4,0,Friendly,Wales,1,-1,1577,1114,2,0,62,172
+2006-11-15,Austria,Trinidad and Tobago,4,1,Friendly,Austria,10,-10,1629,1551,1,-4,52,74
+2006-11-15,Bahrain,Kuwait,2,1,Asian Cup qualifier,Bahrain,16,-16,1483,1472,5,-5,89,93
+2006-11-15,Belgium,Poland,0,1,European Championship qualifier,Belgium,-23,23,1672,1769,-2,8,47,27
+2006-11-15,Bolivia,El Salvador,5,1,Friendly,Bolivia,6,-6,1565,1371,5,-3,66,111
+2006-11-15,Botswana,Swaziland,1,0,Friendly,Botswana,5,-5,1303,1182,1,-2,127,161
+2006-11-15,Burkina Faso,Algeria,2,1,Friendly,France,10,-10,1421,1412,2,-2,100,102
+2006-11-15,Chile,Paraguay,3,2,Friendly,Chile,8,-8,1735,1761,2,-6,38,30
+2006-11-15,China,Iraq,1,1,Asian Cup qualifier,China,-6,6,1602,1599,0,3,56,57
+2006-11-15,Cyprus,Germany,1,1,European Championship qualifier,Cyprus,16,-16,1506,1976,4,-1,83,6
+2006-11-15,Czechia,Denmark,1,1,Friendly,Czechia,-2,2,1884,1902,0,0,11,8
+2006-11-15,Egypt,South Africa,1,0,Nelson Mandela Challenge Cup,England,6,-6,1723,1473,0,-1,41,92
+2006-11-15,Estonia,Belarus,2,1,Friendly,Estonia,12,-12,1406,1563,1,-3,103,68
+2006-11-15,Finland,Armenia,1,0,European Championship qualifier,Finland,4,-4,1684,1386,2,0,44,106
+2006-11-15,France,Greece,1,0,Friendly,France,3,-3,2060,1837,0,0,2,17
+2006-11-15,Georgia,Uruguay,2,0,Friendly,Georgia,24,-24,1527,1822,4,-2,79,18
+2006-11-15,Hong Kong,Bangladesh,2,0,Asian Cup qualifier,Hong Kong,8,-8,1248,1008,1,-1,142,186
+2006-11-15,Hungary,Canada,1,0,Friendly,Hungary,8,-8,1585,1589,2,-2,60,59
+2006-11-15,Iran,South Korea,2,0,Asian Cup qualifier,Iran,16,-16,1783,1680,2,-1,23,45
+2006-11-15,Ireland,San Marino,5,0,European Championship qualifier,Ireland,0,0,1746,938,0,1,35,193
+2006-11-15,Israel,Croatia,3,4,European Championship qualifier,Israel,-17,17,1714,1896,-3,4,42,9
+2006-11-15,Italy,Turkey,1,1,Friendly,Italy,-7,7,2019,1843,0,2,3,16
+2006-11-15,Ivory Coast,Sweden,1,0,Friendly,France,13,-13,1774,1870,3,-1,26,13
+2006-11-15,Jamaica,Peru,1,1,Friendly,Jamaica,-3,3,1608,1621,0,0,55,54
+2006-11-15,Japan,Saudi Arabia,3,1,Asian Cup qualifier,Japan,13,-13,1726,1579,2,0,40,61
+2006-11-15,Jordan,Oman,3,0,Asian Cup qualifier,Jordan,32,-32,1554,1564,6,-8,72,67
+2006-11-15,Luxembourg,Togo,0,0,Friendly,Luxembourg,8,-8,993,1436,1,-2,188,99
+2006-11-15,Macedonia,Russia,0,2,European Championship qualifier,Macedonia,-21,21,1532,1777,-5,7,78,25
+2006-11-15,Malta,Lithuania,1,4,Friendly,Malta,-11,11,1258,1505,-2,0,140,85
+2006-11-15,Morocco,Gabon,6,0,Friendly,Morocco,5,-5,1660,1389,0,-1,48,105
+2006-11-15,Netherlands,England,1,1,Friendly,the Netherlands,-4,4,1989,1960,0,0,4,7
+2006-11-15,Portugal,Kazakhstan,3,0,European Championship qualifier,Portugal,2,-2,1896,1344,1,-2,9,119
+2006-11-15,Serbia,Norway,1,1,Friendly,Serbia,-3,3,1761,1767,-3,-1,30,28
+2006-11-15,Slovakia,Bulgaria,3,1,Friendly,Slovakia,13,-13,1710,1735,0,-4,43,38
+2006-11-15,Spain,Romania,0,1,Friendly,Spain,-14,14,1883,1869,-3,0,12,14
+2006-11-15,Switzerland,Brazil,1,2,Friendly,Switzerland,-7,7,1846,2080,0,0,15,1
+2006-11-15,Syria,Taiwan,3,0,Asian Cup qualifier,Syria,2,-2,1477,937,1,-1,91,194
+2006-11-15,Tunisia,Libya,2,0,Friendly,Tunisia,5,-5,1639,1441,0,0,50,96
+2006-11-15,United Arab Emirates,Pakistan,3,2,Asian Cup qualifier,the United Arab Emirates,1,-1,1506,897,-1,0,83,198
+2006-11-15,Uzbekistan,Qatar,2,0,Asian Cup qualifier,Uzbekistan,23,-23,1572,1547,11,-8,65,75
+2006-11-15,Venezuela,Guatemala,2,1,Friendly,Venezuela,5,-5,1627,1545,-1,-1,53,76
+2006-11-15,Yemen,India,2,1,Asian Cup qualifier,Yemen,7,-7,1218,1044,2,0,151,180
+2006-11-15,Zimbabwe,Namibia,3,2,Friendly,Zimbabwe,2,-2,1459,1203,0,0,95,155
+2006-11-16,Brunei,Cambodia,1,1,Southeast Asian Championship qual,the Philippines,4,-4,760,816,0,0,211,206
+2006-11-16,Laos,East Timor,3,2,Southeast Asian Championship qual,the Philippines,7,-7,898,612,2,0,198,224
+2006-11-18,Laos,Brunei,4,1,Southeast Asian Championship qual,the Philippines,22,-22,920,738,1,-3,197,214
+2006-11-18,Philippines,Cambodia,1,0,Southeast Asian Championship qual,the Philippines,20,-20,743,796,1,-2,213,208
+2006-11-18,Tanzania,Angola,1,1,Friendly,Tanzania,6,-6,1245,1591,1,0,143,58
+2006-11-19,Barbados,Bahamas,2,1,CONCACAF Champ & Carib Cup qual,Barbados,2,-2,1300,889,0,-1,129,202
+2006-11-19,Panama,Peru,1,2,Friendly,Panama,-10,10,1503,1631,-4,2,85,52
+2006-11-19,Saint Vincent and the Grenadines,Bermuda,3,0,CONCACAF Champ & Carib Cup qual,Barbados,19,-19,1380,1176,6,-8,108,166
+2006-11-20,Cambodia,East Timor,4,1,Southeast Asian Championship qual,the Philippines,18,-18,814,594,2,0,206,224
+2006-11-20,Philippines,Brunei,4,1,Southeast Asian Championship qual,the Philippines,25,-25,768,713,2,-1,211,215
+2006-11-21,Barbados,Saint Vincent and the Grenadines,3,0,CONCACAF Champ & Carib Cup qual,Barbados,33,-33,1333,1347,9,-8,120,116
+2006-11-21,Bermuda,Bahamas,4,0,CONCACAF Champ & Carib Cup qual,Barbados,12,-12,1188,877,8,-1,158,203
+2006-11-21,Northern Cyprus,Tibet,10,0,ELF Cup,Northern Cyprus,0,0,1469,669,0,0,94,221
+2006-11-23,Barbados,Bermuda,1,1,CONCACAF Champ & Carib Cup qual,Barbados,-12,12,1321,1200,-4,1,124,157
+2006-11-23,Saint Vincent and the Grenadines,Bahamas,3,2,CONCACAF Champ & Carib Cup qual,Barbados,3,-3,1350,874,0,0,116,203
+2006-11-24,Guadeloupe,Dominican Republic,3,0,CONCACAF Champ & Carib Cup qual,Guyana,9,-9,1405,1046,0,0,104,179
+2006-11-24,Guyana,Antigua and Barbuda,6,0,CONCACAF Champ & Carib Cup qual,Guyana,16,-16,1301,1111,2,-3,129,173
+2006-11-25,Ethiopia,Tanzania,1,2,CECAFA Cup,Ethiopia,-34,34,1406,1279,-5,10,102,133
+2006-11-26,Burundi,Zambia,3,2,CECAFA Cup,Ethiopia,34,-34,1279,1518,11,-6,133,79
+2006-11-26,Dominican Republic,Antigua and Barbuda,2,0,CONCACAF Champ & Carib Cup qual,Guyana,36,-36,1082,1075,1,-6,178,179
+2006-11-26,Guyana,Guadeloupe,3,2,CONCACAF Champ & Carib Cup qual,Guyana,20,-20,1321,1385,5,-2,124,106
+2006-11-26,Malawi,Djibouti,3,0,CECAFA Cup,Ethiopia,4,-4,1336,839,0,0,120,204
+2006-11-27,Rwanda,Somalia,3,0,CECAFA Cup,Ethiopia,13,-13,1291,1001,4,-2,131,187
+2006-11-27,Uganda,Sudan,2,1,CECAFA Cup,Ethiopia,16,-16,1390,1285,4,-2,104,132
+2006-11-28,Ethiopia,Djibouti,4,0,CECAFA Cup,Ethiopia,2,-2,1408,837,0,0,102,204
+2006-11-28,Guadeloupe,Antigua and Barbuda,3,1,CONCACAF Champ & Carib Cup qual,Guyana,9,-9,1394,1066,3,0,104,179
+2006-11-28,Guyana,Dominican Republic,4,0,CONCACAF Champ & Carib Cup qual,Guyana,9,-9,1330,1073,4,0,120,178
+2006-11-28,Tanzania,Malawi,2,1,CECAFA Cup,Ethiopia,23,-23,1302,1313,4,-7,130,127
+2006-11-29,Burundi,Zanzibar,0,0,CECAFA Cup,Ethiopia,-3,3,1276,1223,-1,0,136,150
+2006-11-29,El Salvador,Panama,0,0,Friendly,El Salvador,1,-1,1372,1502,0,0,111,85
+2006-11-30,Sudan,Somalia,3,0,CECAFA Cup,Ethiopia,11,-11,1296,990,2,-1,131,188
+2006-11-30,Uganda,Rwanda,1,0,CECAFA Cup,Ethiopia,14,-14,1404,1277,1,-2,104,134
+2006-12-01,Ethiopia,Malawi,1,0,CECAFA Cup,Ethiopia,10,-10,1418,1303,1,-2,101,129
+2006-12-01,Tanzania,Djibouti,3,0,CECAFA Cup,Ethiopia,5,-5,1307,832,3,-1,127,205
+2006-12-02,Zambia,Zanzibar,4,0,CECAFA Cup,Ethiopia,12,-12,1530,1211,1,-3,78,153
+2006-12-03,Rwanda,Sudan,0,0,CECAFA Cup,Ethiopia,1,-1,1278,1295,0,0,134,131
+2006-12-03,Uganda,Somalia,2,0,CECAFA Cup,Ethiopia,5,-5,1409,985,1,-1,103,189
+2006-12-05,Ethiopia,Zambia,0,1,CECAFA Cup,Ethiopia,-19,19,1399,1549,-3,4,104,74
+2006-12-05,Rwanda,Tanzania,2,1,CECAFA Cup,Ethiopia,22,-22,1300,1285,4,-6,130,133
+2006-12-06,Malawi,Uganda,0,0,CECAFA Cup,Ethiopia,6,-6,1309,1403,0,-1,128,103
+2006-12-06,Sudan,Burundi,1,0,CECAFA Cup,Ethiopia,19,-19,1314,1257,5,-6,126,142
+2006-12-06,United Arab Emirates,Poland,2,5,Friendly,the United Arab Emirates,-10,10,1496,1779,-3,2,85,25
+2006-12-08,Sudan,Uganda,2,2,CECAFA Cup,Ethiopia,5,-5,1319,1398,1,-1,125,104
+2006-12-08,Zambia,Rwanda,1,0,CECAFA Cup,Ethiopia,8,-8,1557,1292,3,-1,71,132
+2006-12-10,Rwanda,Uganda,0,0,CECAFA Cup,Ethiopia,6,-6,1298,1392,0,-1,132,105
+2006-12-10,Sudan,Zambia,0,0,CECAFA Cup,Ethiopia,12,-12,1331,1545,5,-4,120,75
+2006-12-10,Tanzania,DR Congo,2,0,Independence Tournament,Tanzania,29,-29,1314,1462,6,-7,127,94
+2006-12-10,United Arab Emirates,Slovakia,1,2,Friendly,the United Arab Emirates,-7,7,1489,1717,-1,1,86,42
+2006-12-14,Yemen,Comoros,2,0,Arab Cup qualifier,Yemen,3,-3,1221,830,0,-1,150,205
+2006-12-15,Reunion,Mayotte,3,1,Friendly,Reunion,9,-9,1279,1208,3,-3,135,154
+2006-12-17,Comoros,Djibouti,4,2,Arab Cup qualifier,Yemen,30,-30,860,802,1,-4,204,208
+2006-12-20,Yemen,Djibouti,4,1,Arab Cup qualifier,Yemen,3,-3,1224,799,0,0,150,208
+2006-12-21,Lebanon,Mauritania,0,0,Arab Cup qualifier,Lebanon,-14,14,1351,1182,-1,6,114,161
+2006-12-21,Sudan,Somalia,6,1,Arab Cup qualifier,Lebanon,10,-10,1341,975,0,-1,120,190
+2006-12-24,Kazakhstan,Singapore,0,0,King's Cup,Thailand,-1,1,1343,1323,-1,0,120,124
+2006-12-24,Lebanon,Somalia,4,0,Arab Cup qualifier,Lebanon,5,-5,1356,970,-1,0,115,190
+2006-12-24,Sudan,Mauritania,2,0,Arab Cup qualifier,Lebanon,17,-17,1358,1165,7,-6,113,167
+2006-12-24,Thailand,Vietnam,2,1,King's Cup,Thailand,6,-6,1336,1194,0,-1,121,158
+2006-12-26,Thailand,Singapore,2,0,King's Cup,Thailand,15,-15,1351,1308,5,-5,116,129
+2006-12-26,Vietnam,Kazakhstan,2,1,King's Cup,Thailand,21,-21,1215,1322,6,-3,152,123
+2006-12-27,Lebanon,Sudan,0,0,Arab Cup qualifier,Lebanon,-5,5,1351,1363,0,0,115,113
+2006-12-27,Mauritania,Somalia,8,2,Arab Cup qualifier,Lebanon,21,-21,1186,949,8,-2,159,192
+2006-12-28,Martinique,Saint Vincent and the Grenadines,2,2,Friendly,Martinique,-4,4,1379,1354,0,3,108,115
+2006-12-28,Thailand,Kazakhstan,2,2,King's Cup,Thailand,-5,5,1346,1327,-3,1,118,122
+2006-12-28,Vietnam,Singapore,3,2,King's Cup,Thailand,19,-19,1234,1289,6,-4,146,133
+2006-12-30,Martinique,Saint Vincent and the Grenadines,1,1,Friendly,Martinique,-3,3,1376,1357,0,0,108,115
+2006-12-30,Thailand,Vietnam,3,1,King's Cup,Thailand,10,-10,1356,1224,2,-4,116,150

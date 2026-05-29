@@ -1,0 +1,780 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2002-01-04,Bahrain,Finland,0,2,Prime Minister's Cup,Bahrain,-15,15,1494,1743,-5,3,80,32
+2002-01-04,Egypt,Ghana,2,0,Friendly,Egypt,7,-7,1648,1512,0,0,49,72
+2002-01-04,Martinique,Guadeloupe,1,3,Frantz Fanon Tournament,Martinique,-35,35,1364,1323,-7,9,115,125
+2002-01-05,Albania,Macedonia,0,0,Prime Minister's Cup,Bahrain,-1,1,1473,1448,0,0,86,92
+2002-01-05,Kuwait,Zimbabwe,3,0,Friendly,Kuwait,10,-10,1565,1491,2,-1,63,80
+2002-01-06,Cuba,Guatemala,0,1,Friendly,Cuba,-9,9,1437,1588,-3,2,96,58
+2002-01-06,Egypt,Mali,1,2,Friendly,Egypt,-17,17,1631,1449,-1,7,50,92
+2002-01-06,Martinique,Haiti,3,3,Frantz Fanon Tournament,Martinique,0,0,1364,1458,0,0,115,89
+2002-01-07,Albania,Finland,1,1,Prime Minister's Cup,Bahrain,10,-10,1483,1733,2,-2,84,34
+2002-01-07,Bahrain,Macedonia,1,1,Prime Minister's Cup,Bahrain,-6,6,1488,1454,-2,2,81,91
+2002-01-07,Burkina Faso,Cameroon,1,3,Friendly,Burkina Faso,-6,6,1378,1718,0,1,112,38
+2002-01-08,Iceland,Kuwait,0,0,Friendly,Oman,-1,1,1601,1566,-1,0,55,63
+2002-01-08,Qatar,Zimbabwe,0,2,Friendly,Qatar,-22,22,1537,1513,-3,7,68,72
+2002-01-09,Cuba,Guatemala,0,0,Friendly,Cuba,1,-1,1438,1587,0,-1,96,59
+2002-01-10,Bahrain,Albania,3,0,Prime Minister's Cup,Bahrain,19,-19,1507,1464,1,-3,80,87
+2002-01-10,Finland,Macedonia,3,0,Prime Minister's Cup,Bahrain,9,-9,1742,1445,2,-2,32,93
+2002-01-10,Mali,Zambia,1,1,Friendly,Mali,-2,2,1447,1483,1,1,92,84
+2002-01-10,Saudi Arabia,Iceland,1,0,Friendly,Saudi Arabia,5,-5,1693,1596,0,-1,42,56
+2002-01-11,Egypt,Burkina Faso,2,2,Friendly,Egypt,-8,8,1623,1386,-1,1,51,111
+2002-01-11,Grenada,Trinidad and Tobago,2,3,Friendly,Grenada,-6,6,1299,1576,-2,1,132,61
+2002-01-11,Iraq,Oman,2,0,Friendly,Qatar,11,-11,1549,1422,1,0,66,99
+2002-01-11,Tunisia,Cameroon,0,1,Friendly,Tunisia,-12,12,1669,1730,-3,2,46,36
+2002-01-12,Ecuador,Guatemala,1,0,Friendly,Ecuador,4,-4,1739,1583,0,0,33,59
+2002-01-12,Ivory Coast,Nigeria,1,1,Friendly,Ivory Coast,0,0,1622,1718,0,0,53,39
+2002-01-13,Morocco,Guinea,2,1,Friendly,Morocco,4,-4,1643,1484,0,-1,49,83
+2002-01-13,Qatar,Iraq,1,3,Friendly,Qatar,-19,19,1518,1568,-3,3,71,63
+2002-01-14,Algeria,Benin,4,0,Friendly,Algeria,4,-4,1516,1234,1,-2,72,150
+2002-01-15,Burkina Faso,Zambia,2,1,Friendly,Burkina Faso,10,-10,1396,1473,2,-1,109,85
+2002-01-15,South Africa,Angola,1,0,Friendly,South Africa,5,-5,1628,1528,1,-1,50,70
+2002-01-16,Gambia,Morocco,0,2,Friendly,The Gambia,-8,8,1348,1651,-2,0,119,49
+2002-01-16,Saudi Arabia,Kuwait,1,1,Gulf Cup,Saudi Arabia,-11,11,1682,1577,0,3,42,61
+2002-01-17,Qatar,Bahrain,1,0,Gulf Cup,Saudi Arabia,19,-19,1537,1488,3,-2,68,82
+2002-01-17,United Arab Emirates,Oman,1,0,Gulf Cup,Saudi Arabia,17,-17,1496,1405,4,-7,80,106
+2002-01-18,Canada,Haiti,2,0,CONCACAF Championship,the United States,24,-24,1612,1434,4,-8,54,97
+2002-01-18,Costa Rica,Martinique,2,0,CONCACAF Championship,the United States,7,-7,1780,1357,0,-1,26,116
+2002-01-19,Dominica,British Virgin Islands,4,1,Friendly,Dominica,6,-6,1059,870,3,-1,179,203
+2002-01-19,Mali,Liberia,1,1,African Nations Cup,Mali,-4,4,1443,1494,-2,0,93,81
+2002-01-19,Mexico,El Salvador,1,0,CONCACAF Championship,the United States,7,-7,1816,1481,1,-2,21,84
+2002-01-19,Oman,Kuwait,3,1,Gulf Cup,Saudi Arabia,44,-44,1449,1533,15,-8,91,69
+2002-01-19,Saint Kitts and Nevis,Grenada,1,1,Friendly,Saint Kitts and Nevis,-4,4,1326,1303,0,1,124,131
+2002-01-19,United States,South Korea,2,1,CONCACAF Championship,the United States,22,-22,1774,1783,2,-2,27,25
+2002-01-20,Antigua and Barbuda,Dominica,4,0,Friendly,Antigua and Barbuda,11,-11,1115,1048,2,-4,170,183
+2002-01-20,Burkina Faso,South Africa,0,0,African Nations Cup,Mali,15,-15,1411,1613,2,-2,107,52
+2002-01-20,Cameroon,DR Congo,1,0,African Nations Cup,Mali,7,-7,1737,1415,3,-5,33,105
+2002-01-20,Costa Rica,Trinidad and Tobago,1,1,CONCACAF Championship,the United States,-13,13,1767,1589,-1,1,27,60
+2002-01-20,Haiti,Ecuador,2,0,CONCACAF Championship,the United States,64,-64,1498,1675,18,-10,80,43
+2002-01-20,Qatar,United Arab Emirates,2,0,Gulf Cup,Saudi Arabia,26,-26,1563,1470,3,-7,64,87
+2002-01-20,Saudi Arabia,Bahrain,3,1,Gulf Cup,Saudi Arabia,9,-9,1691,1479,1,-2,41,84
+2002-01-20,Senegal,Egypt,1,0,African Nations Cup,Mali,28,-28,1609,1595,6,-6,54,58
+2002-01-21,Ghana,Morocco,0,0,African Nations Cup,Mali,10,-10,1522,1641,2,0,72,49
+2002-01-21,Ivory Coast,Togo,0,0,African Nations Cup,Mali,-8,8,1614,1518,0,2,51,73
+2002-01-21,Mexico,Guatemala,3,1,CONCACAF Championship,the United States,16,-16,1832,1567,2,-2,19,63
+2002-01-21,Nigeria,Algeria,1,0,African Nations Cup,Mali,12,-12,1730,1504,2,-7,36,79
+2002-01-21,Tunisia,Zambia,0,0,African Nations Cup,Mali,-13,13,1656,1486,-2,3,48,82
+2002-01-21,United States,Cuba,1,0,CONCACAF Championship,the United States,4,-4,1778,1434,0,-1,26,98
+2002-01-22,Bahrain,Kuwait,0,0,Gulf Cup,Saudi Arabia,3,-3,1482,1530,1,-1,84,70
+2002-01-22,Ecuador,Canada,2,0,CONCACAF Championship,the United States,31,-31,1706,1581,4,-6,39,59
+2002-01-22,Martinique,Trinidad and Tobago,1,0,CONCACAF Championship,the United States,40,-40,1397,1549,7,-6,109,66
+2002-01-23,Cuba,South Korea,0,0,CONCACAF Championship,the United States,19,-19,1453,1764,7,-2,91,27
+2002-01-23,El Salvador,Guatemala,1,0,CONCACAF Championship,the United States,31,-31,1512,1536,10,-5,75,67
+2002-01-24,Ghana,South Africa,0,0,African Nations Cup,Mali,6,-6,1528,1607,1,-1,71,53
+2002-01-24,Mali,Nigeria,0,0,African Nations Cup,Mali,12,-12,1455,1718,4,-2,91,38
+2002-01-24,Qatar,Oman,2,1,Gulf Cup,Saudi Arabia,14,-14,1577,1435,2,-5,60,98
+2002-01-24,Saudi Arabia,United Arab Emirates,1,0,Gulf Cup,Saudi Arabia,5,-5,1696,1465,1,0,41,87
+2002-01-25,Algeria,Liberia,2,2,African Nations Cup,Mali,-1,1,1503,1495,0,0,80,82
+2002-01-25,Cameroon,Ivory Coast,1,0,African Nations Cup,Mali,17,-17,1754,1597,4,-5,29,56
+2002-01-25,Egypt,Tunisia,1,0,African Nations Cup,Mali,29,-29,1624,1627,6,-1,51,49
+2002-01-25,Saint Kitts,Saint Martin,3,0,Leeward Islands Tournament,Antigua and Barbuda,11,-11,1337,1086,0,-1,124,177
+2002-01-26,Antigua and Barbuda,Saint Kitts,1,2,Leeward Islands Tournament,Antigua and Barbuda,-10,10,1105,1347,-2,4,172,120
+2002-01-26,Canada,Martinique,1,1,CONCACAF Championship,the United States,-12,12,1569,1409,-2,2,61,107
+2002-01-26,Costa Rica,Haiti,2,1,CONCACAF Championship,the United States,9,-9,1776,1489,0,-1,26,82
+2002-01-26,DR Congo,Togo,0,0,African Nations Cup,Mali,7,-7,1422,1511,5,-2,100,75
+2002-01-26,Morocco,Burkina Faso,2,1,African Nations Cup,Mali,11,-11,1652,1400,0,-2,48,109
+2002-01-26,Qatar,Kuwait,1,0,Gulf Cup,Saudi Arabia,17,-17,1594,1513,2,-2,58,72
+2002-01-26,Senegal,Zambia,1,0,African Nations Cup,Mali,17,-17,1626,1469,2,-3,50,86
+2002-01-27,Bahrain,United Arab Emirates,2,1,Gulf Cup,Saudi Arabia,19,-19,1501,1446,3,-6,81,93
+2002-01-27,Mexico,South Korea,0,0,CONCACAF Championship,the United States,-5,5,1827,1769,0,0,19,27
+2002-01-27,Saudi Arabia,Oman,2,0,Gulf Cup,Saudi Arabia,7,-7,1703,1428,1,-1,40,99
+2002-01-27,United States,El Salvador,4,0,CONCACAF Championship,the United States,10,-10,1788,1502,1,-6,24,80
+2002-01-28,Mali,Algeria,2,0,African Nations Cup,Mali,32,-32,1487,1471,8,-7,82,86
+2002-01-28,Nigeria,Liberia,1,0,African Nations Cup,Mali,11,-11,1729,1484,2,-1,36,83
+2002-01-29,Bahrain,Oman,1,1,Gulf Cup,Saudi Arabia,-4,4,1497,1432,1,0,79,99
+2002-01-29,Cameroon,Togo,3,0,African Nations Cup,Mali,17,-17,1771,1494,2,-6,27,80
+2002-01-29,DR Congo,Ivory Coast,3,1,African Nations Cup,Mali,55,-55,1477,1542,15,-10,85,66
+2002-01-29,Kuwait,United Arab Emirates,2,1,Gulf Cup,Saudi Arabia,16,-16,1529,1430,2,-7,70,100
+2002-01-30,Costa Rica,South Korea,3,1,CONCACAF Championship,the United States,37,-37,1813,1732,3,-6,23,34
+2002-01-30,Ghana,Burkina Faso,2,1,African Nations Cup,Mali,16,-16,1544,1384,6,-4,65,113
+2002-01-30,Saudi Arabia,Qatar,3,1,Gulf Cup,Saudi Arabia,14,-14,1717,1580,1,-2,39,59
+2002-01-30,South Africa,Morocco,3,1,African Nations Cup,Mali,42,-42,1649,1610,5,-5,48,53
+2002-01-30,United States,Canada,0,0,CONCACAF Championship,the United States,-18,18,1770,1587,-3,2,27,58
+2002-01-31,Brazil,Bolivia,6,0,Friendly,Brazil,5,-5,1838,1558,2,0,15,62
+2002-01-31,Egypt,Zambia,2,1,African Nations Cup,Mali,15,-15,1639,1454,3,-3,49,91
+2002-01-31,Senegal,Tunisia,0,0,African Nations Cup,Mali,0,0,1626,1627,-1,-1,51,50
+2002-02-02,Canada,South Korea,2,1,CONCACAF Championship,the United States,35,-35,1622,1697,5,-7,53,41
+2002-02-02,United States,Costa Rica,2,0,CONCACAF Championship,the United States,31,-31,1801,1782,4,-3,23,26
+2002-02-03,Mali,South Africa,2,0,African Nations Cup,Mali,44,-44,1531,1605,13,-6,69,54
+2002-02-03,Nigeria,Ghana,1,0,African Nations Cup,Mali,13,-13,1742,1531,3,-4,32,69
+2002-02-04,Cameroon,Egypt,1,0,African Nations Cup,Mali,16,-16,1787,1623,1,-3,26,51
+2002-02-04,Senegal,DR Congo,2,0,African Nations Cup,Mali,22,-22,1648,1455,2,-5,48,90
+2002-02-06,Iran,Slovakia,2,3,Friendly,Iran,-14,14,1737,1709,-2,4,33,38
+2002-02-06,Saudi Arabia,Brazil,0,1,Friendly,Saudi Arabia,-9,9,1708,1847,-1,0,39,15
+2002-02-07,Mali,Cameroon,0,3,African Nations Cup,Mali,-25,25,1506,1812,-9,3,78,23
+2002-02-07,Senegal,Nigeria,2,1,African Nations Cup,Mali,32,-32,1680,1710,5,-6,43,37
+2002-02-07,Singapore,North Korea,2,1,Friendly,Singapore,14,-14,1245,1459,6,-3,145,88
+2002-02-09,Lithuania,Moldova,1,0,Friendly tournament,Malta,14,-14,1432,1382,5,-3,99,113
+2002-02-09,Mali,Nigeria,0,1,African Nations Cup,Mali,-18,18,1488,1728,-4,2,82,35
+2002-02-09,Malta,Jordan,2,1,Friendly tournament,Malta,19,-19,1229,1383,3,-4,152,112
+2002-02-10,Cameroon,Senegal,0,0,African Nations Cup,Mali,-9,9,1803,1689,0,0,23,43
+2002-02-10,North Korea,Qatar,1,1,King's Cup,Thailand,5,-5,1464,1575,2,0,86,59
+2002-02-10,Poland,Faroe Islands,2,1,Friendly,Cyprus,1,-1,1753,1241,1,0,29,147
+2002-02-10,Thailand,Singapore,4,0,King's Cup,Thailand,9,-9,1446,1236,3,-5,94,150
+2002-02-11,Malta,Lithuania,1,1,Friendly tournament,Malta,4,-4,1233,1428,0,-2,152,101
+2002-02-11,Moldova,Jordan,2,0,Friendly tournament,Malta,23,-23,1405,1360,5,-3,108,115
+2002-02-12,Cyprus,Switzerland,1,1,Friendly tournament,Cyprus,2,-2,1511,1658,0,0,74,47
+2002-02-12,Czechia,Hungary,2,0,Friendly tournament,Cyprus,10,-10,1828,1592,2,-3,19,58
+2002-02-12,Ecuador,Turkey,1,0,Friendly,the Netherlands,13,-13,1719,1783,2,-1,38,26
+2002-02-12,Honduras,Slovenia,5,1,Carlsberg Cup,Hong Kong,30,-30,1761,1730,6,-6,28,34
+2002-02-12,North Korea,Singapore,4,2,King's Cup,Thailand,10,-10,1474,1226,1,-3,85,153
+2002-02-12,Thailand,Qatar,1,0,King's Cup,Thailand,16,-16,1462,1559,6,-2,88,61
+2002-02-13,Belgium,Norway,1,0,Friendly,Belgium,5,-5,1838,1748,1,-1,17,30
+2002-02-13,Croatia,Bulgaria,0,0,Friendly,Croatia,-7,7,1878,1687,-1,0,10,44
+2002-02-13,Cyprus,Czechia,3,4,Friendly tournament,Cyprus,-7,7,1504,1835,-3,1,77,18
+2002-02-13,Faroe Islands,Liechtenstein,1,0,Friendly,Cyprus,5,-5,1246,1049,1,-1,146,182
+2002-02-13,France,Romania,2,1,Friendly,France,2,-2,2113,1814,0,0,1,22
+2002-02-13,Germany,Israel,7,1,Friendly,Germany,7,-7,1876,1665,0,-2,11,47
+2002-02-13,Greece,Sweden,2,2,Friendly,Greece,4,-4,1661,1888,0,0,48,8
+2002-02-13,Ireland,Russia,2,0,Friendly,Ireland,10,-10,1872,1828,0,-3,12,19
+2002-02-13,Italy,United States,1,0,Friendly,Italy,3,-3,2019,1798,1,0,2,24
+2002-02-13,Jordan,Lithuania,3,0,Friendly tournament,Malta,31,-31,1391,1397,6,-6,109,107
+2002-02-13,Luxembourg,Albania,0,0,Friendly,Luxembourg,6,-6,1121,1458,2,-2,168,89
+2002-02-13,Malta,Moldova,3,0,Friendly tournament,Malta,32,-32,1265,1373,11,-5,140,113
+2002-02-13,Netherlands,England,1,1,Friendly,the Netherlands,-4,4,1990,1936,0,0,5,7
+2002-02-13,Paraguay,Bolivia,2,2,Friendly,Paraguay,-6,6,1720,1564,-1,1,37,61
+2002-02-13,Poland,Northern Ireland,4,1,Friendly,Cyprus,8,-8,1761,1536,1,-1,28,66
+2002-02-13,Saudi Arabia,Denmark,0,1,Friendly,Saudi Arabia,-9,9,1699,1858,-1,0,41,14
+2002-02-13,Spain,Portugal,1,1,Friendly,Spain,-2,2,1965,2011,0,0,6,4
+2002-02-13,Switzerland,Hungary,2,1,Friendly tournament,Cyprus,12,-12,1670,1580,1,0,46,58
+2002-02-13,Uruguay,South Korea,2,1,Friendly,Uruguay,5,-5,1793,1692,0,0,25,42
+2002-02-13,Wales,Argentina,1,1,Friendly,Wales,8,-8,1560,2016,1,-1,62,3
+2002-02-13,Yugoslavia,Mexico,2,1,Friendly,the United States,10,-10,1844,1817,1,-1,16,21
+2002-02-14,Qatar,Singapore,3,0,King's Cup,Thailand,7,-7,1566,1219,2,0,61,153
+2002-02-14,Thailand,North Korea,0,1,King's Cup,Thailand,-19,19,1443,1493,-8,4,95,81
+2002-02-15,China,Slovenia,0,0,Carlsberg Cup,Hong Kong,0,0,1723,1730,0,0,36,34
+2002-02-16,Qatar,Singapore,2,0,King's Cup,Thailand,5,-5,1571,1214,1,0,60,153
+2002-02-16,Thailand,North Korea,0,0,King's Cup,Thailand,-2,2,1441,1495,-1,1,96,80
+2002-02-18,Gibraltar,Monaco,2,2,Friendly,France,-4,4,1052,908,0,2,180,193
+2002-03-01,Iran,Venezuela,1,0,LG Cup,Morocco,8,-8,1745,1564,1,-2,31,61
+2002-03-02,Botswana,Swaziland,6,2,Friendly,Botswana,17,-17,1135,1174,4,-2,165,158
+2002-03-02,United States,Honduras,4,0,Friendly,the United States,12,-12,1810,1749,1,-1,23,29
+2002-03-07,Brazil,Iceland,6,1,Friendly,Brazil,5,-5,1852,1591,0,-1,15,57
+2002-03-09,New Caledonia,Eastern Samoa,10,0,Oceania Nations Cup qualifier,Samoa,1,-1,1151,405,0,0,163,229
+2002-03-09,Samoa,Tonga,2,0,Oceania Nations Cup qualifier,Samoa,20,-20,722,659,1,-1,212,218
+2002-03-10,Swaziland,Lesotho,1,0,Friendly,Swaziland,7,-7,1181,1168,2,-3,156,160
+2002-03-10,United States,Ecuador,1,0,Friendly,the United States,5,-5,1815,1714,1,0,22,38
+2002-03-12,Papua New Guinea,New Caledonia,4,1,Oceania Nations Cup qualifier,Samoa,48,-48,1064,1103,7,-9,179,172
+2002-03-12,Tonga,Eastern Samoa,7,2,Oceania Nations Cup qualifier,Samoa,15,-15,674,390,0,-2,218,231
+2002-03-13,Mexico,Albania,4,0,Friendly,the United States,4,-4,1821,1454,1,-2,20,90
+2002-03-13,Tunisia,South Korea,0,0,Friendly,Tunisia,-1,1,1626,1693,0,0,49,42
+2002-03-14,Estonia,Saudi Arabia,2,0,Friendly,Italy,27,-27,1373,1672,8,-3,113,44
+2002-03-14,Papua New Guinea,Tonga,5,0,Oceania Nations Cup qualifier,Samoa,8,-8,1072,666,1,0,178,218
+2002-03-14,Samoa,Eastern Samoa,5,0,Oceania Nations Cup qualifier,Samoa,6,-6,728,384,0,0,212,231
+2002-03-16,Botswana,Namibia,3,1,Friendly,Botswana,15,-15,1150,1227,1,-3,163,151
+2002-03-16,Mauritius,Madagascar,2,3,COSAFA Cup,Mauritius,-20,20,1225,1363,-5,5,152,117
+2002-03-16,New Caledonia,Tonga,9,0,Oceania Nations Cup qualifier,Samoa,7,-7,1110,659,1,0,171,218
+2002-03-16,Samoa,Papua New Guinea,1,4,Oceania Nations Cup qualifier,Samoa,-14,14,714,1086,0,1,212,177
+2002-03-17,Sri Lanka,Pakistan,1,1,Friendly,Sri Lanka,-6,6,901,793,-2,0,196,208
+2002-03-18,Papua New Guinea,Eastern Samoa,7,0,Oceania Nations Cup qualifier,Samoa,2,-2,1088,382,0,0,177,231
+2002-03-18,Samoa,New Caledonia,0,5,Oceania Nations Cup qualifier,Samoa,-12,12,702,1122,-1,3,213,168
+2002-03-19,Sri Lanka,Pakistan,0,0,Friendly,Sri Lanka,-5,5,896,798,0,0,196,208
+2002-03-20,Saudi Arabia,South Africa,1,0,Friendly,Italy,8,-8,1680,1597,0,-1,44,55
+2002-03-20,South Korea,Finland,2,0,Friendly,Spain,17,-17,1710,1725,2,-3,39,35
+2002-03-21,Japan,Ukraine,1,0,Friendly,Japan,4,-4,1863,1698,0,0,13,41
+2002-03-23,Sri Lanka,Pakistan,1,0,Friendly,Sri Lanka,5,-5,901,793,0,0,196,208
+2002-03-25,Sri Lanka,Pakistan,2,1,Friendly,Sri Lanka,5,-5,906,788,2,0,194,208
+2002-03-26,Nigeria,Paraguay,1,1,Friendly,England,0,0,1728,1720,0,0,34,37
+2002-03-26,South Korea,Turkey,0,0,Friendly,Germany,2,-2,1712,1781,0,-1,39,27
+2002-03-27,Albania,Azerbaijan,1,0,Friendly,Albania,4,-4,1458,1297,2,0,88,132
+2002-03-27,Argentina,Cameroon,2,2,Friendly,Switzerland,-5,5,2011,1808,0,1,3,23
+2002-03-27,Austria,Slovakia,2,0,Friendly,Austria,12,-12,1684,1697,1,0,44,40
+2002-03-27,Belize,Guyana,3,1,Friendly,Belize,10,-10,1125,1093,4,-3,167,176
+2002-03-27,Bosnia and Herzegovina,Macedonia,4,4,Friendly,Bosnia and Herzegovina,-5,5,1526,1450,-3,0,72,94
+2002-03-27,Brazil,Yugoslavia,1,0,Friendly,Brazil,7,-7,1859,1837,1,0,14,16
+2002-03-27,Croatia,Slovenia,0,0,Friendly,Croatia,-6,6,1872,1736,-3,0,13,33
+2002-03-27,Ecuador,Bulgaria,3,0,Friendly,the United States,16,-16,1730,1671,3,-4,35,47
+2002-03-27,England,Italy,1,2,Friendly,England,-10,10,1926,2029,0,0,7,2
+2002-03-27,Estonia,Russia,2,1,Friendly,Estonia,18,-18,1391,1810,4,-3,109,22
+2002-03-27,France,Scotland,5,0,Friendly,France,2,-2,2115,1732,0,-2,1,34
+2002-03-27,Georgia,South Africa,4,1,Friendly,Georgia,13,-13,1606,1584,2,-3,54,58
+2002-03-27,Germany,United States,4,2,Friendly,Germany,9,-9,1885,1806,3,-2,8,24
+2002-03-27,Greece,Belgium,3,2,Friendly,Greece,12,-12,1673,1826,2,-1,46,18
+2002-03-27,Ireland,Denmark,3,0,Friendly,Ireland,12,-12,1884,1846,3,-1,9,15
+2002-03-27,Liechtenstein,Northern Ireland,0,0,Friendly,Liechtenstein,8,-8,1057,1528,1,-4,182,70
+2002-03-27,Luxembourg,Latvia,0,3,Friendly,Luxembourg,-9,9,1112,1425,-2,3,171,101
+2002-03-27,Malta,Andorra,1,1,Friendly,Malta,-7,7,1258,1058,-2,1,142,181
+2002-03-27,Moldova,Hungary,0,2,Friendly,Moldova,-11,11,1362,1591,-4,2,117,56
+2002-03-27,Netherlands,Spain,1,0,Friendly,the Netherlands,7,-7,1997,1958,1,0,4,6
+2002-03-27,Poland,Japan,0,2,Friendly,Poland,-15,15,1746,1878,-3,1,31,12
+2002-03-27,Portugal,Finland,1,4,Friendly,Portugal,-32,32,1979,1757,-1,7,5,28
+2002-03-27,Romania,Ukraine,4,1,Friendly,Romania,8,-8,1822,1690,4,-1,19,42
+2002-03-27,Saudi Arabia,Uruguay,3,2,Friendly,Saudi Arabia,10,-10,1690,1783,2,0,42,25
+2002-03-27,Senegal,Bolivia,2,1,Friendly,Senegal,4,-4,1693,1560,1,-2,41,63
+2002-03-27,Sweden,Switzerland,1,1,Friendly,Sweden,-7,7,1881,1677,-2,1,10,45
+2002-03-27,Tunisia,Norway,0,0,Friendly,Tunisia,1,-1,1627,1747,0,0,49,30
+2002-03-27,Wales,Czechia,0,0,Friendly,Wales,5,-5,1565,1830,2,1,61,17
+2002-03-30,Botswana,South Africa,0,0,COSAFA Cup,Botswana,15,-15,1165,1569,2,-1,161,59
+2002-03-30,Swaziland,Mozambique,1,2,Friendly,Swaziland,-11,11,1170,1248,-1,1,157,146
+2002-03-31,Swaziland,Mozambique,1,1,Friendly,Swaziland,-1,1,1169,1249,0,0,157,146
+2002-04-03,United States,Mexico,1,0,Friendly,the United States,8,-8,1814,1813,3,-2,21,22
+2002-04-04,Sri Lanka,Maldives,1,0,Friendly,Sri Lanka,7,-7,913,895,1,0,193,196
+2002-04-06,Sri Lanka,Maldives,1,1,Friendly,Sri Lanka,-3,3,910,898,0,0,193,196
+2002-04-07,Lesotho,Mozambique,0,2,COSAFA Cup,Lesotho,-32,32,1136,1281,-4,10,164,136
+2002-04-09,Singapore,Maldives,2,0,Friendly,Singapore,3,-3,1217,895,0,0,153,196
+2002-04-10,Yemen,Ethiopia,1,1,Friendly,Yemen,3,-3,1214,1417,1,-1,154,104
+2002-04-14,Ethiopia,Tanzania,3,0,Friendly,Ethiopia,8,-8,1425,1305,3,-1,101,129
+2002-04-17,Andorra,Albania,2,0,Friendly,Andorra,25,-25,1083,1433,2,-10,179,98
+2002-04-17,Austria,Cameroon,0,0,Friendly,Austria,1,-1,1685,1807,0,0,44,24
+2002-04-17,Belgium,Slovakia,1,1,Friendly,Belgium,-6,6,1820,1703,-1,0,19,40
+2002-04-17,Belize,Nicaragua,7,1,Friendly,Belize,6,-6,1131,900,2,0,165,195
+2002-04-17,Croatia,Bosnia and Herzegovina,2,0,Friendly,Croatia,2,-2,1874,1524,1,0,12,72
+2002-04-17,Denmark,Israel,3,1,Friendly,Denmark,5,-5,1851,1660,0,0,15,48
+2002-04-17,Ecuador,South Africa,0,0,Friendly,Spain,-4,4,1726,1573,0,2,35,57
+2002-04-17,England,Paraguay,4,0,Friendly,England,5,-5,1931,1715,0,0,7,38
+2002-04-17,France,Russia,0,0,Friendly,France,-8,8,2107,1818,0,1,1,22
+2002-04-17,Germany,Argentina,0,1,Friendly,Germany,-9,9,1876,2020,-3,0,11,3
+2002-04-17,Greece,Czechia,0,0,Friendly,Greece,2,-2,1675,1828,0,-1,46,18
+2002-04-17,Hungary,Belarus,2,5,Friendly,Hungary,-26,26,1565,1534,-4,8,60,67
+2002-04-17,Ireland,United States,2,1,Friendly,Ireland,5,-5,1889,1809,1,-2,8,23
+2002-04-17,Italy,Uruguay,1,1,Friendly,Italy,-8,8,2021,1791,0,0,2,25
+2002-04-17,Japan,Costa Rica,1,1,Friendly,Japan,-5,5,1873,1787,-1,-1,13,27
+2002-04-17,Latvia,Kazakhstan,2,1,Friendly,Latvia,8,-8,1433,1454,3,-3,98,90
+2002-04-17,Luxembourg,Liechtenstein,3,3,Friendly,Luxembourg,-4,4,1108,1061,0,1,171,181
+2002-04-17,Macedonia,Finland,1,0,Friendly,Macedonia,15,-15,1465,1742,7,-3,87,31
+2002-04-17,Malta,Azerbaijan,1,0,Friendly,Malta,8,-8,1266,1289,2,-2,141,134
+2002-04-17,Mexico,Bulgaria,1,0,Friendly,the United States,6,-6,1819,1665,1,0,21,47
+2002-04-17,Norway,Sweden,0,0,Friendly,Norway,1,-1,1748,1880,1,1,29,9
+2002-04-17,Northern Ireland,Spain,0,5,Friendly,Northern Ireland,-5,5,1523,1963,-3,0,73,6
+2002-04-17,Poland,Romania,1,2,Friendly,Poland,-11,11,1735,1833,-3,2,34,17
+2002-04-17,Portugal,Brazil,1,1,Friendly,Portugal,-6,6,1973,1865,0,0,5,14
+2002-04-17,Scotland,Nigeria,1,2,Friendly,Scotland,-13,13,1719,1741,-3,4,37,32
+2002-04-17,Slovenia,Tunisia,1,0,Friendly,Slovenia,5,-5,1741,1622,1,-2,32,51
+2002-04-17,Turkey,Chile,2,0,Friendly,the Netherlands,8,-8,1789,1590,1,-1,26,56
+2002-04-17,Ukraine,Georgia,2,1,Friendly,Ukraine,5,-5,1695,1601,1,0,41,54
+2002-04-17,Yugoslavia,Lithuania,4,1,Friendly,Yugoslavia,1,-1,1838,1396,0,-1,16,108
+2002-04-21,South Korea,Costa Rica,2,0,Friendly,South Korea,14,-14,1726,1773,4,0,35,27
+2002-04-21,Swaziland,Namibia,2,1,COSAFA Cup,Swaziland,18,-18,1187,1209,1,-4,156,155
+2002-04-27,South Korea,China,0,0,Friendly,South Korea,-3,3,1723,1726,-2,2,37,35
+2002-04-29,Japan,Slovakia,1,0,Kirin Cup,Japan,5,-5,1878,1698,2,0,11,40
+2002-05-01,Tanzania,Ethiopia,3,1,Friendly,Tanzania,16,-16,1321,1409,3,-3,126,105
+2002-05-02,Japan,Honduras,3,3,Kirin Cup,Japan,-9,9,1869,1758,-2,0,13,28
+2002-05-04,Malawi,Tanzania,1,0,Friendly,Malawi,9,-9,1265,1312,3,-2,142,128
+2002-05-04,Nigeria,Kenya,3,0,Friendly,Nigeria,2,-2,1743,1370,1,0,31,114
+2002-05-05,Zimbabwe,Swaziland,0,2,COSAFA Cup,Zimbabwe,-55,55,1458,1242,-13,8,87,148
+2002-05-07,Venezuela,Colombia,0,0,Friendly,Venezuela,6,-6,1570,1873,3,-2,59,12
+2002-05-08,Ecuador,Yugoslavia,1,0,Friendly,the United States,13,-13,1739,1825,1,-2,34,18
+2002-05-08,Hungary,Croatia,0,2,Friendly,Hungary,-7,7,1558,1881,-2,2,63,9
+2002-05-09,Costa Rica,Colombia,1,2,Friendly,Costa Rica,-10,10,1763,1883,0,3,27,9
+2002-05-09,Germany,Kuwait,7,0,Friendly,Germany,3,-3,1879,1526,-1,-1,12,71
+2002-05-11,China,Thailand,3,1,Friendly,China,3,-3,1729,1438,0,-1,36,96
+2002-05-11,Kenya,Tanzania,1,0,Friendly,Kenya,6,-6,1376,1306,0,-1,114,129
+2002-05-12,Mexico,Colombia,2,1,Friendly,Mexico,9,-9,1828,1874,4,-3,17,12
+2002-05-12,South Africa,Madagascar,1,0,Friendly,South Africa,3,-3,1576,1360,0,-1,57,117
+2002-05-12,United States,Uruguay,2,1,Friendly,the United States,7,-7,1816,1784,0,-1,23,26
+2002-05-14,Belgium,Algeria,0,0,Friendly,Belgium,-9,9,1811,1480,-3,0,23,85
+2002-05-14,Norway,Japan,3,0,Friendly,Norway,19,-19,1767,1850,2,-2,27,15
+2002-05-14,Saudi Arabia,Senegal,3,2,Friendly,Saudi Arabia,7,-7,1697,1686,2,-1,41,43
+2002-05-14,Slovakia,Uzbekistan,4,1,Friendly,Slovakia,6,-6,1704,1502,0,-1,40,76
+2002-05-14,Wales,Germany,1,0,Friendly,Wales,15,-15,1580,1864,4,-2,57,13
+2002-05-15,Greece,Cyprus,3,1,Friendly,Greece,5,-5,1680,1499,1,-2,45,77
+2002-05-15,Switzerland,Canada,1,3,Friendly,Switzerland,-21,21,1656,1643,-3,2,48,49
+2002-05-16,China,Uruguay,0,2,Philips Cup,China,-25,25,1704,1809,-3,2,39,24
+2002-05-16,Ireland,Nigeria,1,2,Friendly,Ireland,-16,16,1873,1759,-3,2,11,29
+2002-05-16,Mexico,Bolivia,1,0,Friendly,the United States,4,-4,1832,1556,0,-1,17,63
+2002-05-16,South Korea,Scotland,4,1,Friendly,South Korea,12,-12,1735,1707,2,0,35,38
+2002-05-16,United States,Jamaica,5,0,Friendly,the United States,4,-4,1820,1530,2,-2,20,69
+2002-05-17,Denmark,Cameroon,2,1,Friendly,Denmark,6,-6,1857,1801,0,1,14,24
+2002-05-17,Myanmar,Malaysia,1,1,Friendly,Myanmar,2,-2,1104,1279,1,-3,173,139
+2002-05-17,Russia,Belarus,1,1,LG Cup,Russia,-12,12,1806,1546,-1,2,23,65
+2002-05-17,Slovenia,Ghana,2,0,Friendly,Slovenia,4,-4,1745,1527,2,-2,31,70
+2002-05-17,Sweden,Paraguay,1,2,Friendly,Sweden,-16,16,1864,1731,-3,0,12,37
+2002-05-17,Ukraine,Yugoslavia,2,0,LG Cup,Russia,31,-31,1726,1794,4,-6,38,25
+2002-05-18,Czechia,Italy,1,0,Friendly,Czechia,13,-13,1841,2008,2,-1,16,3
+2002-05-18,France,Belgium,1,2,Friendly,France,-18,18,2089,1829,0,2,1,19
+2002-05-18,Germany,Austria,6,2,Friendly,Germany,6,-6,1870,1679,1,-1,11,45
+2002-05-18,Malawi,Angola,2,1,COSAFA Cup,Malawi,29,-29,1294,1499,11,-7,131,76
+2002-05-18,Nigeria,Jamaica,1,0,Unity Cup,England,6,-6,1765,1524,1,-2,28,70
+2002-05-18,Poland,Estonia,1,0,Friendly,Poland,1,-1,1736,1390,0,-3,35,112
+2002-05-18,Tanzania,Kenya,0,5,Friendly,Tanzania,-22,22,1284,1398,-6,7,135,107
+2002-05-19,Belarus,Ukraine,2,0,LG Cup,Russia,33,-33,1579,1693,7,-4,58,42
+2002-05-19,Myanmar,Malaysia,0,0,Friendly,Myanmar,2,-2,1106,1277,1,0,172,140
+2002-05-19,Russia,Yugoslavia,1,1,LG Cup,Russia,-5,5,1801,1799,0,0,23,25
+2002-05-19,United States,Netherlands,0,2,Friendly,the United States,-12,12,1808,2009,-2,1,22,3
+2002-05-20,South Africa,Scotland,2,0,Reunification Cup,Hong Kong,31,-31,1607,1676,5,-7,54,45
+2002-05-21,San Marino,Estonia,0,1,Friendly,San Marino,-3,3,951,1393,0,2,191,110
+2002-05-21,Singapore,Uruguay,1,2,Tiger Challenge,Singapore,-2,2,1215,1811,0,0,153,21
+2002-05-21,South Korea,England,1,1,Friendly,South Korea,3,-3,1738,1928,1,0,35,7
+2002-05-22,Finland,Latvia,2,1,Friendly,Finland,2,-2,1744,1431,0,-2,33,100
+2002-05-22,Norway,Iceland,1,1,Friendly,Norway,-7,7,1760,1598,-2,0,29,56
+2002-05-23,Senegal,Ecuador,1,0,Friendly,Japan,12,-12,1698,1727,2,-3,40,37
+2002-05-23,South Africa,Turkey,2,0,Reunification Cup,Hong Kong,33,-33,1640,1756,4,-4,50,30
+2002-05-25,Japan,Sweden,1,1,Friendly,Japan,-2,2,1848,1866,0,0,15,13
+2002-05-25,Malaysia,Brazil,0,4,Friendly,Malaysia,-2,2,1275,1867,0,0,140,12
+2002-05-25,Portugal,China,2,0,Friendly,Macao,5,-5,1978,1699,0,-1,5,39
+2002-05-26,Belgium,Costa Rica,1,0,Friendly,Japan,8,-8,1837,1755,2,-3,17,30
+2002-05-26,Cameroon,England,2,2,Friendly,Japan,4,-4,1805,1924,0,0,23,7
+2002-05-26,Denmark,Tunisia,2,1,Friendly,Japan,4,-4,1861,1618,0,0,14,53
+2002-05-26,South Korea,France,2,3,Friendly,South Korea,-4,4,1734,2093,-1,0,35,1
+2002-05-30,Kuwait,Iran,1,3,Friendly,Kuwait,-10,10,1516,1755,-3,1,72,30
+2002-05-31,Senegal,France,1,0,World Cup,South Korea,54,-54,1752,2039,8,0,32,1
+2002-06-01,Cameroon,Ireland,1,1,World Cup,Japan,6,-6,1811,1867,2,-2,21,12
+2002-06-01,Denmark,Uruguay,2,1,World Cup,South Korea,26,-26,1887,1785,5,-4,9,25
+2002-06-01,Germany,Saudi Arabia,8,0,World Cup,Japan,38,-38,1908,1659,3,-6,8,47
+2002-06-02,Argentina,Nigeria,1,0,World Cup,Japan,11,-11,2031,1754,0,-5,2,31
+2002-06-02,England,Sweden,1,1,World Cup,Japan,-5,5,1919,1871,0,2,7,12
+2002-06-02,Paraguay,South Africa,2,2,World Cup,South Korea,-8,8,1723,1648,-1,1,38,49
+2002-06-02,Spain,Slovenia,3,1,World Cup,South Korea,20,-20,1983,1725,1,-4,5,37
+2002-06-03,Brazil,Turkey,2,1,World Cup,South Korea,21,-21,1888,1735,4,-6,9,34
+2002-06-03,Italy,Ecuador,2,0,World Cup,Japan,15,-15,2023,1712,1,-2,3,38
+2002-06-03,Mexico,Croatia,1,0,World Cup,Japan,34,-34,1866,1847,5,-6,14,16
+2002-06-04,Costa Rica,China,2,0,World Cup,South Korea,38,-38,1793,1661,3,-5,25,45
+2002-06-04,Japan,Belgium,2,2,World Cup,Japan,-9,9,1839,1846,-3,2,18,16
+2002-06-04,South Korea,Poland,2,0,World Cup,South Korea,33,-33,1767,1703,8,-6,27,39
+2002-06-05,Germany,Ireland,1,1,World Cup,Japan,-4,4,1904,1871,0,1,8,12
+2002-06-05,Russia,Tunisia,2,0,World Cup,Japan,23,-23,1824,1595,2,-3,21,56
+2002-06-05,United States,Portugal,3,2,World Cup,South Korea,44,-44,1852,1934,7,0,15,6
+2002-06-06,Cameroon,Saudi Arabia,1,0,World Cup,Japan,18,-18,1829,1641,2,-3,21,50
+2002-06-06,Denmark,Senegal,1,1,World Cup,South Korea,-11,11,1876,1763,0,4,10,28
+2002-06-06,France,Uruguay,0,0,World Cup,South Korea,-19,19,2020,1804,-2,2,3,24
+2002-06-06,Saint Martin,Anguilla,2,1,Friendly,Saint Martin,0,0,1086,541,0,0,178,227
+2002-06-07,Andorra,Armenia,0,2,Friendly,Andorra,-6,6,1077,1418,0,0,179,104
+2002-06-07,England,Argentina,1,0,World Cup,Japan,39,-39,1958,1992,1,-4,6,5
+2002-06-07,Spain,Paraguay,3,1,World Cup,South Korea,16,-16,1999,1707,1,-1,4,37
+2002-06-07,Sweden,Nigeria,2,1,World Cup,Japan,20,-20,1891,1734,3,-2,9,34
+2002-06-08,Brazil,China,4,0,World Cup,South Korea,24,-24,1912,1637,2,-5,8,50
+2002-06-08,Croatia,Italy,2,1,World Cup,Japan,44,-44,1891,1979,6,-4,10,5
+2002-06-08,Malawi,Botswana,2,0,Friendly,Malawi,6,-6,1300,1159,0,-1,131,161
+2002-06-08,South Africa,Slovenia,1,0,World Cup,South Korea,37,-37,1685,1688,7,-5,41,40
+2002-06-09,Costa Rica,Turkey,1,1,World Cup,South Korea,-5,5,1788,1740,0,0,26,33
+2002-06-09,Japan,Russia,1,0,World Cup,Japan,20,-20,1859,1804,3,-1,16,23
+2002-06-09,Malawi,Botswana,1,0,Friendly,Malawi,4,-4,1304,1155,1,-1,130,162
+2002-06-09,Mexico,Ecuador,2,1,World Cup,Japan,18,-18,1884,1694,3,-3,12,38
+2002-06-10,Belgium,Tunisia,1,1,World Cup,Japan,-19,19,1827,1614,-3,3,21,53
+2002-06-10,Portugal,Poland,4,0,World Cup,South Korea,24,-24,1958,1679,1,-5,6,42
+2002-06-10,South Korea,United States,1,1,World Cup,South Korea,-1,1,1766,1853,0,0,27,17
+2002-06-11,Denmark,France,2,0,World Cup,South Korea,63,-63,1939,1957,5,-6,8,7
+2002-06-11,Germany,Cameroon,2,0,World Cup,Japan,35,-35,1939,1794,1,-5,8,25
+2002-06-11,Ireland,Saudi Arabia,3,0,World Cup,Japan,22,-22,1893,1619,4,-3,11,52
+2002-06-11,Senegal,Uruguay,3,3,World Cup,South Korea,4,-4,1767,1800,1,0,27,23
+2002-06-12,Argentina,Sweden,1,1,World Cup,Japan,-8,8,1984,1899,0,1,3,11
+2002-06-12,England,Nigeria,0,0,World Cup,Japan,-17,17,1941,1751,-2,2,7,32
+2002-06-12,Paraguay,Slovenia,3,1,World Cup,South Korea,43,-43,1750,1645,2,-8,33,47
+2002-06-12,Spain,South Africa,3,2,World Cup,South Korea,8,-8,2007,1677,0,-2,2,42
+2002-06-13,Brazil,Costa Rica,5,2,World Cup,South Korea,35,-35,1947,1753,3,-6,7,32
+2002-06-13,Ecuador,Croatia,1,0,World Cup,Japan,45,-45,1739,1846,1,-4,36,17
+2002-06-13,Italy,Mexico,1,1,World Cup,Japan,-8,8,1971,1892,0,1,4,13
+2002-06-13,Turkey,China,3,0,World Cup,South Korea,37,-37,1777,1600,9,-6,26,55
+2002-06-14,Belgium,Russia,3,2,World Cup,Japan,28,-28,1855,1776,4,-5,16,27
+2002-06-14,Japan,Tunisia,2,0,World Cup,Japan,11,-11,1870,1603,0,-1,15,53
+2002-06-14,Poland,United States,3,1,World Cup,South Korea,66,-66,1745,1787,5,-9,35,25
+2002-06-14,South Korea,Portugal,1,0,World Cup,South Korea,38,-38,1804,1920,7,-5,21,10
+2002-06-15,England,Denmark,3,0,World Cup,Japan,52,-52,1993,1887,4,-5,3,13
+2002-06-15,Germany,Paraguay,1,0,World Cup,South Korea,15,-15,1954,1735,1,-3,7,37
+2002-06-16,Ireland,Spain,1,1,World Cup,South Korea,10,-10,1903,1997,1,0,10,2
+2002-06-16,Senegal,Sweden,2,1,World Cup,Japan,41,-41,1808,1858,7,-5,21,15
+2002-06-17,Brazil,Belgium,2,0,World Cup,Japan,33,-33,1980,1822,3,-4,5,20
+2002-06-17,United States,Mexico,2,0,World Cup,South Korea,58,-58,1845,1834,10,-7,16,18
+2002-06-18,Japan,Turkey,0,1,World Cup,Japan,-45,45,1825,1822,-7,6,20,21
+2002-06-18,South Korea,Italy,2,1,World Cup,South Korea,36,-36,1840,1935,6,-2,17,8
+2002-06-21,Brazil,England,2,1,World Cup,Japan,31,-31,2011,1962,4,-3,1,6
+2002-06-21,Germany,United States,1,0,World Cup,South Korea,21,-21,1975,1824,2,-5,5,20
+2002-06-22,Grenada,British Virgin Islands,5,0,Friendly,Grenada,2,-2,1305,868,2,0,129,203
+2002-06-22,South Korea,Spain,0,0,World Cup,South Korea,5,-5,1845,1992,0,0,16,3
+2002-06-22,Turkey,Senegal,1,0,World Cup,Japan,29,-29,1851,1779,7,-3,14,27
+2002-06-23,Saint Martin,Anguilla,1,0,Friendly,Saint Martin,0,0,1086,541,0,0,178,227
+2002-06-25,Mozambique,Angola,1,1,Friendship Cup,Mozambique,5,-5,1286,1494,2,-3,135,79
+2002-06-25,South Korea,Germany,0,1,World Cup,South Korea,-27,27,1818,2002,-7,2,23,3
+2002-06-26,Brazil,Turkey,1,0,World Cup,Japan,17,-17,2028,1834,0,-2,1,16
+2002-06-29,South Korea,Turkey,2,3,World Cup,South Korea,-37,37,1781,1871,-3,3,26,13
+2002-06-30,Bhutan,Montserrat,4,0,Friendly,Bhutan,13,-13,573,545,0,0,225,226
+2002-06-30,Brazil,Germany,2,0,World Cup,Japan,42,-42,2070,1960,0,-3,1,6
+2002-07-03,Estonia,Azerbaijan,0,0,Friendly,Estonia,-5,5,1388,1294,-2,2,112,132
+2002-07-05,New Zealand,Tahiti,4,0,Oceania Nations Cup,New Zealand,16,-16,1525,1324,4,0,69,124
+2002-07-05,Papua New Guinea,Solomon Islands,0,0,Oceania Nations Cup,New Zealand,13,-13,1101,1269,2,-3,175,140
+2002-07-06,Australia,Vanuatu,2,0,Oceania Nations Cup,New Zealand,1,-1,1821,1095,0,0,22,176
+2002-07-06,British Virgin Islands,Anguilla,2,1,Friendly,the British VirgIslands,2,-2,870,539,0,0,203,227
+2002-07-06,Fiji,New Caledonia,2,1,Oceania Nations Cup,New Zealand,8,-8,1428,1114,2,-1,101,170
+2002-07-06,Grenada,Saint Martin,8,3,CONCACAF Championship qualifier,Grenada,11,-11,1316,1075,2,-1,127,179
+2002-07-06,Latvia,Azerbaijan,0,0,Friendly,Latvia,-6,6,1425,1300,-2,0,102,132
+2002-07-06,Zambia,Mozambique,3,0,COSAFA Cup,Zambia,12,-12,1466,1274,4,-4,86,139
+2002-07-07,Guadeloupe,Puerto Rico,4,0,CONCACAF Championship qualifier,Guadeloupe,3,-3,1326,885,0,0,125,199
+2002-07-07,Kazakhstan,Estonia,1,1,Friendly,Kazakhstan,-4,4,1450,1392,-1,2,92,110
+2002-07-07,Malawi,Zimbabwe,3,2,Independence Tournament,Malawi,17,-17,1321,1441,5,-6,126,94
+2002-07-07,New Zealand,Papua New Guinea,9,1,Oceania Nations Cup,New Zealand,6,-6,1531,1095,1,0,68,175
+2002-07-07,Tahiti,Solomon Islands,3,2,Oceania Nations Cup,New Zealand,21,-21,1345,1248,1,-6,123,146
+2002-07-08,Australia,New Caledonia,11,0,Oceania Nations Cup,New Zealand,2,-2,1823,1112,1,-1,21,171
+2002-07-08,Malawi,Zimbabwe,2,2,Independence Tournament,Malawi,1,-1,1322,1440,0,-1,126,95
+2002-07-08,Vanuatu,Fiji,1,0,Oceania Nations Cup,New Zealand,44,-44,1139,1384,11,-12,164,113
+2002-07-09,New Zealand,Solomon Islands,6,1,Oceania Nations Cup,New Zealand,10,-10,1541,1238,1,-2,67,148
+2002-07-09,Tahiti,Papua New Guinea,3,1,Oceania Nations Cup,New Zealand,14,-14,1359,1081,5,-1,118,177
+2002-07-10,Australia,Fiji,8,0,Oceania Nations Cup,New Zealand,9,-9,1832,1375,2,-1,19,114
+2002-07-10,Vanuatu,New Caledonia,1,0,Oceania Nations Cup,New Zealand,23,-23,1162,1089,3,-5,161,176
+2002-07-12,Australia,Tahiti,2,1,Oceania Nations Cup,New Zealand,3,-3,1835,1356,2,-1,17,119
+2002-07-12,New Zealand,Vanuatu,3,0,Oceania Nations Cup,New Zealand,5,-5,1546,1157,1,0,66,161
+2002-07-14,British Virgin Islands,Saint Lucia,1,3,CONCACAF Championship qualifier,the British VirgIslands,-10,10,860,1267,-1,3,204,141
+2002-07-14,New Zealand,Australia,1,0,Oceania Nations Cup,New Zealand,37,-37,1583,1798,8,-7,58,24
+2002-07-14,Tahiti,Vanuatu,1,0,Oceania Nations Cup,New Zealand,12,-12,1368,1145,4,-2,115,163
+2002-07-16,Malaysia,Singapore,1,2,Friendly,Malaysia,-14,14,1261,1229,-6,2,144,151
+2002-07-19,Iraq,Syria,2,0,Friendly,Iraq,7,-7,1575,1450,2,-3,61,91
+2002-07-21,Puerto Rico,Guadeloupe,0,2,CONCACAF Championship qualifier,Puerto Rico,-7,7,878,1333,-2,0,201,125
+2002-07-21,South Africa,Madagascar,0,0,COSAFA Cup,South Africa,-17,17,1660,1377,-2,4,44,114
+2002-07-22,Iraq,Syria,2,1,Friendly,Iraq,4,-4,1579,1446,1,-1,60,92
+2002-07-25,Barbados,Trinidad and Tobago,0,0,Friendly tournament,Saint Kitts and Nevis,9,-9,1325,1540,2,-1,126,67
+2002-07-25,Saint Kitts and Nevis,Taiwan,3,0,Friendly tournament,Saint Kitts and Nevis,4,-4,1351,1004,2,-1,121,188
+2002-07-26,Ethiopia,Uganda,0,0,Friendly tournament,Sudan,-4,4,1405,1314,-1,0,105,130
+2002-07-26,Sudan,Chad,2,0,Friendly tournament,Sudan,11,-11,1396,1281,4,-2,108,135
+2002-07-27,Saint Kitts and Nevis,Barbados,3,0,Friendly tournament,Saint Kitts and Nevis,17,-17,1368,1308,5,-4,116,130
+2002-07-27,Taiwan,Trinidad and Tobago,1,0,Friendly tournament,Saint Kitts and Nevis,29,-29,1033,1511,3,-6,185,73
+2002-07-28,Aruba,Suriname,0,2,CONCACAF Championship qualifier,Aruba,-15,15,961,1277,0,5,190,138
+2002-07-28,Chad,Ethiopia,3,2,Friendly tournament,Sudan,20,-20,1301,1385,3,-7,132,112
+2002-07-28,Guyana,Netherlands Antilles,2,1,CONCACAF Championship qualifier,Guyana,18,-18,1111,1145,4,-2,171,162
+2002-07-28,Saint Kitts and Nevis,Trinidad and Tobago,2,1,Friendly tournament,Saint Kitts and Nevis,17,-17,1385,1494,4,-5,112,78
+2002-07-28,Saint Lucia,British Virgin Islands,8,1,CONCACAF Championship qualifier,Saint Lucia,5,-5,1272,855,0,0,140,204
+2002-07-28,Sudan,Uganda,2,1,Friendly tournament,Sudan,8,-8,1404,1306,3,-1,105,130
+2002-07-30,Grenada,Taiwan,5,2,Friendly,Grenada,3,-3,1319,1030,0,-1,128,186
+2002-07-30,Sudan,Ethiopia,3,0,Friendly tournament,Sudan,18,-18,1422,1367,3,-5,102,117
+2002-07-30,Uganda,Chad,2,0,Friendly tournament,Sudan,22,-22,1328,1279,4,-5,126,137
+2002-08-01,Swaziland,Mauritius,0,1,Friendly,Swaziland,-13,13,1229,1238,-4,6,151,147
+2002-08-02,Grenada,Jamaica,0,1,Friendly,Grenada,-7,7,1312,1531,-1,1,129,68
+2002-08-03,Kenya,Uganda,0,0,Friendly,Kenya,-5,5,1393,1333,-2,1,108,125
+2002-08-03,Swaziland,Mauritius,0,0,Friendly,Swaziland,-3,3,1226,1241,-2,0,153,147
+2002-08-04,Saint Martin,Grenada,1,7,CONCACAF Championship qualifier,Saint Martin,-27,27,1048,1339,-4,4,183,125
+2002-08-08,Egypt,Ethiopia,4,1,Friendly,Egypt,4,-4,1627,1363,1,-1,49,118
+2002-08-10,Iran,Azerbaijan,1,1,Friendly,Iran,-9,9,1746,1309,-2,2,33,130
+2002-08-10,Malawi,Zambia,1,0,COSAFA Cup,Malawi,23,-23,1345,1443,4,-6,124,92
+2002-08-11,Netherlands Antilles,Guyana,1,0,CONCACAF Championship qualifier,the Netherlands Antilles,13,-13,1158,1098,2,-4,160,175
+2002-08-11,Saint Lucia,Jamaica,1,3,Friendly,Saint Lucia,-9,9,1263,1540,-2,1,142,67
+2002-08-11,Suriname,Aruba,6,0,CONCACAF Championship qualifier,Suriname,7,-7,1284,954,4,0,134,190
+2002-08-16,Dominican Republic,US Virgin Islands,6,1,CONCACAF Championship qualifier,the Dominican Republic,4,-4,1131,693,1,0,166,216
+2002-08-17,Jordan,Kenya,1,1,Friendly,Jordan,-3,3,1388,1396,-1,1,111,107
+2002-08-18,Dominican Republic,US Virgin Islands,5,1,CONCACAF Championship qualifier,the Dominican Republic,3,-3,1134,690,0,0,166,216
+2002-08-19,Jordan,Sudan,0,0,Friendly,Jordan,-2,2,1386,1424,0,0,111,102
+2002-08-20,Algeria,DR Congo,1,1,Friendly,Algeria,-3,3,1477,1458,0,0,85,87
+2002-08-20,Egypt,Uganda,2,0,Friendly,Egypt,3,-3,1630,1330,0,-1,49,128
+2002-08-21,Azerbaijan,Uzbekistan,2,0,Friendly,Azerbaijan,19,-19,1328,1483,1,-11,129,84
+2002-08-21,Bosnia and Herzegovina,Yugoslavia,0,2,Friendly,Bosnia and Herzegovina,-8,8,1516,1807,-1,1,71,22
+2002-08-21,Brazil,Paraguay,0,1,Friendly,Brazil,-18,18,2052,1753,0,5,1,32
+2002-08-21,Bulgaria,Germany,2,2,Friendly,Bulgaria,5,-5,1670,1955,1,0,42,6
+2002-08-21,Croatia,Wales,1,1,Friendly,Croatia,-8,8,1838,1588,-1,0,16,59
+2002-08-21,Czechia,Slovakia,4,1,Friendly,Czechia,7,-7,1848,1697,1,0,15,38
+2002-08-21,Estonia,Moldova,1,0,Friendly,Estonia,6,-6,1398,1356,3,-1,106,120
+2002-08-21,Faroe Islands,Liechtenstein,3,1,Friendly,the Faroe Islands,5,-5,1251,1056,0,-1,146,181
+2002-08-21,Finland,Ireland,0,3,Friendly,Finland,-15,15,1729,1918,-2,1,37,9
+2002-08-21,Hungary,Spain,1,1,Friendly,Hungary,7,-7,1565,1985,0,0,64,3
+2002-08-21,Iceland,Andorra,3,0,Friendly,Iceland,1,-1,1599,1076,1,0,55,178
+2002-08-21,Italy,Slovenia,0,1,Friendly,Italy,-18,18,1917,1663,-2,1,10,46
+2002-08-21,Latvia,Belarus,2,4,Friendly,Latvia,-13,13,1412,1592,-3,3,104,57
+2002-08-21,Lithuania,Israel,2,4,Friendly,Lithuania,-8,8,1388,1668,-3,0,110,44
+2002-08-21,Luxembourg,Morocco,0,2,Friendly,Luxembourg,-3,3,1105,1613,-1,0,172,52
+2002-08-21,Macedonia,Malta,5,0,Friendly,Macedonia,6,-6,1471,1260,0,-3,86,144
+2002-08-21,Mauritius,Reunion,1,1,Friendly,Mauritius,-2,2,1239,1283,0,0,147,136
+2002-08-21,Norway,Netherlands,0,1,Friendly,Norway,-6,6,1754,2015,-2,0,31,2
+2002-08-21,Northern Ireland,Cyprus,0,0,Friendly,Northern Ireland,-3,3,1520,1502,1,2,70,73
+2002-08-21,Poland,Belgium,1,1,Friendly,Poland,-1,1,1744,1823,-1,1,35,20
+2002-08-21,Romania,Greece,0,1,Friendly,Romania,-16,16,1817,1696,-3,1,21,39
+2002-08-21,Russia,Sweden,1,1,Friendly,Russia,-1,1,1775,1859,0,0,28,14
+2002-08-21,Scotland,Denmark,0,1,Friendly,Scotland,-7,7,1669,1894,-1,0,43,11
+2002-08-21,Switzerland,Austria,3,2,Friendly,Switzerland,8,-8,1664,1671,1,0,45,41
+2002-08-21,Tunisia,France,1,1,Friendly,Tunisia,6,-6,1609,1951,0,0,53,7
+2002-08-21,Turkey,Georgia,3,0,Friendly,Turkey,4,-4,1875,1597,1,-2,12,56
+2002-08-21,Ukraine,Iran,0,1,Friendly,Ukraine,-11,11,1682,1757,-1,3,40,30
+2002-08-21,Venezuela,Bolivia,2,0,Friendly,Venezuela,10,-10,1580,1546,2,0,61,65
+2002-08-23,Egypt,Sudan,3,0,Friendly,Egypt,5,-5,1635,1419,0,-1,49,102
+2002-08-24,Rwanda,Kenya,0,0,Friendly,Rwanda,-1,1,1317,1397,0,1,130,107
+2002-08-24,South Africa,Swaziland,4,1,COSAFA Cup,South Africa,3,-3,1663,1223,1,0,46,153
+2002-08-25,Angola,Gabon,1,0,Friendly,Angola,6,-6,1500,1437,2,-4,75,96
+2002-08-25,Congo,DR Congo,1,3,Friendly,Congo,-15,15,1350,1473,-5,1,122,86
+2002-08-25,Gambia,Sierra Leone,1,0,Friendly,The Gambia,6,-6,1354,1286,3,0,120,133
+2002-08-26,Botswana,Lesotho,0,1,Friendly,Botswana,-13,13,1142,1149,-2,3,164,162
+2002-08-27,Egypt,Libya,0,1,Friendly,Egypt,-18,18,1617,1360,-2,7,51,118
+2002-08-29,Jamaica,India,3,0,Friendly,England,3,-3,1543,1124,1,-1,66,169
+2002-08-30,Jordan,Iran,1,0,West Asian Championship,Syria,36,-36,1422,1721,10,-7,101,37
+2002-08-30,Syria,Palestine,2,1,West Asian Championship,Syria,7,-7,1453,1261,3,-2,88,142
+2002-08-30,Zimbabwe,Lesotho,2,0,Friendly,Zimbabwe,3,-3,1443,1146,2,0,92,162
+2002-08-31,Uganda,Zambia,2,2,Friendly,Uganda,0,0,1330,1443,0,0,128,92
+2002-09-01,Congo,Gabon,0,0,Friendly,Congo,0,0,1350,1437,0,-1,123,97
+2002-09-01,Gambia,Guinea,1,0,Friendly,The Gambia,11,-11,1365,1473,4,-3,117,85
+2002-09-01,India,Jamaica,0,0,Friendly,England,8,-8,1132,1535,2,-2,167,68
+2002-09-01,Iraq,Palestine,2,0,West Asian Championship,Syria,8,-8,1587,1253,2,-3,60,145
+2002-09-01,Jordan,Lebanon,1,0,West Asian Championship,Syria,20,-20,1442,1401,7,-4,94,106
+2002-09-02,Libya,Togo,4,0,Friendly,Libya,21,-21,1381,1473,5,-6,114,84
+2002-09-02,Tanzania,Zanzibar,1,1,Friendly,Tanzania,-6,6,1278,1163,-4,1,138,160
+2002-09-03,Iran,Lebanon,2,0,West Asian Championship,Syria,8,-8,1729,1393,1,-3,36,109
+2002-09-03,Syria,Iraq,0,1,West Asian Championship,Syria,-18,18,1435,1605,-9,6,97,54
+2002-09-05,Iran,Iraq,0,0,West Asian Championship,Syria,-7,7,1722,1612,-1,1,37,53
+2002-09-05,Luxembourg,Israel,0,5,Friendly,Luxembourg,-3,3,1102,1671,-2,3,174,41
+2002-09-05,Syria,Jordan,1,2,West Asian Championship,Syria,-25,25,1410,1467,-7,5,104,88
+2002-09-06,Czechia,Yugoslavia,5,0,Friendly,Czechia,12,-12,1860,1795,1,-2,14,24
+2002-09-06,Mauritania,Cape Verde,0,2,African Nations Cup qualifier,Mauritania,-20,20,1105,1370,-2,6,171,117
+2002-09-07,Armenia,Ukraine,2,2,European Championship qualifier,Armenia,9,-9,1427,1673,1,-2,101,42
+2002-09-07,Austria,Moldova,2,0,European Championship qualifier,Austria,5,-5,1676,1351,0,-1,41,123
+2002-09-07,Azerbaijan,Italy,0,2,European Championship qualifier,Azerbaijan,-3,3,1325,1920,-1,1,130,9
+2002-09-07,Belgium,Bulgaria,0,2,European Championship qualifier,Belgium,-49,49,1774,1719,-7,7,27,36
+2002-09-07,Bosnia and Herzegovina,Romania,0,3,European Championship qualifier,Bosnia and Herzegovina,-17,17,1499,1834,-4,5,75,16
+2002-09-07,Botswana,Swaziland,0,0,African Nations Cup qualifier,Botswana,-1,1,1141,1224,0,0,164,153
+2002-09-07,Croatia,Estonia,0,0,European Championship qualifier,Croatia,-18,18,1820,1416,-4,0,20,106
+2002-09-07,Cyprus,France,1,2,European Championship qualifier,Cyprus,-5,5,1497,1956,-3,0,76,7
+2002-09-07,England,Portugal,1,1,Friendly,England,-4,4,1958,1924,-1,0,6,8
+2002-09-07,Faroe Islands,Scotland,2,2,European Championship qualifier,the Faroe Islands,14,-14,1265,1655,6,-3,140,47
+2002-09-07,Finland,Wales,0,2,European Championship qualifier,Finland,-48,48,1681,1636,-3,11,39,49
+2002-09-07,Gabon,Morocco,0,1,African Nations Cup qualifier,Gabon,-16,16,1421,1629,-7,2,103,50
+2002-09-07,Greece,Spain,0,2,European Championship qualifier,Greece,-15,15,1681,2000,0,0,39,3
+2002-09-07,Iceland,Hungary,0,2,Friendly,Iceland,-21,21,1578,1586,-7,4,63,60
+2002-09-07,Iraq,Jordan,3,2,West Asian Championship,Syria,12,-12,1624,1455,1,1,52,87
+2002-09-07,Kenya,Togo,3,0,African Nations Cup qualifier,Kenya,33,-33,1430,1440,8,-11,99,95
+2002-09-07,Kosovo,Albania,0,1,Friendly,Kosovo,-12,12,1379,1445,-5,7,115,91
+2002-09-07,Latvia,Sweden,0,0,European Championship qualifier,Latvia,15,-15,1427,1844,2,0,101,15
+2002-09-07,Lithuania,Germany,0,2,European Championship qualifier,Lithuania,-4,4,1384,1959,-1,1,112,5
+2002-09-07,Madagascar,Egypt,1,0,African Nations Cup qualifier,Madagascar,28,-28,1405,1589,7,-7,108,58
+2002-09-07,Namibia,Algeria,0,1,African Nations Cup qualifier,Namibia,-11,11,1198,1488,0,3,156,80
+2002-09-07,Netherlands,Belarus,3,0,European Championship qualifier,the Netherlands,3,-3,2018,1589,0,0,2,58
+2002-09-07,Niger,Ethiopia,3,1,African Nations Cup qualifier,Niger,26,-26,1331,1337,3,-7,129,127
+2002-09-07,Norway,Denmark,2,2,European Championship qualifier,Norway,2,-2,1756,1892,0,1,30,10
+2002-09-07,Russia,Ireland,4,2,European Championship qualifier,Russia,34,-34,1809,1884,7,-3,21,12
+2002-09-07,San Marino,Poland,0,2,European Championship qualifier,San Marino,-1,1,950,1745,0,0,191,34
+2002-09-07,Slovenia,Malta,3,0,European Championship qualifier,Slovenia,4,-4,1667,1256,2,-1,44,144
+2002-09-07,South Korea,North Korea,0,0,Friendly,South Korea,-8,8,1773,1503,-2,6,28,71
+2002-09-07,Syria,Iran,2,2,West Asian Championship,Syria,11,-11,1421,1711,1,0,103,37
+2002-09-07,Turkey,Slovakia,3,0,European Championship qualifier,Turkey,12,-12,1887,1685,1,0,11,38
+2002-09-07,Uganda,Ghana,1,0,African Nations Cup qualifier,Uganda,25,-25,1355,1502,7,-3,121,72
+2002-09-08,Angola,Nigeria,0,0,African Nations Cup qualifier,Angola,8,-8,1508,1743,3,-1,71,34
+2002-09-08,Benin,Tanzania,4,0,African Nations Cup qualifier,Benin,32,-32,1266,1246,11,-9,139,147
+2002-09-08,Congo,Burkina Faso,0,0,African Nations Cup qualifier,Congo,-4,4,1346,1388,0,0,124,112
+2002-09-08,Equatorial Guinea,Sierra Leone,1,3,African Nations Cup qualifier,Equatorial Guinea,-18,18,1015,1304,-2,0,187,133
+2002-09-08,Guinea,Liberia,3,0,African Nations Cup qualifier,Guinea,26,-26,1499,1458,9,-4,75,86
+2002-09-08,Ivory Coast,South Africa,0,0,African Nations Cup qualifier,Ivory Coast,1,-1,1543,1662,0,0,66,46
+2002-09-08,Lesotho,Senegal,0,1,African Nations Cup qualifier,Lesotho,-2,2,1144,1781,0,0,162,26
+2002-09-08,Libya,DR Congo,3,2,African Nations Cup qualifier,Libya,20,-20,1401,1453,6,-5,108,89
+2002-09-08,Liechtenstein,Macedonia,1,1,European Championship qualifier,Liechtenstein,14,-14,1070,1457,1,-1,180,87
+2002-09-08,Seychelles,Eritrea,1,0,African Nations Cup qualifier,the Seychelles,25,-25,1011,1144,1,-4,188,162
+2002-09-08,Sudan,Zambia,0,1,African Nations Cup qualifier,Sudan,-24,24,1395,1467,-5,8,110,84
+2002-09-08,Switzerland,Georgia,4,1,European Championship qualifier,Switzerland,19,-19,1683,1578,6,-6,39,62
+2002-09-08,Zimbabwe,Mali,1,0,African Nations Cup qualifier,Zimbabwe,17,-17,1460,1471,7,-3,85,83
+2002-09-09,Central African Republic,Mozambique,1,1,African Nations Cup qualifier,Central African Republic,-4,4,1233,1278,0,0,150,138
+2002-09-18,Ivory Coast,Gambia,5,0,West African Nations Cup,Ivory Coast,13,-13,1556,1352,1,-3,65,122
+2002-09-19,Iran,Paraguay,1,1,LG Cup,Iran,-2,2,1709,1755,0,0,37,31
+2002-09-21,Malawi,South Africa,1,3,COSAFA Cup,Malawi,-13,13,1332,1675,-3,3,128,43
+2002-09-24,Algeria,Uganda,1,1,Friendly,Algeria,-6,6,1482,1361,-1,1,82,119
+2002-09-25,Oman,United Arab Emirates,2,1,Friendly,Oman,7,-7,1439,1423,2,-3,96,102
+2002-09-26,Mauritius,Seychelles,1,0,Friendly,Mauritius,3,-3,1242,1008,0,0,148,188
+2002-09-28,South Africa,Malawi,1,0,COSAFA Cup,South Africa,3,-3,1678,1329,1,-1,42,129
+2002-09-28,Zimbabwe,Zambia,0,0,Friendly,Zimbabwe,-3,3,1457,1470,-1,0,86,84
+2002-10-02,Mali,Mauritania,2,1,Friendly,Mali,1,-1,1472,1104,0,-1,83,172
+2002-10-03,Morocco,Niger,6,1,Friendly,Morocco,4,-4,1633,1327,0,-1,50,129
+2002-10-05,Mali,Mauritania,2,0,Friendly,Mali,2,-2,1474,1102,0,-1,83,173
+2002-10-06,Barbados,Saint Lucia,3,2,Friendly,Barbados,6,-6,1314,1257,0,-2,132,143
+2002-10-06,Swaziland,Lesotho,0,0,Friendly,Swaziland,-5,5,1219,1149,0,1,153,161
+2002-10-08,Ghana,Lesotho,2,1,Friendly,Ghana,1,-1,1503,1148,1,0,72,161
+2002-10-09,Martinique,Saint Lucia,4,0,Friendly,Martinique,7,-7,1416,1250,1,-3,105,146
+2002-10-11,Algeria,Chad,4,1,African Nations Cup qualifier,Algeria,10,-10,1492,1269,2,-1,80,138
+2002-10-11,Bosnia and Herzegovina,Germany,1,1,Friendly,Bosnia and Herzegovina,8,-8,1507,1951,3,-2,72,7
+2002-10-12,Albania,Switzerland,1,1,European Championship qualifier,Albania,8,-8,1453,1675,4,-5,89,44
+2002-10-12,Andorra,Belgium,0,1,European Championship qualifier,Andorra,-1,1,1075,1775,0,-1,178,28
+2002-10-12,Belarus,Austria,0,2,European Championship qualifier,Belarus,-31,31,1558,1707,-6,5,63,38
+2002-10-12,Bulgaria,Croatia,2,0,European Championship qualifier,Bulgaria,30,-30,1749,1790,3,-5,33,25
+2002-10-12,Cape Verde,Kenya,0,1,African Nations Cup qualifier,Cape Verde,-22,22,1348,1452,-6,6,123,93
+2002-10-12,Denmark,Luxembourg,2,0,European Championship qualifier,Denmark,0,0,1892,1102,0,0,10,173
+2002-10-12,Eritrea,Zimbabwe,0,1,African Nations Cup qualifier,Eritrea,-9,9,1135,1466,-2,2,165,84
+2002-10-12,Finland,Azerbaijan,3,0,European Championship qualifier,Finland,5,-5,1686,1320,-1,0,41,130
+2002-10-12,France,Slovenia,5,0,European Championship qualifier,France,8,-8,1964,1659,0,0,6,46
+2002-10-12,Georgia,Russia,0,0,European Championship qualifier,Georgia,7,-7,1585,1802,3,0,59,21
+2002-10-12,Iceland,Scotland,0,2,European Championship qualifier,Iceland,-32,32,1546,1687,-3,7,65,40
+2002-10-12,Italy,Yugoslavia,1,1,European Championship qualifier,Italy,-11,11,1909,1806,0,5,9,19
+2002-10-12,Liberia,Niger,1,0,African Nations Cup qualifier,Liberia,8,-8,1466,1319,1,-2,84,131
+2002-10-12,Lithuania,Faroe Islands,2,0,European Championship qualifier,Lithuania,13,-13,1397,1252,5,-4,109,144
+2002-10-12,Macedonia,Turkey,1,2,European Championship qualifier,Macedonia,-5,5,1452,1892,-7,1,93,10
+2002-10-12,Malawi,Angola,1,0,African Nations Cup qualifier,Malawi,24,-24,1353,1484,8,-10,120,81
+2002-10-12,Malta,Israel,0,2,European Championship qualifier,Malta,-8,8,1248,1679,-3,3,146,42
+2002-10-12,Mauritius,Madagascar,0,1,African Nations Cup qualifier,Mauritius,-16,16,1226,1421,-4,4,152,103
+2002-10-12,Moldova,Czechia,0,2,European Championship qualifier,Moldova,-5,5,1346,1865,-1,0,124,14
+2002-10-12,Poland,Latvia,0,1,European Championship qualifier,Poland,-37,37,1708,1464,-4,14,37,86
+2002-10-12,Portugal,Tunisia,1,1,Friendly,Portugal,-8,8,1916,1617,0,0,8,54
+2002-10-12,Romania,Norway,0,1,European Championship qualifier,Romania,-29,29,1805,1785,-4,4,20,26
+2002-10-12,Senegal,Nigeria,2,2,Friendly,Senegal,-4,4,1777,1747,-1,0,27,34
+2002-10-12,Sierra Leone,Gabon,2,0,African Nations Cup qualifier,Sierra Leone,31,-31,1335,1390,5,-9,128,112
+2002-10-12,Slovakia,England,1,2,European Championship qualifier,Slovakia,-11,11,1674,1969,-7,0,45,5
+2002-10-12,Spain,Northern Ireland,3,0,European Championship qualifier,Spain,2,-2,2002,1518,0,0,3,69
+2002-10-12,Sweden,Hungary,1,1,European Championship qualifier,Sweden,-15,15,1829,1601,-1,4,16,55
+2002-10-12,Tanzania,Sudan,1,2,African Nations Cup qualifier,Tanzania,-17,17,1229,1412,-2,3,149,107
+2002-10-12,Togo,Mauritania,1,0,African Nations Cup qualifier,Togo,3,-3,1443,1099,-1,-1,96,174
+2002-10-12,Ukraine,Greece,2,0,European Championship qualifier,Ukraine,22,-22,1695,1659,5,-6,39,46
+2002-10-12,Zambia,Benin,1,1,African Nations Cup qualifier,Zambia,-14,14,1456,1280,-3,2,87,137
+2002-10-13,Burkina Faso,Central African Republic,2,1,African Nations Cup qualifier,Burkina Faso,7,-7,1395,1226,3,-4,110,152
+2002-10-13,DR Congo,Botswana,2,0,African Nations Cup qualifier,DR Congo,5,-5,1458,1136,2,0,87,163
+2002-10-13,Estonia,New Zealand,3,2,Friendly,Estonia,12,-12,1428,1571,4,-1,101,61
+2002-10-13,Ethiopia,Guinea,1,0,African Nations Cup qualifier,Ethiopia,24,-24,1361,1475,7,-8,120,83
+2002-10-13,Gambia,Lesotho,6,0,African Nations Cup qualifier,The Gambia,13,-13,1365,1135,3,-3,119,164
+2002-10-13,Ghana,Rwanda,4,2,African Nations Cup qualifier,Ghana,10,-10,1513,1307,1,-1,71,133
+2002-10-13,Mali,Seychelles,3,0,African Nations Cup qualifier,Mali,3,-3,1477,1005,1,-1,82,189
+2002-10-13,Morocco,Equatorial Guinea,5,0,African Nations Cup qualifier,Morocco,1,-1,1634,1014,0,0,50,187
+2002-10-13,Mozambique,Congo,0,3,African Nations Cup qualifier,Mozambique,-38,38,1240,1384,-9,10,147,114
+2002-10-13,South Africa,Burundi,2,0,African Nations Cup qualifier,South Africa,5,-5,1683,1348,1,-4,42,124
+2002-10-13,Swaziland,Libya,2,1,African Nations Cup qualifier,Swaziland,25,-25,1244,1376,7,-8,146,116
+2002-10-15,Scotland,Canada,3,1,Friendly,Scotland,9,-9,1696,1634,1,-1,39,49
+2002-10-16,Austria,Netherlands,0,3,European Championship qualifier,Austria,-16,16,1691,2034,-2,0,40,2
+2002-10-16,Bulgaria,Andorra,2,1,European Championship qualifier,Bulgaria,0,0,1749,1075,0,0,33,178
+2002-10-16,Costa Rica,Ecuador,1,1,Friendly,Costa Rica,-3,3,1750,1742,0,0,32,35
+2002-10-16,Czechia,Belarus,2,0,European Championship qualifier,Czechia,5,-5,1870,1553,1,-2,13,65
+2002-10-16,England,Macedonia,2,2,European Championship qualifier,England,-19,19,1950,1471,-2,9,7,84
+2002-10-16,Estonia,Belgium,0,1,European Championship qualifier,Estonia,-8,8,1420,1783,-3,1,104,27
+2002-10-16,Germany,Faroe Islands,2,1,European Championship qualifier,Germany,0,0,1951,1252,1,0,6,143
+2002-10-16,Greece,Armenia,2,0,European Championship qualifier,Greece,8,-8,1667,1419,0,-3,46,105
+2002-10-16,Hungary,San Marino,3,0,European Championship qualifier,Hungary,1,-1,1602,949,0,0,55,191
+2002-10-16,Iceland,Lithuania,3,0,European Championship qualifier,Iceland,13,-13,1559,1384,2,-5,63,113
+2002-10-16,Ireland,Switzerland,1,2,European Championship qualifier,Ireland,-34,34,1850,1709,-2,7,14,37
+2002-10-16,Japan,Jamaica,1,1,Friendly,Japan,-8,8,1817,1543,-2,1,19,67
+2002-10-16,Luxembourg,Romania,0,7,European Championship qualifier,Luxembourg,-3,3,1099,1808,0,0,173,20
+2002-10-16,Malta,France,0,4,European Championship qualifier,Malta,-2,2,1246,1966,0,1,145,5
+2002-10-16,Norway,Bosnia and Herzegovina,2,0,European Championship qualifier,Norway,6,-6,1791,1501,1,-2,25,74
+2002-10-16,Northern Ireland,Ukraine,0,0,European Championship qualifier,Northern Ireland,4,-4,1522,1691,0,0,69,40
+2002-10-16,Poland,New Zealand,2,0,Friendly,Poland,6,-6,1714,1565,1,-1,36,62
+2002-10-16,Russia,Albania,4,1,European Championship qualifier,Russia,5,-5,1807,1448,0,-5,21,95
+2002-10-16,Spain,Paraguay,0,0,Friendly,Spain,-8,8,1994,1763,0,1,3,30
+2002-10-16,Sweden,Portugal,2,3,Friendly,Sweden,-10,10,1819,1926,-1,0,17,8
+2002-10-16,Turkey,Liechtenstein,5,0,European Championship qualifier,Turkey,0,0,1892,1070,1,0,9,180
+2002-10-16,Wales,Italy,2,1,European Championship qualifier,Wales,29,-29,1665,1880,1,-2,47,11
+2002-10-16,Yugoslavia,Finland,2,0,European Championship qualifier,Yugoslavia,13,-13,1819,1673,2,-4,17,45
+2002-10-17,French Guiana,Suriname,1,1,Friendly,French Guiana,2,-2,1119,1282,0,-1,169,135
+2002-10-19,French Guiana,Suriname,0,1,Friendly,French Guiana,-8,8,1111,1290,0,1,169,134
+2002-10-19,Sierra Leone,Ghana,2,1,Friendly,Sierra Leone,12,-12,1347,1501,2,-2,126,73
+2002-10-20,Venezuela,Ecuador,2,0,Friendly,Venezuela,18,-18,1598,1724,3,0,57,35
+2002-10-23,Kenya,South Africa,1,1,Castle Lager Cup,Tanzania,9,-9,1461,1674,5,-1,88,43
+2002-10-23,Tanzania,Uganda,0,2,Castle Lager Cup,Tanzania,-20,20,1209,1381,-6,5,155,115
+2002-10-26,Kenya,Uganda,1,1,Castle Lager Cup,Tanzania,-3,3,1458,1384,0,2,88,113
+2002-10-26,Tanzania,South Africa,1,1,Castle Lager Cup,Tanzania,12,-12,1221,1662,2,-4,153,47
+2002-10-27,Antigua and Barbuda,Saint Kitts and Nevis,1,1,Friendly,Antigua and Barbuda,5,-5,1110,1380,1,-3,170,115
+2002-10-31,Guatemala,Jamaica,1,1,Friendly,Guatemala,-3,3,1533,1546,0,1,68,66
+2002-11-03,Martinique,Saint Kitts and Nevis,2,1,Friendly,Martinique,6,-6,1422,1374,4,-3,102,118
+2002-11-06,Saint Lucia,Martinique,0,2,Friendly,Saint Lucia,-12,12,1238,1434,-3,2,147,100
+2002-11-08,Saint Lucia,Antigua and Barbuda,2,1,Friendly,Saint Lucia,4,-4,1242,1106,1,0,146,170
+2002-11-09,Barbados,Jamaica,1,1,CONCACAF Championship qualifier,Grenada,12,-12,1326,1534,3,-1,129,67
+2002-11-09,Grenada,Guadeloupe,4,5,CONCACAF Championship qualifier,Grenada,-26,26,1313,1359,-4,7,132,122
+2002-11-10,Singapore,Indonesia,1,1,Tiger Challenge,Singapore,1,-1,1230,1358,0,-1,149,123
+2002-11-11,Grenada,Barbados,0,2,CONCACAF Championship qualifier,Grenada,-37,37,1276,1363,-5,8,137,121
+2002-11-11,Jamaica,Guadeloupe,2,0,CONCACAF Championship qualifier,Grenada,16,-16,1550,1343,1,-7,66,129
+2002-11-13,Grenada,Jamaica,1,4,CONCACAF Championship qualifier,Grenada,-19,19,1257,1569,-3,4,140,62
+2002-11-13,Guadeloupe,Barbados,1,0,CONCACAF Championship qualifier,Grenada,21,-21,1364,1342,8,-8,121,129
+2002-11-13,Saint Kitts and Nevis,Saint Lucia,2,1,CONCACAF Championship qualifier,Trinidad and Tobago,13,-13,1387,1229,6,-3,112,149
+2002-11-15,Trinidad and Tobago,Saint Kitts and Nevis,2,0,CONCACAF Championship qualifier,Trinidad and Tobago,14,-14,1508,1373,6,-6,71,118
+2002-11-17,Cayman Islands,Nicaragua,0,1,Friendly,the Cayman Islands,-18,18,1122,918,-6,2,168,193
+2002-11-17,Trinidad and Tobago,Saint Lucia,0,1,CONCACAF Championship qualifier,Trinidad and Tobago,-36,36,1472,1265,-12,11,83,138
+2002-11-17,United States,El Salvador,2,0,Friendly,the United States,2,-2,1826,1500,0,-1,16,74
+2002-11-18,Haiti,Antigua and Barbuda,1,0,CONCACAF Championship qualifier,Haiti,2,-2,1491,1104,0,-1,78,171
+2002-11-19,South Africa,Senegal,1,1,Nelson Mandela Challenge Cup,South Africa,1,-1,1663,1776,0,0,47,28
+2002-11-20,Antigua and Barbuda,Netherlands Antilles,1,1,CONCACAF Championship qualifier,Haiti,3,-3,1107,1155,1,0,170,160
+2002-11-20,Austria,Norway,0,1,Friendly,Austria,-10,10,1681,1801,-2,3,42,22
+2002-11-20,Azerbaijan,Wales,0,2,European Championship qualifier,Azerbaijan,-12,12,1308,1677,-1,3,131,43
+2002-11-20,Cyprus,Malta,2,1,European Championship qualifier,Cyprus,5,-5,1502,1241,3,-1,72,146
+2002-11-20,Czechia,Sweden,3,3,Friendly,Czechia,-4,4,1866,1823,1,0,12,17
+2002-11-20,Denmark,Poland,2,0,Friendly,Denmark,5,-5,1897,1709,0,0,9,36
+2002-11-20,Ecuador,Costa Rica,2,2,Friendly,Ecuador,-2,2,1722,1752,0,0,35,32
+2002-11-20,Estonia,Iceland,2,0,Friendly,Estonia,17,-17,1437,1542,5,-3,100,67
+2002-11-20,France,Yugoslavia,3,0,Friendly,France,7,-7,1973,1812,0,-1,5,18
+2002-11-20,Germany,Netherlands,1,3,Friendly,Germany,-16,16,1935,2050,-1,0,7,2
+2002-11-20,Greece,Ireland,0,0,Friendly,Greece,2,-2,1669,1848,-1,0,46,14
+2002-11-20,Honduras,Colombia,1,0,Friendly,Honduras,10,-10,1768,1864,2,-1,29,13
+2002-11-20,Hungary,Moldova,1,1,Friendly,Hungary,-8,8,1594,1354,-2,4,57,124
+2002-11-20,Italy,Turkey,1,1,Friendly,Italy,-2,2,1878,1894,0,-1,11,10
+2002-11-20,Japan,Argentina,0,2,Friendly,Japan,-12,12,1805,1996,-1,1,20,3
+2002-11-20,Luxembourg,Cape Verde,0,0,Friendly,Luxembourg,4,-4,1103,1344,1,-3,172,128
+2002-11-20,Macedonia,Israel,2,3,Friendly,Macedonia,-7,7,1464,1686,-3,1,87,41
+2002-11-20,Morocco,Mali,1,3,Friendly,Morocco,-24,24,1610,1501,-6,8,55,73
+2002-11-20,Nigeria,Jamaica,0,0,Friendly,Nigeria,-7,7,1740,1576,0,0,34,62
+2002-11-20,Portugal,Scotland,2,0,Friendly,Portugal,4,-4,1930,1692,0,-1,8,40
+2002-11-20,Qatar,Iraq,2,1,Friendly,Qatar,9,-9,1580,1615,0,-1,61,53
+2002-11-20,Romania,Croatia,0,1,Friendly,Romania,-13,13,1795,1803,-4,5,24,21
+2002-11-20,San Marino,Latvia,0,1,European Championship qualifier,San Marino,-3,3,946,1467,0,3,191,84
+2002-11-20,Slovakia,Ukraine,1,1,Friendly,Slovakia,-2,2,1672,1693,-2,1,45,39
+2002-11-20,South Korea,Brazil,2,3,Friendly,South Korea,-5,5,1768,2057,0,0,29,1
+2002-11-20,Spain,Bulgaria,1,0,Friendly,Spain,2,-2,1996,1747,0,0,3,33
+2002-11-20,Tunisia,Egypt,0,0,Friendly,Tunisia,-4,4,1613,1593,0,1,54,58
+2002-11-20,Venezuela,Uruguay,1,0,Polar Beer Cup,Venezuela,19,-19,1617,1781,5,-5,52,27
+2002-11-22,Haiti,Netherlands Antilles,3,0,CONCACAF Championship qualifier,Haiti,5,-5,1496,1150,1,0,78,160
+2002-11-23,Bahrain,Iraq,2,2,Friendly,Qatar,3,-3,1500,1612,1,-1,76,54
+2002-11-23,Monaco,Vatican,0,0,Friendly,Italy,-5,5,903,705,0,0,195,213
+2002-11-25,Nigeria,Egypt,1,1,Friendly,Nigeria,-6,6,1734,1599,0,1,34,57
+2002-11-27,Cayman Islands,Cuba,0,5,CONCACAF Championship qualifier,the Cayman Islands,-17,17,1105,1470,-3,8,171,84
+2002-11-27,Martinique,Dominican Republic,4,0,CONCACAF Championship qualifier,the Cayman Islands,11,-11,1445,1123,5,-2,96,167
+2002-11-27,Sri Lanka,Vietnam,1,2,Friendly,Sri Lanka,-4,4,906,1267,0,1,194,138
+2002-11-29,Cayman Islands,Dominican Republic,1,0,CONCACAF Championship qualifier,the Cayman Islands,15,-15,1120,1108,4,-2,167,169
+2002-11-29,Cuba,Martinique,2,1,CONCACAF Championship qualifier,the Cayman Islands,19,-19,1489,1426,4,-6,80,102
+2002-11-29,Jordan,Malaysia,1,0,Independence Tournament,the United Arab Emirates,7,-7,1462,1254,3,-2,89,142
+2002-11-29,Sri Lanka,Vietnam,1,1,Friendly,Sri Lanka,6,-6,912,1261,0,-1,194,139
+2002-11-30,Jordan,Singapore,3,1,Independence Tournament,the United Arab Emirates,9,-9,1471,1221,4,-4,85,153
+2002-11-30,Rwanda,Zanzibar,1,0,CECAFA Cup,Tanzania,12,-12,1319,1151,2,0,130,159
+2002-11-30,Tanzania,Kenya,1,0,CECAFA Cup,Tanzania,28,-28,1249,1430,8,-11,145,101
+2002-12-01,Burundi,Eritrea,1,1,CECAFA Cup,Tanzania,-11,11,1337,1146,-3,2,129,161
+2002-12-01,Cayman Islands,Martinique,0,3,CONCACAF Championship qualifier,the Cayman Islands,-16,16,1104,1442,-3,6,170,96
+2002-12-01,Cuba,Dominican Republic,2,1,CONCACAF Championship qualifier,the Cayman Islands,4,-4,1493,1104,1,-1,79,170
+2002-12-01,Sri Lanka,Vietnam,2,2,Friendly,Sri Lanka,6,-6,918,1255,1,-1,193,140
+2002-12-01,Uganda,Somalia,2,0,CECAFA Cup,Tanzania,8,-8,1392,1051,1,-1,111,182
+2002-12-02,Ethiopia,Zanzibar,0,0,CECAFA Cup,Tanzania,-11,11,1350,1162,-3,0,125,159
+2002-12-02,Tanzania,Sudan,1,1,CECAFA Cup,Tanzania,4,-4,1253,1408,2,0,143,107
+2002-12-03,Burundi,Kenya,1,1,CECAFA Cup,Tanzania,5,-5,1342,1425,1,0,128,102
+2002-12-03,Rwanda,Somalia,1,0,CECAFA Cup,Tanzania,7,-7,1326,1044,0,-2,130,184
+2002-12-04,Eritrea,Sudan,2,1,CECAFA Cup,Tanzania,33,-33,1179,1375,4,-9,157,116
+2002-12-04,Uganda,Ethiopia,3,0,CECAFA Cup,Tanzania,31,-31,1423,1319,8,-5,103,130
+2002-12-05,Tanzania,Burundi,2,0,CECAFA Cup,Tanzania,29,-29,1282,1313,8,-4,135,131
+2002-12-05,Zanzibar,Somalia,1,0,CECAFA Cup,Tanzania,13,-13,1175,1031,1,0,159,184
+2002-12-06,Kenya,Eritrea,4,1,CECAFA Cup,Tanzania,14,-14,1439,1165,4,-3,98,160
+2002-12-06,Uganda,Rwanda,2,1,CECAFA Cup,Tanzania,15,-15,1438,1311,3,-3,100,131
+2002-12-07,Bahrain,Jordan,0,3,Prime Minister's Cup,Bahrain,-36,36,1464,1507,-12,14,88,71
+2002-12-07,China,Syria,3,1,Prime Minister's Cup,Bahrain,12,-12,1612,1409,2,-2,54,107
+2002-12-07,Somalia,Ethiopia,1,0,CECAFA Cup,Tanzania,34,-34,1065,1285,3,-5,181,133
+2002-12-07,Sudan,Burundi,2,1,CECAFA Cup,Tanzania,16,-16,1391,1297,5,-1,111,131
+2002-12-08,Tanzania,Eritrea,1,1,CECAFA Cup,Tanzania,-11,11,1271,1176,-2,3,137,157
+2002-12-08,Thailand,Vietnam,2,1,Friendly,Thailand,3,-3,1441,1252,2,-3,98,144
+2002-12-08,Uganda,Zanzibar,2,0,CECAFA Cup,Tanzania,11,-11,1449,1164,6,-2,94,160
+2002-12-09,Bahrain,Syria,2,3,Prime Minister's Cup,Bahrain,-21,21,1443,1430,-8,3,96,104
+2002-12-09,China,Jordan,0,0,Prime Minister's Cup,Bahrain,-4,4,1608,1511,-2,0,56,71
+2002-12-09,Kenya,Sudan,1,0,CECAFA Cup,Tanzania,17,-17,1456,1374,10,-6,90,117
+2002-12-09,Rwanda,Ethiopia,1,0,CECAFA Cup,Tanzania,19,-19,1330,1266,1,-5,128,138
+2002-12-11,Malaysia,Cambodia,5,0,Friendly,Malaysia,3,-3,1257,881,2,0,140,199
+2002-12-11,Singapore,Philippines,2,0,Friendly,Singapore,1,-1,1222,709,0,0,153,212
+2002-12-11,Tanzania,Rwanda,3,0,CECAFA Cup,Tanzania,31,-31,1302,1299,6,-3,130,131
+2002-12-12,Bahrain,China,2,2,Prime Minister's Cup,Bahrain,3,-3,1446,1605,1,0,95,56
+2002-12-12,Jordan,Syria,3,0,Prime Minister's Cup,Bahrain,20,-20,1531,1410,2,-3,69,107
+2002-12-12,Kenya,Uganda,3,1,CECAFA Cup,Tanzania,29,-29,1485,1420,9,-11,81,105
+2002-12-13,Saudi Arabia,Lebanon,1,1,Friendly,Saudi Arabia,-7,7,1612,1400,-2,2,53,108
+2002-12-14,Botswana,Zambia,1,0,Friendly,Botswana,16,-16,1152,1440,2,-8,161,99
+2002-12-14,Rwanda,Uganda,2,1,CECAFA Cup,Tanzania,27,-27,1326,1393,3,-5,128,110
+2002-12-14,Tanzania,Kenya,2,3,CECAFA Cup,Tanzania,-15,15,1287,1500,-3,4,133,77
+2002-12-15,Ghana,Nigeria,0,1,Friendly,Ghana,-6,6,1495,1740,-5,0,79,34
+2002-12-15,Indonesia,Myanmar,0,0,Southeast Asian Championship,Indonesia,-15,15,1343,1121,-4,2,126,167
+2002-12-15,Vietnam,Cambodia,9,2,Southeast Asian Championship,Indonesia,10,-10,1262,871,4,-3,140,202
+2002-12-16,Jordan,Palestine,1,1,Arab Cup,Kuwait,-13,13,1518,1266,-1,6,70,138
+2002-12-16,Kuwait,Morocco,1,1,Arab Cup,Kuwait,0,0,1516,1610,0,0,71,55
+2002-12-16,United Arab Emirates,Egypt,1,2,Friendly,the United Arab Emirates,-8,8,1415,1607,-2,1,105,56
+2002-12-17,Indonesia,Cambodia,4,2,Southeast Asian Championship,Indonesia,2,-2,1345,869,1,0,125,202
+2002-12-17,Myanmar,Philippines,6,1,Southeast Asian Championship,Indonesia,7,-7,1128,702,0,-1,167,213
+2002-12-17,Saudi Arabia,Bahrain,2,1,Arab Cup,Kuwait,11,-11,1623,1435,2,-7,51,101
+2002-12-17,Syria,Yemen,4,0,Arab Cup,Kuwait,18,-18,1428,1196,3,-2,103,156
+2002-12-18,Jordan,Morocco,1,1,Arab Cup,Kuwait,5,-5,1523,1605,0,-1,70,56
+2002-12-18,Kuwait,Sudan,1,0,Arab Cup,Kuwait,8,-8,1524,1366,2,-2,69,119
+2002-12-18,Singapore,Malaysia,0,4,Southeast Asian Championship,Singapore,-44,44,1178,1301,-3,11,156,131
+2002-12-18,Thailand,Laos,5,1,Southeast Asian Championship,Singapore,3,-3,1444,887,2,0,94,198
+2002-12-19,Bahrain,Syria,2,0,Arab Cup,Kuwait,29,-29,1464,1399,12,-3,89,106
+2002-12-19,Myanmar,Cambodia,5,0,Southeast Asian Championship,Indonesia,15,-15,1143,854,3,-2,164,204
+2002-12-19,Saudi Arabia,Lebanon,1,0,Arab Cup,Kuwait,9,-9,1632,1391,1,-3,50,110
+2002-12-19,Vietnam,Philippines,4,1,Southeast Asian Championship,Indonesia,3,-3,1265,699,1,-2,141,215
+2002-12-20,Jordan,Sudan,2,1,Arab Cup,Kuwait,12,-12,1535,1354,2,-2,68,121
+2002-12-20,Malaysia,Thailand,3,1,Southeast Asian Championship,Singapore,42,-42,1343,1402,4,-10,127,105
+2002-12-20,Morocco,Palestine,3,1,Arab Cup,Kuwait,7,-7,1612,1259,2,-3,54,142
+2002-12-20,Singapore,Laos,2,1,Southeast Asian Championship,Singapore,4,-4,1182,883,0,0,156,198
+2002-12-21,Bahrain,Yemen,3,1,Arab Cup,Kuwait,11,-11,1475,1185,5,0,84,155
+2002-12-21,Cambodia,Philippines,1,0,Southeast Asian Championship,Indonesia,12,-12,866,687,1,-2,203,217
+2002-12-21,Indonesia,Vietnam,2,2,Southeast Asian Championship,Indonesia,-10,10,1335,1275,-3,2,128,138
+2002-12-21,Syria,Lebanon,4,1,Arab Cup,Kuwait,34,-34,1433,1357,4,-10,102,120
+2002-12-22,Egypt,Ghana,0,0,Friendly,Egypt,-5,5,1602,1500,-1,3,57,76
+2002-12-22,Laos,Malaysia,1,1,Southeast Asian Championship,Singapore,17,-17,900,1326,2,-2,196,128
+2002-12-22,Singapore,Thailand,1,1,Southeast Asian Championship,Singapore,7,-7,1189,1395,1,-1,155,107
+2002-12-23,Indonesia,Philippines,13,1,Southeast Asian Championship,Indonesia,2,-2,1337,685,0,0,127,217
+2002-12-23,Kuwait,Jordan,1,2,Arab Cup,Kuwait,-25,25,1499,1560,-8,4,78,64
+2002-12-23,Palestine,Sudan,2,2,Arab Cup,Kuwait,5,-5,1264,1349,0,-2,142,123
+2002-12-23,Vietnam,Myanmar,4,2,Southeast Asian Championship,Indonesia,19,-19,1294,1124,5,-3,133,167
+2002-12-24,Lebanon,Yemen,4,2,Arab Cup,Kuwait,16,-16,1373,1169,4,-2,116,158
+2002-12-24,Saudi Arabia,Syria,3,0,Arab Cup,Kuwait,17,-17,1649,1416,1,-2,49,104
+2002-12-25,Kuwait,Palestine,3,3,Arab Cup,Kuwait,-15,15,1484,1279,-3,3,81,139
+2002-12-25,Sudan,Morocco,1,0,Arab Cup,Kuwait,33,-33,1382,1579,10,-7,113,61
+2002-12-26,Bahrain,Lebanon,0,0,Arab Cup,Kuwait,-6,6,1469,1379,-2,3,86,114
+2002-12-26,Saudi Arabia,Yemen,2,2,Arab Cup,Kuwait,-18,18,1631,1187,-1,2,50,156
+2002-12-27,Bhutan,Bangladesh,0,5,Jigme Wangchuk Memorial King's Cup,Bhutan,-7,7,566,1027,0,0,226,186
+2002-12-27,Indonesia,Malaysia,1,0,Southeast Asian Championship,Indonesia,14,-14,1351,1312,3,-2,124,130
+2002-12-27,Niger,Burkina Faso,1,1,Friendly tournament,Niger,-1,1,1318,1396,1,-1,129,108
+2002-12-27,Thailand,Vietnam,4,0,Southeast Asian Championship,Indonesia,27,-27,1422,1267,5,-7,102,140
+2002-12-28,Bahrain,Jordan,2,1,Arab Cup,Kuwait,25,-25,1494,1535,7,-4,79,68
+2002-12-28,Saudi Arabia,Morocco,2,0,Arab Cup,Kuwait,26,-26,1657,1553,1,-3,49,64
+2002-12-29,Indonesia,Thailand,2,2,Southeast Asian Championship,Indonesia,-2,2,1349,1424,0,0,124,102
+2002-12-29,Niger,Mali,2,2,Friendly tournament,Niger,4,-4,1322,1497,0,-4,129,77
+2002-12-29,Vietnam,Malaysia,2,1,Southeast Asian Championship,Indonesia,23,-23,1290,1289,8,-4,132,134
+2002-12-30,Saudi Arabia,Bahrain,1,0,Arab Cup,Kuwait,11,-11,1668,1483,2,-4,47,83

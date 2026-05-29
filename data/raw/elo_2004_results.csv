@@ -1,0 +1,1093 @@
+date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
+2004-01-01,Bermuda,Barbados,0,4,Dudley Eve Memorial Trophy,Bermuda,-28,28,1242,1397,-8,7,146,109
+2004-01-01,Kuwait,Yemen,4,0,Gulf Cup,Kuwait,6,-6,1525,1173,2,-1,72,160
+2004-01-01,Saudi Arabia,Bahrain,1,0,Gulf Cup,Kuwait,12,-12,1674,1511,3,-6,44,78
+2004-01-03,Bahrain,Oman,1,0,Gulf Cup,Kuwait,23,-23,1534,1537,7,-4,71,70
+2004-01-03,Qatar,United Arab Emirates,0,0,Gulf Cup,Kuwait,-4,4,1517,1459,-4,1,77,90
+2004-01-04,Kuwait,Saudi Arabia,1,1,Gulf Cup,Kuwait,3,-3,1528,1671,0,0,73,44
+2004-01-05,Qatar,Yemen,3,0,Gulf Cup,Kuwait,8,-8,1525,1165,3,-1,74,161
+2004-01-06,Saudi Arabia,Oman,2,1,Gulf Cup,Kuwait,13,-13,1684,1524,2,-4,42,74
+2004-01-07,Bahrain,United Arab Emirates,3,1,Gulf Cup,Kuwait,24,-24,1558,1435,4,-6,66,96
+2004-01-08,Cuba,Martinique,0,0,Friendly,Cuba,-6,6,1534,1427,-1,1,71,101
+2004-01-08,Egypt,Rwanda,5,1,Friendly,Egypt,2,-2,1701,1312,0,0,39,128
+2004-01-08,Kuwait,Qatar,1,2,Gulf Cup,Kuwait,-26,26,1502,1551,-10,5,82,68
+2004-01-08,Saudi Arabia,Yemen,2,0,Gulf Cup,Kuwait,3,-3,1687,1162,0,-1,42,162
+2004-01-10,Kuwait,Bahrain,0,4,Gulf Cup,Kuwait,-42,42,1460,1600,-7,11,89,55
+2004-01-10,Mauritius,South Africa,2,0,COSAFA Cup,Mauritius,48,-48,1347,1596,8,-8,122,58
+2004-01-10,Suriname,Netherlands Antilles,1,1,Parbo Beer Cup,Suriname,-9,9,1281,1159,0,2,133,163
+2004-01-11,Barbados,Grenada,2,0,Friendly,Barbados,6,-6,1403,1251,0,-1,109,141
+2004-01-11,Oman,Qatar,2,0,Gulf Cup,Kuwait,32,-32,1556,1519,5,-5,68,73
+2004-01-11,United Arab Emirates,Yemen,3,0,Gulf Cup,Kuwait,12,-12,1447,1150,3,-3,93,165
+2004-01-14,Egypt,DR Congo,2,2,Friendly,Egypt,-7,7,1694,1511,0,3,39,78
+2004-01-14,Tunisia,Benin,2,0,Friendly,Tunisia,3,-3,1646,1330,0,0,50,126
+2004-01-15,Algeria,Mali,0,2,Friendly,Algeria,-18,18,1500,1575,-5,3,81,64
+2004-01-16,Libya,Kenya,2,0,Friendly,Libya,14,-14,1403,1457,4,-5,109,90
+2004-01-17,Egypt,Burkina Faso,1,1,Friendly,Egypt,-8,8,1686,1442,-3,1,42,96
+2004-01-17,Netherlands Antilles,Suriname,2,0,Inter Expo Cup,the Netherlands Antilles,24,-24,1183,1257,6,-6,156,139
+2004-01-17,Tunisia,Benin,2,1,Friendly,Tunisia,2,-2,1648,1328,0,0,50,126
+2004-01-18,Barbados,Canada,0,1,Friendly,Barbados,-7,7,1396,1601,-1,4,110,55
+2004-01-18,Guadeloupe,Saint Lucia,2,0,Friendly,Guadeloupe,8,-8,1360,1269,2,0,118,136
+2004-01-18,Senegal,South Africa,2,1,Friendly,Senegal,4,-4,1753,1592,0,-1,28,59
+2004-01-19,Libya,Kenya,2,0,Friendly,Libya,13,-13,1416,1444,3,-4,106,94
+2004-01-20,Guinea,Burkina Faso,1,0,Friendly,France,8,-8,1518,1434,2,-1,76,97
+2004-01-22,Norway,Sweden,3,0,Carlsberg Cup,Hong Kong,33,-33,1744,1771,8,-7,29,26
+2004-01-24,Tunisia,Rwanda,2,1,African Nations Cup,Tunisia,4,-4,1652,1308,1,0,49,129
+2004-01-25,Algeria,Cameroon,1,1,African Nations Cup,Tunisia,17,-17,1517,1767,4,-2,77,26
+2004-01-25,Egypt,Zimbabwe,2,1,African Nations Cup,Tunisia,12,-12,1698,1466,3,-4,39,86
+2004-01-25,Guinea,DR Congo,2,1,African Nations Cup,Tunisia,24,-24,1542,1487,5,-3,71,81
+2004-01-25,Norway,Honduras,3,1,Carlsberg Cup,Hong Kong,17,-17,1761,1648,1,-4,28,50
+2004-01-26,Burkina Faso,Senegal,0,0,African Nations Cup,Tunisia,18,-18,1452,1735,6,-3,91,32
+2004-01-26,Mali,Kenya,3,1,African Nations Cup,Tunisia,24,-24,1599,1420,7,-8,57,102
+2004-01-27,China,Macedonia,0,0,Friendly,China,-5,5,1565,1483,-2,0,67,82
+2004-01-27,Morocco,Nigeria,1,0,African Nations Cup,Tunisia,36,-36,1605,1700,11,-8,55,38
+2004-01-27,South Africa,Benin,2,0,African Nations Cup,Tunisia,13,-13,1605,1315,5,-1,55,127
+2004-01-28,British Virgin Islands,Dominica,0,1,Friendly,the British VirgIslands,-7,7,848,1055,-2,1,203,183
+2004-01-28,El Salvador,Panama,1,1,Friendly,El Salvador,-5,5,1504,1401,-1,0,80,110
+2004-01-28,Guinea,Rwanda,1,1,African Nations Cup,Tunisia,-15,15,1527,1323,-2,3,73,126
+2004-01-28,Netherlands Antilles,Aruba,6,1,Friendly,the Netherlands Antilles,5,-5,1188,949,1,-1,155,192
+2004-01-28,Singapore,Norway,2,5,Tiger Challenge,Singapore,-3,3,1185,1764,-1,1,156,27
+2004-01-28,Tunisia,DR Congo,3,0,African Nations Cup,Tunisia,16,-16,1668,1471,2,-2,46,83
+2004-01-29,Algeria,Egypt,2,1,African Nations Cup,Tunisia,37,-37,1554,1661,8,-8,69,47
+2004-01-29,Cameroon,Zimbabwe,5,3,African Nations Cup,Tunisia,11,-11,1778,1455,2,-3,24,89
+2004-01-29,China,Macedonia,1,0,Friendly,China,5,-5,1570,1478,1,0,66,81
+2004-01-30,British Virgin Islands,US Virgin Islands,5,0,Friendly tournament,the British VirgIslands,11,-11,859,679,2,-2,201,219
+2004-01-30,Mali,Burkina Faso,3,1,African Nations Cup,Tunisia,23,-23,1622,1429,6,-7,53,98
+2004-01-30,Senegal,Kenya,3,0,African Nations Cup,Tunisia,12,-12,1747,1408,2,-6,29,108
+2004-01-31,Antigua and Barbuda,Saint Kitts and Nevis,1,0,Friendly,Antigua and Barbuda,15,-15,1101,1353,2,-3,174,120
+2004-01-31,Dominica,US Virgin Islands,5,0,Friendly tournament,the British VirgIslands,6,-6,1061,673,2,-1,181,220
+2004-01-31,Grenada,Barbados,0,1,Friendly,Grenada,-9,9,1242,1405,-4,1,145,110
+2004-01-31,Haiti,Nicaragua,1,1,Friendly,the United States,-9,9,1464,961,-3,0,85,191
+2004-01-31,Morocco,Benin,4,0,African Nations Cup,Tunisia,15,-15,1620,1300,2,-2,54,130
+2004-01-31,Nigeria,South Africa,4,0,African Nations Cup,Tunisia,34,-34,1734,1571,6,-9,32,65
+2004-02-01,British Virgin Islands,Dominica,1,2,Friendly tournament,the British VirgIslands,-11,11,848,1072,-2,0,203,181
+2004-02-01,Rwanda,DR Congo,1,0,African Nations Cup,Tunisia,35,-35,1358,1436,7,-13,119,95
+2004-02-01,Tunisia,Guinea,1,1,African Nations Cup,Tunisia,-15,15,1653,1542,-3,2,48,72
+2004-02-02,Kenya,Burkina Faso,3,0,African Nations Cup,Tunisia,46,-46,1454,1383,19,-15,89,113
+2004-02-02,Mali,Senegal,1,1,African Nations Cup,Tunisia,9,-9,1631,1738,1,-1,52,30
+2004-02-03,Cameroon,Egypt,0,0,African Nations Cup,Tunisia,-8,8,1770,1669,-2,2,26,44
+2004-02-03,China,Finland,2,1,Friendly,China,11,-11,1581,1701,1,-1,65,38
+2004-02-03,Zimbabwe,Algeria,2,1,African Nations Cup,Tunisia,32,-32,1487,1522,7,-5,81,74
+2004-02-04,Morocco,South Africa,1,1,African Nations Cup,Tunisia,-4,4,1616,1575,-1,0,55,66
+2004-02-04,Nigeria,Benin,2,1,African Nations Cup,Tunisia,4,-4,1738,1296,2,-1,30,131
+2004-02-07,China,Finland,2,1,Friendly,China,11,-11,1592,1690,4,-1,61,39
+2004-02-07,Japan,Malaysia,4,0,Friendly,Japan,1,-1,1777,1267,0,0,24,137
+2004-02-07,Mali,Guinea,2,1,African Nations Cup,Tunisia,19,-19,1650,1523,2,-2,50,73
+2004-02-07,Tunisia,Senegal,1,0,African Nations Cup,Tunisia,24,-24,1677,1714,5,-6,43,36
+2004-02-08,Lebanon,Bahrain,2,1,Friendly,Lebanon,14,-14,1373,1586,3,-7,115,65
+2004-02-08,Morocco,Algeria,3,1,African Nations Cup,Tunisia,28,-28,1644,1494,3,-6,52,80
+2004-02-08,Nigeria,Cameroon,2,1,African Nations Cup,Tunisia,27,-27,1765,1743,4,-3,26,29
+2004-02-08,Saint Lucia,Saint Vincent and the Grenadines,1,2,Friendly,Saint Lucia,-13,13,1256,1268,-4,4,140,136
+2004-02-10,Bermuda,Trinidad and Tobago,0,1,Friendly,Bermuda,-8,8,1234,1425,-2,2,147,102
+2004-02-11,Morocco,Mali,4,0,African Nations Cup,Tunisia,48,-48,1692,1602,13,-6,39,56
+2004-02-11,Tunisia,Nigeria,1,1,African Nations Cup,Tunisia,-1,1,1676,1766,-1,0,44,26
+2004-02-12,Bermuda,Trinidad and Tobago,2,2,Friendly,Bermuda,3,-3,1237,1422,1,0,146,102
+2004-02-12,Japan,Iraq,2,0,Friendly,Japan,5,-5,1782,1611,0,0,24,55
+2004-02-12,Jordan,Indonesia,2,1,Friendly,Jordan,2,-2,1594,1342,0,0,60,126
+2004-02-13,Nigeria,Mali,2,1,African Nations Cup,Tunisia,14,-14,1780,1588,1,-6,25,62
+2004-02-13,Qatar,Bahrain,2,0,Friendly,Qatar,14,-14,1533,1572,2,-1,72,66
+2004-02-14,Malta,Moldova,0,0,Friendly tournament,Malta,3,-3,1236,1412,1,-1,147,107
+2004-02-14,South Korea,Oman,5,0,Friendly,South Korea,8,-8,1702,1548,0,0,38,68
+2004-02-14,Tunisia,Morocco,2,1,African Nations Cup,Tunisia,19,-19,1695,1673,5,-6,39,45
+2004-02-15,Barbados,Guyana,0,2,Friendly,Barbados,-27,27,1378,1125,-5,5,114,170
+2004-02-16,Malta,Estonia,5,2,Friendly tournament,Malta,32,-32,1268,1383,11,-5,136,111
+2004-02-18,Albania,Sweden,2,1,Friendly,Albania,14,-14,1531,1757,3,-1,74,27
+2004-02-18,Antigua and Barbuda,Netherlands Antilles,2,0,World Cup qualifier,Antigua and Barbuda,29,-29,1130,1159,5,-9,170,164
+2004-02-18,Bahrain,Syria,2,1,World Cup qualifier,Bahrain,6,-6,1578,1365,1,-1,65,117
+2004-02-18,Belgium,France,0,2,Friendly,Belgium,-9,9,1793,2058,-3,0,22,1
+2004-02-18,Chile,Mexico,1,1,Friendly,the United States,6,-6,1634,1844,-1,1,54,12
+2004-02-18,China,Kuwait,1,0,World Cup qualifier,China,8,-8,1600,1452,2,-3,58,90
+2004-02-18,Croatia,Germany,1,2,Friendly,Croatia,-11,11,1817,1890,-1,0,18,11
+2004-02-18,Cyprus,Belarus,0,2,Friendly tournament,Cyprus,-26,26,1441,1545,-8,4,92,71
+2004-02-18,Estonia,Moldova,1,0,Friendly tournament,Malta,16,-16,1399,1396,3,-3,108,109
+2004-02-18,Greece,Bulgaria,2,0,Friendly,Greece,10,-10,1805,1753,1,-1,19,29
+2004-02-18,Haiti,Turks and Caicos Islands,5,0,World Cup qualifier,the United States,1,-1,1465,765,2,0,83,208
+2004-02-18,Honduras,Colombia,1,1,Friendly,Honduras,-1,1,1647,1706,0,-1,51,38
+2004-02-18,Hungary,Armenia,2,0,Friendly tournament,Cyprus,17,-17,1546,1428,3,-5,70,98
+2004-02-18,India,Singapore,1,0,World Cup qualifier,India,16,-16,1171,1169,6,-4,158,160
+2004-02-18,Iran,Qatar,3,1,World Cup qualifier,Iran,10,-10,1726,1523,2,-3,33,75
+2004-02-18,Ireland,Brazil,0,0,Friendly,Ireland,2,-2,1835,1988,1,-1,14,5
+2004-02-18,Israel,Azerbaijan,6,0,Friendly,Israel,4,-4,1655,1343,1,-2,49,125
+2004-02-18,Italy,Czechia,2,2,Friendly,Italy,-1,1,1923,1979,0,0,8,6
+2004-02-18,Jamaica,Uruguay,2,0,Friendly,Jamaica,22,-22,1620,1838,2,-1,55,13
+2004-02-18,Japan,Oman,1,0,World Cup qualifier,Japan,5,-5,1787,1543,0,-4,24,72
+2004-02-18,Jordan,Laos,5,0,World Cup qualifier,Jordan,1,-1,1595,893,0,0,59,197
+2004-02-18,Kyrgyzstan,Tajikistan,1,2,World Cup qualifier,Kyrgyzstan,-12,12,1163,1441,-2,7,162,92
+2004-02-18,Latvia,Kazakhstan,3,1,Friendly tournament,Cyprus,15,-15,1559,1403,3,-2,67,106
+2004-02-18,Libya,Ukraine,1,1,Friendly,Libya,4,-4,1420,1657,3,1,102,48
+2004-02-18,Macedonia,Bosnia and Herzegovina,1,0,Friendly,Macedonia,11,-11,1489,1587,1,-7,81,64
+2004-02-18,Malaysia,Hong Kong,1,3,World Cup qualifier,Malaysia,-45,45,1222,1227,-13,7,151,150
+2004-02-18,Morocco,Switzerland,2,1,Friendly,Morocco,9,-9,1682,1719,2,-1,43,34
+2004-02-18,Netherlands,United States,1,0,Friendly,the Netherlands,4,-4,1994,1828,0,0,4,16
+2004-02-18,Northern Ireland,Norway,1,4,Friendly,Northern Ireland,-9,9,1459,1773,-3,1,86,26
+2004-02-18,Palestine,Taiwan,8,0,World Cup qualifier,Qatar,26,-26,1275,1049,7,-5,136,184
+2004-02-18,Poland,Slovenia,2,0,Friendly,Spain,12,-12,1754,1652,2,-2,28,50
+2004-02-18,Portugal,England,1,1,Friendly,Portugal,-2,2,1917,1956,0,0,9,7
+2004-02-18,Romania,Georgia,3,0,Friendly tournament,Cyprus,11,-11,1802,1556,3,-1,20,68
+2004-02-18,Saudi Arabia,Indonesia,3,0,World Cup qualifier,Saudi Arabia,5,-5,1692,1337,2,0,40,126
+2004-02-18,South Korea,Lebanon,2,0,World Cup qualifier,South Korea,5,-5,1707,1368,1,-1,37,116
+2004-02-18,Spain,Peru,2,1,Friendly,Spain,2,-2,2007,1688,0,-2,3,42
+2004-02-18,Turkey,Denmark,0,1,Friendly,Turkey,-12,12,1829,1896,-1,0,15,10
+2004-02-18,Turkmenistan,Sri Lanka,2,0,World Cup qualifier,Turkmenistan,2,-2,1465,960,3,-1,83,191
+2004-02-18,United Arab Emirates,Thailand,1,0,World Cup qualifier,the United Arab Emirates,14,-14,1461,1429,7,-3,85,97
+2004-02-18,US Virgin Islands,Saint Kitts and Nevis,0,4,World Cup qualifier,the US VirgIslands,-3,3,670,1356,0,1,220,120
+2004-02-18,Uzbekistan,Iraq,1,1,World Cup qualifier,Uzbekistan,0,0,1508,1611,0,-1,78,56
+2004-02-18,Venezuela,Australia,1,1,Friendly,Venezuela,2,-2,1645,1818,0,1,52,17
+2004-02-18,Vietnam,Maldives,4,0,World Cup qualifier,Vietnam,5,-5,1299,943,2,-1,130,194
+2004-02-18,Wales,Scotland,4,0,Friendly,Wales,16,-16,1636,1662,1,-4,53,47
+2004-02-18,Yemen,North Korea,1,1,World Cup qualifier,Yemen,10,-10,1160,1420,2,-5,163,102
+2004-02-19,Armenia,Kazakhstan,3,3,Friendly tournament,Cyprus,-1,1,1427,1404,0,0,98,106
+2004-02-19,Cyprus,Georgia,3,1,Friendly tournament,Cyprus,23,-23,1464,1533,7,-5,85,73
+2004-02-19,Hungary,Latvia,2,1,Friendly tournament,Cyprus,16,-16,1562,1543,3,-2,67,69
+2004-02-19,Romania,Belarus,2,0,Friendly tournament,Cyprus,8,-8,1810,1537,1,0,19,71
+2004-02-21,Armenia,Georgia,2,0,Friendly tournament,Cyprus,29,-29,1456,1504,9,-5,89,78
+2004-02-21,Belarus,Latvia,4,1,Friendly tournament,Cyprus,27,-27,1564,1516,4,-7,67,76
+2004-02-21,Cyprus,Kazakhstan,2,1,Friendly tournament,Cyprus,9,-9,1473,1395,2,-3,83,109
+2004-02-21,Haiti,Turks and Caicos Islands,2,0,World Cup qualifier,the United States,1,-1,1466,764,-1,0,84,208
+2004-02-21,Poland,Faroe Islands,6,0,Friendly,Spain,2,-2,1756,1229,0,-1,28,149
+2004-02-21,Romania,Hungary,3,0,Friendly tournament,Cyprus,10,-10,1820,1552,2,-1,17,68
+2004-02-22,British Virgin Islands,Saint Lucia,0,1,World Cup qualifier,the British VirgIslands,-6,6,842,1262,0,1,203,140
+2004-02-22,Cayman Islands,Cuba,1,2,World Cup qualifier,the Cayman Islands,-5,5,1099,1539,-2,0,175,71
+2004-02-24,Faroe Islands,Luxembourg,4,2,Friendly,Spain,9,-9,1238,1078,3,0,146,176
+2004-02-27,Cocos Islands,Christmas Island,1,3,Inter-Island Cup,Cocos Islands,-16,16,386,614,-1,0,232,222
+2004-02-28,Aruba,Suriname,1,2,World Cup qualifier,Aruba,-9,9,940,1266,-2,2,194,139
+2004-02-28,Grenada,Guyana,5,0,World Cup qualifier,Grenada,18,-18,1260,1107,3,-1,142,172
+2004-02-29,Bermuda,Montserrat,13,0,World Cup qualifier,Bermuda,1,-1,1238,544,1,0,146,228
+2004-02-29,Lesotho,Botswana,0,0,COSAFA Cup,Lesotho,-2,2,1168,1237,-1,0,160,148
+2004-02-29,Nicaragua,Haiti,1,1,Friendly,Nicaragua,8,-8,969,1458,0,-4,190,88
+2004-03-01,Cocos Islands,Christmas Island,1,0,Inter-Island Cup,Cocos Islands,20,-20,406,594,1,0,231,222
+2004-03-02,Trinidad and Tobago,Guyana,1,0,Friendly,Trinidad and Tobago,2,-2,1424,1105,0,0,101,172
+2004-03-10,Mexico,Ecuador,2,1,Friendly,Mexico,4,-4,1848,1713,0,-1,12,36
+2004-03-10,Venezuela,Honduras,2,1,Friendly,Venezuela,7,-7,1652,1640,2,-1,50,52
+2004-03-12,Barbados,Dominica,2,1,Friendly,Barbados,2,-2,1380,1070,1,0,113,180
+2004-03-13,United States,Haiti,1,1,Friendly,the United States,-9,9,1819,1467,-1,4,17,84
+2004-03-14,Guyana,Grenada,1,3,World Cup qualifier,Guyana,-25,25,1080,1285,-3,9,175,133
+2004-03-16,Cuba,Panama,1,1,Friendly,Cuba,-6,6,1533,1407,0,1,71,105
+2004-03-17,China,Myanmar,2,0,Friendly,China,1,-1,1601,1147,1,0,57,166
+2004-03-17,Malaysia,Indonesia,0,0,Friendly,Malaysia,0,0,1222,1337,0,0,151,126
+2004-03-17,Yemen,Turkmenistan,1,2,Friendly,Yemen,-5,5,1155,1470,-2,1,165,84
+2004-03-18,Cuba,Panama,3,0,Friendly,Cuba,7,-7,1540,1400,0,-1,71,106
+2004-03-19,Dominican Republic,Anguilla,0,0,World Cup qualifier,the Dominican Republic,-19,19,1085,558,-2,1,174,228
+2004-03-20,Saint Kitts and Nevis,British Virgin Islands,4,0,Friendly,Saint Kitts and Nevis,1,-1,1357,841,0,0,120,203
+2004-03-21,Bahrain,Jordan,0,0,Friendly,Bahrain,-2,2,1576,1597,0,0,65,59
+2004-03-21,Dominican Republic,Anguilla,6,0,World Cup qualifier,the Dominican Republic,2,-2,1087,556,0,0,174,228
+2004-03-21,Montserrat,Bermuda,0,7,World Cup qualifier,Montserrat,-3,3,541,1241,0,0,229,146
+2004-03-21,Saint Kitts and Nevis,Antigua and Barbuda,2,3,Friendly,Saint Kitts and Nevis,-17,17,1340,1147,-5,4,125,166
+2004-03-21,Saint Vincent and the Grenadines,Saint Lucia,1,1,Friendly,Saint Vincent and the Grenadines,-3,3,1265,1265,-2,2,140,140
+2004-03-23,Bahrain,Jordan,0,2,Friendly,Bahrain,-18,18,1558,1615,-2,3,67,56
+2004-03-23,Lebanon,Syria,0,1,Friendly,Lebanon,-13,13,1355,1378,-3,2,119,115
+2004-03-26,Bahamas,Dominica,1,1,World Cup qualifier,the Bahamas,7,-7,847,1063,1,0,203,180
+2004-03-26,Libya,Qatar,1,0,Friendly,Italy,13,-13,1433,1510,5,-3,97,76
+2004-03-26,Syria,Palestine,1,1,Friendly,Syria,-5,5,1373,1280,0,2,115,135
+2004-03-27,Cuba,Cayman Islands,3,0,World Cup qualifier,Cuba,3,-3,1543,1096,1,0,70,173
+2004-03-27,Suriname,Aruba,8,1,World Cup qualifier,Suriname,7,-7,1273,933,1,0,138,194
+2004-03-28,Bahamas,Dominica,1,3,World Cup qualifier,the Bahamas,-20,20,827,1083,-2,5,205,175
+2004-03-28,Saint Lucia,British Virgin Islands,9,0,World Cup qualifier,Saint Lucia,5,-5,1270,836,1,1,139,203
+2004-03-30,Argentina,Ecuador,1,0,World Cup qualifier,Argentina,4,-4,2022,1709,0,0,2,36
+2004-03-30,Australia,South Africa,1,0,Friendly,England,4,-4,1822,1571,2,1,16,64
+2004-03-30,Bolivia,Chile,0,2,World Cup qualifier,Bolivia,-35,35,1553,1669,-6,9,67,45
+2004-03-30,Israel,Lithuania,2,1,Friendly,Israel,3,-3,1658,1423,0,-1,49,102
+2004-03-31,Albania,Iceland,2,1,Friendly,Albania,9,-9,1540,1579,0,-2,72,63
+2004-03-31,Bermuda,Nicaragua,3,0,Friendly,Bermuda,4,-4,1245,965,2,0,144,190
+2004-03-31,Bulgaria,Russia,2,2,Friendly,Bulgaria,-2,2,1751,1797,1,1,28,20
+2004-03-31,Croatia,Turkey,2,2,Friendly,Croatia,-2,2,1815,1831,1,1,18,14
+2004-03-31,Egypt,Trinidad and Tobago,2,1,Friendly,Egypt,2,-2,1671,1422,0,-1,45,102
+2004-03-31,El Salvador,Guatemala,0,3,Friendly,El Salvador,-20,20,1484,1567,-4,4,82,65
+2004-03-31,Estonia,Northern Ireland,0,1,Friendly,Estonia,-11,11,1388,1470,-5,1,112,86
+2004-03-31,Germany,Belgium,3,0,Friendly,Germany,9,-9,1899,1784,1,-2,10,24
+2004-03-31,Greece,Switzerland,1,0,Friendly,Greece,5,-5,1810,1714,1,-1,19,35
+2004-03-31,Hong Kong,China,0,1,World Cup qualifier,Hong Kong,-7,7,1220,1608,-1,0,151,58
+2004-03-31,Hungary,Wales,1,2,Friendly,Hungary,-10,10,1542,1646,-3,3,71,51
+2004-03-31,India,Oman,1,5,World Cup qualifier,India,-13,13,1158,1556,-6,2,164,68
+2004-03-31,Iraq,Palestine,1,1,World Cup qualifier,Qatar,-15,15,1596,1295,-3,3,60,132
+2004-03-31,Ireland,Czechia,2,1,Friendly,Ireland,11,-11,1846,1968,1,0,13,6
+2004-03-31,Jamaica,Honduras,2,2,Friendly,Jamaica,-2,2,1618,1642,-1,0,56,53
+2004-03-31,Jordan,Qatar,1,0,World Cup qualifier,Jordan,9,-9,1624,1501,1,-2,55,78
+2004-03-31,Kyrgyzstan,Syria,1,1,World Cup qualifier,Kyrgyzstan,6,-6,1169,1367,3,-2,159,117
+2004-03-31,Laos,Iran,0,7,World Cup qualifier,Laos,-1,1,892,1727,0,1,197,32
+2004-03-31,Luxembourg,Bosnia and Herzegovina,1,2,Friendly,Luxembourg,-2,2,1076,1589,-1,2,178,61
+2004-03-31,Macedonia,Ukraine,1,0,Friendly,Macedonia,12,-12,1501,1645,3,-2,78,52
+2004-03-31,Malaysia,Kuwait,0,2,World Cup qualifier,Malaysia,-19,19,1203,1471,-3,7,154,85
+2004-03-31,Maldives,South Korea,0,0,World Cup qualifier,the Maldives,19,-19,962,1688,2,-4,191,41
+2004-03-31,Malta,Finland,1,2,Friendly,Malta,-3,3,1265,1693,1,2,139,39
+2004-03-31,Mexico,Costa Rica,2,0,Friendly,the United States,10,-10,1858,1724,0,-1,12,33
+2004-03-31,Moldova,Azerbaijan,2,1,Friendly,Moldova,6,-6,1402,1337,2,-1,106,125
+2004-03-31,Morocco,Angola,3,1,Friendly,Morocco,4,-4,1686,1455,1,-3,42,90
+2004-03-31,Netherlands,France,0,0,Friendly,the Netherlands,-1,1,1993,2059,0,0,4,1
+2004-03-31,North Korea,United Arab Emirates,0,0,World Cup qualifier,North Korea,-3,3,1417,1464,-1,-2,104,88
+2004-03-31,Netherlands Antilles,Antigua and Barbuda,3,0,World Cup qualifier,the Netherlands Antilles,24,-24,1183,1123,7,-4,156,170
+2004-03-31,Paraguay,Brazil,0,0,World Cup qualifier,Paraguay,5,-5,1797,1983,3,0,20,5
+2004-03-31,Peru,Colombia,0,2,World Cup qualifier,Peru,-37,37,1651,1743,-8,8,50,30
+2004-03-31,Poland,United States,0,1,Friendly,Poland,-11,11,1745,1830,-1,3,29,15
+2004-03-31,Portugal,Italy,1,2,Friendly,Portugal,-13,13,1904,1936,0,0,9,8
+2004-03-31,Scotland,Romania,1,2,Friendly,Scotland,-8,8,1654,1828,-1,1,49,16
+2004-03-31,Serbia and Montenegro,Norway,0,1,Friendly,Serbia and Montenegro,-12,12,1724,1785,-2,3,33,23
+2004-03-31,Singapore,Japan,1,2,World Cup qualifier,Singapore,-2,2,1167,1789,-2,2,161,22
+2004-03-31,Slovakia,Austria,1,1,Friendly,Slovakia,-3,3,1666,1679,-2,1,47,43
+2004-03-31,Slovenia,Latvia,0,1,Friendly,Slovenia,-16,16,1636,1532,-3,2,54,73
+2004-03-31,Spain,Denmark,2,0,Friendly,Spain,7,-7,2014,1889,0,-1,3,11
+2004-03-31,Sri Lanka,Saudi Arabia,0,1,World Cup qualifier,Sri Lanka,-1,1,959,1693,-1,1,192,39
+2004-03-31,Saint Kitts and Nevis,US Virgin Islands,7,0,World Cup qualifier,Saint Kitts and Nevis,1,-1,1341,669,1,0,124,220
+2004-03-31,Sweden,England,1,0,Friendly,Sweden,13,-13,1770,1943,0,0,27,7
+2004-03-31,Taiwan,Uzbekistan,0,1,World Cup qualifier,Taiwan,-4,4,1045,1512,-1,1,185,76
+2004-03-31,Tajikistan,Bahrain,0,0,World Cup qualifier,Tajikistan,1,-1,1442,1557,-1,-1,95,67
+2004-03-31,Tunisia,Ivory Coast,0,2,Friendly,Tunisia,-23,23,1672,1613,-5,3,44,57
+2004-03-31,Turkmenistan,Indonesia,3,1,World Cup qualifier,Turkmenistan,12,-12,1482,1325,1,0,83,126
+2004-03-31,Uruguay,Venezuela,0,3,World Cup qualifier,Uruguay,-59,59,1779,1711,-13,14,26,37
+2004-03-31,Vietnam,Lebanon,0,2,World Cup qualifier,Vietnam,-34,34,1265,1389,-9,8,139,111
+2004-03-31,Yemen,Thailand,0,3,World Cup qualifier,Yemen,-19,19,1136,1448,-3,6,168,93
+2004-04-02,Bermuda,Nicaragua,2,1,Friendly,Bermuda,2,-2,1247,963,0,0,144,190
+2004-04-03,Sint Eustatius,Saba,3,1,Friendly,Sint Eustatius,11,-11,711,689,0,0,212,218
+2004-04-03,Vanuatu,Solomon Islands,1,2,Friendly,Vanuatu,-12,12,1190,1255,0,3,155,143
+2004-04-06,Vanuatu,Solomon Islands,1,2,Friendly,Vanuatu,-11,11,1179,1266,-3,4,158,139
+2004-04-07,Honduras,Panama,0,0,Friendly,Honduras,-8,8,1634,1408,-1,2,54,105
+2004-04-11,Mozambique,Swaziland,2,0,Friendly,Mozambique,8,-8,1253,1174,2,-2,144,158
+2004-04-14,Andorra,China,0,0,Friendly,Spain,9,-9,1060,1599,2,-1,181,59
+2004-04-18,Mozambique,Madagascar,2,0,COSAFA Cup,Mozambique,22,-22,1275,1241,7,-3,137,146
+2004-04-19,Sudan,Syria,1,2,Friendly,Sudan,-13,13,1357,1380,-3,3,119,114
+2004-04-21,Sudan,Syria,0,0,Friendly,Sudan,-2,2,1355,1382,0,0,119,114
+2004-04-25,Hungary,Japan,3,2,Friendly,Hungary,14,-14,1556,1775,3,-4,68,26
+2004-04-27,Netherlands Antilles,Dominican Republic,3,1,Friendly,the Netherlands Antilles,7,-7,1190,1080,0,-1,155,175
+2004-04-28,Armenia,Turkmenistan,1,0,Friendly,Armenia,8,-8,1464,1474,1,0,88,83
+2004-04-28,Austria,Luxembourg,4,1,Friendly,Austria,1,-1,1680,1075,0,-1,43,179
+2004-04-28,Belarus,Lithuania,1,0,Friendly,Belarus,4,-4,1568,1419,1,-1,65,102
+2004-04-28,Belgium,Turkey,2,3,Friendly,Belgium,-12,12,1772,1843,-4,-1,27,15
+2004-04-28,Bosnia and Herzegovina,Finland,1,0,Friendly,Bosnia and Herzegovina,10,-10,1599,1683,1,-2,60,41
+2004-04-28,Bulgaria,Cameroon,3,0,Friendly,Bulgaria,12,-12,1763,1731,0,-1,28,31
+2004-04-28,Chile,Peru,1,1,Friendly,Chile,-3,3,1666,1654,-1,2,47,48
+2004-04-28,China,Algeria,1,0,Friendly,France,7,-7,1606,1487,1,0,58,80
+2004-04-28,Colombia,El Salvador,2,0,Friendly,the United States,6,-6,1749,1478,1,0,29,82
+2004-04-28,Czechia,Japan,0,1,Friendly,Czechia,-17,17,1951,1792,0,4,6,22
+2004-04-28,Denmark,Scotland,1,0,Friendly,Denmark,3,-3,1892,1651,1,0,10,49
+2004-04-28,Ecuador,Honduras,1,1,Friendly,the United States,-2,2,1707,1636,1,1,37,53
+2004-04-28,Estonia,Albania,1,1,Friendly,Estonia,1,-1,1389,1539,2,0,110,72
+2004-04-28,Ghana,Angola,1,1,Friendly,Ghana,-3,3,1445,1458,-1,0,94,90
+2004-04-28,Hungary,Brazil,1,4,Friendly,Hungary,-5,5,1551,1988,-2,0,70,5
+2004-04-28,Israel,Moldova,1,1,Friendly,Israel,-8,8,1650,1410,-2,1,50,106
+2004-04-28,Italy,Spain,1,1,Friendly,Italy,-1,1,1935,2015,0,0,8,3
+2004-04-28,Ivory Coast,Guinea,4,2,Friendly,France,11,-11,1624,1512,1,-1,56,75
+2004-04-28,Jamaica,Venezuela,2,1,Friendly,Jamaica,10,-10,1628,1701,1,-1,55,38
+2004-04-28,Kazakhstan,Azerbaijan,2,3,Friendly,Kazakhstan,-14,14,1381,1351,-6,4,114,121
+2004-04-28,Latvia,Iceland,0,0,Friendly,Latvia,-2,2,1530,1581,0,0,73,63
+2004-04-28,Macedonia,Croatia,0,1,Friendly,Macedonia,-5,5,1496,1820,-1,0,79,18
+2004-04-28,Morocco,Argentina,0,1,Friendly,Morocco,-4,4,1682,2026,0,0,42,2
+2004-04-28,Namibia,Botswana,0,0,Friendly,Namibia,-1,1,1158,1238,0,1,163,147
+2004-04-28,Netherlands,Greece,4,0,Friendly,the Netherlands,6,-6,1999,1804,0,0,4,19
+2004-04-28,Norway,Russia,3,2,Friendly,Norway,8,-8,1793,1789,1,-3,21,23
+2004-04-28,Northern Ireland,Serbia and Montenegro,1,1,Friendly,Northern Ireland,4,-4,1474,1720,3,-1,83,34
+2004-04-28,Panama,Bermuda,4,1,Friendly,Panama,6,-6,1414,1241,0,0,105,145
+2004-04-28,Poland,Ireland,0,0,Friendly,Poland,0,0,1745,1846,-1,0,30,13
+2004-04-28,Portugal,Sweden,2,2,Friendly,Portugal,-6,6,1898,1776,0,1,9,26
+2004-04-28,Romania,Germany,5,1,Friendly,Romania,17,-17,1845,1882,2,-1,14,11
+2004-04-28,San Marino,Liechtenstein,1,0,Friendly,San Marino,11,-11,956,1062,0,0,193,180
+2004-04-28,South Korea,Paraguay,0,0,Friendly,South Korea,0,0,1688,1797,1,0,40,20
+2004-04-28,Switzerland,Slovenia,2,1,Friendly,Switzerland,5,-5,1719,1631,0,-1,35,54
+2004-04-28,Tunisia,Mali,1,0,Friendly,Tunisia,5,-5,1677,1583,0,0,44,62
+2004-04-28,Ukraine,Slovakia,1,1,Friendly,Ukraine,-2,2,1643,1668,0,1,52,46
+2004-04-28,United States,Mexico,1,0,Friendly,the United States,8,-8,1838,1850,-1,0,16,12
+2004-04-30,Libya,Jordan,1,0,LG Cup,Nigeria,23,-23,1456,1601,7,-2,91,58
+2004-04-30,Nicaragua,Bermuda,2,0,Friendly,Nicaragua,22,-22,985,1219,1,-6,189,151
+2004-05-01,Guatemala,Panama,1,2,Friendly,Guatemala,-16,16,1551,1430,-3,6,69,99
+2004-05-01,Zambia,Zimbabwe,1,1,Friendly,Zambia,-1,1,1438,1488,0,0,97,80
+2004-05-02,Nicaragua,Bermuda,2,0,Friendly,Nicaragua,21,-21,1006,1198,0,-3,189,154
+2004-05-05,Cook Islands,Samoa,0,0,Friendly,New Zealand,0,0,702,702,0,0,215,215
+2004-05-05,Guatemala,Haiti,1,0,Friendly,Guatemala,5,-5,1556,1462,2,-2,67,89
+2004-05-08,Grenada,Saint Vincent and the Grenadines,1,1,Friendly,Grenada,-3,3,1282,1268,0,1,133,140
+2004-05-09,Angola,Namibia,2,1,COSAFA Cup,Angola,4,-4,1462,1154,1,-1,89,164
+2004-05-10,Papua New Guinea,Vanuatu,1,1,World Cup and Oceania Cup qualifier,Samoa,8,-8,1032,1171,1,-1,187,158
+2004-05-10,Samoa,Eastern Samoa,4,0,World Cup and Oceania Cup qualifier,Samoa,6,-6,708,376,2,0,213,235
+2004-05-10,Solomon Islands,Tonga,6,0,World Cup and Oceania Cup qualifier,the Solomon Islands,2,-2,1268,703,1,-2,140,215
+2004-05-10,Tahiti,Cook Islands,2,0,World Cup and Oceania Cup qualifier,the Solomon Islands,2,-2,1283,700,1,-1,133,216
+2004-05-12,El Salvador,Haiti,3,3,Friendly,the United States,0,0,1478,1462,0,0,82,89
+2004-05-12,Fiji,Papua New Guinea,4,2,World Cup and Oceania Cup qualifier,Samoa,7,-7,1400,1025,0,0,108,187
+2004-05-12,New Caledonia,Tahiti,0,0,World Cup and Oceania Cup qualifier,the Solomon Islands,6,-6,1186,1277,0,-3,156,136
+2004-05-12,Solomon Islands,Cook Islands,5,0,World Cup and Oceania Cup qualifier,the Solomon Islands,2,-2,1270,698,1,-1,139,217
+2004-05-12,Vanuatu,Eastern Samoa,9,1,World Cup and Oceania Cup qualifier,Samoa,1,-1,1172,375,0,0,158,235
+2004-05-15,Fiji,Eastern Samoa,11,0,World Cup and Oceania Cup qualifier,Samoa,0,0,1400,375,0,0,108,235
+2004-05-15,Samoa,Vanuatu,0,3,World Cup and Oceania Cup qualifier,Samoa,-8,8,700,1180,-2,2,215,156
+2004-05-15,Solomon Islands,New Caledonia,2,0,World Cup and Oceania Cup qualifier,the Solomon Islands,15,-15,1285,1171,6,-2,133,158
+2004-05-15,Tonga,Cook Islands,2,1,World Cup and Oceania Cup qualifier,the Solomon Islands,20,-20,723,678,3,-3,212,220
+2004-05-16,Zimbabwe,Zambia,0,0,Friendly,Zimbabwe,-4,4,1484,1442,-1,1,81,96
+2004-05-17,New Caledonia,Cook Islands,8,0,World Cup and Oceania Cup qualifier,the Solomon Islands,5,-5,1176,673,1,-1,157,221
+2004-05-17,Papua New Guinea,Eastern Samoa,10,0,World Cup and Oceania Cup qualifier,Samoa,2,-2,1027,373,0,0,187,235
+2004-05-17,Samoa,Fiji,0,4,World Cup and Oceania Cup qualifier,Samoa,-2,2,698,1402,-1,0,216,108
+2004-05-17,Tahiti,Tonga,2,0,World Cup and Oceania Cup qualifier,the Solomon Islands,2,-2,1279,721,2,0,135,212
+2004-05-19,Cyprus,Jordan,0,0,Friendly,Cyprus,1,-1,1474,1600,2,-1,83,59
+2004-05-19,New Caledonia,Tonga,8,0,World Cup and Oceania Cup qualifier,the Solomon Islands,6,-6,1182,715,0,0,157,212
+2004-05-19,Samoa,Papua New Guinea,1,4,World Cup and Oceania Cup qualifier,Samoa,-15,15,683,1042,-3,0,219,187
+2004-05-19,Solomon Islands,Tahiti,1,1,World Cup and Oceania Cup qualifier,the Solomon Islands,-6,6,1279,1285,-2,2,135,133
+2004-05-19,Vanuatu,Fiji,3,0,World Cup and Oceania Cup qualifier,Samoa,55,-55,1235,1347,8,-14,148,122
+2004-05-20,Benin,Togo,0,1,Friendly,Benin,-9,9,1287,1439,-2,1,133,98
+2004-05-20,Cuba,Grenada,2,2,Friendly,Cuba,-8,8,1535,1290,-1,2,72,132
+2004-05-20,France,Brazil,0,0,Friendly,France,-5,5,2054,1993,0,0,1,5
+2004-05-21,Australia,Turkey,1,3,Friendly,Australia,-18,18,1804,1861,-1,3,18,12
+2004-05-22,Sudan,Uganda,2,1,Friendly,Sudan,9,-9,1364,1410,2,-2,116,105
+2004-05-22,Zambia,Malawi,0,2,Friendly,Zambia,-23,23,1419,1346,-6,3,102,124
+2004-05-23,DR Congo,Angola,1,3,Friendly,DR Congo,-18,18,1418,1480,-5,7,103,82
+2004-05-23,Saint Kitts and Nevis,Saint Vincent and the Grenadines,3,2,Friendly,Saint Kitts and Nevis,5,-5,1346,1263,2,-2,124,143
+2004-05-23,Togo,Benin,1,1,Friendly,Togo,-6,6,1433,1293,-1,1,98,132
+2004-05-23,Trinidad and Tobago,Iraq,2,0,Friendly,England,22,-22,1444,1574,5,-2,96,63
+2004-05-24,Australia,Turkey,0,1,Friendly,Australia,-11,11,1793,1872,-2,0,20,12
+2004-05-24,Egypt,Zimbabwe,2,0,Friendly,Egypt,5,-5,1676,1479,0,-1,45,82
+2004-05-25,Austria,Russia,0,0,Friendly,Austria,0,0,1680,1789,0,0,43,23
+2004-05-25,Sudan,Zambia,0,2,Friendly,Sudan,-17,17,1347,1436,-5,3,121,98
+2004-05-26,Benin,Burkina Faso,1,0,Friendly,Benin,10,-10,1303,1373,3,-4,129,115
+2004-05-26,Lebanon,Bahrain,2,2,Friendly,Lebanon,2,-2,1391,1555,1,-2,108,68
+2004-05-26,Mozambique,Botswana,0,0,Friendly,Mozambique,-4,4,1271,1242,-1,1,139,145
+2004-05-27,Estonia,Scotland,0,1,Friendly,Estonia,-6,6,1383,1657,0,0,110,49
+2004-05-27,Georgia,Israel,0,1,Friendly,Georgia,-9,9,1495,1659,-2,2,79,48
+2004-05-27,Germany,Malta,7,0,Friendly,Germany,1,-1,1883,1264,0,-1,11,142
+2004-05-27,Ireland,Romania,1,0,Friendly,Ireland,7,-7,1853,1838,1,0,13,15
+2004-05-27,Norway,Wales,0,0,Friendly,Norway,-6,6,1787,1652,-3,0,23,51
+2004-05-28,Azerbaijan,Uzbekistan,3,1,Friendly,Azerbaijan,18,-18,1369,1494,3,-4,116,79
+2004-05-28,Finland,Sweden,1,3,Friendly,Finland,-15,15,1668,1791,-4,4,45,22
+2004-05-28,France,Andorra,4,0,Friendly,France,0,0,2054,1060,0,0,1,181
+2004-05-28,Mali,Morocco,0,0,Friendly,Mali,0,0,1583,1682,0,1,61,41
+2004-05-28,Rwanda,Uganda,1,1,Friendly,Rwanda,-1,1,1357,1411,-1,0,118,105
+2004-05-29,Australia,New Zealand,1,0,World Cup qualifier and Oceania Cup,Australia,5,-5,1798,1514,1,-1,19,75
+2004-05-29,Croatia,Slovakia,1,0,Friendly,Croatia,4,-4,1824,1664,1,-2,16,47
+2004-05-29,Egypt,Gabon,2,0,Friendly,Egypt,2,-2,1678,1344,1,-1,43,125
+2004-05-29,Fiji,Tahiti,0,0,World Cup qualifier and Oceania Cup,Australia,-4,4,1343,1289,-5,-1,126,135
+2004-05-29,Guinea,Senegal,1,1,Friendly,France,5,-5,1517,1709,1,0,74,36
+2004-05-29,Netherlands,Belgium,0,1,Friendly,the Netherlands,-17,17,1982,1789,-1,3,5,24
+2004-05-29,Nigeria,Ireland,3,0,Unity Cup,England,32,-32,1812,1821,7,-4,18,17
+2004-05-29,Poland,Greece,1,0,Friendly,Poland,9,-9,1754,1795,1,-3,29,21
+2004-05-29,Portugal,Luxembourg,3,0,Friendly,Portugal,0,0,1898,1075,0,0,9,179
+2004-05-29,Solomon Islands,Vanuatu,1,0,World Cup qualifier and Oceania Cup,Australia,22,-22,1301,1213,4,-4,131,152
+2004-05-30,Algeria,Jordan,1,1,Friendly,Algeria,0,0,1487,1600,0,1,80,58
+2004-05-30,Barbados,Northern Ireland,1,1,Friendly,Barbados,0,0,1380,1474,-1,0,114,84
+2004-05-30,Burkina Faso,Libya,3,2,Friendly,Burkina Faso,10,-10,1383,1446,4,-3,111,94
+2004-05-30,Estonia,Denmark,2,2,Friendly,Estonia,8,-8,1391,1884,2,0,108,10
+2004-05-30,Japan,Iceland,3,2,Friendly tournament,England,7,-7,1799,1574,3,0,19,62
+2004-05-30,Scotland,Trinidad and Tobago,4,1,Friendly,Scotland,5,-5,1662,1439,1,-1,48,97
+2004-05-30,Saint Vincent and the Grenadines,Martinique,2,0,Friendly,Saint Vincent and the Grenadines,18,-18,1281,1409,7,-5,136,106
+2004-05-30,Tunisia,Italy,0,4,Friendly,Tunisia,-11,11,1666,1946,-1,1,45,7
+2004-05-30,Wales,Canada,1,0,Friendly,Wales,6,-6,1658,1595,1,-2,50,60
+2004-05-31,Australia,Tahiti,9,0,World Cup qualifier and Oceania Cup,Australia,4,-4,1802,1285,1,1,19,134
+2004-05-31,Fiji,Vanuatu,1,0,World Cup qualifier and Oceania Cup,Australia,16,-16,1359,1197,8,-3,118,155
+2004-05-31,Mozambique,Swaziland,1,1,Friendly,Mozambique,-5,5,1266,1179,-1,0,141,158
+2004-05-31,New Zealand,Solomon Islands,3,0,World Cup qualifier and Oceania Cup,Australia,20,-20,1534,1281,2,-4,73,135
+2004-05-31,Nigeria,Jamaica,2,0,Unity Cup,England,12,-12,1824,1616,2,-1,16,56
+2004-05-31,Oman,Maldives,3,0,Friendly,Oman,1,-1,1557,961,-1,0,67,191
+2004-05-31,Qatar,Turkmenistan,5,0,Friendly,Qatar,13,-13,1514,1461,0,-5,76,89
+2004-05-31,United Arab Emirates,Bahrain,2,3,Friendly,the United Arab Emirates,-10,10,1454,1565,-2,2,90,66
+2004-06-01,Bolivia,Paraguay,2,1,World Cup qualifier,Bolivia,28,-28,1581,1769,7,-5,62,26
+2004-06-01,China,Hungary,2,1,Friendly,China,6,-6,1612,1545,0,0,57,70
+2004-06-01,England,Japan,1,1,Friendly tournament,England,-9,9,1934,1808,0,1,8,19
+2004-06-01,Kuwait,Syria,0,1,Friendly,Kuwait,-15,15,1456,1397,-3,4,89,108
+2004-06-01,Netherlands,Faroe Islands,3,0,Friendly,Switzerland,0,0,1982,1238,0,0,5,147
+2004-06-01,Uruguay,Peru,1,3,World Cup qualifier,Uruguay,-47,47,1732,1701,-3,13,30,38
+2004-06-01,Venezuela,Chile,0,1,World Cup qualifier,Venezuela,-27,27,1674,1693,-7,6,45,39
+2004-06-02,Australia,Fiji,6,1,World Cup qualifier and Oceania Cup,Australia,4,-4,1806,1355,0,-1,20,119
+2004-06-02,Brazil,Argentina,3,1,World Cup qualifier,Brazil,24,-24,2017,2002,2,-2,2,4
+2004-06-02,Czechia,Bulgaria,3,1,Friendly,Czechia,5,-5,1956,1758,0,0,6,27
+2004-06-02,Ecuador,Colombia,2,1,World Cup qualifier,Ecuador,17,-17,1724,1732,4,0,33,29
+2004-06-02,Grenada,Saint Lucia,2,0,Friendly,Grenada,10,-10,1300,1260,1,-3,132,143
+2004-06-02,Ireland,Jamaica,1,0,Unity Cup,England,7,-7,1828,1609,2,-1,16,57
+2004-06-02,Solomon Islands,Tahiti,4,0,World Cup qualifier and Oceania Cup,Australia,47,-47,1328,1238,8,-13,127,147
+2004-06-02,South Korea,Turkey,0,1,Friendly,South Korea,-8,8,1680,1880,-1,0,42,12
+2004-06-02,Saint Kitts and Nevis,Northern Ireland,0,2,Friendly,Saint Kitts and Nevis,-14,14,1332,1488,-2,5,126,79
+2004-06-02,Switzerland,Germany,0,2,Friendly,Switzerland,-12,12,1707,1895,-2,1,37,10
+2004-06-02,United States,Honduras,4,0,Friendly,the United States,6,-6,1844,1630,0,-1,14,54
+2004-06-02,Vanuatu,New Zealand,4,2,World Cup qualifier and Oceania Cup,Australia,66,-66,1263,1468,13,-12,142,85
+2004-06-03,Indonesia,India,1,1,Friendly,Indonesia,-6,6,1319,1164,0,1,128,162
+2004-06-03,Kuwait,Syria,1,2,Friendly,Kuwait,-14,14,1442,1411,-6,4,95,104
+2004-06-03,Liechtenstein,Greece,0,2,Friendly,Liechtenstein,-1,1,1061,1796,0,0,180,21
+2004-06-03,Oman,Maldives,4,1,Friendly,Oman,1,-1,1558,960,0,0,68,191
+2004-06-04,Australia,Vanuatu,3,0,World Cup qualifier and Oceania Cup,Australia,2,-2,1808,1261,1,0,19,142
+2004-06-04,Costa Rica,Nicaragua,5,1,Friendly,Costa Rica,0,0,1724,1006,0,0,33,189
+2004-06-04,New Zealand,Tahiti,10,0,World Cup qualifier and Oceania Cup,Australia,28,-28,1496,1210,9,-6,76,153
+2004-06-04,Solomon Islands,Fiji,2,1,World Cup qualifier and Oceania Cup,Australia,27,-27,1355,1328,8,-8,119,127
+2004-06-05,Algeria,Angola,0,0,World Cup and African Cup qualifier,Algeria,-6,6,1481,1486,-1,1,82,81
+2004-06-05,Burkina Faso,Ghana,1,0,World Cup and African Cup qualifier,Burkina Faso,18,-18,1401,1427,3,-5,109,99
+2004-06-05,Denmark,Croatia,1,2,Friendly,Denmark,-14,14,1870,1838,0,1,11,16
+2004-06-05,Ecuador,Bolivia,3,2,World Cup qualifier,Ecuador,8,-8,1732,1573,4,-2,29,64
+2004-06-05,England,Iceland,6,1,Friendly tournament,England,4,-4,1938,1570,0,-2,8,65
+2004-06-05,Gabon,Zimbabwe,1,1,World Cup and African Cup qualifier,Gabon,2,-2,1346,1477,0,-1,125,84
+2004-06-05,Malawi,Morocco,1,1,World Cup and African Cup qualifier,Malawi,12,-12,1358,1670,6,-4,118,45
+2004-06-05,Netherlands,Ireland,0,1,Friendly,the Netherlands,-16,16,1966,1844,0,2,5,14
+2004-06-05,Nigeria,Rwanda,2,0,World Cup and African Cup qualifier,Nigeria,2,-2,1826,1355,-1,-1,18,119
+2004-06-05,Portugal,Lithuania,4,1,Friendly,Portugal,1,-1,1899,1418,0,0,9,101
+2004-06-05,Qatar,Kyrgyzstan,0,0,Friendly,Qatar,-9,9,1505,1178,0,0,75,159
+2004-06-05,Senegal,Congo,2,0,World Cup and African Cup qualifier,Senegal,5,-5,1714,1385,0,-1,36,112
+2004-06-05,South Africa,Cape Verde,2,1,World Cup and African Cup qualifier,South Africa,6,-6,1577,1349,3,-3,62,122
+2004-06-05,South Korea,Turkey,2,1,Friendly,South Korea,13,-13,1693,1867,3,0,39,12
+2004-06-05,Spain,Andorra,4,0,Friendly,Spain,0,0,2015,1060,0,0,3,181
+2004-06-05,Sweden,Poland,3,1,Friendly,Sweden,9,-9,1800,1745,1,0,21,28
+2004-06-05,Tunisia,Botswana,4,1,World Cup and African Cup qualifier,Tunisia,3,-3,1669,1239,1,-1,46,146
+2004-06-05,Zambia,Togo,1,0,World Cup and African Cup qualifier,Zambia,14,-14,1450,1419,6,-1,92,100
+2004-06-06,Argentina,Paraguay,0,0,World Cup qualifier,Argentina,-15,15,1987,1784,0,0,4,26
+2004-06-06,Australia,Solomon Islands,2,2,World Cup qualifier and Oceania Cup,Australia,-23,23,1785,1378,-6,3,25,116
+2004-06-06,Cameroon,Benin,2,1,World Cup and African Cup qualifier,Cameroon,2,-2,1733,1301,2,-1,30,131
+2004-06-06,Chile,Brazil,1,1,World Cup qualifier,Chile,11,-11,1704,2006,2,-1,37,3
+2004-06-06,Colombia,Uruguay,5,0,World Cup qualifier,Colombia,29,-29,1761,1703,2,-9,27,38
+2004-06-06,Czechia,Estonia,2,0,Friendly,Czechia,1,-1,1957,1390,0,-1,6,111
+2004-06-06,France,Ukraine,1,0,Friendly,France,1,-1,2055,1642,0,0,1,52
+2004-06-06,Germany,Hungary,0,2,Friendly,Germany,-28,28,1867,1573,-1,7,11,63
+2004-06-06,Ivory Coast,Libya,2,0,World Cup and African Cup qualifier,Ivory Coast,10,-10,1634,1436,2,-2,53,96
+2004-06-06,Latvia,Azerbaijan,2,2,Friendly,Latvia,-6,6,1524,1375,0,-1,73,117
+2004-06-06,Liberia,Mali,1,0,World Cup and African Cup qualifier,Liberia,24,-24,1431,1559,11,-7,97,68
+2004-06-06,New Zealand,Fiji,2,0,World Cup qualifier and Oceania Cup,Australia,21,-21,1517,1307,2,-2,74,129
+2004-06-06,Peru,Venezuela,0,0,World Cup qualifier,Peru,-7,7,1694,1681,-1,1,39,43
+2004-06-06,Sudan,Egypt,0,3,World Cup and African Cup qualifier,Sudan,-15,15,1332,1693,-2,3,125,40
+2004-06-06,Switzerland,Liechtenstein,1,0,Friendly,Switzerland,0,0,1707,1061,1,0,36,180
+2004-06-06,Tahiti,Vanuatu,2,1,World Cup qualifier and Oceania Cup,Australia,29,-29,1239,1232,8,-6,145,148
+2004-06-06,Trinidad and Tobago,Northern Ireland,0,3,Friendly,Trinidad and Tobago,-20,20,1419,1508,-4,4,101,76
+2004-06-06,Uganda,DR Congo,1,0,World Cup and African Cup qualifier,Uganda,15,-15,1426,1403,4,-7,100,108
+2004-06-09,Bahrain,Kyrgyzstan,5,0,World Cup qualifier,Bahrain,5,-5,1570,1173,2,0,65,159
+2004-06-09,China,Malaysia,4,0,World Cup qualifier,China,4,-4,1616,1199,-1,0,57,154
+2004-06-09,Indonesia,Sri Lanka,1,0,World Cup qualifier,Indonesia,3,-3,1322,956,0,0,127,192
+2004-06-09,Iran,Jordan,0,1,World Cup qualifier,Iran,-31,31,1696,1631,-7,4,39,54
+2004-06-09,Iraq,Taiwan,6,1,World Cup qualifier,Jordan,4,-4,1578,1041,1,-2,61,187
+2004-06-09,Japan,India,7,0,World Cup qualifier,Japan,1,-1,1809,1163,0,0,19,162
+2004-06-09,Kuwait,Hong Kong,4,0,World Cup qualifier,Kuwait,10,-10,1452,1210,2,-2,92,153
+2004-06-09,Lebanon,Maldives,3,0,World Cup qualifier,Lebanon,3,-3,1394,957,0,0,110,191
+2004-06-09,Oman,Singapore,7,0,World Cup qualifier,Oman,5,-5,1563,1162,1,-2,68,163
+2004-06-09,Qatar,Laos,5,0,World Cup qualifier,Qatar,1,-1,1506,891,0,0,77,197
+2004-06-09,Saudi Arabia,Turkmenistan,3,0,World Cup qualifier,Saudi Arabia,9,-9,1702,1452,2,-4,38,92
+2004-06-09,South Korea,Vietnam,2,0,World Cup qualifier,South Korea,3,-3,1696,1262,1,-1,39,141
+2004-06-09,Syria,Tajikistan,3,1,World Cup qualifier,Syria,24,-24,1435,1418,9,-9,96,103
+2004-06-09,Thailand,North Korea,1,4,World Cup qualifier,Thailand,-48,48,1400,1465,-16,18,109,86
+2004-06-09,United Arab Emirates,Yemen,3,0,World Cup qualifier,the United Arab Emirates,6,-6,1460,1130,0,-1,89,169
+2004-06-09,Uzbekistan,Palestine,3,0,World Cup qualifier,Uzbekistan,11,-11,1505,1284,2,0,78,134
+2004-06-10,Syria,Tajikistan,2,1,World Cup qualifier,Syria,14,-14,1449,1404,1,-3,95,106
+2004-06-11,Estonia,Macedonia,2,4,Friendly,Estonia,-15,15,1375,1511,-5,3,116,76
+2004-06-12,Burkina Faso,Benin,4,2,Friendly,Burkina Faso,7,-7,1408,1294,2,-2,106,133
+2004-06-12,Cuba,Costa Rica,2,2,World Cup qualifier,Cuba,5,-5,1540,1719,1,-1,71,33
+2004-06-12,Haiti,Jamaica,1,1,World Cup qualifier,the United States,8,-8,1470,1601,2,0,86,58
+2004-06-12,Netherlands Antilles,Honduras,1,2,World Cup qualifier,the Netherlands Antilles,-5,5,1185,1635,0,3,156,53
+2004-06-12,Portugal,Greece,1,2,European Championship,Portugal,-38,38,1861,1834,-3,3,12,18
+2004-06-12,Spain,Russia,1,0,European Championship,Portugal,11,-11,2026,1778,0,-4,2,26
+2004-06-12,Suriname,Guatemala,1,1,World Cup qualifier,Suriname,10,-10,1283,1546,3,0,135,70
+2004-06-13,Barbados,Saint Kitts and Nevis,0,2,World Cup qualifier,Barbados,-42,42,1338,1374,-11,8,124,117
+2004-06-13,Canada,Belize,4,0,World Cup qualifier,Canada,3,-3,1598,1128,0,-1,60,169
+2004-06-13,Cape Verde,Senegal,1,3,Friendly,Cape Verde,-5,5,1344,1719,-1,1,123,33
+2004-06-13,Croatia,Switzerland,0,0,European Championship,Portugal,-9,9,1829,1716,-2,0,18,35
+2004-06-13,Dominican Republic,Trinidad and Tobago,0,2,World Cup qualifier,the Dominican Republic,-12,12,1068,1431,-4,3,179,98
+2004-06-13,El Salvador,Bermuda,2,1,World Cup qualifier,El Salvador,4,-4,1482,1194,1,0,82,155
+2004-06-13,France,England,2,1,European Championship,Portugal,17,-17,2072,1921,0,0,1,8
+2004-06-13,Mozambique,Malawi,2,0,COSAFA Cup,Mozambique,29,-29,1295,1329,6,-7,133,126
+2004-06-13,Nicaragua,Saint Vincent and the Grenadines,2,2,World Cup qualifier,Nicaragua,9,-9,1015,1272,0,-3,189,139
+2004-06-13,Panama,Saint Lucia,4,0,World Cup qualifier,Panama,13,-13,1443,1247,2,-1,96,143
+2004-06-13,United States,Grenada,3,0,World Cup qualifier,the United States,2,-2,1846,1298,0,0,14,131
+2004-06-14,Denmark,Italy,0,0,European Championship,Portugal,5,-5,1875,1941,0,0,9,7
+2004-06-14,Ghana,Togo,0,0,Friendly,Ghana,-3,3,1424,1422,-1,0,101,102
+2004-06-14,Sweden,Bulgaria,5,0,European Championship,Portugal,44,-44,1844,1714,6,-7,15,35
+2004-06-15,Czechia,Latvia,2,1,European Championship,Portugal,4,-4,1961,1520,1,0,5,73
+2004-06-15,Germany,Netherlands,1,1,European Championship,Portugal,7,-7,1874,1959,0,-1,10,6
+2004-06-16,Canada,Belize,4,0,World Cup qualifier,Canada,3,-3,1601,1125,2,0,58,169
+2004-06-16,Greece,Spain,1,1,European Championship,Portugal,13,-13,1847,2013,4,0,14,2
+2004-06-16,Portugal,Russia,2,0,European Championship,Portugal,19,-19,1880,1759,3,-1,9,27
+2004-06-17,Croatia,France,2,2,European Championship,Portugal,15,-15,1844,2057,3,0,16,1
+2004-06-17,England,Switzerland,3,0,European Championship,Portugal,21,-21,1942,1695,1,-6,7,40
+2004-06-17,Iran,Lebanon,4,0,West Asian Championship,Iran,7,-7,1703,1387,3,0,36,110
+2004-06-17,Jordan,Palestine,1,1,West Asian Championship,Iran,-15,15,1616,1299,-1,4,56,131
+2004-06-18,Denmark,Bulgaria,2,0,European Championship,Portugal,21,-21,1896,1693,1,-7,9,41
+2004-06-18,Italy,Sweden,1,1,European Championship,Portugal,-7,7,1934,1851,0,3,8,13
+2004-06-18,Libya,Cameroon,0,0,World Cup and African Cup qualifier,Libya,10,-10,1446,1723,1,-1,96,30
+2004-06-19,Botswana,Malawi,2,0,World Cup and African Cup qualifier,Botswana,29,-29,1268,1300,5,-4,140,130
+2004-06-19,Cape Verde,Uganda,1,0,World Cup and African Cup qualifier,Cape Verde,19,-19,1363,1407,5,-6,118,106
+2004-06-19,Czechia,Netherlands,3,2,European Championship,Portugal,25,-25,1986,1934,0,-1,5,7
+2004-06-19,Germany,Latvia,0,0,European Championship,Portugal,-19,19,1855,1539,-1,1,12,72
+2004-06-19,Honduras,Netherlands Antilles,4,0,World Cup qualifier,Honduras,3,-3,1638,1182,0,0,53,156
+2004-06-19,Iraq,Palestine,2,1,West Asian Championship,Iran,7,-7,1585,1292,0,-4,61,135
+2004-06-19,Mali,Zambia,1,1,World Cup and African Cup qualifier,Mali,-11,11,1548,1461,0,4,69,90
+2004-06-19,Mexico,Dominica,10,0,World Cup qualifier,the United States,1,-1,1851,1082,1,0,13,174
+2004-06-19,Rwanda,Gabon,3,1,World Cup and African Cup qualifier,Rwanda,21,-21,1376,1325,4,-2,115,124
+2004-06-19,Saint Kitts and Nevis,Barbados,3,2,World Cup qualifier,Saint Kitts and Nevis,13,-13,1387,1325,7,0,110,124
+2004-06-19,Syria,Lebanon,3,1,West Asian Championship,Iran,25,-25,1474,1362,10,-9,85,119
+2004-06-20,Angola,Nigeria,1,0,World Cup and African Cup qualifier,Angola,32,-32,1518,1794,6,-1,75,21
+2004-06-20,Benin,Sudan,1,1,World Cup and African Cup qualifier,Benin,-4,4,1290,1336,-1,0,135,123
+2004-06-20,Bermuda,El Salvador,2,2,World Cup qualifier,Bermuda,10,-10,1204,1472,1,-3,154,85
+2004-06-20,Congo,Liberia,3,0,World Cup and African Cup qualifier,Congo,30,-30,1415,1401,8,-10,103,108
+2004-06-20,Costa Rica,Cuba,1,1,World Cup qualifier,Costa Rica,-13,13,1706,1553,0,3,32,68
+2004-06-20,DR Congo,Burkina Faso,3,2,World Cup and African Cup qualifier,DR Congo,15,-15,1418,1393,7,-5,101,110
+2004-06-20,Egypt,Ivory Coast,1,2,World Cup and African Cup qualifier,Egypt,-29,29,1664,1663,-5,6,46,48
+2004-06-20,Ghana,South Africa,3,0,World Cup and African Cup qualifier,Ghana,40,-40,1464,1537,10,-12,90,74
+2004-06-20,Grenada,United States,2,3,World Cup qualifier,Grenada,-3,3,1295,1849,-1,1,132,15
+2004-06-20,Guatemala,Suriname,3,1,World Cup qualifier,Guatemala,7,-7,1553,1276,2,-3,68,139
+2004-06-20,Guinea,Tunisia,2,1,World Cup and African Cup qualifier,Guinea,23,-23,1540,1646,3,-6,71,52
+2004-06-20,Jamaica,Haiti,3,0,World Cup qualifier,Jamaica,15,-15,1616,1455,2,-7,56,94
+2004-06-20,Portugal,Spain,1,0,European Championship,Portugal,27,-27,1907,1986,1,-2,9,4
+2004-06-20,Russia,Greece,2,1,European Championship,Portugal,31,-31,1790,1816,5,-4,22,19
+2004-06-20,Saint Lucia,Panama,0,3,World Cup qualifier,Saint Lucia,-26,26,1221,1469,-5,10,149,87
+2004-06-20,Saint Vincent and the Grenadines,Nicaragua,4,1,World Cup qualifier,Saint Vincent and the Grenadines,8,-8,1280,1007,3,0,136,189
+2004-06-20,Togo,Senegal,3,1,World Cup and African Cup qualifier,Togo,45,-45,1467,1674,13,-11,88,43
+2004-06-20,Trinidad and Tobago,Dominican Republic,4,0,World Cup qualifier,Trinidad and Tobago,5,-5,1436,1063,-2,0,100,179
+2004-06-20,Zimbabwe,Algeria,1,1,World Cup and African Cup qualifier,Zimbabwe,-5,5,1472,1486,-1,1,85,82
+2004-06-21,England,Croatia,4,2,European Championship,Portugal,27,-27,1969,1817,0,-2,6,18
+2004-06-21,France,Switzerland,3,1,European Championship,Portugal,8,-8,2065,1687,0,-2,1,40
+2004-06-21,Iran,Syria,7,1,West Asian Championship,Iran,11,-11,1714,1463,2,-8,32,91
+2004-06-21,Jordan,Iraq,2,0,West Asian Championship,Iran,27,-27,1643,1558,3,-6,53,67
+2004-06-22,Denmark,Sweden,2,2,European Championship,Portugal,-3,3,1893,1854,0,0,10,13
+2004-06-22,Italy,Bulgaria,2,1,European Championship,Portugal,10,-10,1944,1683,0,-1,7,40
+2004-06-23,Czechia,Germany,2,1,European Championship,Portugal,16,-16,2002,1839,1,-4,3,16
+2004-06-23,Iran,Iraq,2,1,West Asian Championship,Iran,7,-7,1721,1551,1,-2,31,69
+2004-06-23,Jordan,Syria,1,1,West Asian Championship,Iran,-10,10,1633,1473,-2,7,55,84
+2004-06-23,Netherlands,Latvia,3,0,European Championship,Portugal,8,-8,1942,1531,0,-2,8,74
+2004-06-24,Portugal,England,2,2,European Championship,Portugal,-3,3,1904,1972,0,0,9,6
+2004-06-25,Greece,France,1,0,European Championship,Portugal,40,-40,1856,2025,7,0,12,1
+2004-06-25,Iran,Syria,4,1,West Asian Championship,Iran,8,-8,1729,1465,1,-5,30,89
+2004-06-25,Jordan,Iraq,3,1,West Asian Championship,Iran,23,-23,1656,1528,3,-5,52,74
+2004-06-25,Mozambique,Ghana,0,1,Independence Tournament,Mozambique,-12,12,1283,1476,-3,7,135,83
+2004-06-26,Netherlands,Sweden,0,0,European Championship,Portugal,-6,6,1936,1860,0,1,8,12
+2004-06-27,Colombia,Argentina,2,0,Friendly,the United States,24,-24,1785,1963,2,-2,25,6
+2004-06-27,Czechia,Denmark,3,0,European Championship,Portugal,30,-30,2032,1863,2,-1,1,11
+2004-06-27,Mexico,Dominica,8,0,World Cup qualifier,Mexico,1,-1,1852,1081,0,0,14,174
+2004-06-27,Swaziland,Zimbabwe,0,5,COSAFA Cup,Swaziland,-20,20,1159,1492,-5,3,163,82
+2004-06-30,Argentina,Peru,2,1,Friendly,the United States,4,-4,1967,1690,0,0,6,38
+2004-06-30,Portugal,Netherlands,2,1,European Championship,Portugal,20,-20,1924,1916,1,-1,8,9
+2004-07-01,Greece,Czechia,1,0,European Championship,Portugal,37,-37,1893,1995,3,-2,10,3
+2004-07-03,Botswana,Morocco,0,1,World Cup and African Cup qualifier,Botswana,-6,6,1262,1676,-1,0,141,44
+2004-07-03,Cape Verde,DR Congo,1,1,World Cup and African Cup qualifier,Cape Verde,-3,3,1360,1421,1,0,117,101
+2004-07-03,China,Lebanon,6,0,Friendly,China,5,-5,1621,1357,0,0,57,119
+2004-07-03,Gabon,Angola,2,2,World Cup and African Cup qualifier,Gabon,5,-5,1330,1513,1,-2,123,77
+2004-07-03,Malawi,Guinea,1,1,World Cup and African Cup qualifier,Malawi,8,-8,1308,1532,2,-2,128,72
+2004-07-03,Nigeria,Algeria,1,0,World Cup and African Cup qualifier,Nigeria,3,-3,1797,1483,0,0,21,83
+2004-07-03,Rwanda,Zimbabwe,0,2,World Cup and African Cup qualifier,Rwanda,-29,29,1347,1521,-6,7,121,75
+2004-07-03,Senegal,Zambia,1,0,World Cup and African Cup qualifier,Senegal,6,-6,1680,1455,1,-2,42,94
+2004-07-03,South Africa,Burkina Faso,2,0,World Cup and African Cup qualifier,South Africa,12,-12,1549,1381,3,-1,69,111
+2004-07-03,Sudan,Libya,0,1,World Cup and African Cup qualifier,Sudan,-19,19,1317,1465,-3,10,126,89
+2004-07-03,Uganda,Ghana,1,1,World Cup and African Cup qualifier,Uganda,-2,2,1405,1478,0,0,106,84
+2004-07-04,Benin,Egypt,3,3,World Cup and African Cup qualifier,Benin,13,-13,1303,1651,4,-5,130,51
+2004-07-04,Cameroon,Ivory Coast,2,0,World Cup and African Cup qualifier,Cameroon,17,-17,1740,1646,2,-4,29,52
+2004-07-04,Congo,Mali,1,0,World Cup and African Cup qualifier,Congo,22,-22,1437,1526,3,-4,100,74
+2004-07-04,Liberia,Togo,0,0,World Cup and African Cup qualifier,Liberia,-2,2,1399,1469,-1,1,109,87
+2004-07-04,Portugal,Greece,0,1,European Championship,Portugal,-34,34,1890,1927,-2,2,10,8
+2004-07-05,Thailand,Bahrain,0,2,Friendly,Thailand,-12,12,1388,1582,-1,2,109,61
+2004-07-06,Colombia,Venezuela,1,0,Copa America,Peru,18,-18,1803,1663,4,-5,21,46
+2004-07-06,Malawi,Swaziland,1,2,Independence Tournament,Malawi,-24,24,1284,1183,-6,7,134,156
+2004-07-06,Peru,Bolivia,2,2,Copa America,Peru,-14,14,1676,1587,-4,1,42,61
+2004-07-07,Argentina,Ecuador,6,1,Copa America,Peru,21,-21,1988,1711,2,-3,4,33
+2004-07-07,Mexico,Uruguay,2,2,Copa America,Peru,-10,10,1842,1713,-2,3,16,32
+2004-07-08,Brazil,Chile,1,0,Copa America,Peru,7,-7,2013,1697,0,0,2,35
+2004-07-08,Malawi,Swaziland,1,1,Independence Tournament,Malawi,-8,8,1276,1191,-4,0,138,156
+2004-07-08,Paraguay,Costa Rica,1,0,Copa America,Peru,19,-19,1803,1687,6,-3,21,37
+2004-07-08,Thailand,Jordan,0,0,Friendly,Thailand,4,-4,1392,1652,0,0,109,50
+2004-07-09,Colombia,Bolivia,1,0,Copa America,Peru,11,-11,1814,1576,0,-1,21,62
+2004-07-09,Japan,Slovakia,3,1,Kirin Cup,Japan,9,-9,1818,1655,1,-3,19,48
+2004-07-09,Peru,Venezuela,3,1,Copa America,Peru,26,-26,1702,1637,8,-9,34,55
+2004-07-10,China,United Arab Emirates,2,2,Friendly,China,-6,6,1615,1466,-1,4,58,89
+2004-07-10,Mexico,Argentina,1,0,Copa America,Peru,35,-35,1877,1953,5,-2,11,6
+2004-07-10,South Korea,Bahrain,2,0,Friendly,South Korea,7,-7,1703,1575,4,-1,33,62
+2004-07-10,Thailand,Trinidad and Tobago,3,2,Friendly,Thailand,8,-8,1400,1428,1,0,108,101
+2004-07-10,Uruguay,Ecuador,2,1,Copa America,Peru,25,-25,1738,1686,2,-6,30,39
+2004-07-11,Brazil,Costa Rica,4,1,Copa America,Peru,12,-12,2025,1675,1,-6,1,43
+2004-07-11,Chile,Paraguay,1,1,Copa America,Peru,7,-7,1704,1796,3,-1,33,23
+2004-07-11,Serbia and Montenegro,Slovakia,2,0,Kirin Cup,Japan,18,-18,1738,1637,2,-6,30,54
+2004-07-11,United States,Poland,1,1,Friendly,the United States,-5,5,1844,1750,0,0,15,28
+2004-07-12,Bolivia,Venezuela,1,1,Copa America,Peru,4,-4,1580,1633,0,-1,61,55
+2004-07-12,Malaysia,Singapore,2,0,Friendly,Malaysia,9,-9,1208,1153,1,-1,154,164
+2004-07-12,Peru,Colombia,2,2,Copa America,Peru,1,-1,1703,1813,1,0,34,21
+2004-07-13,Argentina,Uruguay,4,2,Copa America,Peru,17,-17,1970,1721,0,-2,6,32
+2004-07-13,Japan,Serbia and Montenegro,1,0,Kirin Cup,Japan,8,-8,1826,1730,0,0,19,30
+2004-07-13,Mexico,Ecuador,2,1,Copa America,Peru,12,-12,1889,1674,0,-5,11,43
+2004-07-14,Costa Rica,Chile,2,1,Copa America,Peru,27,-27,1702,1677,8,-8,34,41
+2004-07-14,Paraguay,Brazil,2,1,Copa America,Peru,39,-39,1835,1986,4,-2,19,3
+2004-07-14,South Korea,Trinidad and Tobago,1,1,Friendly,South Korea,-8,8,1695,1436,-2,0,36,101
+2004-07-17,China,Bahrain,2,2,Asian Cup,China,-10,10,1605,1585,0,1,58,61
+2004-07-17,Colombia,Costa Rica,2,0,Copa America,Peru,26,-26,1839,1676,5,-7,17,41
+2004-07-17,Peru,Argentina,0,1,Copa America,Peru,-14,14,1689,1984,-2,1,35,5
+2004-07-18,Angola,Botswana,1,1,COSAFA Cup,Angola,-15,15,1498,1277,-3,3,80,138
+2004-07-18,Brazil,Mexico,4,0,Copa America,Peru,34,-34,2020,1855,1,-3,2,14
+2004-07-18,Guatemala,El Salvador,1,0,Friendly,the United States,8,-8,1561,1464,0,-7,67,93
+2004-07-18,Indonesia,Qatar,2,1,Asian Cup,China,37,-37,1359,1469,6,-5,119,85
+2004-07-18,Saudi Arabia,Turkmenistan,2,2,Asian Cup,China,-15,15,1687,1467,-2,10,35,88
+2004-07-18,Uruguay,Paraguay,3,1,Copa America,Peru,49,-49,1770,1786,4,-6,28,26
+2004-07-18,Uzbekistan,Iraq,1,0,Asian Cup,China,27,-27,1532,1501,10,-6,71,79
+2004-07-19,Jordan,South Korea,0,0,Asian Cup,China,3,-3,1655,1692,0,0,48,33
+2004-07-19,Kuwait,United Arab Emirates,3,1,Asian Cup,China,39,-39,1491,1427,17,-12,82,101
+2004-07-20,Argentina,Colombia,3,0,Copa America,Peru,26,-26,2010,1813,2,-4,3,21
+2004-07-20,Iran,Thailand,3,0,Asian Cup,China,11,-11,1740,1389,2,-1,30,109
+2004-07-20,Japan,Oman,1,0,Asian Cup,China,9,-9,1835,1554,1,-1,19,67
+2004-07-21,Bahrain,Qatar,1,1,Asian Cup,China,-8,8,1577,1477,-1,1,62,85
+2004-07-21,Brazil,Uruguay,1,1,Copa America,Peru,-15,15,2005,1785,-1,1,3,27
+2004-07-21,China,Indonesia,5,0,Asian Cup,China,12,-12,1617,1347,1,-2,57,121
+2004-07-22,Iraq,Turkmenistan,3,2,Asian Cup,China,23,-23,1524,1444,4,-9,75,98
+2004-07-22,Uzbekistan,Saudi Arabia,1,0,Asian Cup,China,35,-35,1567,1652,5,-13,66,48
+2004-07-23,Jordan,Kuwait,2,0,Asian Cup,China,21,-21,1676,1470,7,-4,40,86
+2004-07-23,Panama,Guatemala,1,1,Friendly,Panama,0,0,1469,1561,0,0,87,67
+2004-07-23,South Korea,United Arab Emirates,2,0,Asian Cup,China,13,-13,1705,1414,0,-2,33,103
+2004-07-24,Iran,Oman,2,2,Asian Cup,China,-12,12,1728,1566,-2,1,32,67
+2004-07-24,Japan,Thailand,4,1,Asian Cup,China,6,-6,1841,1383,2,-1,17,110
+2004-07-24,Uruguay,Colombia,2,1,Copa America,Peru,27,-27,1812,1786,6,-5,21,26
+2004-07-25,Argentina,Brazil,2,2,Copa America,Peru,0,0,2010,2005,0,0,2,3
+2004-07-25,Bahrain,Indonesia,3,1,Asian Cup,China,16,-16,1593,1331,1,-2,61,123
+2004-07-25,China,Qatar,1,0,Asian Cup,China,10,-10,1627,1467,0,-4,57,88
+2004-07-26,Iraq,Saudi Arabia,2,1,Asian Cup,China,34,-34,1558,1618,6,-9,69,57
+2004-07-26,Uzbekistan,Turkmenistan,1,0,Asian Cup,China,17,-17,1584,1427,4,-2,62,100
+2004-07-27,Jordan,United Arab Emirates,0,0,Asian Cup,China,-16,16,1660,1430,-5,3,45,100
+2004-07-27,South Korea,Kuwait,4,0,Asian Cup,China,19,-19,1724,1451,0,-12,33,97
+2004-07-28,Honduras,Panama,0,0,Friendly,Honduras,-6,6,1632,1475,-2,1,54,84
+2004-07-28,Iran,Japan,0,0,Asian Cup,China,8,-8,1736,1833,1,-2,31,19
+2004-07-28,Oman,Thailand,2,0,Asian Cup,China,19,-19,1585,1364,5,-6,62,116
+2004-07-30,Bahrain,Uzbekistan,2,2,Asian Cup,China,-1,1,1592,1585,0,1,61,62
+2004-07-30,China,Iraq,3,0,Asian Cup,China,24,-24,1651,1534,8,-3,48,72
+2004-07-31,Iran,South Korea,4,3,Asian Cup,China,24,-24,1760,1700,2,0,29,33
+2004-07-31,Japan,Jordan,1,1,Asian Cup,China,-12,12,1821,1672,0,2,19,43
+2004-07-31,Zambia,Mauritius,3,1,COSAFA Cup,Zambia,14,-14,1469,1333,7,-1,86,122
+2004-08-03,China,Iran,1,1,Asian Cup,China,1,-1,1652,1759,0,0,48,29
+2004-08-03,El Salvador,Honduras,0,4,Friendly,El Salvador,-15,15,1449,1647,-5,5,97,50
+2004-08-03,Japan,Bahrain,4,3,Asian Cup,China,11,-11,1832,1581,0,-2,19,63
+2004-08-06,Guatemala,El Salvador,2,0,Friendly,the United States,10,-10,1571,1439,3,0,65,97
+2004-08-06,Iran,Bahrain,4,2,Asian Cup,China,20,-20,1779,1561,0,-5,29,68
+2004-08-07,China,Japan,1,3,Asian Cup,China,-29,29,1623,1861,-8,6,56,13
+2004-08-07,Uganda,Kenya,1,1,Friendly,Uganda,-1,1,1404,1455,0,1,106,93
+2004-08-11,Guatemala,Trinidad and Tobago,4,1,Friendly,Guatemala,7,-7,1578,1429,1,-1,64,100
+2004-08-14,Uganda,Rwanda,1,2,Friendly,Uganda,-14,14,1390,1361,-2,4,108,117
+2004-08-17,Algeria,Burkina Faso,2,2,Friendly,Algeria,-5,5,1478,1386,0,0,82,110
+2004-08-18,Austria,Germany,1,3,Friendly,Austria,-12,12,1668,1851,-6,3,43,15
+2004-08-18,Canada,Guatemala,0,2,World Cup qualifier,Canada,-40,40,1561,1618,-9,6,68,58
+2004-08-18,Costa Rica,Honduras,2,5,World Cup qualifier,Costa Rica,-47,47,1629,1694,-14,15,54,34
+2004-08-18,Croatia,Israel,1,0,Friendly,Croatia,4,-4,1821,1655,0,-1,20,47
+2004-08-18,Cyprus,Albania,2,1,Friendly,Cyprus,9,-9,1483,1530,3,-4,82,75
+2004-08-18,Czechia,Greece,0,0,Friendly,Czechia,-4,4,1991,1931,0,1,4,7
+2004-08-18,El Salvador,Panama,2,1,World Cup qualifier,El Salvador,16,-16,1455,1459,4,-8,93,92
+2004-08-18,England,Ukraine,3,0,Friendly,England,3,-3,1975,1639,0,3,6,49
+2004-08-18,Faroe Islands,Malta,3,2,Friendly,the Faroe Islands,8,-8,1246,1256,2,0,144,141
+2004-08-18,France,Bosnia and Herzegovina,1,1,Friendly,France,-9,9,2016,1608,-1,0,2,60
+2004-08-18,Haiti,Brazil,0,6,Friendly,Haiti,-3,3,1452,2008,-3,0,96,3
+2004-08-18,Iceland,Italy,2,0,Friendly,Iceland,25,-25,1595,1919,4,-1,62,8
+2004-08-18,Ireland,Bulgaria,1,1,Friendly,Ireland,-6,6,1838,1689,-2,1,18,35
+2004-08-18,Ivory Coast,Senegal,2,1,Friendly,France,11,-11,1657,1669,4,-5,46,42
+2004-08-18,Jamaica,United States,1,1,World Cup qualifier,Jamaica,7,-7,1623,1837,3,-3,55,19
+2004-08-18,Japan,Argentina,1,2,Friendly,Japan,-9,9,1852,2019,-1,1,14,1
+2004-08-18,Jordan,Azerbaijan,1,1,Friendly,Jordan,-8,8,1664,1383,-1,3,44,111
+2004-08-18,Kenya,Uganda,4,1,Friendly,Kenya,10,-10,1465,1380,5,-5,88,113
+2004-08-18,Latvia,Wales,0,2,Friendly,Latvia,-14,14,1517,1672,-3,6,77,41
+2004-08-18,Liechtenstein,Estonia,1,2,World Cup qualifier,Liechtenstein,-9,9,1052,1384,-3,4,183,110
+2004-08-18,Macedonia,Armenia,3,0,World Cup qualifier,Macedonia,21,-21,1532,1443,5,-6,73,98
+2004-08-18,Mali,DR Congo,3,0,Friendly,France,12,-12,1538,1409,4,-2,71,104
+2004-08-18,Moldova,Georgia,1,0,Friendly,Moldova,10,-10,1420,1485,2,0,102,81
+2004-08-18,Norway,Belgium,2,2,Friendly,Norway,-3,3,1784,1792,-3,1,28,23
+2004-08-18,Poland,Denmark,1,5,Friendly,Poland,-18,18,1732,1881,-1,1,31,11
+2004-08-18,Romania,Finland,2,1,World Cup qualifier,Romania,7,-7,1845,1661,2,-1,17,45
+2004-08-18,Russia,Lithuania,4,3,Friendly,Russia,1,-1,1791,1417,-1,0,24,103
+2004-08-18,Scotland,Hungary,0,3,Friendly,Scotland,-26,26,1636,1599,-6,4,51,61
+2004-08-18,Slovakia,Luxembourg,3,1,World Cup qualifier,Slovakia,1,-1,1638,1074,3,0,50,178
+2004-08-18,Slovenia,Serbia and Montenegro,1,1,Friendly,Slovenia,0,0,1631,1730,2,0,53,32
+2004-08-18,Spain,Venezuela,3,2,Friendly,Spain,1,-1,1987,1632,0,2,5,52
+2004-08-18,Saint Vincent and the Grenadines,Trinidad and Tobago,0,2,World Cup qualifier,Saint Vincent and the Grenadines,-26,26,1254,1455,-7,7,142,93
+2004-08-18,Sweden,Netherlands,2,2,Friendly,Sweden,-1,1,1859,1917,2,0,12,9
+2004-08-18,Switzerland,Northern Ireland,0,0,Friendly,Switzerland,-7,7,1680,1515,-2,0,37,79
+2004-08-18,Tunisia,South Africa,0,2,Friendly,Tunisia,-23,23,1623,1572,-5,3,55,67
+2004-08-18,Turkey,Belarus,1,2,Friendly,Turkey,-18,18,1849,1586,-5,4,16,63
+2004-08-18,Zimbabwe,Botswana,2,0,Friendly,Zimbabwe,4,-4,1525,1273,0,-1,76,139
+2004-08-19,Thailand,Malaysia,1,2,Friendly,Thailand,-16,16,1348,1224,-5,5,121,149
+2004-08-20,Sint Maarten,Sint Eustatius,2,2,Friendly,Sint Maarten,-7,7,924,727,0,0,195,212
+2004-08-20,Vietnam,Myanmar,5,0,LG Cup,Vietnam,13,-13,1275,1134,1,-2,139,167
+2004-08-22,India,Myanmar,2,1,LG Cup,Vietnam,14,-14,1177,1120,3,-3,159,170
+2004-08-22,Zimbabwe,Uganda,2,0,Friendly,Zimbabwe,6,-6,1531,1374,1,-2,75,115
+2004-08-24,Vietnam,India,2,1,LG Cup,Vietnam,7,-7,1282,1170,4,-1,135,160
+2004-08-26,Bahrain,Kuwait,0,0,Friendly,Bahrain,-5,5,1556,1456,-1,4,69,93
+2004-08-26,Yemen,Syria,1,2,Friendly,Yemen,-4,4,1126,1469,0,3,167,85
+2004-08-28,Yemen,Syria,2,1,Friendly,Yemen,16,-16,1142,1453,1,-10,166,95
+2004-08-28,Zambia,Rwanda,2,1,Friendly,Zambia,5,-5,1474,1356,0,-3,85,119
+2004-08-31,Jordan,Lebanon,2,2,Friendly,Jordan,-8,8,1656,1365,-2,2,46,116
+2004-08-31,Maldives,Oman,0,1,Friendly,the Maldives,-1,1,956,1586,0,1,191,63
+2004-09-01,Saudi Arabia,Kuwait,1,1,Friendly,Saudi Arabia,-6,6,1612,1462,-1,1,59,91
+2004-09-02,Bahrain,Palestine,1,0,Friendly,Bahrain,2,-2,1558,1290,0,0,69,133
+2004-09-03,Libya,Benin,4,1,World Cup and African Cup qualifier,Libya,13,-13,1478,1290,5,-3,83,132
+2004-09-03,Maldives,Oman,1,2,Friendly,the Maldives,-1,1,955,1587,-2,0,193,63
+2004-09-03,Netherlands,Liechtenstein,3,0,Friendly,the Netherlands,0,0,1917,1052,0,0,9,183
+2004-09-03,Spain,Scotland,1,1,Friendly,Spain,-9,9,1978,1645,0,2,5,49
+2004-09-04,Albania,Greece,2,1,World Cup qualifier,Albania,34,-34,1564,1897,9,-3,67,10
+2004-09-04,Austria,England,2,2,World Cup qualifier,Austria,11,-11,1679,1964,6,0,37,6
+2004-09-04,Azerbaijan,Wales,1,1,World Cup qualifier,Azerbaijan,10,-10,1393,1662,3,-3,108,44
+2004-09-04,Belgium,Lithuania,1,1,World Cup qualifier,Belgium,-18,18,1774,1435,-6,3,29,100
+2004-09-04,Burkina Faso,Uganda,2,0,World Cup and African Cup qualifier,Burkina Faso,21,-21,1407,1353,3,-4,106,119
+2004-09-04,Canada,Honduras,1,1,World Cup qualifier,Canada,2,-2,1563,1692,-1,-1,69,35
+2004-09-04,Croatia,Hungary,3,0,World Cup qualifier,Croatia,9,-9,1830,1590,0,1,20,60
+2004-09-04,Denmark,Ukraine,1,1,World Cup qualifier,Denmark,-15,15,1866,1654,0,2,11,48
+2004-09-04,Estonia,Luxembourg,4,0,World Cup qualifier,Estonia,6,-6,1390,1068,1,0,109,178
+2004-09-04,Finland,Andorra,3,0,World Cup qualifier,Finland,1,-1,1662,1059,0,0,44,180
+2004-09-04,France,Israel,0,0,World Cup qualifier,France,-17,17,1999,1672,-1,6,3,41
+2004-09-04,Iceland,Bulgaria,1,3,World Cup qualifier,Iceland,-31,31,1564,1720,-5,2,67,33
+2004-09-04,Ireland,Cyprus,3,0,World Cup qualifier,Ireland,5,-5,1843,1478,1,-2,17,84
+2004-09-04,Italy,Norway,2,1,World Cup qualifier,Italy,8,-8,1927,1776,1,0,7,28
+2004-09-04,Jamaica,Panama,1,2,World Cup qualifier,Jamaica,-33,33,1590,1492,-5,11,60,81
+2004-09-04,Kenya,Malawi,3,2,World Cup and African Cup qualifier,Kenya,6,-6,1471,1270,0,-2,89,140
+2004-09-04,Latvia,Portugal,0,2,World Cup qualifier,Latvia,-10,10,1507,1900,-1,1,78,9
+2004-09-04,Malta,Sweden,0,7,World Cup qualifier,Malta,-5,5,1251,1864,-1,0,142,12
+2004-09-04,Morocco,Tunisia,1,1,World Cup and African Cup qualifier,Morocco,-8,8,1668,1631,-4,1,43,54
+2004-09-04,Northern Ireland,Poland,0,3,World Cup qualifier,Northern Ireland,-24,24,1491,1756,-3,1,82,30
+2004-09-04,Peru,Argentina,1,3,World Cup qualifier,Peru,-13,13,1676,2032,-4,0,39,1
+2004-09-04,Romania,Macedonia,2,1,World Cup qualifier,Romania,3,-3,1848,1529,1,-3,16,76
+2004-09-04,Russia,Slovakia,1,1,World Cup qualifier,Russia,-12,12,1779,1650,-2,1,26,50
+2004-09-04,San Marino,Serbia and Montenegro,0,3,World Cup qualifier,San Marino,-1,1,955,1731,-1,0,192,32
+2004-09-04,Singapore,Indonesia,2,0,Friendly,Singapore,18,-18,1171,1313,4,-4,160,127
+2004-09-04,Slovenia,Moldova,3,0,World Cup qualifier,Slovenia,10,-10,1641,1410,1,-1,52,103
+2004-09-04,Saint Kitts and Nevis,Trinidad and Tobago,1,2,World Cup qualifier,Saint Kitts and Nevis,-22,22,1365,1477,-6,5,114,88
+2004-09-04,Switzerland,Faroe Islands,6,0,World Cup qualifier,Switzerland,4,-4,1684,1242,1,0,36,144
+2004-09-04,Turkey,Georgia,1,1,World Cup qualifier,Turkey,-17,17,1832,1502,-3,2,19,79
+2004-09-04,United States,El Salvador,2,0,World Cup qualifier,the United States,4,-4,1841,1451,1,-4,18,97
+2004-09-04,Zambia,Liberia,1,0,World Cup and African Cup qualifier,Zambia,11,-11,1485,1388,3,-3,83,110
+2004-09-05,Algeria,Gabon,0,3,World Cup and African Cup qualifier,Algeria,-56,56,1422,1386,-18,12,102,111
+2004-09-05,Angola,Rwanda,1,0,World Cup and African Cup qualifier,Angola,8,-8,1506,1348,1,-2,79,120
+2004-09-05,Brazil,Bolivia,3,1,World Cup qualifier,Brazil,3,-3,2011,1577,0,0,2,65
+2004-09-05,Chile,Colombia,0,0,World Cup qualifier,Chile,1,-1,1678,1785,0,-1,38,24
+2004-09-05,DR Congo,South Africa,1,0,World Cup and African Cup qualifier,DR Congo,24,-24,1433,1548,5,-5,99,71
+2004-09-05,Egypt,Cameroon,3,2,World Cup and African Cup qualifier,Egypt,19,-19,1670,1721,8,-1,41,32
+2004-09-05,Ghana,Cape Verde,2,0,World Cup and African Cup qualifier,Ghana,13,-13,1491,1347,2,-6,82,122
+2004-09-05,Guatemala,Costa Rica,2,1,World Cup qualifier,Guatemala,15,-15,1633,1614,4,-2,53,57
+2004-09-05,Guinea,Botswana,4,0,World Cup and African Cup qualifier,Guinea,8,-8,1540,1265,2,-1,72,140
+2004-09-05,Ivory Coast,Sudan,5,0,World Cup and African Cup qualifier,Ivory Coast,6,-6,1663,1311,1,-2,45,127
+2004-09-05,Mali,Senegal,2,2,World Cup and African Cup qualifier,Mali,2,-2,1540,1667,0,-1,72,43
+2004-09-05,Paraguay,Venezuela,1,0,World Cup qualifier,Paraguay,8,-8,1794,1624,0,-2,23,55
+2004-09-05,Togo,Congo,2,0,World Cup and African Cup qualifier,Togo,19,-19,1488,1418,6,-4,84,103
+2004-09-05,Uruguay,Ecuador,1,0,World Cup qualifier,Uruguay,8,-8,1820,1666,0,-4,21,44
+2004-09-05,Zimbabwe,Nigeria,0,3,World Cup and African Cup qualifier,Zimbabwe,-19,19,1512,1816,-2,0,77,22
+2004-09-08,Andorra,Romania,1,5,World Cup qualifier,Andorra,-1,1,1058,1849,0,0,180,16
+2004-09-08,Armenia,Finland,0,2,World Cup qualifier,Armenia,-20,20,1423,1682,-1,8,98,38
+2004-09-08,Austria,Azerbaijan,2,0,World Cup qualifier,Austria,6,-6,1685,1387,1,0,36,108
+2004-09-08,Bosnia and Herzegovina,Spain,1,1,World Cup qualifier,Bosnia and Herzegovina,13,-13,1621,1965,0,0,59,5
+2004-09-08,Costa Rica,Canada,1,0,World Cup qualifier,Costa Rica,12,-12,1626,1551,0,0,57,68
+2004-09-08,El Salvador,Jamaica,0,3,World Cup qualifier,El Salvador,-31,31,1420,1621,-4,1,100,59
+2004-09-08,Faroe Islands,France,0,2,World Cup qualifier,the Faroe Islands,-1,1,1241,2000,0,0,144,3
+2004-09-08,Georgia,Albania,2,0,World Cup qualifier,Georgia,27,-27,1529,1537,5,-8,75,74
+2004-09-08,Germany,Brazil,1,1,Friendly,Germany,2,-2,1853,2009,0,0,15,2
+2004-09-08,Greece,Turkey,0,0,World Cup qualifier,Greece,-9,9,1888,1841,0,2,10,17
+2004-09-08,Honduras,Guatemala,2,2,World Cup qualifier,Honduras,-9,9,1683,1642,-2,2,37,51
+2004-09-08,Hong Kong,Kuwait,0,2,World Cup qualifier,Hong Kong,-18,18,1192,1480,-1,5,155,87
+2004-09-08,Hungary,Iceland,3,2,World Cup qualifier,Hungary,13,-13,1603,1551,-1,-2,61,68
+2004-09-08,India,Japan,0,4,World Cup qualifier,India,-3,3,1167,1855,0,0,161,14
+2004-09-08,Israel,Cyprus,2,1,World Cup qualifier,Israel,6,-6,1678,1472,1,-4,39,90
+2004-09-08,Jordan,Iran,0,2,World Cup qualifier,Jordan,-28,28,1628,1807,-7,3,55,23
+2004-09-08,Kazakhstan,Ukraine,1,2,World Cup qualifier,Kazakhstan,-11,11,1370,1665,-3,3,115,46
+2004-09-08,Kyrgyzstan,Bahrain,1,2,World Cup qualifier,Kyrgyzstan,-6,6,1167,1564,-2,3,161,66
+2004-09-08,Laos,Qatar,1,6,World Cup qualifier,Laos,-5,5,886,1472,0,0,197,90
+2004-09-08,Lithuania,San Marino,4,0,World Cup qualifier,Lithuania,3,-3,1438,952,2,0,96,192
+2004-09-08,Luxembourg,Latvia,3,4,World Cup qualifier,Luxembourg,-5,5,1063,1512,0,0,178,78
+2004-09-08,Malaysia,China,0,1,World Cup qualifier,Malaysia,-6,6,1218,1629,-2,2,151,54
+2004-09-08,Maldives,Lebanon,2,5,World Cup qualifier,the Maldives,-10,10,945,1375,-1,1,193,114
+2004-09-08,Moldova,Italy,0,1,World Cup qualifier,Moldova,-3,3,1407,1930,0,-1,104,8
+2004-09-08,Netherlands,Czechia,2,0,World Cup qualifier,the Netherlands,28,-28,1945,1963,1,-2,7,6
+2004-09-08,North Korea,Thailand,4,1,World Cup qualifier,North Korea,16,-16,1481,1332,5,-3,86,123
+2004-09-08,Norway,Belarus,1,1,World Cup qualifier,Norway,-14,14,1762,1600,-1,1,29,62
+2004-09-08,Panama,United States,1,1,World Cup qualifier,Panama,12,-12,1504,1829,0,-2,81,20
+2004-09-08,Poland,England,1,2,World Cup qualifier,Poland,-14,14,1742,1978,0,2,30,4
+2004-09-08,Portugal,Estonia,4,0,World Cup qualifier,Portugal,2,-2,1902,1388,0,3,9,106
+2004-09-08,Scotland,Slovenia,0,0,World Cup qualifier,Scotland,-6,6,1639,1647,-1,2,52,50
+2004-09-08,Singapore,Oman,0,2,World Cup qualifier,Singapore,-8,8,1163,1595,-4,-2,164,64
+2004-09-08,Slovakia,Liechtenstein,7,0,World Cup qualifier,Slovakia,2,-2,1652,1050,2,0,48,183
+2004-09-08,Sri Lanka,Indonesia,2,2,World Cup qualifier,Sri Lanka,13,-13,969,1300,0,-3,191,129
+2004-09-08,Sweden,Croatia,0,1,World Cup qualifier,Sweden,-27,27,1837,1857,-7,7,19,13
+2004-09-08,Switzerland,Ireland,1,1,World Cup qualifier,Switzerland,3,-3,1687,1840,1,-1,35,18
+2004-09-08,Taiwan,Iraq,1,4,World Cup qualifier,Taiwan,-7,7,1034,1541,-1,3,187,71
+2004-09-08,Tajikistan,Syria,0,1,World Cup qualifier,Tajikistan,-23,23,1381,1476,-4,4,111,89
+2004-09-08,Trinidad and Tobago,Mexico,1,3,World Cup qualifier,Trinidad and Tobago,-10,10,1467,1865,-5,1,93,12
+2004-09-08,Turkmenistan,Saudi Arabia,0,1,World Cup qualifier,Turkmenistan,-15,15,1412,1627,-1,2,102,56
+2004-09-08,Uzbekistan,Palestine,3,0,World Cup qualifier,Qatar,11,-11,1596,1279,1,-2,63,134
+2004-09-08,Vietnam,South Korea,1,2,World Cup qualifier,Vietnam,-6,6,1276,1706,-2,0,137,34
+2004-09-08,Wales,Northern Ireland,2,2,World Cup qualifier,Wales,-13,13,1649,1504,-3,1,49,81
+2004-09-08,Yemen,United Arab Emirates,3,1,World Cup qualifier,Yemen,45,-45,1187,1385,9,-10,157,110
+2004-09-10,Saint Vincent and the Grenadines,Saint Kitts and Nevis,1,0,World Cup qualifier,Saint Vincent and the Grenadines,21,-21,1275,1344,2,-5,139,121
+2004-09-19,Mozambique,Angola,0,1,COSAFA Cup,Mozambique,-13,13,1270,1519,-6,3,139,77
+2004-09-25,British Virgin Islands,US Virgin Islands,2,1,Friendly,the British VirgIslands,4,-4,840,665,0,0,203,222
+2004-09-29,Kuwait,Syria,1,1,Friendly,Lebanon,0,0,1480,1476,0,0,87,89
+2004-09-30,Botswana,Zambia,1,0,Independence Tournament,Botswana,20,-20,1285,1465,8,-8,133,93
+2004-10-02,Gabon,Benin,2,0,Friendly,Gabon,7,-7,1393,1283,3,-1,106,133
+2004-10-02,Guatemala,Jamaica,2,2,Friendly,the United States,-1,1,1641,1622,0,0,51,59
+2004-10-03,Lebanon,Kuwait,1,3,Friendly,Lebanon,-15,15,1360,1495,-1,3,115,83
+2004-10-06,Lebanon,Kuwait,1,1,Friendly,Lebanon,1,-1,1361,1494,0,0,115,83
+2004-10-06,Mexico,Saint Vincent and the Grenadines,7,0,World Cup qualifier,Mexico,2,-2,1867,1273,1,0,11,139
+2004-10-06,Saudi Arabia,Syria,2,2,Friendly,Saudi Arabia,-6,6,1621,1482,-3,2,59,86
+2004-10-07,Oman,Iraq,1,0,Friendly,Oman,6,-6,1601,1535,2,-3,62,74
+2004-10-08,Libya,Egypt,2,1,World Cup and African Cup qualifier,Libya,25,-25,1503,1645,5,-8,83,50
+2004-10-08,Qatar,Syria,1,2,Friendly,Qatar,-13,13,1459,1495,-4,2,93,84
+2004-10-08,Singapore,United Arab Emirates,1,2,Friendly,Singapore,-7,7,1156,1392,0,3,164,107
+2004-10-08,Thailand,Jordan,2,3,Friendly,Thailand,-5,5,1327,1633,0,2,123,53
+2004-10-09,Albania,Denmark,0,2,World Cup qualifier,Albania,-13,13,1524,1879,-3,1,76,11
+2004-10-09,Argentina,Uruguay,4,2,World Cup qualifier,Argentina,9,-9,2041,1811,0,0,1,21
+2004-10-09,Austria,Poland,1,3,World Cup qualifier,Austria,-34,34,1651,1776,-13,1,49,29
+2004-10-09,Azerbaijan,Northern Ireland,0,0,World Cup qualifier,Azerbaijan,1,-1,1388,1503,2,0,108,81
+2004-10-09,Belarus,Moldova,4,0,World Cup qualifier,Belarus,12,-12,1612,1395,3,-1,60,105
+2004-10-09,Bolivia,Peru,1,0,World Cup qualifier,Bolivia,20,-20,1597,1656,2,-6,63,47
+2004-10-09,Bosnia and Herzegovina,Serbia and Montenegro,0,0,World Cup qualifier,Bosnia and Herzegovina,1,-1,1622,1730,5,-1,54,32
+2004-10-09,Botswana,Kenya,2,1,World Cup and African Cup qualifier,Botswana,25,-25,1310,1446,5,-5,127,95
+2004-10-09,Cape Verde,Burkina Faso,1,0,World Cup and African Cup qualifier,Cape Verde,18,-18,1365,1389,6,-3,114,107
+2004-10-09,Colombia,Paraguay,1,1,World Cup qualifier,Colombia,-5,5,1780,1799,-3,1,28,23
+2004-10-09,Costa Rica,Guatemala,5,0,World Cup qualifier,Costa Rica,30,-30,1656,1611,9,-10,47,61
+2004-10-09,Croatia,Bulgaria,2,2,World Cup qualifier,Croatia,-12,12,1845,1732,-4,2,17,31
+2004-10-09,Cyprus,Faroe Islands,2,2,World Cup qualifier,Cyprus,-15,15,1457,1256,-3,1,92,143
+2004-10-09,Czechia,Romania,1,0,World Cup qualifier,Czechia,9,-9,1972,1840,0,-3,6,19
+2004-10-09,El Salvador,United States,0,2,World Cup qualifier,El Salvador,-9,9,1411,1838,-1,0,101,20
+2004-10-09,England,Wales,2,0,World Cup qualifier,England,5,-5,1983,1644,0,-3,4,51
+2004-10-09,Finland,Armenia,3,1,World Cup qualifier,Finland,7,-7,1689,1416,2,-2,36,100
+2004-10-09,France,Ireland,0,0,World Cup qualifier,France,-13,13,1987,1853,0,3,3,15
+2004-10-09,Gabon,Nigeria,1,1,World Cup and African Cup qualifier,Gabon,15,-15,1408,1801,3,0,103,22
+2004-10-09,Honduras,Canada,1,1,World Cup qualifier,Honduras,-12,12,1671,1563,-4,1,41,67
+2004-10-09,Iran,Germany,0,2,Friendly,Iran,-17,17,1790,1870,-2,3,25,12
+2004-10-09,Israel,Switzerland,2,2,World Cup qualifier,Israel,-5,5,1673,1692,0,0,39,35
+2004-10-09,Liechtenstein,Portugal,2,2,World Cup qualifier,Liechtenstein,19,-19,1069,1883,5,0,178,9
+2004-10-09,Luxembourg,Russia,0,4,World Cup qualifier,Luxembourg,-2,2,1061,1781,-2,1,180,26
+2004-10-09,Macedonia,Netherlands,2,2,World Cup qualifier,Macedonia,14,-14,1543,1931,5,0,70,7
+2004-10-09,Malawi,Tunisia,2,2,World Cup and African Cup qualifier,Malawi,13,-13,1283,1618,7,-4,133,58
+2004-10-09,Malta,Iceland,0,0,World Cup qualifier,Malta,10,-10,1261,1541,0,-3,142,71
+2004-10-09,Panama,Jamaica,1,1,World Cup qualifier,Panama,1,-1,1505,1621,1,3,80,55
+2004-10-09,Rwanda,Algeria,1,1,World Cup and African Cup qualifier,Rwanda,-1,1,1347,1423,-1,1,120,98
+2004-10-09,Scotland,Norway,0,1,World Cup qualifier,Scotland,-19,19,1620,1781,-5,3,57,26
+2004-10-09,Slovakia,Latvia,4,1,World Cup qualifier,Slovakia,14,-14,1666,1498,3,-4,44,83
+2004-10-09,Slovenia,Italy,1,0,World Cup qualifier,Slovenia,30,-30,1677,1900,11,0,38,8
+2004-10-09,Solomon Islands,Australia,1,5,Oceania Nations Cup,the Solomon Islands,-14,14,1364,1799,-2,2,115,23
+2004-10-09,Spain,Belgium,2,0,World Cup qualifier,Spain,9,-9,1974,1765,0,-2,5,30
+2004-10-09,Sri Lanka,Turkmenistan,2,2,World Cup qualifier,Sri Lanka,15,-15,984,1397,1,-2,190,104
+2004-10-09,Sudan,Cameroon,1,1,World Cup and African Cup qualifier,Sudan,14,-14,1325,1707,2,-1,124,33
+2004-10-09,Sweden,Hungary,3,0,World Cup qualifier,Sweden,9,-9,1846,1594,3,-4,16,65
+2004-10-09,Turkey,Kazakhstan,4,0,World Cup qualifier,Turkey,3,-3,1844,1367,-1,1,18,113
+2004-10-09,Ukraine,Greece,1,1,World Cup qualifier,Ukraine,7,-7,1672,1881,5,0,40,10
+2004-10-09,Venezuela,Brazil,2,5,World Cup qualifier,Venezuela,-11,11,1613,2020,-2,0,59,2
+2004-10-10,Angola,Zimbabwe,1,0,World Cup and African Cup qualifier,Angola,14,-14,1533,1498,3,-4,74,83
+2004-10-10,Benin,Ivory Coast,0,1,World Cup and African Cup qualifier,Benin,-7,7,1276,1670,-4,3,137,43
+2004-10-10,Congo,Zambia,2,3,World Cup and African Cup qualifier,Congo,-23,23,1395,1488,-5,3,104,87
+2004-10-10,Ecuador,Chile,2,0,World Cup qualifier,Ecuador,23,-23,1689,1655,8,-11,36,48
+2004-10-10,Ghana,DR Congo,0,0,World Cup and African Cup qualifier,Ghana,-9,9,1482,1442,-3,1,89,96
+2004-10-10,Guinea,Morocco,1,1,World Cup and African Cup qualifier,Guinea,2,-2,1542,1666,1,-2,71,44
+2004-10-10,Liberia,Senegal,0,3,World Cup and African Cup qualifier,Liberia,-18,18,1370,1685,-4,5,112,38
+2004-10-10,Saint Vincent and the Grenadines,Mexico,0,1,World Cup qualifier,Saint Vincent and the Grenadines,-2,2,1271,1869,0,0,140,13
+2004-10-10,Togo,Mali,1,0,World Cup and African Cup qualifier,Togo,17,-17,1505,1523,8,-5,79,77
+2004-10-10,Trinidad and Tobago,Saint Kitts and Nevis,5,1,World Cup qualifier,Trinidad and Tobago,16,-16,1483,1328,1,-1,88,122
+2004-10-10,Uganda,South Africa,0,1,World Cup and African Cup qualifier,Uganda,-15,15,1338,1563,-2,2,120,67
+2004-10-12,Australia,Solomon Islands,6,0,Oceania Nations Cup,Australia,5,-5,1804,1359,1,-2,22,117
+2004-10-12,Bolivia,Uruguay,0,0,World Cup qualifier,Bolivia,6,-6,1603,1805,1,0,62,21
+2004-10-12,Indonesia,Saudi Arabia,1,3,World Cup qualifier,Indonesia,-13,13,1287,1634,-2,3,132,52
+2004-10-13,Andorra,Macedonia,1,0,World Cup qualifier,Andorra,36,-36,1094,1507,6,-9,175,79
+2004-10-13,Armenia,Czechia,0,3,World Cup qualifier,Armenia,-5,5,1411,1977,-1,1,100,5
+2004-10-13,Azerbaijan,England,0,1,World Cup qualifier,Azerbaijan,-2,2,1386,1985,-1,0,109,4
+2004-10-13,Brazil,Colombia,0,0,World Cup qualifier,Brazil,-15,15,2005,1795,0,2,2,26
+2004-10-13,Bulgaria,Malta,4,1,World Cup qualifier,Bulgaria,3,-3,1735,1258,0,1,31,141
+2004-10-13,Canada,Costa Rica,1,3,World Cup qualifier,Canada,-31,31,1532,1687,-5,9,72,37
+2004-10-13,Chile,Argentina,0,0,World Cup qualifier,Chile,14,-14,1669,2027,5,0,43,1
+2004-10-13,Cyprus,France,0,2,World Cup qualifier,Cyprus,-5,5,1452,1992,-1,0,93,3
+2004-10-13,Denmark,Turkey,1,1,World Cup qualifier,Denmark,-7,7,1872,1851,-1,1,12,17
+2004-10-13,Guatemala,Honduras,1,0,World Cup qualifier,Guatemala,18,-18,1629,1653,8,-6,53,48
+2004-10-13,Hong Kong,Malaysia,2,0,World Cup qualifier,Hong Kong,24,-24,1216,1194,3,-4,152,155
+2004-10-13,Iceland,Sweden,1,4,World Cup qualifier,Iceland,-16,16,1525,1862,-1,1,73,15
+2004-10-13,Ireland,Faroe Islands,2,0,World Cup qualifier,Ireland,1,-1,1854,1255,-1,1,16,142
+2004-10-13,Italy,Belarus,4,3,World Cup qualifier,Italy,4,-4,1904,1608,0,0,8,60
+2004-10-13,Jamaica,El Salvador,0,0,World Cup qualifier,Jamaica,-14,14,1607,1425,-5,2,61,98
+2004-10-13,Kazakhstan,Albania,0,1,World Cup qualifier,Kazakhstan,-17,17,1350,1541,-5,6,118,70
+2004-10-13,Kuwait,China,1,0,World Cup qualifier,Kuwait,22,-22,1516,1607,8,-7,78,61
+2004-10-13,Laos,Jordan,2,3,World Cup qualifier,Laos,-1,1,885,1634,0,2,197,51
+2004-10-13,Latvia,Estonia,2,2,World Cup qualifier,Latvia,-11,11,1487,1399,-4,4,87,104
+2004-10-13,Lebanon,South Korea,1,1,World Cup qualifier,Lebanon,12,-12,1373,1694,4,0,111,34
+2004-10-13,Lithuania,Spain,0,0,World Cup qualifier,Lithuania,17,-17,1455,1957,6,-1,91,6
+2004-10-13,Luxembourg,Liechtenstein,0,4,World Cup qualifier,Luxembourg,-47,47,1014,1116,-8,7,188,171
+2004-10-13,Maldives,Vietnam,3,0,World Cup qualifier,the Maldives,55,-55,1000,1221,3,-11,190,148
+2004-10-13,Mexico,Trinidad and Tobago,3,0,World Cup qualifier,Mexico,4,-4,1873,1479,2,-2,11,90
+2004-10-13,Moldova,Scotland,1,1,World Cup qualifier,Moldova,7,-7,1402,1613,1,0,103,57
+2004-10-13,Netherlands,Finland,3,1,World Cup qualifier,the Netherlands,7,-7,1938,1682,0,-4,7,40
+2004-10-13,North Korea,Yemen,2,1,World Cup qualifier,North Korea,4,-4,1485,1183,2,0,88,157
+2004-10-13,Norway,Slovenia,3,0,World Cup qualifier,Norway,17,-17,1798,1660,2,-8,24,47
+2004-10-13,Northern Ireland,Austria,3,3,World Cup qualifier,Northern Ireland,3,-3,1506,1648,1,0,80,49
+2004-10-13,Oman,Japan,0,1,World Cup qualifier,Oman,-12,12,1589,1867,-2,0,65,14
+2004-10-13,Paraguay,Peru,1,1,World Cup qualifier,Paraguay,-12,12,1787,1668,-4,2,28,44
+2004-10-13,Portugal,Russia,7,1,World Cup qualifier,Portugal,20,-20,1903,1761,0,-4,9,30
+2004-10-13,Qatar,Iran,2,3,World Cup qualifier,Qatar,-8,8,1451,1798,-4,1,95,24
+2004-10-13,Serbia and Montenegro,San Marino,5,0,World Cup qualifier,Serbia and Montenegro,1,-1,1731,951,0,-1,32,193
+2004-10-13,Singapore,India,2,0,World Cup qualifier,Singapore,22,-22,1178,1145,4,-4,160,165
+2004-10-13,Saint Kitts and Nevis,Saint Vincent and the Grenadines,0,3,World Cup qualifier,Saint Kitts and Nevis,-50,50,1278,1321,-13,15,135,125
+2004-10-13,Syria,Bahrain,2,2,World Cup qualifier,Syria,-2,2,1493,1566,0,0,85,66
+2004-10-13,Tajikistan,Kyrgyzstan,2,1,World Cup qualifier,Tajikistan,6,-6,1387,1161,2,-2,108,163
+2004-10-13,Thailand,United Arab Emirates,3,0,World Cup qualifier,Thailand,31,-31,1358,1361,6,-8,117,114
+2004-10-13,Ukraine,Georgia,2,0,World Cup qualifier,Ukraine,12,-12,1684,1517,2,-1,39,76
+2004-10-13,United States,Panama,6,0,World Cup qualifier,the United States,6,-6,1844,1499,1,-4,19,83
+2004-10-13,Uzbekistan,Iraq,2,1,World Cup qualifier,Jordan,17,-17,1613,1518,7,-2,57,75
+2004-10-13,Wales,Poland,2,3,World Cup qualifier,Wales,-18,18,1626,1794,-3,2,54,27
+2004-10-14,Taiwan,Palestine,0,1,World Cup qualifier,Taiwan,-12,12,1022,1291,-1,2,187,132
+2004-10-14,Venezuela,Ecuador,3,1,World Cup qualifier,Venezuela,28,-28,1641,1661,6,-10,51,46
+2004-10-17,Saint Lucia,Grenada,3,1,Friendly,Saint Lucia,14,-14,1235,1281,2,-3,146,134
+2004-10-19,Suriname,French Guiana,1,2,Friendly,Suriname,-16,16,1260,1128,-2,4,140,168
+2004-10-20,Jordan,Ecuador,3,0,LG Cup,Libya,28,-28,1662,1633,6,-7,46,53
+2004-10-20,Libya,Nigeria,2,1,LG Cup,Libya,23,-23,1526,1778,9,-5,73,28
+2004-10-22,Ecuador,Nigeria,2,2,LG Cup,Libya,6,-6,1639,1772,1,0,52,28
+2004-10-22,Libya,Jordan,1,0,LG Cup,Libya,17,-17,1543,1645,4,-3,69,49
+2004-10-24,Zimbabwe,Zambia,0,0,COSAFA Cup,Zimbabwe,-6,6,1492,1494,-2,2,86,84
+2004-10-27,Mexico,Ecuador,2,1,Friendly,the United States,4,-4,1877,1635,0,0,11,52
+2004-10-31,Saint Kitts and Nevis,Montserrat,6,1,CONCACAF Champ & Carib Cup qual,Saint Kitts and Nevis,1,-1,1279,540,0,0,135,231
+2004-11-01,Singapore,Malaysia,1,2,Friendly,Singapore,-12,12,1166,1206,-1,1,161,154
+2004-11-01,Yemen,Zambia,2,2,Rashid bin Mohammed Champ,the United Arab Emirates,11,-11,1194,1483,1,-4,156,88
+2004-11-02,Antigua and Barbuda,Montserrat,5,4,CONCACAF Champ & Carib Cup qual,Saint Kitts and Nevis,1,-1,1124,539,0,0,170,231
+2004-11-02,Saint Kitts and Nevis,Saint Lucia,1,1,CONCACAF Champ & Carib Cup qual,Saint Kitts and Nevis,-8,8,1271,1243,-3,2,138,144
+2004-11-04,Saint Kitts and Nevis,Antigua and Barbuda,2,0,CONCACAF Champ & Carib Cup qual,Saint Kitts and Nevis,12,-12,1283,1112,5,-2,133,172
+2004-11-05,Kuwait,India,2,3,Friendly,Kuwait,-19,19,1497,1164,-4,3,83,162
+2004-11-06,Saint Lucia,Antigua and Barbuda,2,1,CONCACAF Champ & Carib Cup qual,Saint Kitts and Nevis,13,-13,1256,1099,2,-1,142,173
+2004-11-10,French Guiana,Guadeloupe,1,0,CONCACAF Champ & Carib Cup qual,Martinique,32,-32,1160,1328,4,-7,164,122
+2004-11-10,Kuwait,Kyrgyzstan,3,0,Friendly,Kuwait,3,-3,1500,1158,1,-1,82,165
+2004-11-10,Martinique,Dominica,5,1,CONCACAF Champ & Carib Cup qual,Martinique,6,-6,1415,1075,1,-3,100,179
+2004-11-10,Mexico,Guatemala,2,0,Friendly,the United States,6,-6,1883,1623,1,-1,10,55
+2004-11-11,United Arab Emirates,Jordan,4,0,Friendly,the United Arab Emirates,28,-28,1389,1617,7,-8,107,57
+2004-11-12,Guadeloupe,Dominica,7,0,CONCACAF Champ & Carib Cup qual,Martinique,17,-17,1345,1058,2,-1,120,180
+2004-11-12,Martinique,French Guiana,0,0,CONCACAF Champ & Carib Cup qual,Martinique,-15,15,1400,1175,-3,4,103,160
+2004-11-13,Guatemala,Bolivia,1,0,Friendly,the United States,9,-9,1632,1594,1,0,53,63
+2004-11-13,Mexico,Saint Kitts and Nevis,5,0,World Cup qualifier,the United States,2,-2,1885,1281,0,-1,10,134
+2004-11-13,Saint Vincent and the Grenadines,Grenada,6,2,Friendly,Saint Vincent and the Grenadines,12,-12,1333,1269,3,-4,122,139
+2004-11-14,French Guiana,Dominica,4,0,CONCACAF Champ & Carib Cup qual,Martinique,25,-25,1200,1033,4,-5,156,185
+2004-11-14,Martinique,Guadeloupe,0,0,CONCACAF Champ & Carib Cup qual,Martinique,-8,8,1392,1353,-3,3,106,117
+2004-11-16,Australia,Norway,2,2,Friendly,England,0,0,1804,1798,0,0,22,23
+2004-11-16,Iraq,Palestine,4,1,World Cup qualifier,Qatar,15,-15,1533,1276,4,-5,72,136
+2004-11-16,Ireland,Croatia,1,0,Friendly,Ireland,7,-7,1861,1838,0,-2,16,20
+2004-11-17,Argentina,Venezuela,3,2,World Cup qualifier,Argentina,2,-2,2029,1639,0,-1,1,51
+2004-11-17,Armenia,Romania,1,1,World Cup qualifier,Armenia,15,-15,1426,1825,2,0,98,19
+2004-11-17,Azerbaijan,Bulgaria,0,0,Friendly,Azerbaijan,6,-6,1392,1729,4,-1,106,32
+2004-11-17,Bahrain,Tajikistan,4,0,World Cup qualifier,Bahrain,13,-13,1579,1374,0,-1,66,110
+2004-11-17,Belgium,Serbia and Montenegro,0,2,World Cup qualifier,Belgium,-41,41,1724,1772,-4,4,33,28
+2004-11-17,China,Hong Kong,7,0,World Cup qualifier,China,5,-5,1612,1211,3,-1,58,153
+2004-11-17,Colombia,Bolivia,1,0,World Cup qualifier,Colombia,6,-6,1801,1588,3,0,22,63
+2004-11-17,Cyprus,Israel,1,2,World Cup qualifier,Cyprus,-13,13,1439,1686,-4,1,97,39
+2004-11-17,Ecuador,Brazil,1,0,World Cup qualifier,Ecuador,33,-33,1668,1972,7,-3,44,5
+2004-11-17,France,Poland,0,0,Friendly,France,-7,7,1985,1801,1,4,2,22
+2004-11-17,Georgia,Denmark,2,2,World Cup qualifier,Georgia,13,-13,1530,1859,3,-4,74,16
+2004-11-17,Germany,Cameroon,3,0,Friendly,Germany,6,-6,1876,1701,1,-1,12,34
+2004-11-17,Greece,Kazakhstan,3,1,World Cup qualifier,Greece,2,-2,1883,1348,0,0,11,118
+2004-11-17,Guatemala,Canada,0,1,World Cup qualifier,Guatemala,-30,30,1602,1562,-9,6,62,68
+2004-11-17,Honduras,Costa Rica,0,0,World Cup qualifier,Honduras,-4,4,1649,1691,-1,-1,48,37
+2004-11-17,Indonesia,Turkmenistan,3,1,World Cup qualifier,Indonesia,31,-31,1318,1366,5,-8,126,112
+2004-11-17,Iran,Laos,7,0,World Cup qualifier,Iran,0,0,1798,885,-1,0,24,197
+2004-11-17,Italy,Finland,1,0,Friendly,Italy,3,-3,1907,1679,0,-2,8,41
+2004-11-17,Japan,Singapore,1,0,World Cup qualifier,Japan,0,0,1867,1166,0,-2,14,164
+2004-11-17,Kenya,Guinea,2,1,World Cup and African Cup qualifier,Kenya,20,-20,1466,1522,6,-7,90,77
+2004-11-17,Kuwait,Malaysia,6,1,World Cup qualifier,Kuwait,8,-8,1508,1198,2,-3,80,157
+2004-11-17,Lebanon,Vietnam,0,0,World Cup qualifier,Lebanon,-12,12,1361,1233,-2,2,114,147
+2004-11-17,Liechtenstein,Latvia,1,3,World Cup qualifier,Liechtenstein,-10,10,1106,1497,0,2,171,84
+2004-11-17,Luxembourg,Portugal,0,5,World Cup qualifier,Luxembourg,-1,1,1013,1904,0,0,188,9
+2004-11-17,Macedonia,Czechia,0,2,World Cup qualifier,Macedonia,-6,6,1501,1983,-4,2,83,3
+2004-11-17,Malta,Hungary,0,2,World Cup qualifier,Malta,-12,12,1246,1606,-3,3,144,60
+2004-11-17,Mexico,Saint Kitts and Nevis,8,0,World Cup qualifier,Mexico,2,-2,1887,1279,0,0,10,133
+2004-11-17,Morocco,Burkina Faso,4,0,Friendly,Morocco,4,-4,1670,1385,2,-1,42,108
+2004-11-17,Netherlands,Andorra,3,0,World Cup qualifier,Spain,1,-1,1939,1093,0,0,7,175
+2004-11-17,Oman,India,0,0,World Cup qualifier,Oman,-18,18,1571,1182,-2,3,67,160
+2004-11-17,Panama,El Salvador,3,0,World Cup qualifier,Panama,19,-19,1518,1406,5,-4,78,102
+2004-11-17,Peru,Chile,2,1,World Cup qualifier,Peru,14,-14,1682,1655,3,-5,40,47
+2004-11-17,Qatar,Jordan,2,0,World Cup qualifier,Qatar,36,-36,1487,1581,9,-8,86,65
+2004-11-17,Russia,Estonia,4,0,World Cup qualifier,Russia,5,-5,1766,1394,1,-2,29,105
+2004-11-17,San Marino,Lithuania,0,1,World Cup qualifier,San Marino,-4,4,947,1459,0,-1,193,92
+2004-11-17,Saudi Arabia,Sri Lanka,3,0,World Cup qualifier,Saudi Arabia,1,-1,1635,983,0,0,52,191
+2004-11-17,Scotland,Sweden,1,4,Friendly,Scotland,-10,10,1603,1872,-3,2,61,13
+2004-11-17,Senegal,Algeria,2,1,Friendly,France,4,-4,1689,1419,-1,0,38,99
+2004-11-17,Slovakia,Slovenia,0,0,Friendly,Slovakia,-3,3,1663,1663,-1,1,45,45
+2004-11-17,South Africa,Nigeria,2,1,Nelson Mandela Challenge Cup,South Africa,20,-20,1583,1752,3,-2,64,30
+2004-11-17,South Korea,Maldives,2,0,World Cup qualifier,South Korea,1,-1,1695,999,-1,0,35,190
+2004-11-17,Spain,England,1,0,Friendly,Spain,8,-8,1965,1977,0,0,6,4
+2004-11-17,Syria,Kyrgyzstan,0,1,World Cup qualifier,Syria,-37,37,1456,1195,-9,7,93,158
+2004-11-17,Thailand,Yemen,1,1,World Cup qualifier,Thailand,-13,13,1345,1207,-4,3,120,154
+2004-11-17,Trinidad and Tobago,Saint Vincent and the Grenadines,2,1,World Cup qualifier,Trinidad and Tobago,8,-8,1487,1325,4,-1,86,123
+2004-11-17,Turkey,Ukraine,0,3,World Cup qualifier,Turkey,-58,58,1793,1742,-9,7,26,31
+2004-11-17,United Arab Emirates,North Korea,1,0,World Cup qualifier,the United Arab Emirates,20,-20,1409,1465,7,-4,100,91
+2004-11-17,Uruguay,Paraguay,1,0,World Cup qualifier,Uruguay,13,-13,1818,1774,1,0,20,27
+2004-11-17,United States,Jamaica,1,1,World Cup qualifier,the United States,-15,15,1829,1622,0,7,18,54
+2004-11-17,Uzbekistan,Taiwan,6,1,World Cup qualifier,Uzbekistan,1,-1,1614,1021,1,0,57,187
+2004-11-20,Grenada,Saint Vincent and the Grenadines,3,2,Friendly,Grenada,9,-9,1278,1316,5,-3,134,126
+2004-11-20,Zambia,Angola,0,0,COSAFA Cup,Zambia,-3,3,1480,1536,-1,0,89,72
+2004-11-22,United Arab Emirates,Belarus,2,3,Friendly,the United Arab Emirates,-7,7,1402,1615,-2,2,102,57
+2004-11-24,Bermuda,Cayman Islands,2,1,CONCACAF Champ & Carib Cup qual,Saint Vincent and the Grenadines,14,-14,1218,1082,4,-1,151,175
+2004-11-24,Grenada,Suriname,2,2,CONCACAF Champ & Carib Cup qual,Trinidad and Tobago,-1,1,1277,1261,-2,0,136,140
+2004-11-24,Haiti,US Virgin Islands,11,0,CONCACAF Champ & Carib Cup qual,Jamaica,1,-1,1453,664,1,0,94,222
+2004-11-24,Jamaica,Saint Martin,12,0,CONCACAF Champ & Carib Cup qual,Jamaica,2,-2,1624,1037,0,0,54,184
+2004-11-24,Saint Vincent and the Grenadines,British Virgin Islands,1,1,CONCACAF Champ & Carib Cup qual,Saint Vincent and the Grenadines,-19,19,1297,859,-4,2,130,201
+2004-11-24,Trinidad and Tobago,Puerto Rico,5,0,CONCACAF Champ & Carib Cup qual,Trinidad and Tobago,1,-1,1488,877,0,0,86,198
+2004-11-26,Cayman Islands,British Virgin Islands,1,0,CONCACAF Champ & Carib Cup qual,Saint Vincent and the Grenadines,9,-9,1091,850,0,-2,175,203
+2004-11-26,Haiti,Saint Martin,2,0,CONCACAF Champ & Carib Cup qual,Jamaica,5,-5,1458,1032,1,-1,93,185
+2004-11-26,Jamaica,US Virgin Islands,11,1,CONCACAF Champ & Carib Cup qual,Jamaica,0,0,1624,664,0,0,54,222
+2004-11-26,Puerto Rico,Suriname,1,1,CONCACAF Champ & Carib Cup qual,Trinidad and Tobago,16,-16,893,1245,1,-4,197,144
+2004-11-26,Saint Vincent and the Grenadines,Bermuda,3,3,CONCACAF Champ & Carib Cup qual,Saint Vincent and the Grenadines,-9,9,1288,1227,-1,1,131,150
+2004-11-26,Trinidad and Tobago,Grenada,2,0,CONCACAF Champ & Carib Cup qual,Trinidad and Tobago,9,-9,1497,1268,2,-3,84,139
+2004-11-27,Singapore,Myanmar,1,0,Tiger Football Festival,Singapore,9,-9,1175,1111,1,0,163,170
+2004-11-27,United Arab Emirates,Kuwait,0,1,Friendly,the United Arab Emirates,-10,10,1392,1518,-3,2,105,78
+2004-11-28,British Virgin Islands,Bermuda,2,0,CONCACAF Champ & Carib Cup qual,Saint Vincent and the Grenadines,54,-54,904,1173,7,-13,196,163
+2004-11-28,Grenada,Puerto Rico,5,2,CONCACAF Champ & Carib Cup qual,Trinidad and Tobago,7,-7,1275,886,1,-1,138,198
+2004-11-28,Jamaica,Haiti,3,1,CONCACAF Champ & Carib Cup qual,Jamaica,11,-11,1635,1447,2,-2,52,95
+2004-11-28,Saint Martin,US Virgin Islands,0,0,CONCACAF Champ & Carib Cup qual,Jamaica,-16,16,1016,680,-2,2,187,220
+2004-11-28,Saint Vincent and the Grenadines,Cayman Islands,4,0,CONCACAF Champ & Carib Cup qual,Saint Vincent and the Grenadines,11,-11,1299,1080,1,0,130,175
+2004-11-28,Trinidad and Tobago,Suriname,1,0,CONCACAF Champ & Carib Cup qual,Trinidad and Tobago,5,-5,1502,1240,1,-1,83,145
+2004-11-29,Egypt,Bulgaria,1,1,Friendly,Egypt,0,0,1645,1729,0,0,50,32
+2004-11-30,Singapore,Hong Kong,0,0,Tiger Football Festival,Singapore,-3,3,1172,1214,-1,1,163,152
+2004-11-30,Slovakia,Hungary,1,0,King's Cup,Thailand,13,-13,1676,1593,3,-2,42,62
+2004-11-30,Thailand,Estonia,0,0,King's Cup,Thailand,-2,2,1343,1396,0,1,120,103
+2004-12-01,Bahrain,Finland,1,2,Prime Minister's Cup,Bahrain,-15,15,1564,1694,-1,5,67,36
+2004-12-01,Oman,Latvia,3,2,Prime Minister's Cup,Bahrain,12,-12,1583,1485,3,-2,64,87
+2004-12-01,Qatar,Lebanon,4,1,Friendly,Qatar,7,-7,1494,1354,2,-1,85,115
+2004-12-02,Hong Kong,Myanmar,2,2,Tiger Football Festival,Singapore,-4,4,1210,1115,-1,0,153,170
+2004-12-02,Hungary,Estonia,5,0,King's Cup,Thailand,15,-15,1608,1381,2,-5,60,108
+2004-12-02,Thailand,Slovakia,1,1,King's Cup,Thailand,9,-9,1352,1667,3,-3,117,45
+2004-12-03,Bahrain,Latvia,2,2,Prime Minister's Cup,Bahrain,-7,7,1557,1492,-1,1,68,86
+2004-12-03,Finland,Oman,0,0,Prime Minister's Cup,Bahrain,-5,5,1689,1588,-2,1,38,63
+2004-12-03,Iraq,Yemen,3,1,Friendly,the United Arab Emirates,4,-4,1537,1203,1,0,72,154
+2004-12-03,United Arab Emirates,Kuwait,1,1,Friendly,the United Arab Emirates,1,-1,1393,1517,0,-1,104,79
+2004-12-05,Qatar,Yemen,3,0,Friendly,Qatar,3,-3,1497,1200,0,0,85,154
+2004-12-06,Kuwait,Tajikistan,3,0,Friendly,Kuwait,7,-7,1524,1367,3,-1,76,111
+2004-12-07,Indonesia,Laos,6,0,Southeast Asian Championship,Vietnam,6,-6,1324,879,0,0,125,199
+2004-12-07,Vietnam,Singapore,1,1,Southeast Asian Championship,Vietnam,-9,9,1224,1181,-2,1,149,162
+2004-12-08,Malaysia,East Timor,5,0,Southeast Asian Championship,Malaysia,2,-2,1200,685,2,0,154,217
+2004-12-08,Myanmar,Philippines,1,0,Southeast Asian Championship,Malaysia,3,-3,1118,682,0,-1,170,219
+2004-12-09,Indonesia,Singapore,0,0,Southeast Asian Championship,Vietnam,-8,8,1316,1189,0,3,125,159
+2004-12-09,Vietnam,Cambodia,9,1,Southeast Asian Championship,Vietnam,6,-6,1230,860,0,0,149,201
+2004-12-10,Malaysia,Philippines,4,1,Southeast Asian Championship,Malaysia,2,-2,1202,680,0,0,154,219
+2004-12-10,Myanmar,Thailand,1,1,Southeast Asian Championship,Malaysia,12,-12,1130,1340,1,-3,169,120
+2004-12-10,Oman,Iraq,3,1,Gulf Cup,Qatar,26,-26,1614,1511,5,-8,58,80
+2004-12-10,Qatar,United Arab Emirates,2,2,Gulf Cup,Qatar,-11,11,1486,1404,-2,2,87,102
+2004-12-11,Bahrain,Yemen,1,1,Gulf Cup,Qatar,-15,15,1542,1215,-3,4,71,151
+2004-12-11,Ethiopia,Burundi,2,1,CECAFA Cup,Ethiopia,13,-13,1291,1238,2,-4,132,146
+2004-12-11,Kuwait,Saudi Arabia,2,1,Gulf Cup,Qatar,26,-26,1550,1609,6,-8,69,60
+2004-12-11,Laos,Cambodia,2,1,Southeast Asian Championship,Vietnam,19,-19,898,841,1,-2,198,203
+2004-12-11,Rwanda,Zanzibar,4,2,CECAFA Cup,Ethiopia,16,-16,1363,1148,5,-1,114,166
+2004-12-11,Anguilla,Sint Eustatius,0,2,Friendly,Anguilla,-12,12,544,739,0,1,230,211
+2004-12-11,Vietnam,Indonesia,0,3,Southeast Asian Championship,Vietnam,-36,36,1194,1352,-8,7,157,118
+2004-12-12,British Virgin Islands,Trinidad and Tobago,0,4,CONCACAF Champ & Carib Cup qual,the British VirgIslands,-4,4,900,1506,-1,2,197,81
+2004-12-12,Cuba,Martinique,2,0,CONCACAF Champ & Carib Cup qual,Cuba,11,-11,1564,1381,1,-2,67,107
+2004-12-12,Haiti,Saint Kitts and Nevis,1,0,CONCACAF Champ & Carib Cup qual,the United States,11,-11,1458,1268,3,-5,92,139
+2004-12-12,Kenya,Sudan,2,2,CECAFA Cup,Ethiopia,-8,8,1458,1333,-2,1,92,123
+2004-12-12,Malaysia,Myanmar,0,1,Southeast Asian Championship,Malaysia,-29,29,1173,1159,-8,4,162,165
+2004-12-12,Saint Lucia,Jamaica,1,1,CONCACAF Champ & Carib Cup qual,Saint Lucia,13,-13,1269,1622,2,-1,138,53
+2004-12-12,Saint Vincent and the Grenadines,Grenada,3,1,CONCACAF Champ & Carib Cup qual,Saint Vincent and the Grenadines,20,-20,1319,1255,4,-2,126,140
+2004-12-12,Thailand,East Timor,8,0,Southeast Asian Championship,Malaysia,2,-2,1342,683,-1,0,122,217
+2004-12-12,Uganda,Somalia,2,0,CECAFA Cup,Ethiopia,10,-10,1348,1047,2,-1,120,181
+2004-12-13,Burundi,Rwanda,3,1,CECAFA Cup,Ethiopia,40,-40,1278,1323,12,-11,134,125
+2004-12-13,Indonesia,Cambodia,8,0,Southeast Asian Championship,Vietnam,5,-5,1357,836,3,0,115,203
+2004-12-13,Oman,United Arab Emirates,2,1,Gulf Cup,Qatar,9,-9,1623,1395,4,-1,53,103
+2004-12-13,Qatar,Iraq,3,3,Gulf Cup,Qatar,-4,4,1482,1515,0,0,87,80
+2004-12-13,Singapore,Laos,6,2,Southeast Asian Championship,Vietnam,12,-12,1201,886,5,0,153,198
+2004-12-13,Zanzibar,Tanzania,4,2,CECAFA Cup,Ethiopia,36,-36,1184,1185,8,-9,159,158
+2004-12-14,Bahrain,Kuwait,1,1,Gulf Cup,Qatar,0,0,1542,1550,0,0,71,69
+2004-12-14,Kenya,Somalia,1,0,CECAFA Cup,Ethiopia,3,-3,1461,1044,1,0,91,181
+2004-12-14,Malaysia,Thailand,2,1,Southeast Asian Championship,Malaysia,24,-24,1197,1318,8,-5,155,126
+2004-12-14,Philippines,East Timor,2,1,Southeast Asian Championship,Malaysia,20,-20,700,663,4,-5,215,222
+2004-12-14,Saudi Arabia,Yemen,2,0,Gulf Cup,Qatar,6,-6,1615,1209,3,-2,57,152
+2004-12-14,Sudan,Uganda,2,1,CECAFA Cup,Ethiopia,21,-21,1354,1327,6,-3,116,122
+2004-12-15,Burundi,Tanzania,2,0,CECAFA Cup,Ethiopia,22,-22,1300,1163,3,-6,131,165
+2004-12-15,Ethiopia,Rwanda,0,0,CECAFA Cup,Ethiopia,-4,4,1287,1327,-1,2,133,122
+2004-12-15,Lesotho,Botswana,1,1,Friendly,Lesotho,1,-1,1169,1309,1,0,164,128
+2004-12-15,Singapore,Cambodia,3,0,Southeast Asian Championship,Vietnam,8,-8,1209,828,1,-1,152,204
+2004-12-15,Saint Kitts and Nevis,Haiti,0,2,CONCACAF Champ & Carib Cup qual,Saint Kitts and Nevis,-22,22,1246,1480,-2,4,142,89
+2004-12-15,Vietnam,Laos,3,0,Southeast Asian Championship,Vietnam,6,-6,1200,880,3,-1,154,199
+2004-12-16,Iraq,United Arab Emirates,1,1,Gulf Cup,Qatar,-7,7,1508,1402,0,1,80,102
+2004-12-16,Japan,Germany,0,3,Friendly,Japan,-22,22,1845,1898,-2,2,16,10
+2004-12-16,Myanmar,East Timor,3,1,Southeast Asian Championship,Malaysia,3,-3,1162,660,0,0,166,222
+2004-12-16,Qatar,Oman,2,1,Gulf Cup,Qatar,22,-22,1504,1601,3,-10,84,63
+2004-12-16,Thailand,Philippines,3,1,Southeast Asian Championship,Malaysia,2,-2,1320,698,1,-1,125,216
+2004-12-17,Bahrain,Saudi Arabia,3,0,Gulf Cup,Qatar,42,-42,1584,1573,7,-11,64,67
+2004-12-17,Burundi,Zanzibar,2,1,CECAFA Cup,Ethiopia,14,-14,1314,1170,3,-4,128,163
+2004-12-17,Ethiopia,Tanzania,2,0,CECAFA Cup,Ethiopia,13,-13,1300,1150,1,-2,132,167
+2004-12-17,Kuwait,Yemen,3,0,Gulf Cup,Qatar,9,-9,1559,1200,-1,-1,70,153
+2004-12-18,Iran,Panama,1,0,Friendly,Iran,2,-2,1800,1516,0,-1,24,79
+2004-12-18,Kenya,Uganda,1,1,CECAFA Cup,Ethiopia,-7,7,1454,1334,-2,1,94,121
+2004-12-18,Maldives,Sri Lanka,0,0,Friendly,the Maldives,-3,3,996,986,0,0,190,191
+2004-12-18,Sudan,Somalia,4,0,CECAFA Cup,Ethiopia,11,-11,1365,1033,3,-2,113,183
+2004-12-19,Ethiopia,Zanzibar,3,0,CECAFA Cup,Ethiopia,15,-15,1315,1155,5,-2,127,165
+2004-12-19,Grenada,Saint Vincent and the Grenadines,0,1,CONCACAF Champ & Carib Cup qual,Grenada,-22,22,1233,1341,-6,4,146,122
+2004-12-19,Jamaica,Saint Lucia,2,1,CONCACAF Champ & Carib Cup qual,Jamaica,3,-3,1625,1266,0,0,53,139
+2004-12-19,Rwanda,Tanzania,5,1,CECAFA Cup,Ethiopia,20,-20,1347,1130,2,-2,121,169
+2004-12-19,South Korea,Germany,3,1,Friendly,South Korea,19,-19,1714,1879,1,-2,34,12
+2004-12-19,Trinidad and Tobago,British Virgin Islands,2,0,CONCACAF Champ & Carib Cup qual,Trinidad and Tobago,1,-1,1507,899,0,0,81,197
+2004-12-20,Oman,Bahrain,3,2,Gulf Cup,Qatar,19,-19,1620,1565,7,-3,55,67
+2004-12-20,Qatar,Kuwait,2,0,Gulf Cup,Qatar,26,-26,1530,1533,10,-3,74,73
+2004-12-21,Martinique,Cuba,0,2,CONCACAF Champ & Carib Cup qual,Martinique,-23,23,1358,1587,-8,4,115,64
+2004-12-21,Thailand,Germany,1,5,Friendly,Thailand,-2,2,1318,1881,0,0,126,12
+2004-12-21,Venezuela,Guatemala,0,1,Friendly,Venezuela,-14,14,1625,1616,-1,5,52,57
+2004-12-22,Burundi,Sudan,2,1,CECAFA Cup,Ethiopia,23,-23,1337,1342,6,-9,123,121
+2004-12-22,Ethiopia,Kenya,2,2,CECAFA Cup,Ethiopia,2,-2,1317,1452,-1,-1,128,95
+2004-12-23,Bahrain,Kuwait,3,1,Gulf Cup,Qatar,27,-27,1592,1506,5,-9,63,82
+2004-12-24,Qatar,Oman,1,1,Gulf Cup,Qatar,-1,1,1529,1621,-1,0,74,55
+2004-12-25,Ethiopia,Burundi,3,0,CECAFA Cup,Ethiopia,27,-27,1344,1310,6,-6,122,129
+2004-12-25,Sudan,Kenya,2,1,CECAFA Cup,Ethiopia,26,-26,1368,1426,11,-2,110,97
+2004-12-28,Indonesia,Malaysia,1,2,Southeast Asian Championship,Indonesia,-33,33,1324,1230,-10,7,126,149
+2004-12-29,Singapore,Myanmar,4,3,Southeast Asian Championship,Malaysia,17,-17,1226,1145,3,-2,150,166
