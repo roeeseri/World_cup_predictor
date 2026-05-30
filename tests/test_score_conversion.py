@@ -38,3 +38,15 @@ def test_convert_expected_goals_to_scores():
     assert poisson_scores.shape == (2, 2)
     assert (rounded >= 0).all()
     assert (poisson_scores >= 0).all()
+
+
+def test_convert_expected_goals_to_scores_handles_non_finite_values():
+    preds = np.array([[np.nan, np.inf], [-np.inf, 1.7]])
+
+    rounded = convert_expected_goals_to_scores(preds, method="round")
+    poisson_scores = convert_expected_goals_to_scores(preds, method="poisson", max_goals=6)
+
+    assert rounded.shape == (2, 2)
+    assert poisson_scores.shape == (2, 2)
+    assert np.isfinite(rounded).all()
+    assert np.isfinite(poisson_scores).all()

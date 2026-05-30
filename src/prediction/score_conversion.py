@@ -18,6 +18,10 @@ def poisson_score_grid(lambda_a: float, lambda_b: float, max_goals: int = 6) -> 
 
 
 def most_likely_score(lambda_a: float, lambda_b: float, max_goals: int = 6) -> tuple[int, int]:
+    if not np.isfinite(lambda_a):
+        lambda_a = 0.0
+    if not np.isfinite(lambda_b):
+        lambda_b = 0.0
     grid = poisson_score_grid(lambda_a, lambda_b, max_goals=max_goals)
     max_idx = grid.stack().idxmax()
     return int(max_idx[0]), int(max_idx[1])
@@ -35,6 +39,8 @@ def convert_expected_goals_to_scores(y_pred_expected, method: str = "poisson", m
     y_pred_arr = np.asarray(y_pred_expected, dtype=float)
     if y_pred_arr.ndim != 2 or y_pred_arr.shape[1] < 2:
         raise ValueError("Expected predictions with shape (n_samples, 2).")
+
+    y_pred_arr = np.nan_to_num(y_pred_arr, nan=0.0, posinf=float(max_goals), neginf=0.0)
 
     scores = []
     method = method.lower()
