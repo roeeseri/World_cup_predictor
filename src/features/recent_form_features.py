@@ -9,20 +9,35 @@ import pandas as pd
 WINDOW = 5
 
 
+def _to_naive_datetime(value):
+    """Convert timestamp-like value to timezone-naive pandas Timestamp."""
+    ts = pd.to_datetime(value)
+
+    if getattr(ts, "tzinfo", None) is not None:
+        ts = ts.tz_convert(None)
+
+    return ts
+
+
 def _team_matches_before(
     team: str,
     historical_matches: pd.DataFrame,
     cutoff_date,
 ) -> pd.DataFrame:
     """Return all matches involving team before cutoff_date."""
-    cutoff_date = pd.to_datetime(cutoff_date)
+    cutoff_date = _to_naive_datetime(cutoff_date)
+
+    match_dates = pd.to_datetime(historical_matches["date"], errors="coerce")
+
+    if getattr(match_dates.dt, "tz", None) is not None:
+        match_dates = match_dates.dt.tz_convert(None)
 
     matches = historical_matches[
         (
             (historical_matches["team_a"] == team) |
             (historical_matches["team_b"] == team)
         ) &
-        (pd.to_datetime(historical_matches["date"]) < cutoff_date)
+        (match_dates < cutoff_date)
     ].copy()
 
     return matches.sort_values("date")
@@ -105,8 +120,8 @@ def _recent_stats(team: str, historical_matches: pd.DataFrame, cutoff_date) -> d
         if row["opponent_elo"] != 0
     ]
 
-    cutoff_date = pd.to_datetime(cutoff_date)
-    last_match_date = pd.to_datetime(team_view.iloc[-1]["date"])
+    cutoff_date = _to_naive_datetime(cutoff_date)
+    last_match_date = _to_naive_datetime(team_view.iloc[-1]["date"])
 
     days_since_last_match = (cutoff_date - last_match_date).days
     days_since_last_match = max(0, min(days_since_last_match, 60))
