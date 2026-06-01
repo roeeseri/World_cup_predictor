@@ -1,14 +1,17 @@
-"""Team-name normalization helpers for joining ELO data with Transfermarkt data."""
+"""Team-name normalization helpers."""
 
 TEAM_NAME_MAP = {
     "USA": "United States",
-    "Turkey": "Turkiye",
+        "Türkiye": "Turkey",
+    "Turkiye": "Turkey",
     "Czech Republic": "Czechia",
+    "Côte d'Ivoire": "Ivory Coast",
     "Cote d'Ivoire": "Ivory Coast",
-    "Democratic Republic of the Congo": "DR Congo",
     "Korea Republic": "South Korea",
+    "IR Iran": "Iran",
+    "Cabo Verde": "Cape Verde",
+    "Congo DR": "DR Congo",
     "Bosnia-Herzegovina": "Bosnia and Herzegovina",
-    "Cape Verde Islands": "Cape Verde",
     "Curacao": "Curaçao",
     "Macedonia": "North Macedonia",
     "Swaziland": "Eswatini",
@@ -17,5 +20,5 @@ TEAM_NAME_MAP = {
 
 
 def normalize_team_name(team_name: str) -> str:
-    """Normalize a team name for Transfermarkt joins."""
-    return TEAM_NAME_MAP.get(team_name, team_name)
+    """Normalize a team name across fixtures, ELO, and Transfermarkt joins."""
+    return TEAM_NAME_MAP.get(str(team_name), str(team_name))
