@@ -89,25 +89,25 @@ def _recent_stats(team: str, historical_matches: pd.DataFrame, cutoff_date) -> d
     matches = _team_matches_before(team, historical_matches, cutoff_date)
     team_view = _team_match_view(team, matches)
 
-    if team_view.empty:
-        return {
-            "form_last5": 0.0,
-            "weighted_goals_for_last5": 0.0,
-            "weighted_goals_against_last5": 0.0,
-            "opponent_strength_last5": 0.0,
-            "rating_change_last5": 0.0,
-            "matches_played_before": 0,
-            "days_since_last_match": 60,
-        }
-
-    recent = team_view.tail(WINDOW)
-
     elo_base = float(
         pd.concat([
             historical_matches["rating_a_before"],
             historical_matches["rating_b_before"],
         ]).mean()
     )
+
+    if team_view.empty:
+        return {
+            "form_last5": 0.0,
+            "weighted_goals_for_last5": 0.0,
+            "weighted_goals_against_last5": 0.0,
+            "opponent_strength_last5": elo_base,
+            "rating_change_last5": 0.0,
+            "matches_played_before": 0,
+            "days_since_last_match": 60,
+        }
+
+    recent = team_view.tail(WINDOW)
 
     weighted_goals_for = [
         row["goals_for"] * (row["opponent_elo"] / elo_base)
@@ -135,7 +135,6 @@ def _recent_stats(team: str, historical_matches: pd.DataFrame, cutoff_date) -> d
         "matches_played_before": int(len(team_view)),
         "days_since_last_match": int(days_since_last_match),
     }
-
 
 def compute_recent_form_features(
     team_a: str,

@@ -8,6 +8,7 @@ from src.features.market_value_features import compute_market_value_features
 from src.features.match_context_features import compute_match_context
 from src.features.recent_form_features import compute_recent_form_features
 from src.features.tournament_state_features import compute_tournament_state_features
+from src.features.position_value_features import compute_position_value_features
 
 
 def compute_elo_features(
@@ -50,6 +51,7 @@ def build_pre_match_features(
     team_states: dict,
     historical_matches: pd.DataFrame,
     market_values: pd.DataFrame,
+    position_values: pd.DataFrame,
     elo_ratings: dict[str, float],
     rankings: dict[str, int],
     competition: str = "World Cup",
@@ -76,6 +78,15 @@ def build_pre_match_features(
             team_b=team_b,
             year=year,
             market_values=market_values,
+        )
+    )
+    
+    features.update(
+    compute_position_value_features(
+        team_a=team_a,
+        team_b=team_b,
+        year=year,
+        position_values=position_values,
         )
     )
 
