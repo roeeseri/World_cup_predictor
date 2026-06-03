@@ -21,7 +21,9 @@ STANDARD_METADATA_COLUMNS = [
 ]
 
 DATASET_TARGET_COLUMNS = ["target_goals_a", "target_goals_b"]
-LEAKAGE_COLUMNS = ["target_goal_diff", "target_total_goals"]
+# target_goal_diff and target_total_goals are derived from the targets — pure leakage.
+# goals_a / goals_b are the lowercase variants produced by standardize_goal_columns().
+LEAKAGE_COLUMNS = ["target_goal_diff", "target_total_goals", "goals_a", "goals_b"]
 WEIGHT_COLUMNS = ["competition_weight"]
 
 EXCLUDED_FEATURE_COLUMNS = set(
@@ -63,7 +65,18 @@ def infer_feature_columns(
         excluded.update(exclude_columns)
 
     numeric_columns = standardized.select_dtypes(include=[np.number]).columns.tolist()
-    return [column for column in numeric_columns if column not in excluded]
+    features = [column for column in numeric_columns if column not in excluded]
+
+    _LEAKAGE_GUARD = {
+        "goals_a", "goals_b", "goals_A", "goals_B",
+        "target_goals_a", "target_goals_b",
+        "target_goal_diff", "target_total_goals",
+    }
+    leaked = [c for c in features if c in _LEAKAGE_GUARD]
+    if leaked:
+        raise ValueError(f"Data leakage: target columns in feature set: {leaked}")
+
+    return features
 
 
 def resolve_feature_columns(
