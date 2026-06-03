@@ -6,6 +6,7 @@ from joblib import dump, load
 
 from .baseline import AverageGoalsBaseline, ConstantScoreBaseline, EloBaseline, EloHeuristicBaseline
 from .ensemble import EnsembleGoalModel
+from .lgbm_model import LGBMGoalModel
 from .poisson_model import PoissonGoalModel
 from .tree_model import TreeGoalModel
 
@@ -15,6 +16,11 @@ def train_model(X_train, y_train, model_type: str = "poisson"):
 
     if model_type == "poisson":
         model = PoissonGoalModel()
+        model.fit(X_train, y_train)
+        return model
+
+    if model_type == "lgbm":
+        model = LGBMGoalModel()
         model.fit(X_train, y_train)
         return model
 
