@@ -5,10 +5,9 @@ import pandas as pd
 from src.data.validation import validate_feature_columns, validate_no_target_columns
 from src.features.feature_columns import FEATURE_COLS
 from src.features.market_value_features import compute_market_value_features
-from src.features.match_context_features import compute_match_context
+from src.features.position_value_features import compute_position_value_features
 from src.features.recent_form_features import compute_recent_form_features
 from src.features.tournament_state_features import compute_tournament_state_features
-from src.features.position_value_features import compute_position_value_features
 
 
 def compute_elo_features(
@@ -54,8 +53,6 @@ def build_pre_match_features(
     position_values: pd.DataFrame,
     elo_ratings: dict[str, float],
     rankings: dict[str, int],
-    competition: str = "World Cup",
-    is_home_adv: int = 0,
 ) -> pd.DataFrame:
     """Build a single-row DataFrame with exactly the production feature columns."""
     match_date = pd.to_datetime(match_date)
@@ -80,13 +77,13 @@ def build_pre_match_features(
             market_values=market_values,
         )
     )
-    
+
     features.update(
-    compute_position_value_features(
-        team_a=team_a,
-        team_b=team_b,
-        year=year,
-        position_values=position_values,
+        compute_position_value_features(
+            team_a=team_a,
+            team_b=team_b,
+            year=year,
+            position_values=position_values,
         )
     )
 
@@ -107,15 +104,7 @@ def build_pre_match_features(
         )
     )
 
-    features.update(
-        compute_match_context(
-            competition=competition,
-            is_home_adv=is_home_adv,
-        )
-    )
-
     feature_row = pd.DataFrame([features])
-
     feature_row = feature_row[FEATURE_COLS].copy()
 
     validate_no_target_columns(feature_row)

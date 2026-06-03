@@ -12,20 +12,15 @@ def build_features_for_fixtures(
     team_states: dict,
     historical_matches: pd.DataFrame,
     market_values: pd.DataFrame,
+    position_values: pd.DataFrame,
     elo_ratings: dict[str, float],
     rankings: dict[str, int],
-    competition: str = "World Cup",
 ) -> pd.DataFrame:
     rows = []
 
     for _, match in fixtures.iterrows():
-        original_team_a = match["team_a"]
-        original_team_b = match["team_b"]
-
-        team_a = normalize_team_name(original_team_a)
-        team_b = normalize_team_name(original_team_b)
-
-        is_home_adv = int(team_a in ["Mexico", "United States", "Canada"])
+        team_a = normalize_team_name(match["team_a"])
+        team_b = normalize_team_name(match["team_b"])
 
         feature_row = build_pre_match_features(
             team_a=team_a,
@@ -34,10 +29,9 @@ def build_features_for_fixtures(
             team_states=team_states,
             historical_matches=historical_matches,
             market_values=market_values,
+            position_values=position_values,
             elo_ratings=elo_ratings,
             rankings=rankings,
-            competition=competition,
-            is_home_adv=is_home_adv,
         )
 
         feature_row.insert(0, "match_id", match["match_id"])
@@ -50,4 +44,7 @@ def build_features_for_fixtures(
 
     result = pd.concat(rows, ignore_index=True)
 
-    return result[["match_id", "date", "team_a", "team_b", "group"] + FEATURE_COLS]
+    return result[
+        ["match_id", "date", "team_a", "team_b", "group"]
+        + FEATURE_COLS
+    ]
