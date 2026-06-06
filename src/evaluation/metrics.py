@@ -151,6 +151,53 @@ def winner_aware_error(y_true, y_pred_rounded, alpha: float = 0.5) -> float:
     return weight_anomalies(total_error, anomalies, anomaly_weight=0.3)
 
 
+def rps_result(y_true_goals, win_probs, draw_probs, loss_probs) -> float:
+    """
+    Ranked Probability Score for W/D/L outcomes, averaged over matches.
+
+    Lower is better. A perfect oracle scores 0; predicting 1/3 each scores 1/3.
+    RPS = (1/2) * sum_k (F_k - O_k)^2 over k in {W, D}, where F and O are
+    cumulative predicted and observed outcome CDFs.
+
+    Args:
+        y_true_goals: (n, 2) goals array, or DataFrame with goals_A/goals_B
+        win_probs:  length-n array, P(team_a wins)
+        draw_probs: length-n array, P(draw)
+        loss_probs: length-n array, P(team_b wins)
+    """
+    y = _coerce_goal_array(y_true_goals)
+    win_p = np.asarray(win_probs, dtype=float)
+    draw_p = np.asarray(draw_probs, dtype=float)
+    loss_p = np.asarray(loss_probs, dtype=float)
+
+    goal_diff = y[:, 0] - y[:, 1]
+    true_win = (goal_diff > 0).astype(float)
+    true_draw = (goal_diff == 0).astype(float)
+
+    # Cumulative predicted: P(outcome <= W), P(outcome <= D)
+    cum_pred_w = win_p
+    cum_pred_wd = win_p + draw_p
+
+    # Cumulative actual
+    cum_true_w = true_win
+    cum_true_wd = true_win + true_draw
+
+    rps_per_match = 0.5 * ((cum_pred_w - cum_true_w) ** 2 + (cum_pred_wd - cum_true_wd) ** 2)
+    return float(np.mean(rps_per_match))
+
+
+def rps_batch(y_true_goals, probs_matrix) -> float:
+    """
+    Vectorized RPS for W/D/L outcomes.
+
+    Args:
+        y_true_goals: (n, 2) goals array
+        probs_matrix: (n, 3) array with columns [win_prob, draw_prob, loss_prob]
+    """
+    p = np.asarray(probs_matrix, dtype=float)
+    return rps_result(y_true_goals, p[:, 0], p[:, 1], p[:, 2])
+
+
 def result_label(goals_a: int, goals_b: int) -> str:
     """
     Convert goals to result label (A = home win, B = away win, D = draw).

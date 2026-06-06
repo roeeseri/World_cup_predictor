@@ -1,234 +1,230 @@
 """
 Production training script for World Cup score predictor.
 
-Uses best hyperparameters and weighting strategy to train models.
+Uses the 21 production features from feature_columns.py, proper multi-fold
+WC cross-validation for evaluation, and saves model + config for inference.
+
+Usage:
+    python -m src.models.train_production --model-type lgbm --evaluate
 """
 
 from __future__ import annotations
 
+import argparse
 import json
+from datetime import datetime
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
 
-from src.models.base import load_model_dataset, infer_feature_columns, build_sample_weight
-from src.models.poisson_model import PoissonGoalModel
-from src.models.tree_model import TreeGoalModel
+from src.features.feature_columns import FEATURE_COLS
+from src.models.base import load_model_dataset
 from src.models.ensemble import EnsembleGoalModel
-from src.models.weighting import apply_competition_weights, apply_combined_weighting
+from src.models.lgbm_model import LGBMGoalModel
+from src.models.optuna_tuning import exact_score_accuracy, result_accuracy
+from src.models.poisson_model import PoissonGoalModel
+from src.models.score_conversion import win_draw_loss_probs
 from src.models.train import save_model
+from src.models.weighting import apply_competition_weights
+from src.models.world_cup_utils import create_wc_cv_splits
+from src.models.xgb_model import XGBGoalModel
+
+TARGET_COLS = ["goals_A", "goals_B"]
+DEFAULT_SAVE_PATH = "models/production_model.joblib"
+DEFAULT_CONFIG_PATH = "models/production_config.json"
+WC_CV_YEARS = [2014, 2018, 2022]
+
+
+ENSEMBLE_W_LGBM = 0.8
+ENSEMBLE_W_XGB  = 0.2
+
+
+def _build_model(model_type: str):
+    if model_type == "lgbm":
+        return LGBMGoalModel()
+    if model_type == "xgboost":
+        return XGBGoalModel()
+    if model_type == "poisson":
+        return PoissonGoalModel()
+    if model_type == "ensemble":
+        return EnsembleGoalModel(
+            [LGBMGoalModel(), XGBGoalModel()],
+            weights=[ENSEMBLE_W_LGBM, ENSEMBLE_W_XGB],
+        )
+    raise ValueError(f"Unknown model_type: {model_type!r}. "
+                     "Choose from: lgbm, xgboost, poisson, ensemble")
+
+
+def _rps_from_predictions(y_true: np.ndarray, y_pred: np.ndarray) -> float:
+    """Compute average RPS using Poisson grid W/D/L probs from expected goals."""
+    from src.evaluation.metrics import rps_batch
+    probs = np.array([win_draw_loss_probs(la, lb) for la, lb in y_pred])
+    return rps_batch(y_true, probs)
+
+
+def run_wc_cv_evaluation(
+    df: pd.DataFrame,
+    model_type: str,
+    weights: np.ndarray | None,
+    fold_years: list[int] = WC_CV_YEARS,
+) -> dict:
+    """
+    Evaluate model on each WC fold (train=all non-fold rows, val=WC matches).
+    Returns per-fold and average metrics.
+    """
+    print(f"\nRunning WC cross-validation ({fold_years})...")
+    splits = create_wc_cv_splits(df, fold_years, FEATURE_COLS, TARGET_COLS)
+
+    cv_results = {}
+    for year, (X_train, y_train, X_val, y_val) in splits.items():
+        # Align weights to training rows (same mask used in create_wc_cv_splits)
+        w_train = None
+        if weights is not None:
+            val_mask = (
+                (df["tournament_year"] == year) &
+                (df["competition"].str.strip().str.lower() == "world cup")
+            )
+            w_train = weights[~val_mask]
+
+        model = _build_model(model_type)
+        model.fit(X_train, y_train, sample_weight=w_train)
+
+        y_pred = np.clip(model.predict(X_val), 0, None)
+        exact = exact_score_accuracy(y_val, y_pred)
+        result = result_accuracy(y_val, y_pred)
+        rps = _rps_from_predictions(y_val, y_pred)
+
+        cv_results[year] = {
+            "exact_score_accuracy": float(exact),
+            "result_accuracy": float(result),
+            "rps": float(rps),
+            "n_val": int(len(y_val)),
+        }
+
+        print(f"  WC {year}: exact={exact*100:.1f}%  result={result*100:.1f}%  "
+              f"RPS={rps:.4f}  (n={len(y_val)})")
+
+    avg_exact = np.mean([v["exact_score_accuracy"] for v in cv_results.values()])
+    avg_result = np.mean([v["result_accuracy"] for v in cv_results.values()])
+    avg_rps = np.mean([v["rps"] for v in cv_results.values()])
+
+    cv_results["average"] = {
+        "exact_score_accuracy": float(avg_exact),
+        "result_accuracy": float(avg_result),
+        "rps": float(avg_rps),
+    }
+
+    print(f"  Average: exact={avg_exact*100:.1f}%  result={avg_result*100:.1f}%  "
+          f"RPS={avg_rps:.4f}")
+
+    return cv_results
 
 
 def train_production_model(
-    model_type: str = "tree",
+    model_type: str = "lgbm",
     use_weights: bool = True,
-    temporal_decay: bool = False,
-    save_path: str = "models/saved/production_model.pkl",
-    config_path: str = "models/saved/model_config.json",
-):
+    save_path: str = DEFAULT_SAVE_PATH,
+    config_path: str = DEFAULT_CONFIG_PATH,
+    evaluate: bool = True,
+) -> tuple:
     """
-    Train production model with best hyperparameters.
+    Train production model on all available data and save.
 
     Args:
-        model_type: "poisson", "tree", or "ensemble"
-        use_weights: Whether to apply competition weights
-        temporal_decay: Whether to apply temporal decay to older matches
-        save_path: Where to save the model
-        config_path: Where to save model configuration
+        model_type: "lgbm", "xgboost", "poisson", or "ensemble"
+        use_weights: Apply competition-based sample weighting
+        save_path: Path to save the model artifact
+        config_path: Path to save model config JSON
+        evaluate: Run WC cross-validation before final training
 
     Returns:
-        Trained model and configuration dict
+        (model, config_dict)
     """
-
     print("Loading dataset...")
-    df = load_model_dataset()
+    dataset_path = Path("data/processed/model_dataset.csv")
+    if not dataset_path.exists():
+        dataset_path = Path("../data/processed/model_dataset.csv")
+    df = load_model_dataset(path=dataset_path)
+    df["date"] = pd.to_datetime(df["date"])
+    df = df.sort_values("date").reset_index(drop=True)
 
-    # Sort chronologically
-    df['date'] = pd.to_datetime(df['date'])
-    df = df.sort_values('date').reset_index(drop=True)
+    # Validate required columns
+    missing = [c for c in FEATURE_COLS if c not in df.columns]
+    if missing:
+        raise ValueError(f"Dataset missing required feature columns: {missing}")
+    missing_tgt = [c for c in TARGET_COLS if c not in df.columns]
+    if missing_tgt:
+        raise ValueError(f"Dataset missing target columns: {missing_tgt}")
 
-    # Feature engineering
-    feature_cols = infer_feature_columns(df)
-    X = df[feature_cols].fillna(0)
-    y = df[['goals_A', 'goals_B']].values
+    print(f"Dataset: {len(df)} matches, {len(FEATURE_COLS)} features")
 
-    print(f"Dataset: {len(df)} matches, {len(feature_cols)} features")
-
-    # Compute weights
     weights = None
     if use_weights:
-        if temporal_decay:
-            weights = apply_combined_weighting(
-                df,
-                apply_decay=True,
-                competition_weight=0.6,
-                temporal_weight=0.4,
-                reference_year=2024,
-            )
-            print("Applied combined weighting (competition + temporal decay)")
-        else:
-            weights = apply_competition_weights(df)
-            print("Applied competition-based weighting")
+        weights = apply_competition_weights(df)
+        print("Applied competition-based sample weighting.")
 
-    # Train model with best hyperparameters
-    print(f"\nTraining {model_type} model...")
+    cv_metrics = {}
+    if evaluate:
+        cv_metrics = run_wc_cv_evaluation(df, model_type, weights)
 
-    if model_type == "poisson":
-        # Best hyperparameters from Optuna (example, will be updated by experiments)
-        model = PoissonGoalModel(alpha=5.0, max_iter=1000)
-        model.fit(X, y, sample_weight=weights)
+    # Train final model on ALL data
+    print(f"\nTraining final {model_type} model on all {len(df)} matches...")
+    X_all = df[FEATURE_COLS].fillna(0)
+    y_all = df[TARGET_COLS].values
 
-    elif model_type == "tree":
-        # Best hyperparameters from Optuna (example, will be updated by experiments)
-        model = TreeGoalModel(n_estimators=150, max_depth=18, random_state=42)
-        model.fit(X, y, sample_weight=weights)
+    model = _build_model(model_type)
+    model.fit(X_all, y_all, sample_weight=weights)
+    print("Model trained.")
 
-    elif model_type == "ensemble":
-        # Ensemble of best models
-        models = [
-            PoissonGoalModel(alpha=5.0, max_iter=1000),
-            TreeGoalModel(n_estimators=150, max_depth=18, random_state=42),
-        ]
-        model = EnsembleGoalModel(models, weights=[0.5, 0.5])
-        model.fit(X, y, sample_weight=weights)
-
-    else:
-        raise ValueError(f"Unknown model_type: {model_type}")
-
-    print(f"✓ Model trained successfully")
-
-    # Save model
+    # Save artifacts
     save_path_obj = Path(save_path)
     save_path_obj.parent.mkdir(parents=True, exist_ok=True)
     save_model(model, save_path)
-    print(f"✓ Model saved to {save_path}")
+    print(f"Model saved -> {save_path}")
 
-    # Save configuration
     config = {
         "model_type": model_type,
-        "feature_columns": feature_cols,
+        "feature_cols": FEATURE_COLS,
+        "target_cols": TARGET_COLS,
+        "trained_on_date": datetime.today().strftime("%Y-%m-%d"),
         "dataset_info": {
             "n_samples": len(df),
-            "n_features": len(feature_cols),
-            "date_min": str(df['date'].min()),
-            "date_max": str(df['date'].max()),
+            "date_min": str(df["date"].min().date()),
+            "date_max": str(df["date"].max().date()),
         },
-        "hyperparameters": {
-            "use_weights": use_weights,
-            "temporal_decay": temporal_decay,
-        },
-        "model_specific": {
-            "poisson": {"alpha": 5.0, "max_iter": 1000},
-            "tree": {"n_estimators": 150, "max_depth": 18},
-        }
+        "use_weights": use_weights,
+        "cv_metrics": cv_metrics,
     }
 
     config_path_obj = Path(config_path)
     config_path_obj.parent.mkdir(parents=True, exist_ok=True)
-    with open(config_path_obj, 'w') as f:
+    with open(config_path_obj, "w") as f:
         json.dump(config, f, indent=2)
-    print(f"✓ Config saved to {config_path}")
+    print(f"Config saved  -> {config_path}")
 
     return model, config
 
 
-def evaluate_production_model(model_path: str, config_path: str, test_data_path: str | None = None):
-    """
-    Evaluate production model on test data.
-
-    Args:
-        model_path: Path to saved model
-        config_path: Path to model config
-        test_data_path: Optional path to test data CSV
-
-    Returns:
-        Evaluation metrics dict
-    """
-    from src.models.train import load_model
-    from src.models.optuna_tuning import exact_score_accuracy, result_accuracy
-
-    print("Loading model and config...")
-    model = load_model(model_path)
-
-    with open(config_path, 'r') as f:
-        config = json.load(f)
-
-    feature_cols = config["feature_columns"]
-
-    # Load test data (last 20% chronologically)
-    if test_data_path is None:
-        df = load_model_dataset()
-        df['date'] = pd.to_datetime(df['date'])
-        df = df.sort_values('date').reset_index(drop=True)
-        split_idx = int(len(df) * 0.8)
-        df_test = df.iloc[split_idx:].copy()
-    else:
-        df_test = pd.read_csv(test_data_path)
-
-    X_test = df_test[feature_cols].fillna(0)
-    y_test = df_test[['goals_A', 'goals_B']].values
-
-    # Predict
-    y_pred = model.predict(X_test)
-    y_pred = np.clip(y_pred, 0, None)
-
-    # Calculate metrics
-    metrics = {
-        "exact_score_accuracy": float(exact_score_accuracy(y_test, y_pred)),
-        "result_accuracy": float(result_accuracy(y_test, y_pred)),
-        "goal_mae": float(np.mean(np.abs(y_test - y_pred))),
-        "n_test_samples": len(X_test),
-    }
-
-    print("\nEvaluation Results:")
-    for key, value in metrics.items():
-        if "accuracy" in key:
-            print(f"  {key}: {value*100:.2f}%")
-        else:
-            print(f"  {key}: {value}")
-
-    return metrics
-
-
 if __name__ == "__main__":
-    import argparse
-
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description="Train WC predictor production model")
     parser.add_argument(
         "--model-type",
-        default="tree",
-        choices=["poisson", "tree", "ensemble"],
-        help="Model type to train",
+        default="lgbm",
+        choices=["lgbm", "xgboost", "poisson", "ensemble"],
+        help="Model architecture",
     )
-    parser.add_argument(
-        "--no-weights",
-        action="store_true",
-        help="Don't use competition weights",
-    )
-    parser.add_argument(
-        "--temporal-decay",
-        action="store_true",
-        help="Apply temporal decay to older matches",
-    )
-    parser.add_argument(
-        "--evaluate",
-        action="store_true",
-        help="Evaluate after training",
-    )
+    parser.add_argument("--no-weights", action="store_true", help="Skip competition weighting")
+    parser.add_argument("--no-evaluate", action="store_true", help="Skip WC cross-validation")
+    parser.add_argument("--save-path", default=DEFAULT_SAVE_PATH, help="Model save path")
+    parser.add_argument("--config-path", default=DEFAULT_CONFIG_PATH, help="Config save path")
 
     args = parser.parse_args()
 
-    # Train
-    model, config = train_production_model(
+    train_production_model(
         model_type=args.model_type,
         use_weights=not args.no_weights,
-        temporal_decay=args.temporal_decay,
+        save_path=args.save_path,
+        config_path=args.config_path,
+        evaluate=not args.no_evaluate,
     )
-
-    # Evaluate if requested
-    if args.evaluate:
-        metrics = evaluate_production_model(
-            "models/saved/production_model.pkl",
-            "models/saved/model_config.json",
-        )

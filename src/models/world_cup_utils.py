@@ -229,6 +229,72 @@ def create_expanding_window_splits(
     return splits
 
 
+def create_wc_cv_splits(
+    df: pd.DataFrame,
+    tournament_years: List[int],
+    feature_cols: List[str],
+    target_cols: List[str] | None = None,
+) -> Dict[int, Tuple]:
+    """
+    Create multi-fold WC cross-validation splits for hyperparameter tuning.
+
+    For each WC year, the train set is ALL rows NOT belonging to that WC
+    (including data from after that WC). The val set is that WC's matches.
+
+    This is standard k-fold CV applied to WC years. Using post-fold data in
+    training is valid because each row's features are already pre-match
+    snapshots — no leakage.
+
+    Parameters
+    ----------
+    df : pd.DataFrame
+        Full dataset (must have 'tournament_year' column)
+    tournament_years : List[int]
+        WC years to use as CV folds, e.g. [2014, 2018, 2022]
+    feature_cols : List[str]
+        Feature columns for X
+    target_cols : List[str], optional
+        Target columns for y. Defaults to ['goals_A', 'goals_B'].
+
+    Returns
+    -------
+    Dict[int, Tuple[X_train, y_train, X_val, y_val]]
+    """
+    if target_cols is None:
+        target_cols = ["goals_A", "goals_B"]
+
+    if "tournament_year" not in df.columns:
+        raise ValueError("Dataset must have 'tournament_year' column.")
+
+    splits = {}
+    for year in sorted(tournament_years):
+        # Val = actual WC final-stage matches only (not qualifiers, not friendlies)
+        val_mask = (
+            (df["tournament_year"] == year) &
+            (df["competition"].str.strip().str.lower() == "world cup")
+        )
+        # Train = everything else: qualifiers, friendlies, other WC years, same-year non-WC
+        train_mask = ~val_mask
+
+        val_df = df[val_mask]
+        train_df = df[train_mask]
+
+        if len(val_df) == 0:
+            print(f"Warning: No WC matches found for year {year}, skipping fold.")
+            continue
+
+        X_train = train_df[feature_cols].fillna(0)
+        y_train = train_df[target_cols].values
+
+        X_val = val_df[feature_cols].fillna(0)
+        y_val = val_df[target_cols].values
+
+        splits[year] = (X_train, y_train, X_val, y_val)
+        print(f"WC {year} fold: train={len(train_df)}, val={len(val_df)} (WC only)")
+
+    return splits
+
+
 def prepare_feature_sets(df: pd.DataFrame) -> Tuple[List[str], List[str]]:
     """
     Prepare feature sets A (current) and B (with state features).

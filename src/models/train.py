@@ -9,6 +9,7 @@ from .ensemble import EnsembleGoalModel
 from .lgbm_model import LGBMGoalModel
 from .poisson_model import PoissonGoalModel
 from .tree_model import TreeGoalModel
+from .xgb_model import XGBGoalModel
 
 
 def train_model(X_train, y_train, model_type: str = "poisson"):
@@ -26,6 +27,11 @@ def train_model(X_train, y_train, model_type: str = "poisson"):
 
     if model_type == "tree":
         model = TreeGoalModel()
+        model.fit(X_train, y_train)
+        return model
+
+    if model_type == "xgboost":
+        model = XGBGoalModel()
         model.fit(X_train, y_train)
         return model
 
