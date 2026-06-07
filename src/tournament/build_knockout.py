@@ -52,6 +52,14 @@ def build_third_place_slot_map(
         ]
 
         if candidates.empty:
+            # Fallback for V1 simulator:
+            # if no allowed third-place team is available for this slot,
+            # use the best remaining third-place team.
+            candidates = best_thirds[
+                ~best_thirds["team"].isin(used_teams)
+            ]
+
+        if candidates.empty:
             third_slot_map[slot] = None
             continue
 

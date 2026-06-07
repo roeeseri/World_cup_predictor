@@ -1,48 +1,70 @@
-"""Build 2026 World Cup group-stage feature rows."""
+from __future__ import annotations
 
 import sys
 from pathlib import Path
 
-PROJECT_ROOT = Path(__file__).resolve().parents[1]
-sys.path.insert(0, str(PROJECT_ROOT))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from src.data.load_fixtures import load_tournament_fixtures
-from src.data.load_results import load_historical_results
-from src.data.load_elo import load_current_elo_ratings, load_current_rankings
-from src.features.market_value_features import load_market_values
-from src.features.tournament_state_features import initialize_team_states
-from src.features.build_fixture_features import build_features_for_fixtures
+import pandas as pd
+
+from src.features.feature_columns import FEATURE_COLS
+from src.features.position_value_features import (
+    load_position_values,
+    compute_position_value_features,
+)
 
 
-OUTPUT_PATH = Path("data/processed/world_cup_2026_group_stage_features.csv")
+INPUT_PATH = "data/processed/world_cup_2026_group_stage_features.csv"
+OUTPUT_PATH = "data/processed/world_cup_2026_group_stage_features.csv"
 
 
 def main() -> None:
-    fixtures = load_tournament_fixtures()
-    historical_matches = load_historical_results()
-    market_values = load_market_values()
+    df = pd.read_csv(INPUT_PATH)
+    pv = load_position_values()
 
-    elo_ratings = load_current_elo_ratings(as_of_date="2026-05-16")
-    rankings = load_current_rankings(as_of_date="2026-05-16")
+    df["date"] = pd.to_datetime(df["date"])
+    df["season_id"] = df["date"].dt.year
 
-    teams = sorted(set(fixtures["team_a"]) | set(fixtures["team_b"]))
-    team_states = initialize_team_states(teams)
+    position_rows = []
 
-    features_df = build_features_for_fixtures(
-        fixtures=fixtures,
-        team_states=team_states,
-        historical_matches=historical_matches,
-        market_values=market_values,
-        elo_ratings=elo_ratings,
-        rankings=rankings,
-    )
+    for _, row in df.iterrows():
+        position_rows.append(
+            compute_position_value_features(
+                team_a=row["team_a"],
+                team_b=row["team_b"],
+                year=int(row["season_id"]),
+                position_values=pv,
+            )
+        )
 
-    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    features_df.to_csv(OUTPUT_PATH, index=False)
+    position_df = pd.DataFrame(position_rows)
+
+    for col in position_df.columns:
+        df[col] = position_df[col]
+
+    for col in FEATURE_COLS:
+        if col not in df.columns:
+            df[col] = 0.0
+
+    metadata_cols = [
+        "match_id",
+        "date",
+        "team_a",
+        "team_b",
+        "group",
+    ]
+
+    output_cols = metadata_cols + FEATURE_COLS
+
+    df = df[output_cols].copy()
+
+    df.to_csv(OUTPUT_PATH, index=False)
 
     print("Saved:", OUTPUT_PATH)
-    print("Shape:", features_df.shape)
-    print(features_df.head())
+    print("Shape:", df.shape)
+    print("Features:", len(FEATURE_COLS))
+    print("Missing:", [c for c in FEATURE_COLS if c not in df.columns])
+    print(df.head())
 
 
 if __name__ == "__main__":

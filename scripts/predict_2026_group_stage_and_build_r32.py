@@ -5,16 +5,15 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
+import joblib
 import pandas as pd
 
 from src.features.feature_columns import FEATURE_COLS
-from src.models.lgbm_model import LGBMGoalModel
-from src.models.weighting import apply_competition_weights
-from src.prediction.score_conversion import convert_expected_goals_to_scores
+from src.models.score_conversion import most_likely_score
 from src.tournament.simulate_world_cup import build_knockout_from_group_predictions
 
 
-MODEL_DATASET_PATH = "data/processed/model_dataset.csv"
+MODEL_PATH = "models/production_model.joblib"
 GROUP_FEATURES_PATH = "data/processed/world_cup_2026_group_stage_features.csv"
 
 OUT_GROUP_PREDICTIONS = "outputs/evaluation/world_cup_2026_group_predictions.csv"
@@ -23,17 +22,7 @@ OUT_R32_FIXTURES = "outputs/evaluation/world_cup_2026_round_of_32_fixtures.csv"
 
 
 def main():
-    model_df = pd.read_csv(MODEL_DATASET_PATH)
-    model_df["date"] = pd.to_datetime(model_df["date"])
-
-    train_df = model_df[model_df["date"] < "2026-01-01"].copy()
-
-    X_train = train_df[FEATURE_COLS].fillna(0)
-    y_train = train_df[["target_goals_a", "target_goals_b"]]
-    weights = apply_competition_weights(train_df)
-
-    model = LGBMGoalModel()
-    model.fit(X_train, y_train, sample_weight=weights)
+    model = joblib.load(MODEL_PATH)
 
     fixtures = pd.read_csv(GROUP_FEATURES_PATH)
 
@@ -44,7 +33,14 @@ def main():
     X_2026 = fixtures[FEATURE_COLS].fillna(0)
 
     preds = model.predict(X_2026)
-    scores = convert_expected_goals_to_scores(preds)
+
+    scores = [
+        most_likely_score(
+            float(pred[0]),
+            float(pred[1]),
+        )
+        for pred in preds
+    ]
 
     predictions = fixtures[
         ["match_id", "date", "team_a", "team_b", "group"]
@@ -52,8 +48,8 @@ def main():
 
     predictions["pred_lambda_a"] = preds[:, 0]
     predictions["pred_lambda_b"] = preds[:, 1]
-    predictions["pred_goals_a"] = scores[:, 0]
-    predictions["pred_goals_b"] = scores[:, 1]
+    predictions["pred_goals_a"] = [score[0] for score in scores]
+    predictions["pred_goals_b"] = [score[1] for score in scores]
     predictions["pred_score"] = (
         predictions["pred_goals_a"].astype(str)
         + "-"
