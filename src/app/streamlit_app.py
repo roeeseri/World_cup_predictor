@@ -4,8 +4,6 @@ import sys
 from pathlib import Path
 
 import joblib
-
-import numpy as np
 import pandas as pd
 import streamlit as st
 
@@ -13,159 +11,247 @@ ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 
 from src.features.feature_columns import FEATURE_COLS
-from src.models.lgbm_model import LGBMGoalModel
-from src.models.weighting import apply_competition_weights
-from src.models.score_conversion import (
-    most_likely_score,
-    top_scores,
-    win_draw_loss_probs,
-)
+from src.models.score_conversion import most_likely_score, top_scores, win_draw_loss_probs
+from src.tournament.simulate_world_cup import simulate_world_cup_2026
 
 
-DATA_PATH = ROOT / "data" / "processed" / "model_dataset.csv"
+MODEL_PATH = ROOT / "models" / "production_model.joblib"
+MODEL_DATASET_PATH = ROOT / "data" / "processed" / "model_dataset.csv"
+GROUP_FEATURES_PATH = ROOT / "data" / "processed" / "world_cup_2026_group_stage_features.csv"
 
-
-@st.cache_data
-def load_data() -> pd.DataFrame:
-    df = pd.read_csv(DATA_PATH)
-    df["date"] = pd.to_datetime(df["date"])
-    return df
 
 @st.cache_resource
 def load_model():
-    model_path = ROOT / "models" / "production_model.joblib"
-    return joblib.load(model_path)
+    return joblib.load(MODEL_PATH)
 
 
-@st.cache_resource
-def train_model(df: pd.DataFrame) -> LGBMGoalModel:
-    train_df = df[df["date"] < "2026-01-01"].copy()
-
-    X = train_df[FEATURE_COLS].fillna(0)
-    y = train_df[["target_goals_a", "target_goals_b"]]
-    weights = apply_competition_weights(train_df)
-
-    model = LGBMGoalModel()
-    model.fit(X, y, sample_weight=weights)
-
-    return model
+@st.cache_data
+def load_model_dataset():
+    df = pd.read_csv(MODEL_DATASET_PATH)
+    df["date"] = pd.to_datetime(df["date"])
+    return df
 
 
-def reverse_feature_row(row: pd.Series) -> pd.Series:
-    features = row[FEATURE_COLS].copy()
-
-    diff_cols = [
-        "rank_diff",
-        "elo_diff",
-        "avg_player_value_diff",
-        "opponent_strength_diff_last5",
-        "weighted_goals_for_diff_last5",
-        "weighted_goals_against_diff_last5",
-        "market_value_rel_mean_diff",
-        "rating_change_diff_last5",
-        "defender_share_diff",
-        "goalkeeper_share_diff",
-        "tournament_goal_diff_diff",
-        "tournament_points_diff",
-    ]
-
-    swap_pairs = [
-        ("rating_a_before", "rating_b_before"),
-        ("team_a_matches_played_before", "team_b_matches_played_before"),
-        ("team_a_days_since_last_match", "team_b_days_since_last_match"),
-        ("team_a_tournament_matches_played", "team_b_tournament_matches_played"),
-    ]
-
-    for col in diff_cols:
-        if col in features.index:
-            features[col] = -features[col]
-
-    for col_a, col_b in swap_pairs:
-        if col_a in features.index and col_b in features.index:
-            old_a = features[col_a]
-            features[col_a] = features[col_b]
-            features[col_b] = old_a
-
-    return features
+@st.cache_data
+def load_2026_group_features():
+    return pd.read_csv(GROUP_FEATURES_PATH)
 
 
-def find_latest_feature_row(
-    df: pd.DataFrame,
-    team_a: str,
-    team_b: str,
-) -> pd.DataFrame:
-    direct = df[
-        (df["team_a"] == team_a)
-        & (df["team_b"] == team_b)
+@st.cache_data
+def run_cached_simulation(_model, model_df, group_features):
+    return simulate_world_cup_2026(
+        model=_model,
+        model_df=model_df,
+        group_features=group_features,
+    )
+
+
+def build_direct_match_row(model_df, team_a, team_b):
+    direct = model_df[
+        (model_df["team_a"] == team_a)
+        & (model_df["team_b"] == team_b)
     ].sort_values("date")
 
     if not direct.empty:
         return pd.DataFrame([direct.iloc[-1][FEATURE_COLS]])
 
-    reverse = df[
-        (df["team_a"] == team_b)
-        & (df["team_b"] == team_a)
-    ].sort_values("date")
-
-    if not reverse.empty:
-        reversed_features = reverse_feature_row(reverse.iloc[-1])
-        return pd.DataFrame([reversed_features])
-
-    # Fallback for teams that never played each other:
-    # Use the median feature row, then replace absolute rating features with team latest values.
-    fallback = df[FEATURE_COLS].median(numeric_only=True)
-
-    latest_a = df[(df["team_a"] == team_a) | (df["team_b"] == team_a)].sort_values("date")
-    latest_b = df[(df["team_a"] == team_b) | (df["team_b"] == team_b)].sort_values("date")
-
-    if not latest_a.empty:
-        row_a = latest_a.iloc[-1]
-        if row_a["team_a"] == team_a:
-            fallback["rating_a_before"] = row_a["rating_a_before"]
-            fallback["team_a_matches_played_before"] = row_a["team_a_matches_played_before"]
-            fallback["team_a_days_since_last_match"] = row_a["team_a_days_since_last_match"]
-        else:
-            fallback["rating_a_before"] = row_a["rating_b_before"]
-            fallback["team_a_matches_played_before"] = row_a["team_b_matches_played_before"]
-            fallback["team_a_days_since_last_match"] = row_a["team_b_days_since_last_match"]
-
-    if not latest_b.empty:
-        row_b = latest_b.iloc[-1]
-        if row_b["team_b"] == team_b:
-            fallback["rating_b_before"] = row_b["rating_b_before"]
-            fallback["team_b_matches_played_before"] = row_b["team_b_matches_played_before"]
-            fallback["team_b_days_since_last_match"] = row_b["team_b_days_since_last_match"]
-        else:
-            fallback["rating_b_before"] = row_b["rating_a_before"]
-            fallback["team_b_matches_played_before"] = row_b["team_a_matches_played_before"]
-            fallback["team_b_days_since_last_match"] = row_b["team_a_days_since_last_match"]
-
-    fallback["elo_diff"] = fallback["rating_a_before"] - fallback["rating_b_before"]
-
+    fallback = model_df[FEATURE_COLS].median(numeric_only=True)
     return pd.DataFrame([fallback[FEATURE_COLS]])
 
 
-def top_score_options(lambda_a: float, lambda_b: float) -> pd.DataFrame:
-    options = top_scores(lambda_a, lambda_b, n=10)
+def show_match_predictor(model, model_df):
+    st.header("⚽ Single Match Predictor")
 
-    return pd.DataFrame(
-        [
-            {
-                "team_a_goals": score_a,
-                "team_b_goals": score_b,
-                "probability": probability,
-                "probability_%": round(probability * 100, 2),
-            }
-            for score_a, score_b, probability in options
-        ]
+    teams = sorted(set(model_df["team_a"]) | set(model_df["team_b"]))
+
+    col1, col2 = st.columns(2)
+    with col1:
+        team_a = st.selectbox("Team A", teams, index=teams.index("Argentina") if "Argentina" in teams else 0)
+    with col2:
+        team_b = st.selectbox("Team B", teams, index=teams.index("France") if "France" in teams else 1)
+
+    if team_a == team_b:
+        st.warning("Choose two different teams.")
+        return
+
+    if st.button("Predict Match", type="primary"):
+        X = build_direct_match_row(model_df, team_a, team_b).fillna(0)
+        pred = model.predict(X)
+
+        lambda_a = float(pred[0, 0])
+        lambda_b = float(pred[0, 1])
+
+        score_a, score_b = most_likely_score(lambda_a, lambda_b)
+        win_a, draw, win_b = win_draw_loss_probs(lambda_a, lambda_b)
+
+        if score_a > score_b:
+            winner = team_a
+        elif score_b > score_a:
+            winner = team_b
+        else:
+            winner = "Draw"
+
+        c1, c2, c3 = st.columns(3)
+        c1.metric("Predicted Score", f"{team_a} {score_a} - {score_b} {team_b}")
+        c2.metric("Expected Goals", f"{lambda_a:.2f} - {lambda_b:.2f}")
+        c3.metric("Most Likely Result", winner)
+
+        p1, p2, p3 = st.columns(3)
+        p1.metric(f"{team_a} Win", f"{win_a * 100:.1f}%")
+        p2.metric("Draw", f"{draw * 100:.1f}%")
+        p3.metric(f"{team_b} Win", f"{win_b * 100:.1f}%")
+
+        score_options = pd.DataFrame(
+            [
+                {
+                    "score": f"{a}-{b}",
+                    "team_a_goals": a,
+                    "team_b_goals": b,
+                    "probability_%": round(prob * 100, 2),
+                }
+                for a, b, prob in top_scores(lambda_a, lambda_b, n=10)
+            ]
+        )
+
+        st.subheader("Top Score Options")
+        st.dataframe(score_options, use_container_width=True, hide_index=True)
+
+        st.subheader("Feature Row Used")
+        st.dataframe(X.T.rename(columns={X.index[0]: "value"}), use_container_width=True)
+
+
+def show_world_cup_dashboard(model, model_df, group_features):
+    st.header("🏆 World Cup 2026 Full Simulation")
+
+    results = run_cached_simulation(model, model_df, group_features)
+
+    champion = results["champion"]
+    runner_up = results["runner_up"]
+    third_place = results["third_place"]
+
+    c1, c2, c3 = st.columns(3)
+    c1.metric("Champion", champion)
+    c2.metric("Runner-up", runner_up)
+    c3.metric("Third Place", third_place)
+
+    st.info(
+        "This is a deterministic single-path simulation: each match uses the model's most likely score. "
+        "Later we can add Monte Carlo simulations for title probabilities."
     )
 
+    tabs = st.tabs([
+        "Group Predictions",
+        "Group Standings",
+        "Round of 32",
+        "Knockout Bracket",
+        "Final Summary",
+        "Model Features",
+    ])
 
-def format_pct(value: float) -> str:
-    return f"{value * 100:.1f}%"
+    with tabs[0]:
+        st.subheader("Group Stage Predictions")
+        df = results["group_predictions"].copy()
+        st.dataframe(df, use_container_width=True, hide_index=True)
+
+    with tabs[1]:
+        st.subheader("Group Standings")
+        standings = results["standings"].copy()
+
+        for group in sorted(standings["group"].unique()):
+            st.markdown(f"### {group}")
+            gdf = standings[standings["group"] == group].copy()
+            st.dataframe(
+                gdf[
+                    [
+                        "position",
+                        "team",
+                        "played",
+                        "wins",
+                        "draws",
+                        "losses",
+                        "goals_for",
+                        "goals_against",
+                        "goal_diff",
+                        "points",
+                    ]
+                ],
+                use_container_width=True,
+                hide_index=True,
+            )
+
+    with tabs[2]:
+        st.subheader("Round of 32 Fixtures")
+        st.dataframe(results["r32_fixtures"], use_container_width=True, hide_index=True)
+
+    with tabs[3]:
+        st.subheader("Knockout Results")
+        knockout = results["knockout_results"].copy()
+
+        round_order = ["R32", "R16", "QF", "SF", "THIRD_PLACE", "FINAL"]
+
+        for round_name in round_order:
+            rdf = knockout[knockout["round"] == round_name].copy()
+            if rdf.empty:
+                continue
+
+            title = {
+                "R32": "Round of 32",
+                "R16": "Round of 16",
+                "QF": "Quarter Finals",
+                "SF": "Semi Finals",
+                "THIRD_PLACE": "Third Place Match",
+                "FINAL": "Final",
+            }.get(round_name, round_name)
+
+            st.markdown(f"### {title}")
+            st.dataframe(
+                rdf[
+                    [
+                        "match_slot",
+                        "team_a",
+                        "team_b",
+                        "pred_score",
+                        "lambda_a",
+                        "lambda_b",
+                        "team_a_win_prob",
+                        "draw_prob",
+                        "team_b_win_prob",
+                        "winner",
+                    ]
+                ],
+                use_container_width=True,
+                hide_index=True,
+            )
+
+    with tabs[4]:
+        st.subheader("Tournament Final")
+        final = results["knockout_results"][results["knockout_results"]["round"] == "FINAL"].iloc[0]
+        third = results["knockout_results"][results["knockout_results"]["round"] == "THIRD_PLACE"].iloc[0]
+
+        st.markdown(f"## 🏆 {champion}")
+        st.write(f"Final: **{final['team_a']} {final['pred_score']} {final['team_b']}**")
+        st.write(f"Winner: **{final['winner']}**")
+
+        st.markdown("### Third Place")
+        st.write(f"Third-place match: **{third['team_a']} {third['pred_score']} {third['team_b']}**")
+        st.write(f"Third place: **{third['winner']}**")
+
+    with tabs[5]:
+        st.subheader("Production Feature Columns")
+        st.write(f"Number of features: **{len(FEATURE_COLS)}**")
+        st.dataframe(pd.DataFrame({"feature": FEATURE_COLS}), use_container_width=True, hide_index=True)
+
+        st.subheader("2026 Feature Coverage")
+        missing = [c for c in FEATURE_COLS if c not in group_features.columns]
+        if missing:
+            st.error(f"Missing 2026 features: {missing}")
+        else:
+            st.success("All production features exist in the 2026 fixture dataset.")
+
+        st.dataframe(group_features.head(20), use_container_width=True, hide_index=True)
 
 
-def main() -> None:
+def main():
     st.set_page_config(
         page_title="World Cup Score Predictor",
         page_icon="⚽",
@@ -173,118 +259,31 @@ def main() -> None:
     )
 
     st.title("⚽ World Cup Score Predictor")
-    st.caption(
-        "LightGBM model trained with the final 21 production features from src."
-    )
+    st.caption("Production model + final 21 features + 2026 tournament simulator")
 
-    df = load_data()
     model = load_model()
+    model_df = load_model_dataset()
+    group_features = load_2026_group_features()
 
-    teams = sorted(
-        set(df["team_a"].dropna().unique())
-        | set(df["team_b"].dropna().unique())
+    st.sidebar.title("Navigation")
+    page = st.sidebar.radio(
+        "Choose page",
+        [
+            "Single Match Predictor",
+            "World Cup 2026 Simulation",
+        ],
     )
 
-    st.sidebar.header("Match Setup")
+    st.sidebar.divider()
+    st.sidebar.write("Model:")
+    st.sidebar.code(type(model).__name__)
+    st.sidebar.write("Features:")
+    st.sidebar.code(str(len(FEATURE_COLS)))
 
-    team_a = st.sidebar.selectbox(
-        "Team A",
-        teams,
-        index=teams.index("Argentina") if "Argentina" in teams else 0,
-    )
-
-    team_b = st.sidebar.selectbox(
-        "Team B",
-        teams,
-        index=teams.index("France") if "France" in teams else 1,
-    )
-
-    predict_clicked = st.sidebar.button("Predict Match", type="primary")
-
-    if team_a == team_b:
-        st.warning("Choose two different teams.")
-        return
-
-    if not predict_clicked:
-        st.info("Choose two teams and click Predict Match.")
-        return
-
-    X_match = find_latest_feature_row(df, team_a, team_b)
-    X_match = X_match[FEATURE_COLS].fillna(0)
-
-    preds = model.predict(X_match)
-
-    lambda_a = float(preds[0, 0])
-    lambda_b = float(preds[0, 1])
-
-    pred_score = most_likely_score(lambda_a, lambda_b)
-
-    win_prob, draw_prob, loss_prob = win_draw_loss_probs(lambda_a, lambda_b)
-
-    score_options = top_scores(lambda_a, lambda_b, n=10)
-    score_prob = score_options[0][2]
-
-    probs = {
-        "home_win": win_prob,
-        "draw": draw_prob,
-        "away_win": loss_prob,
-    }
-
-    if pred_score[0] > pred_score[1]:
-        winner = team_a
-    elif pred_score[0] < pred_score[1]:
-        winner = team_b
+    if page == "Single Match Predictor":
+        show_match_predictor(model, model_df)
     else:
-        winner = "Draw"
-
-    col1, col2, col3 = st.columns(3)
-
-    with col1:
-        st.metric(
-            "Predicted Score",
-            f"{team_a} {pred_score[0]} - {pred_score[1]} {team_b}",
-        )
-
-    with col2:
-        st.metric(
-            "Expected Goals",
-            f"{lambda_a:.2f} - {lambda_b:.2f}",
-        )
-
-    with col3:
-        st.metric(
-            "Most Likely Result",
-            winner,
-        )
-
-    st.divider()
-
-    p1, p2, p3, p4 = st.columns(4)
-
-    with p1:
-        st.metric(f"{team_a} Win", format_pct(probs["home_win"]))
-
-    with p2:
-        st.metric("Draw", format_pct(probs["draw"]))
-
-    with p3:
-        st.metric(f"{team_b} Win", format_pct(probs["away_win"]))
-
-    with p4:
-        st.metric("Predicted Score Probability", format_pct(score_prob))
-
-    st.subheader("Top Score Options")
-    st.dataframe(
-        top_score_options(lambda_a, lambda_b),
-        use_container_width=True,
-        hide_index=True,
-    )
-
-    st.subheader("Feature Row Used by the Model")
-    st.dataframe(
-        X_match.T.rename(columns={X_match.index[0]: "value"}),
-        use_container_width=True,
-    )
+        show_world_cup_dashboard(model, model_df, group_features)
 
 
 if __name__ == "__main__":
