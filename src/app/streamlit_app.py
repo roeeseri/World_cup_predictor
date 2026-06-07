@@ -3,6 +3,8 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
+import joblib
+
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -13,10 +15,10 @@ sys.path.insert(0, str(ROOT))
 from src.features.feature_columns import FEATURE_COLS
 from src.models.lgbm_model import LGBMGoalModel
 from src.models.weighting import apply_competition_weights
-from src.prediction.score_conversion import (
-    convert_expected_goals_to_scores,
-    outcome_probabilities,
-    poisson_score_grid,
+from src.models.score_conversion import (
+    most_likely_score,
+    top_scores,
+    win_draw_loss_probs,
 )
 
 
@@ -28,6 +30,11 @@ def load_data() -> pd.DataFrame:
     df = pd.read_csv(DATA_PATH)
     df["date"] = pd.to_datetime(df["date"])
     return df
+
+@st.cache_resource
+def load_model():
+    model_path = ROOT / "models" / "production_model.joblib"
+    return joblib.load(model_path)
 
 
 @st.cache_resource
@@ -138,27 +145,20 @@ def find_latest_feature_row(
     return pd.DataFrame([fallback[FEATURE_COLS]])
 
 
-def top_score_options(lambda_a: float, lambda_b: float, max_goals: int = 6) -> pd.DataFrame:
-    grid = poisson_score_grid(lambda_a, lambda_b, max_goals=max_goals)
+def top_score_options(lambda_a: float, lambda_b: float) -> pd.DataFrame:
+    options = top_scores(lambda_a, lambda_b, n=10)
 
-    options = (
-        grid
-        .stack()
-        .reset_index()
+    return pd.DataFrame(
+        [
+            {
+                "team_a_goals": score_a,
+                "team_b_goals": score_b,
+                "probability": probability,
+                "probability_%": round(probability * 100, 2),
+            }
+            for score_a, score_b, probability in options
+        ]
     )
-
-    options.columns = ["team_a_goals", "team_b_goals", "probability"]
-
-    options = (
-        options
-        .sort_values("probability", ascending=False)
-        .head(10)
-        .reset_index(drop=True)
-    )
-
-    options["probability_%"] = (options["probability"] * 100).round(2)
-
-    return options
 
 
 def format_pct(value: float) -> str:
@@ -178,7 +178,7 @@ def main() -> None:
     )
 
     df = load_data()
-    model = train_model(df)
+    model = load_model()
 
     teams = sorted(
         set(df["team_a"].dropna().unique())
@@ -217,12 +217,18 @@ def main() -> None:
     lambda_a = float(preds[0, 0])
     lambda_b = float(preds[0, 1])
 
-    score_array = convert_expected_goals_to_scores([[lambda_a, lambda_b]])
-    pred_score = tuple(score_array[0])
+    pred_score = most_likely_score(lambda_a, lambda_b)
 
-    probs = outcome_probabilities(lambda_a, lambda_b)
-    score_grid = poisson_score_grid(lambda_a, lambda_b)
-    score_prob = float(score_grid.loc[pred_score[0], pred_score[1]])
+    win_prob, draw_prob, loss_prob = win_draw_loss_probs(lambda_a, lambda_b)
+
+    score_options = top_scores(lambda_a, lambda_b, n=10)
+    score_prob = score_options[0][2]
+
+    probs = {
+        "home_win": win_prob,
+        "draw": draw_prob,
+        "away_win": loss_prob,
+    }
 
     if pred_score[0] > pred_score[1]:
         winner = team_a
