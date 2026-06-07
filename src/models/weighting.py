@@ -10,14 +10,17 @@ import pandas as pd
 
 # Competition weight mappings
 COMPETITION_WEIGHTS = {
-    'FIFA World Cup': 5.0,
-    'World Cup qualifier': 3.0,
-    'European Championship': 4.0,
-    'European Championship qualifier': 2.0,
-    'Copa America': 3.5,
+    'World Cup': 4.0,
+    'World Cup qualifier': 2.0,
+    'World Cup qualifier and Oceania Cup' : 2.0,
+    'European Championship': 3.0,
+    'European Championship qualifier': 1.5,
+    'World Cup and Asian Cup qualifier' : 1.5,
+    'Copa America': 3.0,
     'African Nations Cup': 3.0,
+    'Gulf Cup' : 2.0,
     'African Nations Cup qualifier': 1.5,
-    'CONCACAF Gold Cup': 2.5,
+    'CONCACAF Gold Cup': 2,
     'Friendly': 1.0,
 }
 

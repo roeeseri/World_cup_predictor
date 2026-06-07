@@ -36,8 +36,8 @@ DEFAULT_CONFIG_PATH = "models/production_config.json"
 WC_CV_YEARS = [2014, 2018, 2022]
 
 
-ENSEMBLE_W_LGBM = 0.8
-ENSEMBLE_W_XGB  = 0.2
+ENSEMBLE_W_LGBM = 0.9
+ENSEMBLE_W_XGB  = 0.1
 
 
 def _build_model(model_type: str):

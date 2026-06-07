@@ -42,14 +42,14 @@ from src.evaluation.metrics import (
 )
 from src.models.ensemble import EnsembleGoalModel
 from src.models.lgbm_model import LGBMGoalModel
-from src.models.score_conversion import win_draw_loss_probs
-from src.models.weighting import apply_competition_weights, COMPETITION_WEIGHTS
+from src.models.score_conversion import most_likely_score, win_draw_loss_probs
+from src.models.weighting import COMPETITION_WEIGHTS, apply_competition_weights
 from src.models.xgb_model import XGBGoalModel
 
 SEP = "=" * 100
 
-ENSEMBLE_W_LGBM = 0.8
-ENSEMBLE_W_XGB  = 0.2
+ENSEMBLE_W_LGBM = 0.9
+ENSEMBLE_W_XGB  = 0.1
 
 
 # ---------------------------------------------------------------------------
@@ -129,8 +129,7 @@ def run_simulation(model, test_df: pd.DataFrame) -> pd.DataFrame:
         pred = np.clip(model.predict(X), 0, None)
 
         lambda_a, lambda_b = float(pred[0, 0]), float(pred[0, 1])
-        pred_a = int(round(lambda_a))
-        pred_b = int(round(lambda_b))
+        pred_a, pred_b = most_likely_score(lambda_a, lambda_b)
         probs  = win_draw_loss_probs(lambda_a, lambda_b)
 
         actual_a = int(row["target_goals_a"])
@@ -248,9 +247,7 @@ def print_model_info(train_df: pd.DataFrame, cutoff: pd.Timestamp) -> None:
         print(f"    {key:<42} {cnt:>5}")
 
     print("\n--- Sample weights ---")
-    for comp, w in sorted(COMPETITION_WEIGHTS.items(), key=lambda x: -x[1]):
-        print(f"    {comp:<40} {w:.1f}x")
-    print("  Normalized to mean=1.0 across training set.")
+    print("  Competition-based (apply_competition_weights) — normalized to mean 1.0")
 
 
 def print_results(results: pd.DataFrame, label: str) -> None:
