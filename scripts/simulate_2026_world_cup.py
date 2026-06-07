@@ -11,7 +11,7 @@ import pandas as pd
 from src.tournament.simulate_world_cup import simulate_world_cup_2026
 
 
-MODEL_PATH = "models/production_model.joblib"
+MODEL_PATH = "models/production_model_v2.joblib"
 MODEL_DATASET_PATH = "data/processed/model_dataset.csv"
 GROUP_FEATURES_PATH = "data/processed/world_cup_2026_group_stage_features.csv"
 
