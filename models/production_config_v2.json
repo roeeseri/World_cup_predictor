@@ -1,0 +1,38 @@
+{
+  "model_type": "ensemble",
+  "feature_cols": [
+    "rank_diff",
+    "elo_diff",
+    "rating_a_before",
+    "rating_b_before",
+    "avg_player_value_diff",
+    "opponent_strength_diff_last5",
+    "weighted_goals_for_diff_last5",
+    "log_market_value_a",
+    "weighted_goals_against_diff_last5",
+    "team_b_matches_played_before",
+    "team_a_matches_played_before",
+    "market_value_rel_mean_diff",
+    "rating_change_diff_last5",
+    "defender_share_diff",
+    "goalkeeper_share_diff",
+    "team_b_days_since_last_match",
+    "team_a_days_since_last_match",
+    "tournament_goal_diff_diff",
+    "tournament_points_diff",
+    "team_a_tournament_matches_played",
+    "team_b_tournament_matches_played"
+  ],
+  "target_cols": [
+    "goals_A",
+    "goals_B"
+  ],
+  "trained_on_date": "2026-06-07",
+  "dataset_info": {
+    "n_samples": 21539,
+    "date_min": "2004-01-01",
+    "date_max": "2026-05-16"
+  },
+  "use_weights": false,
+  "cv_metrics": {}
+}
