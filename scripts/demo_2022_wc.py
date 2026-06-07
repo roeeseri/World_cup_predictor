@@ -30,11 +30,6 @@ import numpy as np
 import pandas as pd
 
 from src.features.feature_columns import FEATURE_COLS
-from src.features.tournament_state_features import (
-    compute_tournament_state_features,
-    initialize_team_states,
-    update_state_after_match,
-)
 from src.evaluation.metrics import (
     exact_score_accuracy,
     goal_difference_mae,
@@ -47,7 +42,7 @@ from src.evaluation.metrics import (
 )
 from src.models.ensemble import EnsembleGoalModel
 from src.models.lgbm_model import LGBMGoalModel
-from src.models.score_conversion import most_likely_score, win_draw_loss_probs
+from src.models.score_conversion import win_draw_loss_probs
 from src.models.weighting import apply_competition_weights, COMPETITION_WEIGHTS
 from src.models.xgb_model import XGBGoalModel
 
@@ -121,61 +116,40 @@ def train_ensemble(train_df: pd.DataFrame) -> EnsembleGoalModel:
 
 def run_simulation(model, test_df: pd.DataFrame) -> pd.DataFrame:
     """
-    Simulate the 2022 WC match by match.
+    Evaluate model on the 2022 WC using pre-computed dataset features.
 
-    For each match:
-      1. Retrieve pre-computed features from the dataset (ELO, form, market value)
-      2. Override 4 tournament-state cols with live state from tournament_state_features.py
-      3. Predict (lambda_a, lambda_b) from model
-      4. Poisson grid -> discrete score + W/D/L probs
-      5. Update tournament state with actual result
+    Mirrors the 2026 production flow: features are already built in the dataset
+    (including tournament-state columns computed at data-prep time), so we just
+    load them and run inference — no live state update needed.
     """
-    team_states = initialize_team_states([])
     records = []
 
     for _, row in test_df.iterrows():
-        team_a = row["team_a"]
-        team_b = row["team_b"]
-
-        features = row[FEATURE_COLS].copy()
-
-        # Override with live tournament state
-        state_feats = compute_tournament_state_features(team_a, team_b, team_states)
-        for col, val in state_feats.items():
-            if col in features.index:
-                features[col] = val
-
-        X = pd.DataFrame([features])
+        X = pd.DataFrame([row[FEATURE_COLS]])
         pred = np.clip(model.predict(X), 0, None)
 
         lambda_a, lambda_b = float(pred[0, 0]), float(pred[0, 1])
-        predicted = most_likely_score(lambda_a, lambda_b)
-        probs = win_draw_loss_probs(lambda_a, lambda_b)
+        pred_a = int(round(lambda_a))
+        pred_b = int(round(lambda_b))
+        probs  = win_draw_loss_probs(lambda_a, lambda_b)
 
         actual_a = int(row["target_goals_a"])
         actual_b = int(row["target_goals_b"])
-        pred_result   = int(np.sign(predicted[0] - predicted[1]))
-        actual_result = int(np.sign(actual_a - actual_b))
 
         records.append({
             "date":         row["date"].date(),
-            "team_a":       team_a,
-            "team_b":       team_b,
-            "pred_score":   f"{predicted[0]}-{predicted[1]}",
+            "team_a":       row["team_a"],
+            "team_b":       row["team_b"],
+            "pred_score":   f"{pred_a}-{pred_b}",
             "actual_score": f"{actual_a}-{actual_b}",
             "lambda_a":     round(lambda_a, 2),
             "lambda_b":     round(lambda_b, 2),
             "p_win_a":      round(probs[0] * 100, 1),
             "p_draw":       round(probs[1] * 100, 1),
             "p_win_b":      round(probs[2] * 100, 1),
-            "exact_match":  predicted[0] == actual_a and predicted[1] == actual_b,
-            "result_match": pred_result == actual_result,
+            "exact_match":  pred_a == actual_a and pred_b == actual_b,
+            "result_match": int(np.sign(pred_a - pred_b)) == int(np.sign(actual_a - actual_b)),
         })
-
-        team_states = update_state_after_match(
-            team_states, team_a=team_a, team_b=team_b,
-            goals_a=actual_a, goals_b=actual_b,
-        )
 
     return pd.DataFrame(records)
 
