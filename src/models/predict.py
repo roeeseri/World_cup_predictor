@@ -43,7 +43,7 @@ def predict_match_from_features(model, feature_row: pd.DataFrame) -> dict:
     lambda_a, lambda_b = float(pred[0, 0]), float(pred[0, 1])
 
     win_prob, draw_prob, loss_prob = win_draw_loss_probs(lambda_a, lambda_b)
-    best_score = (int(round(lambda_a)), int(round(lambda_b)))
+    best_score = most_likely_score(lambda_a, lambda_b)
     best_scores = top_scores(lambda_a, lambda_b, n=5)
 
     return {

@@ -24,7 +24,7 @@ from .base import coerce_goal_array
 
 
 def exact_score_accuracy(y_true: np.ndarray, y_pred: np.ndarray) -> float:
-    """Exact score accuracy (most important metric)."""
+    """Exact score accuracy using round — best calibration target for Poisson lambdas."""
     y_pred_int = np.round(y_pred).astype(int)
     matches = np.all(y_true == y_pred_int, axis=1)
     return np.mean(matches)

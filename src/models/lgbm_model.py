@@ -1,33 +1,38 @@
 from __future__ import annotations
 
 import numpy as np
+import pandas as pd
 import lightgbm as lgb
 
 from .base import coerce_goal_array, ensure_non_negative
+from src.features.feature_columns import mirror_features
 
 
 class LGBMGoalModel:
     """
-    LightGBM model for goal prediction.
+    LightGBM model for goal prediction with symmetric training.
 
-    Separate models for goals_A and goals_B using Poisson objective,
-    which naturally handles count data and non-negative outputs.
+    A single model is trained on augmented data: each match appears twice —
+    once as (team_a, features) → goals_A, and once as (team_b, mirrored_features)
+    → goals_B. Prediction is symmetric: goals_A = model(X), goals_B = model(mirror(X)).
 
-    Default params are from Optuna search on 2022 WC (notebook 06).
-    For generalization, consider tuning on a held-out WC year.
+    This ensures predict(A vs B) gives the same lambda values as predict(B vs A)
+    with teams swapped, regardless of which team is listed first.
+
+    Default params from Optuna 3-fold WC CV (notebook 07).
     """
 
     def __init__(
         self,
-        n_estimators: int = 119,
+        n_estimators: int = 276,
         max_depth: int = 9,
-        learning_rate: float = 0.08693801662636208,
-        num_leaves: int = 71,
-        min_child_samples: int = 38,
-        subsample: float =  0.6748588482689979,
-        colsample_bytree: float = 0.9474488082792801,
-        reg_alpha: float = 0.006176220605605113,
-        reg_lambda: float = 0.00040731368039932604,
+        learning_rate: float = 0.02597955300094567,
+        num_leaves: int = 233,
+        min_child_samples: int = 33,
+        subsample: float = 0.7334473346895813,
+        colsample_bytree: float = 0.835882051416841,
+        reg_alpha: float = 0.07980827874410094,
+        reg_lambda: float = 0.0017299303935923262,
         random_state: int = 42,
         verbose: int = -1,
     ) -> None:
@@ -46,25 +51,31 @@ class LGBMGoalModel:
             objective="poisson",
             n_jobs=-1,
         )
-        self.home_model = lgb.LGBMRegressor(**self._params)
-        self.away_model = lgb.LGBMRegressor(**self._params)
+        self.model = lgb.LGBMRegressor(**self._params)
 
     def fit(self, X, y, sample_weight=None):
         y_arr = coerce_goal_array(y)
-        self.home_model.fit(X, y_arr[:, 0], sample_weight=sample_weight)
-        self.away_model.fit(X, y_arr[:, 1], sample_weight=sample_weight)
+        X_pd = X if isinstance(X, pd.DataFrame) else pd.DataFrame(X, columns=range(X.shape[1]))
+
+        # Augment: original rows predict goals_A, mirrored rows predict goals_B
+        X_aug = pd.concat([X_pd, mirror_features(X_pd)], ignore_index=True)
+        y_aug = np.concatenate([y_arr[:, 0], y_arr[:, 1]])
+        w_aug = None
+        if sample_weight is not None:
+            w = np.asarray(sample_weight)
+            w_aug = np.concatenate([w, w])
+
+        self.model.fit(X_aug, y_aug, sample_weight=w_aug)
         return self
 
     def predict(self, X):
-        home_pred = self.home_model.predict(X)
-        away_pred = self.away_model.predict(X)
-        return ensure_non_negative(np.column_stack([home_pred, away_pred]))
+        X_pd = X if isinstance(X, pd.DataFrame) else pd.DataFrame(X, columns=range(X.shape[1]))
+        goals_a = self.model.predict(X_pd)
+        goals_b = self.model.predict(mirror_features(X_pd))
+        return ensure_non_negative(np.column_stack([goals_a, goals_b]))
 
     def feature_importances(self, feature_names: list[str] | None = None) -> dict:
-        """Return mean feature importance across home/away models."""
-        imp_a = self.home_model.feature_importances_
-        imp_b = self.away_model.feature_importances_
-        mean_imp = (imp_a + imp_b) / 2
+        imp = self.model.feature_importances_
         if feature_names is None:
-            return {"feature": list(range(len(mean_imp))), "importance": mean_imp.tolist()}
-        return dict(zip(feature_names, mean_imp.tolist()))
+            return {"feature": list(range(len(imp))), "importance": imp.tolist()}
+        return dict(zip(feature_names, imp.tolist()))
