@@ -15,7 +15,7 @@ from src.models.score_conversion import most_likely_score, top_scores, win_draw_
 from src.tournament.simulate_world_cup import simulate_world_cup_2026
 
 
-MODEL_PATH = ROOT / "models" / "production_model_v2.joblib"
+MODEL_PATH = ROOT / "models" / "production_model_v3.joblib"
 MODEL_DATASET_PATH = ROOT / "data" / "processed" / "model_dataset.csv"
 GROUP_FEATURES_PATH = ROOT / "data" / "processed" / "world_cup_2026_group_stage_features.csv"
 
