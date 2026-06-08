@@ -13,7 +13,6 @@ sys.path.insert(0, str(ROOT))
 from src.features.feature_columns import FEATURE_COLS
 from src.models.score_conversion import most_likely_score, top_scores, win_draw_loss_probs
 from src.tournament.simulate_world_cup import simulate_world_cup_2026
-from src.app.live_tournament_page import show_live_tournament
 
 
 MODEL_PATH = ROOT / "models" / "production_model_v3.joblib"
@@ -272,7 +271,6 @@ def main():
         [
             "Single Match Predictor",
             "World Cup 2026 Simulation",
-            "Live Tournament",
         ],
     )
 
@@ -284,10 +282,8 @@ def main():
 
     if page == "Single Match Predictor":
         show_match_predictor(model, model_df)
-    elif page == "World Cup 2026 Simulation":
+    else:
         show_world_cup_dashboard(model, model_df, group_features)
-    elif page == "Live Tournament":
-        show_live_tournament(model, group_features)
 
 
 if __name__ == "__main__":
