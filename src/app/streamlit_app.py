@@ -19,6 +19,10 @@ from src.app.live_tournament_page import show_live_tournament
 MODEL_PATH = ROOT / "models" / "production_model_v3.joblib"
 MODEL_DATASET_PATH = ROOT / "data" / "processed" / "model_dataset.csv"
 GROUP_FEATURES_PATH = ROOT / "data" / "processed" / "world_cup_2026_group_stage_features.csv"
+MARKET_VALUES_PATH = ROOT / "data" / "processed" / "transfermarkt_market_values_clean.csv"
+POSITION_VALUES_PATH = ROOT / "data" / "processed" / "transfermarkt_position_values_2004_2026.csv"
+FIXTURES_PATH = ROOT / "data" / "raw" / "fixtures" / "world_cup_2026_group_stage.csv"
+RAW_DATA_DIR = ROOT / "data" / "raw"
 
 
 @st.cache_resource
@@ -36,6 +40,28 @@ def load_model_dataset():
 @st.cache_data
 def load_2026_group_features():
     return pd.read_csv(GROUP_FEATURES_PATH)
+
+
+@st.cache_data
+def load_market_values():
+    return pd.read_csv(MARKET_VALUES_PATH)
+
+
+@st.cache_data
+def load_position_values():
+    return pd.read_csv(POSITION_VALUES_PATH)
+
+
+@st.cache_data
+def load_fixtures():
+    from src.data.load_fixtures import load_tournament_fixtures
+    return load_tournament_fixtures(FIXTURES_PATH)
+
+
+@st.cache_data
+def load_raw_historical():
+    from src.data.load_results import load_historical_results
+    return load_historical_results(RAW_DATA_DIR)
 
 
 @st.cache_data
@@ -265,6 +291,10 @@ def main():
     model = load_model()
     model_df = load_model_dataset()
     group_features = load_2026_group_features()
+    market_values = load_market_values()
+    position_values = load_position_values()
+    fixtures = load_fixtures()
+    raw_historical = load_raw_historical()
 
     st.sidebar.title("Navigation")
     page = st.sidebar.radio(
@@ -287,7 +317,13 @@ def main():
     elif page == "World Cup 2026 Simulation":
         show_world_cup_dashboard(model, model_df, group_features)
     elif page == "Live Tournament":
-        show_live_tournament(model, group_features)
+        show_live_tournament(
+            model=model,
+            fixtures=fixtures,
+            historical_matches=raw_historical,
+            market_values=market_values,
+            position_values=position_values,
+        )
 
 
 if __name__ == "__main__":

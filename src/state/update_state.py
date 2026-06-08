@@ -3,6 +3,12 @@ from __future__ import annotations
 from copy import deepcopy
 
 
+def derive_rankings_from_elo(elo_ratings: dict[str, float]) -> dict[str, int]:
+    """Rank teams by ELO descending (highest ELO = rank 1)."""
+    sorted_teams = sorted(elo_ratings.items(), key=lambda x: -x[1])
+    return {team: rank + 1 for rank, (team, _) in enumerate(sorted_teams)}
+
+
 def _default_team_state() -> dict:
     return {
         "played": 0,
