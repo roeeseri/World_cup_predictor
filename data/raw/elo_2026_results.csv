@@ -1,37 +1,37 @@
 date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
 2026-01-03,Senegal,Sudan,3,1,African Nations Cup,Morocco,5,-5,1812,1350,0,0,24,115
 2026-01-03,Mali,Tunisia,1,1,African Nations Cup,Morocco,1,-1,1600,1614,0,0,63,61
-2026-01-04,Morocco,Tanzania,1,0,African Nations Cup,Morocco,2,-2,1842,1340,0,-4,20,123
-2026-01-04,Cameroon,South Africa,2,1,African Nations Cup,Morocco,22,-22,1616,1528,3,-4,61,78
+2026-01-04,Morocco,Tanzania,1,0,African Nations Cup,Morocco,2,-2,1842,1340,0,-3,20,123
+2026-01-04,Cameroon,South Africa,2,1,African Nations Cup,Morocco,22,-22,1616,1529,3,-3,61,77
 2026-01-05,Nigeria,Mozambique,4,0,African Nations Cup,Morocco,15,-15,1684,1372,0,-4,50,110
-2026-01-05,Egypt,Benin,3,1,African Nations Cup,Morocco,18,-18,1640,1410,3,-5,57,97
+2026-01-05,Egypt,Benin,3,1,African Nations Cup,Morocco,18,-18,1641,1410,3,-5,57,97
 2026-01-06,Ivory Coast,Burkina Faso,3,0,African Nations Cup,Morocco,37,-37,1664,1534,8,-6,52,76
 2026-01-06,Algeria,DR Congo,1,0,African Nations Cup,Morocco,18,-18,1775,1639,3,-4,30,58
 2026-01-09,Senegal,Mali,1,0,African Nations Cup,Morocco,11,-11,1823,1589,1,-2,23,66
 2026-01-09,Morocco,Cameroon,2,0,African Nations Cup,Morocco,10,-10,1852,1606,1,-1,19,62
 2026-01-10,Nigeria,Algeria,2,0,African Nations Cup,Morocco,47,-47,1731,1728,12,-11,38,41
-2026-01-10,Egypt,Ivory Coast,3,2,African Nations Cup,Morocco,27,-27,1667,1637,6,-6,51,58
-2026-01-14,Senegal,Egypt,1,0,African Nations Cup,Morocco,14,-14,1837,1653,2,-3,21,54
+2026-01-10,Egypt,Ivory Coast,3,2,African Nations Cup,Morocco,27,-27,1668,1637,6,-6,51,58
+2026-01-14,Senegal,Egypt,1,0,African Nations Cup,Morocco,15,-15,1838,1653,3,-3,20,54
 2026-01-14,Morocco,Nigeria,0,0,African Nations Cup,Morocco,-14,14,1838,1745,-1,3,20,35
-2026-01-17,Canada,Guatemala,1,0,Friendly,the United States,3,-3,1805,1526,0,-2,25,79
+2026-01-17,Canada,Guatemala,1,0,Friendly,the United States,3,-3,1805,1525,0,-1,25,79
 2026-01-17,Egypt,Nigeria,0,0,African Nations Cup,Morocco,6,-6,1659,1739,0,-1,54,36
-2026-01-18,Morocco,Senegal,0,1,African Nations Cup,Morocco,-32,32,1806,1869,-4,4,24,17
-2026-01-18,Grenada,Jamaica,0,1,Friendly,Grenada,-3,3,1119,1531,-2,0,173,77
+2026-01-18,Morocco,Senegal,0,1,African Nations Cup,Morocco,-32,32,1806,1870,-4,3,24,17
+2026-01-18,Grenada,Jamaica,0,1,Friendly,Grenada,-3,3,1119,1531,-2,1,173,77
 2026-01-18,Bolivia,Panama,1,1,Friendly,Bolivia,-1,1,1665,1743,0,0,51,35
-2026-01-22,Panama,Mexico,0,1,Friendly,Panama,-10,10,1733,1845,-3,0,38,21
-2026-01-25,Bolivia,Mexico,0,1,Friendly,Bolivia,-8,8,1657,1853,-3,1,54,20
-2026-01-26,China,Uzbekistan,2,2,Friendly,the United Arab Emirates,7,-7,1410,1728,4,-4,97,40
-2026-02-21,Martinique,Jamaica,0,2,Friendly,Martinique,-11,11,1331,1542,-7,3,126,74
-2026-02-25,Mexico,Iceland,4,0,Friendly,Mexico,4,-4,1857,1562,0,0,20,71
+2026-01-22,Panama,Mexico,0,1,Friendly,Panama,-10,10,1733,1844,-3,0,38,21
+2026-01-25,Bolivia,Mexico,0,1,Friendly,Bolivia,-8,8,1657,1852,-3,1,54,20
+2026-01-26,China,Uzbekistan,2,2,Friendly,the United Arab Emirates,7,-7,1409,1728,3,-4,99,40
+2026-02-21,Martinique,Jamaica,0,2,Friendly,Martinique,-11,11,1331,1542,-6,3,126,74
+2026-02-25,Mexico,Iceland,4,0,Friendly,Mexico,4,-4,1856,1562,0,0,20,71
 2026-03-15,Bolivia,Trinidad and Tobago,3,0,Friendly,Bolivia,4,-4,1661,1399,2,0,52,102
-2026-03-25,Equatorial Guinea,Kyrgyzstan,1,0,Friendly,Turkey,8,-8,1390,1305,1,-3,105,135
+2026-03-25,Equatorial Guinea,Kyrgyzstan,1,0,Friendly,Turkey,8,-8,1391,1305,1,-3,105,135
 2026-03-25,DR Congo,Bermuda,2,0,Friendly,Mexico,1,-1,1640,1119,0,-1,57,172
 2026-03-25,US Virgin Islands,Eastern Samoa,5,2,FIFA Series,Puerto Rico,11,-11,629,377,2,0,229,244
 2026-03-25,Puerto Rico,Guam,4,0,FIFA Series,Puerto Rico,3,-3,1137,710,2,0,165,218
 2026-03-25,Kazakhstan,Namibia,2,0,FIFA Series,Kazakhstan,11,-11,1421,1300,1,-3,96,137
 2026-03-25,Eritrea,Eswatini,2,0,African Nations Cup qualifier,Morocco,36,-36,1175,1175,4,-2,160,160
 2026-03-26,Vietnam,Bangladesh,3,0,Friendly,Vietnam,2,-2,1331,938,2,0,125,194
-2026-03-26,Moldova,Lithuania,0,2,Friendly,Moldova,-20,20,1268,1296,-4,6,146,140
+2026-03-26,Moldova,Lithuania,0,2,Friendly,Moldova,-20,20,1268,1296,-4,7,146,139
 2026-03-26,Georgia,Israel,2,2,Friendly,Georgia,-3,3,1647,1634,0,1,55,59
 2026-03-26,France,Brazil,2,1,Friendly,the United States,8,-8,2070,1970,0,-1,3,7
 2026-03-26,Cyprus,Belarus,0,1,Friendly,Cyprus,-7,7,1295,1503,-5,0,141,82
@@ -41,74 +41,74 @@ date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_c
 2026-03-26,Myanmar,Afghanistan,2,1,Asian Cup qualifier,Myanmar,19,-19,964,1016,4,-1,189,182
 2026-03-26,South Sudan,Djibouti,4,0,African Nations Cup qualifier,South Sudan,10,-10,1144,905,4,0,164,198
 2026-03-26,Lesotho,Seychelles,0,0,African Nations Cup qualifier,South Africa,-16,16,1200,858,-2,1,158,203
-2026-03-26,Malta,Luxembourg,0,2,European Nations League C/D,Malta,-29,29,1249,1424,-4,9,149,94
+2026-03-26,Malta,Luxembourg,0,2,European Nations League C/D,Malta,-29,29,1249,1424,-4,8,149,95
 2026-03-26,Gibraltar,Latvia,0,1,European Nations League C/D,Gibraltar,-11,11,1006,1297,-2,5,184,138
 2026-03-26,Wales,Bosnia and Herzegovina,1,1,World Cup qualifier,Wales,-12,12,1703,1584,-3,2,45,67
-2026-03-26,Turkey,Romania,1,0,World Cup qualifier,Turkey,5,-5,1885,1637,0,-1,15,57
+2026-03-26,Turkey,Romania,1,0,World Cup qualifier,Turkey,5,-5,1886,1637,0,-1,15,57
 2026-03-26,Sweden,Ukraine,3,1,World Cup qualifier,Spain,42,-42,1702,1760,7,-6,46,32
 2026-03-26,Slovakia,Kosovo,3,4,World Cup qualifier,Slovakia,-24,24,1663,1738,-2,7,52,37
 2026-03-26,Poland,Albania,2,1,World Cup qualifier,Poland,11,-11,1746,1653,1,-3,35,54
 2026-03-26,Italy,Northern Ireland,2,0,World Cup qualifier,Italy,7,-7,1866,1596,0,0,19,63
-2026-03-26,Denmark,North Macedonia,4,0,World Cup qualifier,Denmark,8,-8,1872,1584,1,-3,17,67
+2026-03-26,Denmark,North Macedonia,4,0,World Cup qualifier,Denmark,8,-8,1873,1584,1,-3,17,67
 2026-03-26,Czechia,Ireland,2,2,World Cup qualifier,Czechia,-8,8,1723,1696,-4,1,42,48
 2026-03-26,Saint Martin,Barbados,3,1,CONCACAF Series,Bonaire,17,-17,1020,904,5,-3,181,199
-2026-03-26,Dominican Republic,El Salvador,2,2,CONCACAF Series,the Dominican Republic,-3,3,1290,1327,-1,2,142,128
-2026-03-26,Cuba,Martinique,2,2,CONCACAF Series,the Dominican Republic,4,-4,1233,1327,0,-2,153,128
+2026-03-26,Dominican Republic,El Salvador,2,2,CONCACAF Series,the Dominican Republic,-3,3,1290,1327,-1,3,142,127
+2026-03-26,Cuba,Martinique,2,2,CONCACAF Series,the Dominican Republic,4,-4,1233,1327,0,-1,153,127
 2026-03-26,Cayman Islands,British Virgin Islands,1,1,CONCACAF Series,the Cayman Islands,-8,8,798,701,0,2,209,219
 2026-03-26,Bonaire,Saint Vincent and the Grenadines,3,1,CONCACAF Series,Bonaire,36,-36,858,1135,5,-4,203,166
 2026-03-26,Anguilla,Bahamas,3,1,CONCACAF Series,the Cayman Islands,27,-27,672,692,2,-4,226,221
 2026-03-26,Jamaica,New Caledonia,1,0,World Cup qualifier,Mexico,8,-8,1550,1286,1,-3,73,143
 2026-03-26,Bolivia,Suriname,2,1,World Cup qualifier,Mexico,9,-9,1670,1431,1,0,51,91
-2026-03-27,Switzerland,Germany,3,4,Friendly,Switzerland,-12,12,1885,1922,-1,1,14,11
+2026-03-27,Switzerland,Germany,3,4,Friendly,Switzerland,-12,12,1885,1922,-2,1,15,11
 2026-03-27,Spain,Serbia,3,0,Friendly,Spain,2,-2,2174,1766,0,0,1,30
-2026-03-27,South Africa,Panama,1,1,Friendly,South Africa,3,-3,1531,1730,-1,-3,79,41
+2026-03-27,South Africa,Panama,1,1,Friendly,South Africa,3,-3,1532,1730,-1,-3,79,41
 2026-03-27,Saudi Arabia,Egypt,0,4,Friendly,Saudi Arabia,-21,21,1571,1680,-4,2,68,51
-2026-03-27,Russia,Nicaragua,3,1,Friendly,Russia,1,-1,1783,1327,0,-1,28,127
+2026-03-27,Russia,Nicaragua,3,1,Friendly,Russia,1,-1,1783,1327,0,0,28,126
 2026-03-27,Nigeria,Iran,2,1,Al-Nashama Tournament,Turkey,16,-16,1755,1739,4,-4,32,37
 2026-03-27,Netherlands,Norway,2,1,Friendly,the Netherlands,6,-6,1965,1916,0,-1,8,12
 2026-03-27,Montenegro,Andorra,2,0,Friendly,Montenegro,2,-2,1445,1081,1,0,89,179
-2026-03-27,Libya,Niger,0,0,Friendly,Morocco,-1,1,1424,1405,-2,1,94,101
-2026-03-27,Guinea,Togo,2,2,Friendly,Morocco,-4,4,1481,1346,0,3,85,116
-2026-03-27,Greece,Paraguay,0,1,Friendly,Greece,-11,11,1750,1844,-2,0,33,22
+2026-03-27,Libya,Niger,0,0,Friendly,Morocco,-1,1,1424,1405,-3,1,95,101
+2026-03-27,Guinea,Togo,2,2,Friendly,Morocco,-4,4,1481,1347,0,3,85,116
+2026-03-27,Greece,Paraguay,0,1,Friendly,Greece,-11,11,1750,1843,-2,0,33,22
 2026-03-27,England,Uruguay,1,1,Friendly,England,-6,6,2036,1896,0,1,4,13
 2026-03-27,Ecuador,Morocco,1,1,Friendly,Spain,-4,4,1929,1810,0,0,10,24
-2026-03-27,Costa Rica,Jordan,2,2,Al-Nashama Tournament,Turkey,2,-2,1635,1687,1,0,59,50
-2026-03-27,Benin,Liberia,1,0,Friendly,Morocco,7,-7,1417,1292,-1,-4,100,141
+2026-03-27,Costa Rica,Jordan,2,2,Al-Nashama Tournament,Turkey,2,-2,1634,1687,1,0,59,50
+2026-03-27,Benin,Liberia,1,0,Friendly,Morocco,7,-7,1417,1293,-1,-5,100,141
 2026-03-27,Austria,Ghana,5,1,Friendly,Austria,3,-3,1821,1506,0,-1,23,81
 2026-03-27,Argentina,Mauritania,2,1,Friendly,Argentina,0,0,2113,1311,0,-1,2,134
-2026-03-27,Algeria,Guatemala,7,0,Friendly,Italy,11,-11,1739,1515,3,-1,37,80
+2026-03-27,Algeria,Guatemala,7,0,Friendly,Italy,11,-11,1739,1514,3,-1,37,80
 2026-03-27,Venezuela,Trinidad and Tobago,4,1,FIFA Series,Uzbekistan,7,-7,1722,1392,0,-1,43,104
 2026-03-27,Uzbekistan,Gabon,3,1,FIFA Series,Uzbekistan,4,-4,1732,1401,0,-1,40,102
-2026-03-27,Rwanda,Grenada,4,0,FIFA Series,Rwanda,9,-9,1317,1110,3,-1,131,173
+2026-03-27,Rwanda,Grenada,4,0,FIFA Series,Rwanda,9,-9,1318,1110,3,-1,131,173
 2026-03-27,New Zealand,Finland,0,2,FIFA Series,New Zealand,-33,33,1552,1542,-5,5,71,75
 2026-03-27,Indonesia,Saint Kitts and Nevis,4,0,FIFA Series,Indonesia,4,-4,1345,1001,4,-1,117,186
 2026-03-27,Estonia,Kenya,1,1,FIFA Series,Rwanda,-1,1,1358,1345,0,0,114,117
-2026-03-27,China,Curaçao,2,0,FIFA Series,Australia,26,-26,1436,1440,8,-3,91,90
+2026-03-27,China,Curaçao,2,0,FIFA Series,Australia,26,-26,1435,1440,9,-3,91,90
 2026-03-27,Chile,Cape Verde,4,2,FIFA Series,New Zealand,12,-12,1743,1549,3,-1,36,73
 2026-03-27,Bulgaria,Solomon Islands,10,2,FIFA Series,Indonesia,8,-8,1461,1082,2,0,87,178
 2026-03-27,Azerbaijan,Saint Lucia,6,1,FIFA Series,Azerbaijan,5,-5,1344,1003,2,-2,120,185
-2026-03-27,Australia,Cameroon,1,0,FIFA Series,Australia,5,-5,1779,1601,0,0,29,62
+2026-03-27,Australia,Cameroon,1,0,FIFA Series,Australia,5,-5,1778,1601,0,0,29,62
 2026-03-27,Mauritius,Somalia,0,0,African Nations Cup qualifier,Mozambique,-7,7,1084,968,1,0,176,190
 2026-03-27,Ethiopia,Sao Tome and Principe,3,0,African Nations Cup qualifier,Morocco,16,-16,1280,1040,1,0,146,180
 2026-03-27,Chad,Burundi,0,4,African Nations Cup qualifier,Chad,-35,35,1085,1274,-4,4,175,147
 2026-03-27,Sint Maarten,Belize,3,2,CONCACAF Series,the Dominican Republic,21,-21,977,1084,3,0,188,176
 2026-03-27,Guyana,Dominica,2,0,CONCACAF Series,the Dominican Republic,6,-6,1281,932,0,-1,145,195
-2026-03-28,United States,Belgium,2,5,Friendly,the United States,-17,17,1730,1867,-6,2,40,19
+2026-03-28,United States,Belgium,2,5,Friendly,the United States,-17,17,1730,1866,-6,2,40,19
 2026-03-28,Tunisia,Haiti,1,0,Friendly tournament,Canada,12,-12,1626,1530,0,-4,61,79
-2026-03-28,Senegal,Peru,2,0,Friendly,France,8,-8,1877,1699,1,-3,17,47
+2026-03-28,Senegal,Peru,2,0,Friendly,France,8,-8,1878,1699,1,-3,17,47
 2026-03-28,Scotland,Japan,0,1,Friendly,Scotland,-10,10,1780,1888,-1,2,27,14
-2026-03-28,San Marino,Faroe Islands,1,2,Friendly,San Marino,-1,1,832,1382,0,0,207,107
-2026-03-28,Mexico,Portugal,0,0,Friendly,Mexico,1,-1,1858,1975,-1,0,21,6
+2026-03-28,San Marino,Faroe Islands,1,2,Friendly,San Marino,-1,1,832,1381,0,-1,207,108
+2026-03-28,Mexico,Portugal,0,0,Friendly,Mexico,1,-1,1857,1975,-1,0,21,6
 2026-03-28,Madagascar,Kyrgyzstan,5,2,Friendly,Turkey,14,-14,1382,1291,5,-6,107,141
 2026-03-28,Ivory Coast,South Korea,4,0,Friendly,England,26,-26,1663,1758,4,-4,53,31
 2026-03-28,Hungary,Slovenia,1,0,Friendly,Hungary,7,-7,1705,1688,3,0,44,49
 2026-03-28,Canada,Iceland,2,2,Friendly tournament,Canada,-11,11,1794,1573,0,2,25,68
 2026-03-28,Burkina Faso,Guinea-Bissau,5,0,Friendly,Burkina Faso,4,-4,1538,1240,1,0,77,151
-2026-03-28,Botswana,Zimbabwe,0,3,Mukuru Tournament,Botswana,-29,29,1256,1371,-4,11,148,111
+2026-03-28,Botswana,Zimbabwe,0,3,Mukuru Tournament,Botswana,-29,29,1256,1371,-4,10,148,112
 2026-03-28,Puerto Rico,US Virgin Islands,2,0,FIFA Series,Puerto Rico,1,-1,1138,628,0,-1,165,230
 2026-03-28,Guam,Eastern Samoa,6,0,FIFA Series,Puerto Rico,8,-8,718,369,0,0,217,244
-2026-03-28,Comoros,Namibia,0,0,FIFA Series,Kazakhstan,-3,3,1371,1303,-2,1,111,135
-2026-03-29,Lithuania,Georgia,0,2,Friendly,Lithuania,-6,6,1290,1653,-3,1,141,55
+2026-03-28,Comoros,Namibia,0,0,FIFA Series,Kazakhstan,-3,3,1372,1303,-2,1,110,135
+2026-03-29,Lithuania,Georgia,0,2,Friendly,Lithuania,-6,6,1290,1653,-4,1,141,55
 2026-03-29,France,Colombia,3,1,Friendly,the United States,11,-11,2081,1975,0,0,3,5
 2026-03-29,Armenia,Belarus,1,2,Friendly,Armenia,-10,10,1379,1513,-2,1,108,81
 2026-03-29,Tanzania,Macao,6,0,FIFA Series,Rwanda,1,-1,1313,588,2,0,131,233
@@ -116,7 +116,7 @@ date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_c
 2026-03-29,South Sudan,Djibouti,0,1,African Nations Cup qualifier,South Sudan,-35,35,1109,940,-9,4,173,194
 2026-03-29,Lesotho,Seychelles,2,1,African Nations Cup qualifier,South Africa,5,-5,1205,853,0,0,158,203
 2026-03-29,Saint Vincent and the Grenadines,Barbados,3,2,CONCACAF Series,Bonaire,6,-6,1141,898,2,-1,164,200
-2026-03-29,El Salvador,Martinique,1,0,CONCACAF Series,the Dominican Republic,15,-15,1342,1312,4,-6,123,133
+2026-03-29,El Salvador,Martinique,1,0,CONCACAF Series,the Dominican Republic,15,-15,1342,1312,3,-7,123,133
 2026-03-29,Dominican Republic,Cuba,1,1,CONCACAF Series,the Dominican Republic,-6,6,1284,1239,-1,1,143,152
 2026-03-29,Cayman Islands,Bahamas,1,0,CONCACAF Series,the Cayman Islands,7,-7,805,685,0,-2,209,223
 2026-03-29,British Virgin Islands,Anguilla,4,0,CONCACAF Series,the Cayman Islands,26,-26,727,646,3,-2,216,228
@@ -125,55 +125,55 @@ date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_c
 2026-03-30,Cyprus,Moldova,3,2,Friendly,Cyprus,6,-6,1301,1262,2,0,136,147
 2026-03-30,Uzbekistan,Venezuela,0,0,FIFA Series,Uzbekistan,-5,5,1727,1727,-1,3,40,40
 2026-03-30,Saint Kitts and Nevis,Solomon Islands,4,2,FIFA Series,Indonesia,28,-28,1029,1054,4,-1,182,179
-2026-03-30,Rwanda,Estonia,2,0,FIFA Series,Rwanda,19,-19,1336,1339,6,-7,124,122
+2026-03-30,Rwanda,Estonia,2,0,FIFA Series,Rwanda,19,-19,1337,1339,6,-7,124,122
 2026-03-30,New Zealand,Chile,4,1,FIFA Series,New Zealand,33,-33,1585,1710,6,-8,65,43
 2026-03-30,Kenya,Grenada,3,0,FIFA Series,Rwanda,11,-11,1356,1099,3,-2,115,174
 2026-03-30,Indonesia,Bulgaria,0,1,FIFA Series,Indonesia,-14,14,1331,1475,-8,1,126,86
 2026-03-30,Gabon,Trinidad and Tobago,2,2,FIFA Series,Uzbekistan,0,0,1401,1392,0,0,102,104
 2026-03-30,Cape Verde,Finland,1,1,FIFA Series,New Zealand,0,0,1549,1542,0,0,73,75
 2026-03-30,Azerbaijan,Sierra Leone,1,1,FIFA Series,Azerbaijan,-4,4,1340,1348,0,4,121,117
-2026-03-30,Guyana,Belize,3,1,CONCACAF Series,the Dominican Republic,11,-11,1292,1073,5,-2,139,178
+2026-03-30,Guyana,Belize,3,1,CONCACAF Series,the Dominican Republic,11,-11,1292,1073,4,-2,140,178
 2026-03-30,Dominica,Sint Maarten,0,0,CONCACAF Series,the Dominican Republic,2,-2,934,975,0,0,196,189
 2026-03-31,Wales,Northern Ireland,1,1,Friendly,Wales,-5,5,1698,1601,-1,-1,46,64
 2026-03-31,United States,Portugal,0,2,Friendly,the United States,-9,9,1721,1984,-3,0,41,5
 2026-03-31,Ukraine,Albania,1,0,Friendly,Spain,7,-7,1767,1646,1,-1,29,56
-2026-03-31,Togo,Niger,1,0,Friendly,Morocco,12,-12,1358,1393,3,-2,115,103
+2026-03-31,Togo,Niger,1,0,Friendly,Morocco,12,-12,1359,1393,3,-2,115,103
 2026-03-31,Spain,Egypt,0,0,Friendly,Spain,-9,9,2165,1689,0,0,1,51
-2026-03-31,South Africa,Panama,1,2,Friendly,South Africa,-7,7,1524,1737,-1,2,79,36
+2026-03-31,South Africa,Panama,1,2,Friendly,South Africa,-7,7,1525,1737,-1,2,79,36
 2026-03-31,Slovakia,Romania,2,0,Friendly,Slovakia,10,-10,1673,1627,0,-2,53,60
 2026-03-31,Serbia,Saudi Arabia,2,1,Friendly,Serbia,3,-3,1769,1568,1,-1,28,71
-2026-03-31,Senegal,Gambia,3,1,Friendly,Senegal,1,-1,1878,1423,0,-3,17,97
+2026-03-31,Senegal,Gambia,3,1,Friendly,Senegal,1,-1,1879,1423,0,-2,17,97
 2026-03-31,San Marino,Andorra,0,0,Friendly,San Marino,4,-4,836,1077,2,2,205,175
 2026-03-31,Russia,Mali,0,0,Friendly,Russia,-7,7,1776,1596,-1,-1,27,65
-2026-03-31,Norway,Switzerland,0,0,Friendly,Norway,-4,4,1912,1889,0,-1,12,16
+2026-03-31,Norway,Switzerland,0,0,Friendly,Norway,-4,4,1912,1889,0,0,12,16
 2026-03-31,Netherlands,Ecuador,1,1,Friendly,the Netherlands,-4,4,1961,1933,0,1,8,9
-2026-03-31,Morocco,Paraguay,2,1,Friendly,France,11,-11,1821,1833,0,0,24,22
+2026-03-31,Morocco,Paraguay,2,1,Friendly,France,11,-11,1821,1832,0,0,24,22
 2026-03-31,Montenegro,Slovenia,2,3,Friendly,Montenegro,-6,6,1439,1694,0,1,89,48
-2026-03-31,Liberia,Libya,2,2,Friendly,Morocco,4,-4,1296,1420,2,-5,137,99
+2026-03-31,Liberia,Libya,2,2,Friendly,Morocco,4,-4,1297,1420,2,-4,137,99
 2026-03-31,Jordan,Nigeria,2,2,Al-Nashama Tournament,Turkey,3,-3,1690,1752,0,0,50,32
 2026-03-31,Ivory Coast,Scotland,1,0,Friendly,England,13,-13,1676,1767,1,-2,52,29
 2026-03-31,Ireland,North Macedonia,0,0,Friendly,Ireland,-5,5,1691,1589,-1,-1,49,67
 2026-03-31,Hungary,Greece,0,0,Friendly,Hungary,-2,2,1703,1752,-1,1,45,32
 2026-03-31,Honduras,Peru,2,2,Friendly,Spain,4,-4,1571,1695,2,0,69,47
 2026-03-31,Haiti,Iceland,1,1,Friendly tournament,Canada,2,-2,1532,1571,2,0,77,69
-2026-03-31,Equatorial Guinea,Madagascar,1,1,Friendly,Turkey,0,0,1390,1382,0,0,105,106
+2026-03-31,Equatorial Guinea,Madagascar,1,1,Friendly,Turkey,0,0,1391,1382,0,0,105,106
 2026-03-31,England,Japan,0,1,Friendly,England,-16,16,2020,1904,0,1,4,13
-2026-03-31,Costa Rica,Iran,0,5,Al-Nashama Tournament,Turkey,-21,21,1614,1760,-2,4,61,31
+2026-03-31,Costa Rica,Iran,0,5,Al-Nashama Tournament,Turkey,-21,21,1613,1760,-2,4,61,31
 2026-03-31,Canada,Tunisia,0,0,Friendly tournament,Canada,-10,10,1784,1636,0,3,25,58
 2026-03-31,Burkina Faso,Guinea-Bissau,1,1,Friendly,Burkina Faso,-8,8,1530,1248,-1,2,78,149
 2026-03-31,Brazil,Croatia,3,1,Friendly,the United States,14,-14,1984,1930,2,-1,5,10
 2026-03-31,Botswana,Malawi,1,0,Mukuru Tournament,Botswana,11,-11,1267,1241,1,-1,147,150
 2026-03-31,Benin,Guinea,1,0,Friendly,Morocco,12,-12,1429,1469,6,-1,94,86
-2026-03-31,Belgium,Mexico,1,1,Friendly,the United States,0,0,1867,1858,0,1,19,20
+2026-03-31,Belgium,Mexico,1,1,Friendly,the United States,0,0,1866,1857,0,1,19,20
 2026-03-31,Austria,South Korea,1,0,Friendly,Austria,6,-6,1827,1752,0,-1,23,32
-2026-03-31,Argentina,Zambia,5,0,Friendly,Argentina,0,0,2113,1370,0,0,2,113
+2026-03-31,Argentina,Zambia,5,0,Friendly,Argentina,0,0,2113,1371,0,0,2,112
 2026-03-31,Algeria,Uruguay,0,0,Friendly,Italy,4,-4,1743,1892,0,-2,35,15
-2026-03-31,Kazakhstan,Comoros,1,0,FIFA Series,Kazakhstan,9,-9,1430,1362,5,-3,93,114
-2026-03-31,Cameroon,China,2,0,FIFA Series,Australia,13,-13,1614,1423,1,-6,61,97
-2026-03-31,Australia,Curaçao,5,1,FIFA Series,Australia,4,-4,1783,1436,2,0,26,90
+2026-03-31,Kazakhstan,Comoros,1,0,FIFA Series,Kazakhstan,9,-9,1430,1363,5,-4,93,114
+2026-03-31,Cameroon,China,2,0,FIFA Series,Australia,12,-12,1613,1423,1,-6,61,97
+2026-03-31,Australia,Curaçao,5,1,FIFA Series,Australia,4,-4,1782,1436,2,0,26,90
 2026-03-31,Vietnam,Malaysia,3,1,Asian Cup qualifier,Vietnam,20,-20,1351,1293,9,-7,117,138
 2026-03-31,Thailand,Turkmenistan,2,1,Asian Cup qualifier,Thailand,8,-8,1376,1209,5,-1,109,156
-2026-03-31,Tajikistan,Philippines,1,1,Asian Cup qualifier,Tajikistan,-12,12,1285,1167,-7,1,144,161
+2026-03-31,Tajikistan,Philippines,1,1,Asian Cup qualifier,Tajikistan,-12,12,1284,1167,-7,1,145,161
 2026-03-31,Taiwan,Sri Lanka,1,3,Asian Cup qualifier,Taiwan,-45,45,821,827,-6,3,208,207
 2026-03-31,Syria,Afghanistan,5,1,Asian Cup qualifier,Saudi Arabia,5,-5,1491,1011,1,0,83,183
 2026-03-31,Singapore,Bangladesh,1,0,Asian Cup qualifier,Singapore,6,-6,1137,932,1,-1,167,196
@@ -186,12 +186,131 @@ date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_c
 2026-03-31,Ethiopia,Sao Tome and Principe,1,0,African Nations Cup qualifier,Ethiopia,5,-5,1285,1035,1,0,144,181
 2026-03-31,Eswatini,Eritrea,1,2,African Nations Cup qualifier,Eswatini,-26,26,1149,1201,-3,1,163,159
 2026-03-31,Burundi,Chad,4,0,African Nations Cup qualifier,Burundi,12,-12,1286,1073,4,-1,142,176
-2026-03-31,Luxembourg,Malta,3,0,European Nations League C/D,Luxembourg,12,-12,1436,1237,4,-2,90,152
+2026-03-31,Luxembourg,Malta,3,0,European Nations League C/D,Luxembourg,12,-12,1436,1237,5,-3,90,153
 2026-03-31,Latvia,Gibraltar,1,0,European Nations League C/D,Latvia,4,-4,1301,1002,2,-2,135,186
 2026-03-31,Sweden,Poland,3,2,World Cup qualifier,Sweden,17,-17,1719,1729,3,-3,43,37
-2026-03-31,Kosovo,Turkey,0,1,World Cup qualifier,Kosovo,-17,17,1721,1902,-4,1,41,14
+2026-03-31,Kosovo,Turkey,0,1,World Cup qualifier,Kosovo,-17,17,1721,1903,-4,1,41,14
 2026-03-31,Iraq,Bolivia,2,1,World Cup qualifier,Mexico,25,-25,1607,1645,5,-5,63,57
 2026-03-31,DR Congo,Jamaica,1,0,World Cup qualifier,Mexico,15,-15,1655,1535,3,-4,54,76
-2026-03-31,Czechia,Denmark,2,2,World Cup qualifier,Czechia,3,-3,1726,1869,2,0,40,18
-2026-03-31,Bosnia and Herzegovina,Italy,1,1,World Cup qualifier,Bosnia and Herzegovina,10,-10,1594,1856,0,-1,66,21
+2026-03-31,Czechia,Denmark,2,2,World Cup qualifier,Czechia,3,-3,1726,1870,2,0,40,18
+2026-03-31,Bosnia and Herzegovina,Italy,1,1,World Cup qualifier,Bosnia and Herzegovina,10,-10,1594,1856,0,-2,66,21
 2026-05-16,Ireland,Grenada,5,0,Friendly,Spain,1,-1,1692,1098,0,0,49,174
+2026-05-22,Mexico,Ghana,2,0,Friendly,Mexico,2,-2,1859,1503,0,0,20,82
+2026-05-26,Nigeria,Zimbabwe,2,0,Unity Cup,England,5,-5,1757,1366,0,-1,32,113
+2026-05-26,Morocco,Burundi,5,0,Friendly,Morocco,1,-1,1822,1285,0,-1,24,143
+2026-05-27,Jamaica,India,2,0,Unity Cup,England,4,-4,1539,1134,0,-3,76,168
+2026-05-28,Ireland,Qatar,1,0,Friendly,Ireland,2,-2,1694,1423,0,-1,49,96
+2026-05-28,Egypt,Russia,1,0,Friendly,Egypt,10,-10,1699,1766,5,-3,46,30
+2026-05-29,South Africa,Nicaragua,0,0,Friendly,South Africa,-7,7,1518,1334,0,2,79,126
+2026-05-29,Iraq,Andorra,1,0,Friendly,Spain,1,-1,1608,1076,0,0,63,175
+2026-05-29,Iran,Gambia,3,1,Friendly,Turkey,4,-4,1764,1419,0,-3,31,99
+2026-05-29,Bosnia and Herzegovina,North Macedonia,0,0,Friendly,Bosnia and Herzegovina,-3,3,1591,1592,-1,1,67,66
+2026-05-30,South Korea,Trinidad and Tobago,5,0,Friendly,the United States,4,-4,1756,1388,0,-1,33,105
+2026-05-30,Scotland,Curaçao,4,1,Friendly,Scotland,3,-3,1770,1433,1,-1,27,91
+2026-05-30,Mexico,Australia,1,0,Friendly,the United States,8,-8,1867,1774,1,0,19,26
+2026-05-30,Ecuador,Saudi Arabia,2,1,Friendly,the United States,2,-2,1935,1566,0,0,9,71
+2026-05-30,Zimbabwe,India,1,0,Unity Cup,England,6,-6,1372,1128,2,0,111,168
+2026-05-30,Nigeria,Jamaica,3,0,Unity Cup,England,12,-12,1769,1527,4,-2,28,78
+2026-05-31,United States,Senegal,3,2,Friendly,the United States,12,-12,1733,1867,5,-1,36,18
+2026-05-31,Switzerland,Jordan,4,1,Friendly,Switzerland,5,-5,1894,1685,1,0,15,51
+2026-05-31,Singapore,Mongolia,4,0,Friendly,Singapore,2,-2,1139,727,1,-1,165,216
+2026-05-31,Poland,Ukraine,0,2,Friendly,Poland,-18,18,1711,1785,-6,5,43,25
+2026-05-31,Japan,Iceland,1,0,Friendly,Japan,2,-2,1906,1569,0,-2,13,71
+2026-05-31,Germany,Finland,4,0,Friendly,Germany,2,-2,1925,1540,0,0,11,74
+2026-05-31,Czechia,Kosovo,2,1,Friendly,Czechia,7,-7,1733,1714,4,-1,36,42
+2026-05-31,Cape Verde,Serbia,3,0,Friendly,Portugal,27,-27,1576,1742,3,-7,69,35
+2026-05-31,Brazil,Panama,6,2,Friendly,Brazil,4,-4,1988,1733,0,0,5,36
+2026-06-01,Turkey,North Macedonia,4,0,Friendly,Turkey,3,-3,1906,1589,1,-1,13,67
+2026-06-01,Slovakia,Malta,2,1,Friendly,Slovakia,1,-1,1674,1236,0,0,53,153
+2026-06-01,Norway,Sweden,3,1,Friendly,Norway,5,-5,1917,1714,0,0,12,41
+2026-06-01,Colombia,Costa Rica,3,1,Friendly,Colombia,2,-2,1977,1611,0,-1,7,62
+2026-06-01,Canada,Uzbekistan,2,0,Friendly,Canada,9,-9,1793,1718,1,-1,25,40
+2026-06-01,Bulgaria,Montenegro,0,1,Friendly,Bulgaria,-14,14,1461,1453,-2,0,87,89
+2026-06-01,Austria,Tunisia,1,0,Friendly,Austria,3,-3,1830,1633,0,-1,23,59
+2026-06-01,Maldives,Afghanistan,0,1,Diamond Jubilee Tournament,the Maldives,-12,12,836,1023,-1,0,204,183
+2026-06-02,Wales,Ghana,1,1,Friendly,Wales,-7,7,1691,1510,-3,0,50,82
+2026-06-02,Morocco,Madagascar,4,0,Friendly,Morocco,2,-2,1824,1380,0,-1,24,107
+2026-06-02,Haiti,New Zealand,4,0,Friendly,the United States,22,-22,1554,1563,3,-4,73,72
+2026-06-02,Georgia,Romania,1,1,Friendly,Georgia,-3,3,1650,1630,0,0,55,60
+2026-06-02,Croatia,Belgium,0,2,Friendly,Croatia,-22,22,1908,1888,-2,3,12,17
+2026-06-02,Brunei,East Timor,0,3,Southeast Asian Championship qual,Brunei,-41,41,592,714,-3,5,232,220
+2026-06-03,South Korea,El Salvador,1,0,Friendly,the United States,2,-2,1758,1340,-1,0,33,121
+2026-06-03,Poland,Nigeria,2,2,Friendly,Poland,-1,1,1710,1770,0,1,43,28
+2026-06-03,Philippines,Guam,5,1,Friendly tournament,the Philippines,2,-2,1169,716,0,0,161,219
+2026-06-03,Panama,Dominican Republic,4,2,Friendly,Panama,1,-1,1734,1283,0,-1,36,146
+2026-06-03,Netherlands,Algeria,0,1,Friendly,the Netherlands,-17,17,1944,1760,0,2,8,32
+2026-06-03,Luxembourg,Italy,0,1,Friendly,Luxembourg,-3,3,1433,1859,0,0,90,21
+2026-06-03,Gibraltar,British Virgin Islands,4,0,Friendly,Gibraltar,4,-4,1006,723,2,-2,184,218
+2026-06-03,Denmark,DR Congo,0,0,Friendly,Belgium,-6,6,1864,1661,-2,0,20,54
+2026-06-03,Albania,Israel,0,1,Friendly,Albania,-13,13,1633,1647,-2,2,58,56
+2026-06-04,Sweden,Greece,2,2,Friendly,Sweden,-2,2,1712,1754,-1,0,42,34
+2026-06-04,Spain,Iraq,1,1,Friendly,Spain,-10,10,2155,1618,0,2,1,61
+2026-06-04,Slovenia,Cyprus,1,1,Friendly,Slovenia,-9,9,1685,1310,-3,2,51,133
+2026-06-04,Northern Ireland,Guinea,1,0,Friendly,Spain,6,-6,1607,1463,0,-1,64,86
+2026-06-04,Mexico,Serbia,5,1,Friendly,Mexico,8,-8,1875,1734,0,-1,18,36
+2026-06-04,Kenya,Lesotho,1,1,Friendly,South Africa,-4,4,1352,1209,0,2,116,156
+2026-06-04,Iran,Mali,2,0,Friendly,Turkey,8,-8,1772,1588,3,-2,28,67
+2026-06-04,France,Ivory Coast,1,2,Friendly,France,-19,19,2062,1695,0,5,3,47
+2026-06-04,Czechia,Guatemala,3,1,Friendly,the United States,7,-7,1740,1507,2,-2,35,82
+2026-06-04,Cambodia,Bhutan,4,0,Friendly,Cambodia,5,-5,849,631,0,0,203,228
+2026-06-04,Andorra,Liechtenstein,2,0,Friendly,Andorra,5,-5,1081,899,0,-1,175,198
+2026-06-04,Maldives,Pakistan,0,3,Diamond Jubilee Tournament,the Maldives,-35,35,801,847,-6,5,210,204
+2026-06-04,Yemen,Lebanon,2,0,Asian Cup qualifier,Qatar,44,-44,1195,1288,2,-14,160,141
+2026-06-05,Thailand,Kuwait,2,2,Friendly,Thailand,-4,4,1372,1331,-1,1,110,127
+2026-06-05,Tajikistan,India,3,1,Friendly,Tajikistan,6,-6,1290,1122,5,0,140,168
+2026-06-05,Slovakia,Montenegro,2,2,Friendly,Slovakia,-7,7,1667,1460,0,3,53,86
+2026-06-05,Singapore,China,1,2,Friendly,Singapore,-5,5,1134,1428,-2,2,167,94
+2026-06-05,Saudi Arabia,Puerto Rico,3,0,Friendly,the United States,3,-3,1569,1135,1,1,70,165
+2026-06-05,San Marino,Bangladesh,1,2,Friendly,San Marino,-10,10,826,942,-2,2,207,194
+2026-06-05,Russia,Burkina Faso,3,0,Friendly,Russia,4,-4,1770,1526,2,-1,29,78
+2026-06-05,Peru,Haiti,2,1,Friendly,the United States,6,-6,1701,1548,1,0,46,73
+2026-06-05,Paraguay,Nicaragua,4,0,Friendly,Paraguay,1,-1,1833,1333,0,0,22,126
+2026-06-05,Moldova,Bulgaria,2,2,Friendly,Moldova,3,-3,1265,1458,0,-1,148,88
+2026-06-05,Malta,Azerbaijan,2,0,Friendly,Hungary,19,-19,1255,1321,4,-7,149,128
+2026-06-05,Indonesia,Oman,3,0,Garuda Championship Series,Indonesia,31,-31,1362,1459,12,-3,115,87
+2026-06-05,Hungary,Finland,2,1,Friendly,Hungary,4,-4,1707,1536,0,-1,45,76
+2026-06-05,Hong Kong,Mongolia,2,0,Friendly,Hong Kong,2,-2,1122,725,1,0,168,216
+2026-06-05,Georgia,Bahrain,2,0,Friendly,Georgia,4,-4,1654,1414,0,0,55,100
+2026-06-05,Central African Republic,Togo,1,1,Friendly,Morocco,3,-3,1241,1356,1,-1,151,116
+2026-06-05,Canada,Ireland,1,1,Friendly,Canada,-5,5,1788,1699,0,2,25,47
+2026-06-05,Benin,Niger,1,1,Friendly,Morocco,-1,1,1428,1394,0,1,94,102
+2026-06-05,Belarus,Syria,4,1,Friendly,Belarus,12,-12,1525,1479,1,0,79,83
+2026-06-05,Angola,Mauritania,1,1,Friendly,Morocco,-6,6,1537,1317,-1,2,75,130
+2026-06-06,Vanuatu,Fiji,2,1,Friendly,Vanuatu,7,-7,1121,1101,1,0,170,173
+2026-06-06,United States,Germany,1,2,Friendly,the United States,-7,7,1726,1932,0,0,38,10
+2026-06-06,Turkey,Venezuela,2,1,Friendly,the United States,5,-5,1911,1722,1,0,12,39
+2026-06-06,Sierra Leone,Liberia,1,0,Friendly,Sierra Leone,6,-6,1354,1291,3,-3,117,139
+2026-06-06,Scotland,Bolivia,4,0,Friendly,the United States,12,-12,1782,1633,2,-1,27,58
+2026-06-06,Romania,Wales,2,1,Friendly,Romania,9,-9,1639,1682,3,-2,57,52
+2026-06-06,Portugal,Chile,2,1,Friendly,Portugal,2,-2,1986,1708,0,-1,6,44
+2026-06-06,Myanmar,Guam,6,1,Friendly tournament,the Philippines,11,-11,993,705,0,-1,188,220
+2026-06-06,Kyrgyzstan,Palestine,0,0,Friendly,Kyrgyzstan,2,-2,1293,1467,3,0,136,84
+2026-06-06,Jamaica,South Africa,1,1,Friendly,Mexico,0,0,1527,1518,0,0,77,80
+2026-06-06,Gibraltar,Cayman Islands,4,1,Friendly,Gibraltar,5,-5,1011,800,0,-1,184,210
+2026-06-06,Ethiopia,Malawi,1,0,Friendly,Ethiopia,6,-6,1291,1235,5,-2,139,153
+2026-06-06,England,New Zealand,1,0,Friendly,the United States,1,-1,2021,1562,0,0,4,72
+2026-06-06,El Salvador,Qatar,0,0,Friendly,the United States,2,-2,1342,1421,-1,0,123,97
+2026-06-06,Curaçao,Aruba,4,0,Friendly,Curaçao,1,-1,1434,978,-1,-1,91,190
+2026-06-06,Cape Verde,Bermuda,3,0,Friendly,the United States,2,-2,1578,1117,0,-1,68,171
+2026-06-06,British Virgin Islands,Bonaire,2,0,Friendly,Spain,20,-20,743,816,5,-3,213,208
+2026-06-06,Brazil,Egypt,2,1,Friendly,the United States,3,-3,1991,1696,0,-1,5,48
+2026-06-06,Bosnia and Herzegovina,Panama,1,1,Friendly,the United States,4,-4,1595,1730,0,-1,65,37
+2026-06-06,Belgium,Tunisia,5,0,Friendly,Belgium,5,-5,1893,1628,2,-1,15,59
+2026-06-06,Australia,Switzerland,1,1,Friendly,the United States,3,-3,1777,1891,-1,-2,28,17
+2026-06-06,Armenia,Kazakhstan,1,1,Friendly,Armenia,-1,1,1378,1431,1,1,107,92
+2026-06-06,Argentina,Honduras,2,0,Friendly,the United States,1,-1,2114,1570,0,0,2,69
+2026-06-06,Albania,Luxembourg,0,1,Friendly,Albania,-17,17,1616,1450,-3,0,61,90
+2026-06-06,Lithuania,Latvia,1,1,Baltic Cup,Lithuania,-4,4,1286,1305,-3,1,143,134
+2026-06-06,Estonia,Faroe Islands,1,0,Baltic Cup,Estonia,13,-13,1352,1368,5,-7,118,113
+2026-06-07,Oman,Mozambique,4,1,Garuda Championship Series,Indonesia,20,-20,1479,1352,4,-9,83,118
+2026-06-07,Morocco,Norway,1,1,Friendly,the United States,3,-3,1827,1914,0,0,24,11
+2026-06-07,Liechtenstein,Cyprus,0,2,Friendly,Liechtenstein,-4,4,895,1314,-1,2,199,131
+2026-06-07,Kosovo,Andorra,3,0,Friendly,Kosovo,1,-1,1715,1080,0,0,41,175
+2026-06-07,Kenya,Lesotho,4,0,Friendly,South Africa,11,-11,1363,1198,5,-3,113,159
+2026-06-07,Greece,Italy,0,1,Friendly,Greece,-10,10,1744,1869,0,2,34,19
+2026-06-07,Ecuador,Guatemala,3,0,Friendly,the United States,3,-3,1938,1504,0,0,9,82
+2026-06-07,Denmark,Ukraine,2,1,Friendly,Denmark,5,-5,1869,1780,1,-1,19,27
+2026-06-07,Croatia,Slovenia,2,1,Friendly,Croatia,3,-3,1911,1682,1,0,12,50
+2026-06-07,Colombia,Jordan,2,0,Friendly,the United States,5,-5,1982,1680,0,-2,7,52
+2026-06-07,Pakistan,Afghanistan,2,0,Diamond Jubilee Tournament,the Maldives,33,-33,880,990,2,-5,202,188
+2026-06-08,Sri Lanka,Bhutan,4,1,Friendly,Thailand,9,-9,836,622,0,-2,205,230

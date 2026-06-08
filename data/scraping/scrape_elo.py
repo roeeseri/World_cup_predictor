@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright
 import pandas as pd
 from pathlib import Path
 
-year = input("Enter the year to scrape: ")
+year = "2026"
 url = f"https://www.eloratings.net/{year}_results"
 selector = f"#maintable_{year}_results"
 
