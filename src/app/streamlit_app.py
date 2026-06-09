@@ -13,8 +13,8 @@ sys.path.insert(0, str(ROOT))
 from src.features.feature_columns import FEATURE_COLS
 from src.features.build_features import build_pre_match_features
 from src.models.score_conversion import most_likely_score, top_scores, win_draw_loss_probs
-from src.tournament.simulate_world_cup import simulate_world_cup_2026
 from src.app.live_tournament_page import show_live_tournament
+from src.app.simulation_page import show_wc_simulation
 from src.state.live_state import derive_rankings_from_elo
 
 
@@ -335,7 +335,7 @@ def main():
     if page == "Single Match Predictor":
         show_match_predictor(model, raw_historical, market_values, position_values)
     elif page == "World Cup 2026 Simulation":
-        show_world_cup_dashboard(model, model_df, group_features)
+        show_wc_simulation(model, raw_historical, fixtures, market_values, position_values)
     elif page == "Live Tournament":
         show_live_tournament(
             model=model,

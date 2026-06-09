@@ -16,7 +16,7 @@ import pandas as pd
 
 ROUND_OF_32_TEMPLATE = [
     {"round": "R32", "match_slot": "R32_01", "team_a_slot": "1E", "team_b_slot": "3ABCDF"},
-    {"round": "R32", "match_slot": "R32_02", "team_a_slot": "1J", "team_b_slot": "3CDFGH"},
+    {"round": "R32", "match_slot": "R32_02", "team_a_slot": "1I", "team_b_slot": "3CDFGH"},
     {"round": "R32", "match_slot": "R32_03", "team_a_slot": "2A", "team_b_slot": "2B"},
     {"round": "R32", "match_slot": "R32_04", "team_a_slot": "1F", "team_b_slot": "2C"},
 
@@ -30,7 +30,7 @@ ROUND_OF_32_TEMPLATE = [
     {"round": "R32", "match_slot": "R32_11", "team_a_slot": "1A", "team_b_slot": "3CEFHI"},
     {"round": "R32", "match_slot": "R32_12", "team_a_slot": "1L", "team_b_slot": "3EHIJK"},
 
-    {"round": "R32", "match_slot": "R32_13", "team_a_slot": "1I", "team_b_slot": "2H"},
+    {"round": "R32", "match_slot": "R32_13", "team_a_slot": "1J", "team_b_slot": "2H"},
     {"round": "R32", "match_slot": "R32_14", "team_a_slot": "2D", "team_b_slot": "2G"},
     {"round": "R32", "match_slot": "R32_15", "team_a_slot": "1B", "team_b_slot": "3EFGIJ"},
     {"round": "R32", "match_slot": "R32_16", "team_a_slot": "1K", "team_b_slot": "3DEIJL"},
