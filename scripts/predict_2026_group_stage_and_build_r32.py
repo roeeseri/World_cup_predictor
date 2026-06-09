@@ -13,7 +13,7 @@ from src.models.score_conversion import most_likely_score
 from src.tournament.simulate_world_cup import build_knockout_from_group_predictions
 
 
-MODEL_PATH = "models/production_model_v3.joblib"
+MODEL_PATH = "models/production_model_v4.joblib"
 GROUP_FEATURES_PATH = "data/processed/world_cup_2026_group_stage_features.csv"
 
 OUT_GROUP_PREDICTIONS = "outputs/evaluation/world_cup_2026_group_predictions.csv"

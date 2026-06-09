@@ -11,7 +11,7 @@ import pandas as pd
 from src.features.feature_columns import FEATURE_COLS
 
 
-MODEL_PATH = "models/production_model_v3.joblib"
+MODEL_PATH = "models/production_model_v4.joblib"
 
 
 def normalize_importance(values):
