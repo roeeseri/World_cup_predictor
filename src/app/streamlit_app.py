@@ -11,12 +11,14 @@ ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 
 from src.features.feature_columns import FEATURE_COLS
+from src.features.build_features import build_pre_match_features
 from src.models.score_conversion import most_likely_score, top_scores, win_draw_loss_probs
 from src.tournament.simulate_world_cup import simulate_world_cup_2026
 from src.app.live_tournament_page import show_live_tournament
+from src.state.live_state import derive_rankings_from_elo
 
 
-MODEL_PATH = ROOT / "models" / "production_model_v3.joblib"
+MODEL_PATH = ROOT / "models" / "production_model_v4.joblib"
 MODEL_DATASET_PATH = ROOT / "data" / "processed" / "model_dataset.csv"
 GROUP_FEATURES_PATH = ROOT / "data" / "processed" / "world_cup_2026_group_stage_features.csv"
 MARKET_VALUES_PATH = ROOT / "data" / "processed" / "transfermarkt_market_values_clean.csv"
@@ -73,23 +75,27 @@ def run_cached_simulation(_model, model_df, group_features):
     )
 
 
-def build_direct_match_row(model_df, team_a, team_b):
-    direct = model_df[
-        (model_df["team_a"] == team_a)
-        & (model_df["team_b"] == team_b)
-    ].sort_values("date")
+@st.cache_data
+def _extract_elo_ratings(historical_matches: pd.DataFrame) -> dict[str, float]:
+    """Get the most recent post-match ELO for every team from raw historical data."""
+    a = historical_matches[["team_a", "rating_a", "date"]].rename(columns={"team_a": "team", "rating_a": "rating"})
+    b = historical_matches[["team_b", "rating_b", "date"]].rename(columns={"team_b": "team", "rating_b": "rating"})
+    latest = (
+        pd.concat([a, b])
+        .sort_values("date")
+        .groupby("team")["rating"]
+        .last()
+    )
+    return latest.to_dict()
 
-    if not direct.empty:
-        return pd.DataFrame([direct.iloc[-1][FEATURE_COLS]])
 
-    fallback = model_df[FEATURE_COLS].median(numeric_only=True)
-    return pd.DataFrame([fallback[FEATURE_COLS]])
-
-
-def show_match_predictor(model, model_df):
+def show_match_predictor(model, raw_historical, market_values, position_values):
     st.header("⚽ Single Match Predictor")
 
-    teams = sorted(set(model_df["team_a"]) | set(model_df["team_b"]))
+    elo_ratings = _extract_elo_ratings(raw_historical)
+    rankings = derive_rankings_from_elo(elo_ratings)
+
+    teams = sorted(elo_ratings.keys())
 
     col1, col2 = st.columns(2)
     with col1:
@@ -102,7 +108,21 @@ def show_match_predictor(model, model_df):
         return
 
     if st.button("Predict Match", type="primary"):
-        X = build_direct_match_row(model_df, team_a, team_b).fillna(0)
+        try:
+            X = build_pre_match_features(
+                team_a=team_a,
+                team_b=team_b,
+                match_date=pd.Timestamp.now(),
+                team_states={},
+                historical_matches=raw_historical,
+                market_values=market_values,
+                position_values=position_values,
+                elo_ratings=elo_ratings,
+                rankings=rankings,
+            ).fillna(0)
+        except Exception as e:
+            st.error(f"Could not build features: {e}")
+            return
         pred = model.predict(X)
 
         lambda_a = float(pred[0, 0])
@@ -313,7 +333,7 @@ def main():
     st.sidebar.code(str(len(FEATURE_COLS)))
 
     if page == "Single Match Predictor":
-        show_match_predictor(model, model_df)
+        show_match_predictor(model, raw_historical, market_values, position_values)
     elif page == "World Cup 2026 Simulation":
         show_world_cup_dashboard(model, model_df, group_features)
     elif page == "Live Tournament":

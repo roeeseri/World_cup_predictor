@@ -5,6 +5,7 @@ from pathlib import Path
 import pandas as pd
 
 from src.features.feature_columns import FEATURE_COLS
+from src.state.elo import compute_elo_update
 from src.tournament.build_knockout import build_round_of_32_fixtures, validate_round_of_32
 from src.tournament.group_standings import build_group_standings, get_group_position_map
 from src.tournament.match_simulation import simulate_match
@@ -38,6 +39,20 @@ def _update_team_state(
     state["goals_for"] += goals_for
     state["goals_against"] += goals_against
     state["goal_diff"] = state["goals_for"] - state["goals_against"]
+
+
+def _extract_initial_elo(group_features: pd.DataFrame) -> dict[str, float]:
+    """Pull pre-tournament ELO ratings from the group-stage feature CSV."""
+    elo: dict[str, float] = {}
+    for _, row in group_features.iterrows():
+        elo.setdefault(row["team_a"], float(row["rating_a_before"]))
+        elo.setdefault(row["team_b"], float(row["rating_b_before"]))
+    return elo
+
+
+def _derive_ranks(elo: dict[str, float]) -> dict[str, int]:
+    sorted_teams = sorted(elo.items(), key=lambda x: -x[1])
+    return {team: rank + 1 for rank, (team, _) in enumerate(sorted_teams)}
 
 
 def _apply_live_tournament_features(
@@ -84,8 +99,12 @@ def prepare_group_prediction_matches(group_predictions: pd.DataFrame) -> pd.Data
 def predict_group_stage(
     model,
     group_features: pd.DataFrame,
-) -> pd.DataFrame:
-    """Predict group-stage matches sequentially with live tournament features."""
+) -> tuple[pd.DataFrame, dict[str, float]]:
+    """Predict group-stage matches sequentially with live tournament + ELO features.
+
+    Returns (group_predictions_df, final_elo_ratings) so the knockout stage
+    can continue from the ELO state at the end of the group stage.
+    """
     fixtures = group_features.copy()
     fixtures["date"] = pd.to_datetime(fixtures["date"])
     fixtures = fixtures.sort_values(["date", "match_id"]).reset_index(drop=True)
@@ -95,12 +114,27 @@ def predict_group_stage(
             fixtures[col] = 0.0
 
     team_states: dict[str, dict] = {}
+    current_elo = _extract_initial_elo(group_features)
     rows = []
 
     from src.models.score_conversion import most_likely_score, win_draw_loss_probs
 
     for _, match in fixtures.iterrows():
+        team_a = match["team_a"]
+        team_b = match["team_b"]
+
+        # Apply live tournament-state features (points, goal_diff, matches played)
         live_match = _apply_live_tournament_features(match, team_states)
+
+        # Override ELO features with live (continuously updated) ratings
+        ra = current_elo.get(team_a, float(live_match["rating_a_before"]))
+        rb = current_elo.get(team_b, float(live_match["rating_b_before"]))
+        ranks = _derive_ranks(current_elo)
+        live_match = live_match.copy()
+        live_match["rating_a_before"] = ra
+        live_match["rating_b_before"] = rb
+        live_match["elo_diff"] = ra - rb
+        live_match["rank_diff"] = ranks.get(team_a, 0) - ranks.get(team_b, 0)
 
         X = pd.DataFrame([live_match[FEATURE_COLS]]).fillna(0)
         pred = model.predict(X)
@@ -111,44 +145,41 @@ def predict_group_stage(
         goals_a, goals_b = most_likely_score(lambda_a, lambda_b)
         win_a, draw, win_b = win_draw_loss_probs(lambda_a, lambda_b)
 
-        rows.append(
-            {
-                "match_id": live_match.get("match_id"),
-                "date": live_match.get("date"),
-                "group": live_match["group"],
-                "team_a": live_match["team_a"],
-                "team_b": live_match["team_b"],
-                "lambda_a": lambda_a,
-                "lambda_b": lambda_b,
-                "pred_goals_a": goals_a,
-                "pred_goals_b": goals_b,
-                "pred_score": f"{goals_a}-{goals_b}",
-                "team_a_win_prob": win_a,
-                "draw_prob": draw,
-                "team_b_win_prob": win_b,
-                "team_a_tournament_matches_played": live_match[
-                    "team_a_tournament_matches_played"
-                ],
-                "team_b_tournament_matches_played": live_match[
-                    "team_b_tournament_matches_played"
-                ],
-                "tournament_points_diff": live_match["tournament_points_diff"],
-                "tournament_goal_diff_diff": live_match[
-                    "tournament_goal_diff_diff"
-                ],
-            }
-        )
+        rows.append({
+            "match_id": live_match.get("match_id"),
+            "date": live_match.get("date"),
+            "group": live_match["group"],
+            "team_a": team_a,
+            "team_b": team_b,
+            "lambda_a": lambda_a,
+            "lambda_b": lambda_b,
+            "pred_goals_a": goals_a,
+            "pred_goals_b": goals_b,
+            "pred_score": f"{goals_a}-{goals_b}",
+            "team_a_win_prob": win_a,
+            "draw_prob": draw,
+            "team_b_win_prob": win_b,
+            "team_a_tournament_matches_played": live_match["team_a_tournament_matches_played"],
+            "team_b_tournament_matches_played": live_match["team_b_tournament_matches_played"],
+            "tournament_points_diff": live_match["tournament_points_diff"],
+            "tournament_goal_diff_diff": live_match["tournament_goal_diff_diff"],
+        })
 
-        team_a = live_match["team_a"]
-        team_b = live_match["team_b"]
-
+        # Update tournament state (points, goals, matches)
         state_a = team_states.setdefault(team_a, _empty_team_state())
         state_b = team_states.setdefault(team_b, _empty_team_state())
-
         _update_team_state(state_a, goals_a, goals_b)
         _update_team_state(state_b, goals_b, goals_a)
 
-    return pd.DataFrame(rows)
+        # Update ELO from the simulated result
+        delta_a, delta_b = compute_elo_update(
+            ra, rb, goals_a, goals_b,
+            competition="FIFA World Cup", team_a=team_a, team_b=team_b,
+        )
+        current_elo[team_a] = ra + delta_a
+        current_elo[team_b] = rb + delta_b
+
+    return pd.DataFrame(rows), current_elo
 
 
 def build_knockout_from_group_predictions(
@@ -169,6 +200,7 @@ def _simulate_round(
     team_states: dict[str, dict],
     round_name: str,
     fixtures: list[tuple[str, str, str]],
+    current_elo: dict[str, float],
 ) -> tuple[list[dict], dict[str, str], dict[str, str]]:
     rows = []
     winners = {}
@@ -182,6 +214,7 @@ def _simulate_round(
             team_a=team_a,
             team_b=team_b,
             knockout=True,
+            current_elo=current_elo,
         )
 
         result["round"] = round_name
@@ -198,9 +231,12 @@ def simulate_knockout(
     model,
     group_features: pd.DataFrame,
     r32_fixtures: pd.DataFrame,
+    current_elo: dict[str, float] | None = None,
 ) -> pd.DataFrame:
     rows = []
     team_states: dict[str, dict] = {}
+    if current_elo is None:
+        current_elo = _extract_initial_elo(group_features)
 
     r32_games = [
         (row["match_slot"], row["team_a"], row["team_b"])
@@ -208,11 +244,8 @@ def simulate_knockout(
     ]
 
     r32_rows, r32_winners, r32_losers = _simulate_round(
-        model=model,
-        group_features=group_features,
-        team_states=team_states,
-        round_name="R32",
-        fixtures=r32_games,
+        model=model, group_features=group_features, team_states=team_states,
+        round_name="R32", fixtures=r32_games, current_elo=current_elo,
     )
     rows.extend(r32_rows)
 
@@ -228,11 +261,8 @@ def simulate_knockout(
     ]
 
     r16_rows, r16_winners, r16_losers = _simulate_round(
-        model=model,
-        group_features=group_features,
-        team_states=team_states,
-        round_name="R16",
-        fixtures=r16_games,
+        model=model, group_features=group_features, team_states=team_states,
+        round_name="R16", fixtures=r16_games, current_elo=current_elo,
     )
     rows.extend(r16_rows)
 
@@ -244,11 +274,8 @@ def simulate_knockout(
     ]
 
     qf_rows, qf_winners, qf_losers = _simulate_round(
-        model=model,
-        group_features=group_features,
-        team_states=team_states,
-        round_name="QF",
-        fixtures=qf_games,
+        model=model, group_features=group_features, team_states=team_states,
+        round_name="QF", fixtures=qf_games, current_elo=current_elo,
     )
     rows.extend(qf_rows)
 
@@ -258,11 +285,8 @@ def simulate_knockout(
     ]
 
     sf_rows, sf_winners, sf_losers = _simulate_round(
-        model=model,
-        group_features=group_features,
-        team_states=team_states,
-        round_name="SF",
-        fixtures=sf_games,
+        model=model, group_features=group_features, team_states=team_states,
+        round_name="SF", fixtures=sf_games, current_elo=current_elo,
     )
     rows.extend(sf_rows)
 
@@ -272,11 +296,8 @@ def simulate_knockout(
     ]
 
     final_rows, _, _ = _simulate_round(
-        model=model,
-        group_features=group_features,
-        team_states=team_states,
-        round_name="FINAL_STAGE",
-        fixtures=final_games,
+        model=model, group_features=group_features, team_states=team_states,
+        round_name="FINAL_STAGE", fixtures=final_games, current_elo=current_elo,
     )
 
     for row in final_rows:
@@ -296,9 +317,9 @@ def simulate_world_cup_2026(
     group_features: pd.DataFrame,
     output_dir: str | Path = "outputs/evaluation/world_cup_2026_simulation",
 ) -> dict:
-    group_predictions = predict_group_stage(model, group_features)
+    group_predictions, post_group_elo = predict_group_stage(model, group_features)
     standings, r32_fixtures = build_knockout_from_group_predictions(group_predictions)
-    knockout_results = simulate_knockout(model, group_features, r32_fixtures)
+    knockout_results = simulate_knockout(model, group_features, r32_fixtures, current_elo=post_group_elo)
 
     final_row = knockout_results[knockout_results["round"] == "FINAL"].iloc[0]
     third_row = knockout_results[knockout_results["round"] == "THIRD_PLACE"].iloc[0]

@@ -127,6 +127,7 @@ def train_production_model(
     save_path: str = DEFAULT_SAVE_PATH,
     config_path: str = DEFAULT_CONFIG_PATH,
     evaluate: bool = True,
+    dataset_path: str | None = None,
 ) -> tuple:
     """
     Train production model on all available data and save.
@@ -137,15 +138,19 @@ def train_production_model(
         save_path: Path to save the model artifact
         config_path: Path to save model config JSON
         evaluate: Run WC cross-validation before final training
+        dataset_path: Path to the model dataset CSV (defaults to model_dataset.csv)
 
     Returns:
         (model, config_dict)
     """
     print("Loading dataset...")
-    dataset_path = Path("data/processed/model_dataset.csv")
-    if not dataset_path.exists():
-        dataset_path = Path("../data/processed/model_dataset.csv")
-    df = load_model_dataset(path=dataset_path)
+    if dataset_path:
+        resolved = Path(dataset_path)
+    else:
+        resolved = Path("data/processed/model_dataset.csv")
+        if not resolved.exists():
+            resolved = Path("../data/processed/model_dataset.csv")
+    df = load_model_dataset(path=resolved)
     df["date"] = pd.to_datetime(df["date"])
     df = df.sort_values("date").reset_index(drop=True)
 
@@ -218,6 +223,7 @@ if __name__ == "__main__":
     parser.add_argument("--no-evaluate", action="store_true", help="Skip WC cross-validation")
     parser.add_argument("--save-path", default=DEFAULT_SAVE_PATH, help="Model save path")
     parser.add_argument("--config-path", default=DEFAULT_CONFIG_PATH, help="Config save path")
+    parser.add_argument("--dataset-path", default=None, help="Path to model dataset CSV")
 
     args = parser.parse_args()
 
@@ -227,4 +233,5 @@ if __name__ == "__main__":
         save_path=args.save_path,
         config_path=args.config_path,
         evaluate=not args.no_evaluate,
+        dataset_path=args.dataset_path,
     )

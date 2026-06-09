@@ -5,6 +5,10 @@ from __future__ import annotations
 import numpy as np
 from scipy.stats import poisson
 
+# Production score threshold: switch 0→1 at λ=0.9, 1→2 at λ=1.9, etc.
+# Set to 1.0 to revert to the pure Poisson mode (grid argmax).
+SCORE_THRESHOLD: float = 0.9
+
 
 def poisson_score_grid(lambda_a: float, lambda_b: float, max_goals: int = 8) -> np.ndarray:
     """
@@ -39,8 +43,22 @@ def top_scores(lambda_a: float, lambda_b: float, n: int = 5, max_goals: int = 8)
     return [(int(i), int(j), float(grid[i, j])) for i, j in indices[:n]]
 
 
-def most_likely_score(lambda_a: float, lambda_b: float, max_goals: int = 8) -> tuple[int, int]:
-    """Return the single most probable integer scoreline."""
+def most_likely_score(
+    lambda_a: float,
+    lambda_b: float,
+    max_goals: int = 8,
+    threshold: float = SCORE_THRESHOLD,
+) -> tuple[int, int]:
+    """Return the predicted integer scoreline.
+
+    When threshold < 1.0 uses floor(λ + (1 - threshold)), so e.g. threshold=0.9
+    switches 0→1 at λ=0.9, 1→2 at λ=1.9, etc.
+    When threshold == 1.0 falls back to the Poisson grid argmax (true mode).
+    Pass threshold=1.0 explicitly to get the pure Poisson mode behaviour.
+    """
+    if threshold < 1.0:
+        shift = 1.0 - threshold
+        return int(lambda_a + shift), int(lambda_b + shift)
     grid = poisson_score_grid(lambda_a, lambda_b, max_goals)
     idx = np.unravel_index(np.argmax(grid), grid.shape)
     return int(idx[0]), int(idx[1])

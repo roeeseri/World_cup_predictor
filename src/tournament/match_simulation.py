@@ -4,6 +4,7 @@ import pandas as pd
 
 from src.features.feature_columns import FEATURE_COLS
 from src.models.score_conversion import most_likely_score, win_draw_loss_probs
+from src.state.elo import compute_elo_update
 
 
 def empty_state() -> dict:
@@ -56,6 +57,7 @@ def build_knockout_feature_row(
     team_states: dict[str, dict],
     team_a: str,
     team_b: str,
+    current_elo: dict[str, float] | None = None,
 ) -> pd.DataFrame:
     profiles = build_rating_profiles(group_features)
 
@@ -67,12 +69,21 @@ def build_knockout_feature_row(
     pa = profiles[team_a]
     pb = profiles[team_b]
 
+    # Use live (updated) ELO if available, otherwise fall back to pre-tournament
+    if current_elo:
+        pa = dict(pa)
+        pb = dict(pb)
+        pa["rating"] = current_elo.get(team_a, pa["rating"])
+        pb["rating"] = current_elo.get(team_b, pb["rating"])
+        all_ratings = {t: current_elo.get(t, p["rating"]) for t, p in profiles.items()}
+        sorted_teams = sorted(all_ratings.items(), key=lambda x: -x[1])
+        live_ranks = {t: r + 1 for r, (t, _) in enumerate(sorted_teams)}
+        pa["derived_rank"] = live_ranks.get(team_a, pa["derived_rank"])
+        pb["derived_rank"] = live_ranks.get(team_b, pb["derived_rank"])
+
     sa = team_states.setdefault(team_a, empty_state())
     sb = team_states.setdefault(team_b, empty_state())
 
-    # Important:
-    # Do NOT reconstruct pairwise diff features from group matches.
-    # For unknown knockout pairings, unsafe diff features are neutralized.
     features = {
         "rank_diff": pa["derived_rank"] - pb["derived_rank"],
         "elo_diff": pa["rating"] - pb["rating"],
@@ -110,8 +121,9 @@ def simulate_match(
     team_a: str,
     team_b: str,
     knockout: bool = True,
+    current_elo: dict[str, float] | None = None,
 ) -> dict:
-    X = build_knockout_feature_row(group_features, team_states, team_a, team_b)
+    X = build_knockout_feature_row(group_features, team_states, team_a, team_b, current_elo)
     pred = model.predict(X)[0]
 
     lambda_a = float(pred[0])
@@ -129,6 +141,16 @@ def simulate_match(
         loser = team_b if winner == team_a else team_a
 
     update_state(team_states, team_a, team_b, goals_a, goals_b)
+
+    if current_elo is not None:
+        ra = current_elo.get(team_a, 1500.0)
+        rb = current_elo.get(team_b, 1500.0)
+        delta_a, delta_b = compute_elo_update(
+            ra, rb, goals_a, goals_b,
+            competition="FIFA World Cup", team_a=team_a, team_b=team_b,
+        )
+        current_elo[team_a] = ra + delta_a
+        current_elo[team_b] = rb + delta_b
 
     return {
         "team_a": team_a,
