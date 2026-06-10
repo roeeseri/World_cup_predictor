@@ -9,7 +9,7 @@ import streamlit as st
 
 from src.features.build_features import build_pre_match_features
 from src.features.team_names import normalize_team_name
-from src.models.score_conversion import most_likely_score, win_draw_loss_probs
+from src.models.score_conversion import most_likely_score, most_likely_score_v5, win_draw_loss_probs
 from src.state.elo import compute_elo_update
 from src.state.live_state import (
     derive_rankings_from_elo,
@@ -190,13 +190,20 @@ def _predict_match(
     position_values: pd.DataFrame,
     match_id: int | None = None,
     match_slot: str | None = None,
+    score_fn=None,
+    feature_fn=None,
 ) -> dict:
+    if score_fn is None:
+        score_fn = most_likely_score
+    if feature_fn is None:
+        feature_fn = build_pre_match_features
+
     canon_a = normalize_team_name(team_a)
     canon_b = normalize_team_name(team_b)
     error_msg = None
 
     try:
-        feature_row = build_pre_match_features(
+        feature_row = feature_fn(
             team_a=canon_a,
             team_b=canon_b,
             match_date=match_date,
@@ -211,7 +218,7 @@ def _predict_match(
         pred = model.predict(feature_row)
         lambda_a = float(pred[0, 0])
         lambda_b = float(pred[0, 1])
-        goals_a, goals_b = most_likely_score(lambda_a, lambda_b)
+        goals_a, goals_b = score_fn(lambda_a, lambda_b)
         win_a, draw, win_b = win_draw_loss_probs(lambda_a, lambda_b)
     except Exception as exc:
         error_msg = str(exc)
@@ -261,6 +268,8 @@ def _simulate_group_round(
     fixtures: pd.DataFrame,
     market_values: pd.DataFrame,
     position_values: pd.DataFrame,
+    score_fn=None,
+    feature_fn=None,
 ) -> None:
     state = wc_sim["state"]
     matchday_fixtures = (
@@ -280,6 +289,8 @@ def _simulate_group_round(
             market_values=market_values,
             position_values=position_values,
             match_id=int(fix["match_id"]),
+            score_fn=score_fn,
+            feature_fn=feature_fn,
         )
         state = record_match_result(state, int(fix["match_id"]), result["goals_a"], result["goals_b"])
         results.append(result)
@@ -366,6 +377,8 @@ def _simulate_knockout_stage(
     fixtures_list: list[tuple[str, str, str]],
     market_values: pd.DataFrame,
     position_values: pd.DataFrame,
+    score_fn=None,
+    feature_fn=None,
 ) -> None:
     state = wc_sim["state"]
     fallback_date = pd.Timestamp("2026-07-10")
@@ -382,6 +395,8 @@ def _simulate_knockout_stage(
             market_values=market_values,
             position_values=position_values,
             match_slot=match_slot,
+            score_fn=score_fn,
+            feature_fn=feature_fn,
         )
         state = _apply_knockout_result_to_state(
             state, team_a, team_b, result["goals_a"], result["goals_b"], match_date
@@ -541,6 +556,8 @@ def _render_group_round_tab(
     market_values: pd.DataFrame,
     position_values: pd.DataFrame,
     prerequisite_done: bool,
+    score_fn=None,
+    feature_fn=None,
 ) -> None:
     stage_key = f"R{matchday}"
     done = wc_sim["stage_complete"].get(stage_key, False)
@@ -553,7 +570,7 @@ def _render_group_round_tab(
         n = int((fixtures["matchday"] == matchday).sum())
         if st.button(f"▶ Predict Round {matchday} ({n} games)", type="primary", key=f"btn_r{matchday}"):
             with st.spinner(f"Simulating {n} Round {matchday} matches…"):
-                _simulate_group_round(wc_sim, model, matchday, fixtures, market_values, position_values)
+                _simulate_group_round(wc_sim, model, matchday, fixtures, market_values, position_values, score_fn=score_fn, feature_fn=feature_fn)
             st.rerun()
         return
 
@@ -607,6 +624,8 @@ def _render_knockout_tab(
     prerequisite_done: bool,
     market_values: pd.DataFrame,
     position_values: pd.DataFrame,
+    score_fn=None,
+    feature_fn=None,
 ) -> None:
     label = STAGE_LABELS.get(stage, stage)
     done = wc_sim["stage_complete"].get(stage, False)
@@ -620,7 +639,7 @@ def _render_knockout_tab(
         n = len(fixtures_list)
         if st.button(f"▶ Predict {label} ({n} games)", type="primary", key=f"btn_{stage}"):
             with st.spinner(f"Simulating {n} {label} matches…"):
-                _simulate_knockout_stage(wc_sim, model, stage, fixtures_list, market_values, position_values)
+                _simulate_knockout_stage(wc_sim, model, stage, fixtures_list, market_values, position_values, score_fn=score_fn, feature_fn=feature_fn)
             st.rerun()
 
         # Preview who plays who
@@ -650,6 +669,8 @@ def show_wc_simulation(
     fixtures: pd.DataFrame,
     market_values: pd.DataFrame,
     position_values: pd.DataFrame,
+    score_fn=None,
+    feature_fn=None,
 ) -> None:
     """Render the step-by-step WC 2026 simulation page."""
     _init_wc_sim(historical_matches, fixtures)
@@ -681,15 +702,15 @@ def show_wc_simulation(
     ])
 
     with tab_r1:
-        _render_group_round_tab(wc_sim, model, 1, fixtures, market_values, position_values, prerequisite_done=True)
+        _render_group_round_tab(wc_sim, model, 1, fixtures, market_values, position_values, prerequisite_done=True, score_fn=score_fn, feature_fn=feature_fn)
 
     with tab_r2:
         _render_group_round_tab(wc_sim, model, 2, fixtures, market_values, position_values,
-                                prerequisite_done=sc.get("R1", False))
+                                prerequisite_done=sc.get("R1", False), score_fn=score_fn, feature_fn=feature_fn)
 
     with tab_r3:
         _render_group_round_tab(wc_sim, model, 3, fixtures, market_values, position_values,
-                                prerequisite_done=sc.get("R2", False))
+                                prerequisite_done=sc.get("R2", False), score_fn=score_fn, feature_fn=feature_fn)
 
     with tab_fs:
         _render_final_standings_tab(wc_sim)
@@ -702,6 +723,8 @@ def show_wc_simulation(
             prerequisite_done=(wc_sim.get("r32_fixtures") is not None),
             market_values=market_values,
             position_values=position_values,
+            score_fn=score_fn,
+            feature_fn=feature_fn,
         )
 
     with tab_r16:
@@ -710,6 +733,8 @@ def show_wc_simulation(
             prerequisite_done=sc.get("R32", False),
             market_values=market_values,
             position_values=position_values,
+            score_fn=score_fn,
+            feature_fn=feature_fn,
         )
 
     with tab_qf:
@@ -718,6 +743,8 @@ def show_wc_simulation(
             prerequisite_done=sc.get("R16", False),
             market_values=market_values,
             position_values=position_values,
+            score_fn=score_fn,
+            feature_fn=feature_fn,
         )
 
     with tab_sf:
@@ -726,6 +753,8 @@ def show_wc_simulation(
             prerequisite_done=sc.get("QF", False),
             market_values=market_values,
             position_values=position_values,
+            score_fn=score_fn,
+            feature_fn=feature_fn,
         )
 
     with tab_final:
@@ -734,4 +763,6 @@ def show_wc_simulation(
             prerequisite_done=sc.get("SF", False),
             market_values=market_values,
             position_values=position_values,
+            score_fn=score_fn,
+            feature_fn=feature_fn,
         )

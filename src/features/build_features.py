@@ -3,7 +3,7 @@
 import pandas as pd
 
 from src.data.validation import validate_feature_columns, validate_no_target_columns
-from src.features.feature_columns import FEATURE_COLS
+from src.features.feature_columns import FEATURE_COLS, FEATURE_COLS_V5_PROD
 from src.features.market_value_features import compute_market_value_features
 from src.features.position_value_features import compute_position_value_features
 from src.features.recent_form_features import compute_recent_form_features
@@ -109,5 +109,84 @@ def build_pre_match_features(
 
     validate_no_target_columns(feature_row)
     validate_feature_columns(feature_row, FEATURE_COLS)
+
+    return feature_row
+
+
+def build_pre_match_features_v5(
+    team_a: str,
+    team_b: str,
+    match_date,
+    team_states: dict,
+    historical_matches: pd.DataFrame,
+    market_values: pd.DataFrame,
+    position_values: pd.DataFrame,
+    elo_ratings: dict[str, float],
+    rankings: dict[str, int],
+    competition_importance: float = 4.0,
+) -> pd.DataFrame:
+    """Build a single-row DataFrame with V5 production feature columns (FEATURE_COLS_V5_PROD).
+
+    Identical inputs to build_pre_match_features; adds rest_diff and competition_importance,
+    drops team_a/b_matches_played_before.
+    """
+    match_date = pd.to_datetime(match_date)
+    year = int(match_date.year)
+
+    features = {}
+
+    features.update(
+        compute_elo_features(
+            team_a=team_a,
+            team_b=team_b,
+            elo_ratings=elo_ratings,
+            rankings=rankings,
+        )
+    )
+
+    features.update(
+        compute_market_value_features(
+            team_a=team_a,
+            team_b=team_b,
+            year=year,
+            market_values=market_values,
+        )
+    )
+
+    features.update(
+        compute_position_value_features(
+            team_a=team_a,
+            team_b=team_b,
+            year=year,
+            position_values=position_values,
+        )
+    )
+
+    features.update(
+        compute_recent_form_features(
+            team_a=team_a,
+            team_b=team_b,
+            historical_matches=historical_matches,
+            cutoff_date=match_date,
+        )
+    )
+
+    features.update(
+        compute_tournament_state_features(
+            team_a=team_a,
+            team_b=team_b,
+            team_states=team_states,
+        )
+    )
+
+    # V5-specific: rest_diff and competition_importance
+    features["rest_diff"] = (
+        features.get("team_a_days_since_last_match", 0)
+        - features.get("team_b_days_since_last_match", 0)
+    )
+    features["competition_importance"] = competition_importance
+
+    feature_row = pd.DataFrame([features])
+    feature_row = feature_row[FEATURE_COLS_V5_PROD].copy()
 
     return feature_row

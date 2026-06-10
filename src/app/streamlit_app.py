@@ -10,15 +10,16 @@ import streamlit as st
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 
-from src.features.feature_columns import FEATURE_COLS
-from src.features.build_features import build_pre_match_features
-from src.models.score_conversion import most_likely_score, top_scores, win_draw_loss_probs
+from src.features.feature_columns import FEATURE_COLS, FEATURE_COLS_V5_PROD
+from src.features.build_features import build_pre_match_features, build_pre_match_features_v5
+from src.models.score_conversion import most_likely_score, most_likely_score_v5, top_scores, win_draw_loss_probs
 from src.app.live_tournament_page import show_live_tournament
 from src.app.simulation_page import show_wc_simulation
 from src.state.live_state import derive_rankings_from_elo
 
 
-MODEL_PATH = ROOT / "models" / "production_model_v4.joblib"
+MODEL_PATH_V4 = ROOT / "models" / "production_model_v4.joblib"
+MODEL_PATH_V5 = ROOT / "models" / "production_model_v5.joblib"
 MODEL_DATASET_PATH = ROOT / "data" / "processed" / "model_dataset.csv"
 GROUP_FEATURES_PATH = ROOT / "data" / "processed" / "world_cup_2026_group_stage_features.csv"
 MARKET_VALUES_PATH = ROOT / "data" / "processed" / "transfermarkt_market_values_clean.csv"
@@ -28,8 +29,13 @@ RAW_DATA_DIR = ROOT / "data" / "raw"
 
 
 @st.cache_resource
-def load_model():
-    return joblib.load(MODEL_PATH)
+def load_model_v4():
+    return joblib.load(MODEL_PATH_V4)
+
+
+@st.cache_resource
+def load_model_v5():
+    return joblib.load(MODEL_PATH_V5)
 
 
 @st.cache_data
@@ -89,8 +95,13 @@ def _extract_elo_ratings(historical_matches: pd.DataFrame) -> dict[str, float]:
     return latest.to_dict()
 
 
-def show_match_predictor(model, raw_historical, market_values, position_values):
+def show_match_predictor(model, raw_historical, market_values, position_values, feature_fn=None, score_fn=None):
     st.header("⚽ Single Match Predictor")
+
+    if feature_fn is None:
+        feature_fn = build_pre_match_features
+    if score_fn is None:
+        score_fn = most_likely_score
 
     elo_ratings = _extract_elo_ratings(raw_historical)
     rankings = derive_rankings_from_elo(elo_ratings)
@@ -109,7 +120,7 @@ def show_match_predictor(model, raw_historical, market_values, position_values):
 
     if st.button("Predict Match", type="primary"):
         try:
-            X = build_pre_match_features(
+            X = feature_fn(
                 team_a=team_a,
                 team_b=team_b,
                 match_date=pd.Timestamp.now(),
@@ -128,7 +139,7 @@ def show_match_predictor(model, raw_historical, market_values, position_values):
         lambda_a = float(pred[0, 0])
         lambda_b = float(pred[0, 1])
 
-        score_a, score_b = most_likely_score(lambda_a, lambda_b)
+        score_a, score_b = score_fn(lambda_a, lambda_b)
         win_a, draw, win_b = win_draw_loss_probs(lambda_a, lambda_b)
 
         if score_a > score_b:
@@ -306,9 +317,8 @@ def main():
     )
 
     st.title("⚽ World Cup Score Predictor")
-    st.caption("Production model + final 21 features + 2026 tournament simulator")
+    st.caption("Production model + 2026 tournament simulator")
 
-    model = load_model()
     model_df = load_model_dataset()
     group_features = load_2026_group_features()
     market_values = load_market_values()
@@ -327,15 +337,30 @@ def main():
     )
 
     st.sidebar.divider()
-    st.sidebar.write("Model:")
-    st.sidebar.code(type(model).__name__)
+
+    # Model version selector
+    v5_available = MODEL_PATH_V5.exists()
+    model_options = ["V4 (production)", "V5 (conditional floor)"] if v5_available else ["V4 (production)"]
+    model_choice = st.sidebar.radio("Model version", model_options, index=0)
+
+    if model_choice.startswith("V5") and v5_available:
+        model = load_model_v5()
+        score_fn = most_likely_score_v5
+        feature_fn = build_pre_match_features_v5
+        feature_cols = FEATURE_COLS_V5_PROD
+    else:
+        model = load_model_v4()
+        score_fn = most_likely_score
+        feature_fn = build_pre_match_features
+        feature_cols = FEATURE_COLS
+
     st.sidebar.write("Features:")
-    st.sidebar.code(str(len(FEATURE_COLS)))
+    st.sidebar.code(str(len(feature_cols)))
 
     if page == "Single Match Predictor":
-        show_match_predictor(model, raw_historical, market_values, position_values)
+        show_match_predictor(model, raw_historical, market_values, position_values, feature_fn=feature_fn, score_fn=score_fn)
     elif page == "World Cup 2026 Simulation":
-        show_wc_simulation(model, raw_historical, fixtures, market_values, position_values)
+        show_wc_simulation(model, raw_historical, fixtures, market_values, position_values, score_fn=score_fn, feature_fn=feature_fn)
     elif page == "Live Tournament":
         show_live_tournament(
             model=model,
@@ -343,6 +368,8 @@ def main():
             historical_matches=raw_historical,
             market_values=market_values,
             position_values=position_values,
+            score_fn=score_fn,
+            feature_fn=feature_fn,
         )
 
 

@@ -43,6 +43,21 @@ def top_scores(lambda_a: float, lambda_b: float, n: int = 5, max_goals: int = 8)
     return [(int(i), int(j), float(grid[i, j])) for i, j in indices[:n]]
 
 
+def most_likely_score_v5(
+    lambda_a: float,
+    lambda_b: float,
+    threshold_b: float = 0.5,
+) -> tuple[int, int]:
+    """V5 conditional floor rule: raise team B threshold only when team A scores 2+.
+
+    When goals_a >= 2, uses floor(lambda_b + threshold_b) instead of the V4 0.1 bias.
+    This targets 2-0→2-1 conversions without touching 1-0 predictions (no outcome% loss).
+    """
+    goals_a = int(lambda_a + 0.1)
+    goals_b = int(lambda_b + threshold_b) if goals_a >= 2 else int(lambda_b + 0.1)
+    return goals_a, goals_b
+
+
 def most_likely_score(
     lambda_a: float,
     lambda_b: float,

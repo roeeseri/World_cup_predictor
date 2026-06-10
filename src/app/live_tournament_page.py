@@ -98,13 +98,20 @@ def _get_prediction(
     match_date,
     market_values: pd.DataFrame,
     position_values: pd.DataFrame,
+    feature_fn=None,
+    score_fn=None,
 ) -> dict | None:
     from src.features.build_features import build_pre_match_features
     from src.features.team_names import normalize_team_name
     from src.models.score_conversion import most_likely_score, win_draw_loss_probs
 
+    if feature_fn is None:
+        feature_fn = build_pre_match_features
+    if score_fn is None:
+        score_fn = most_likely_score
+
     try:
-        feature_row = build_pre_match_features(
+        feature_row = feature_fn(
             team_a=normalize_team_name(team_a),
             team_b=normalize_team_name(team_b),
             match_date=match_date,
@@ -118,7 +125,7 @@ def _get_prediction(
         pred = model.predict(feature_row.fillna(0))
         la = float(pred[0, 0])
         lb = float(pred[0, 1])
-        ga, gb = most_likely_score(la, lb)
+        ga, gb = score_fn(la, lb)
         win_a, draw, win_b = win_draw_loss_probs(la, lb)
         return {
             "lambda_a": la, "lambda_b": lb,
@@ -156,13 +163,15 @@ def _render_upcoming_match(
     state: dict,
     market_values: pd.DataFrame,
     position_values: pd.DataFrame,
+    feature_fn=None,
+    score_fn=None,
 ) -> None:
     ta, tb = fixture["team_a"], fixture["team_b"]
     mid = int(fixture["match_id"])
     match_date = fixture["date"]
     time_str = pd.to_datetime(match_date, utc=True).strftime("%H:%M UTC")
 
-    pred = _get_prediction(model, state, ta, tb, match_date, market_values, position_values)
+    pred = _get_prediction(model, state, ta, tb, match_date, market_values, position_values, feature_fn=feature_fn, score_fn=score_fn)
 
     with st.container(border=True):
         header_col, prob_col = st.columns([2, 3])
@@ -216,6 +225,8 @@ def _show_group_stage(
     model,
     market_values: pd.DataFrame,
     position_values: pd.DataFrame,
+    feature_fn=None,
+    score_fn=None,
 ) -> None:
     fixtures = state["fixtures"].copy()
 
@@ -250,7 +261,7 @@ def _show_group_stage(
         if bool(fix.get("is_completed", False)):
             _render_completed_match(fix)
         else:
-            _render_upcoming_match(fix, model, state, market_values, position_values)
+            _render_upcoming_match(fix, model, state, market_values, position_values, feature_fn=feature_fn, score_fn=score_fn)
 
     # Day summary
     day_completed = day_fixtures[day_fixtures["is_completed"]]
@@ -403,6 +414,8 @@ def _show_simulate_forward(
     model,
     market_values: pd.DataFrame,
     position_values: pd.DataFrame,
+    score_fn=None,
+    feature_fn=None,
 ) -> None:
     unplayed = state["fixtures"][~state["fixtures"]["is_completed"]]
     n = len(unplayed)
@@ -420,7 +433,8 @@ def _show_simulate_forward(
         if st.button("🎲 Simulate remaining group matches", type="primary"):
             with st.spinner(f"Simulating {n} match(es)…"):
                 st.session_state.sim_state = simulate_forward(
-                    state, model, market_values, position_values
+                    state, model, market_values, position_values,
+                    feature_fn=feature_fn, score_fn=score_fn,
                 )
 
     sim = st.session_state.get("sim_state")
@@ -483,6 +497,8 @@ def show_live_tournament(
     historical_matches: pd.DataFrame,
     market_values: pd.DataFrame,
     position_values: pd.DataFrame,
+    score_fn=None,
+    feature_fn=None,
 ) -> None:
     """Render the full Live Tournament page."""
     _init_state(historical_matches, fixtures)
@@ -512,10 +528,10 @@ def show_live_tournament(
     )
 
     with tab_gs:
-        _show_group_stage(state, model, market_values, position_values)
+        _show_group_stage(state, model, market_values, position_values, feature_fn=feature_fn, score_fn=score_fn)
 
     with tab_standings:
         _show_standings(state)
 
     with tab_sim:
-        _show_simulate_forward(state, model, market_values, position_values)
+        _show_simulate_forward(state, model, market_values, position_values, score_fn=score_fn, feature_fn=feature_fn)

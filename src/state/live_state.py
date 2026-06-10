@@ -272,13 +272,22 @@ def simulate_forward(
     model,
     market_values: pd.DataFrame,
     position_values: pd.DataFrame,
+    feature_fn=None,
+    score_fn=None,
 ) -> dict:
     """Return a deep copy of *state* with all unplayed fixtures simulated.
 
     The original *state* is never mutated.
+    feature_fn: callable with same signature as build_pre_match_features (default: V4)
+    score_fn:   callable (lambda_a, lambda_b) -> (goals_a, goals_b) (default: most_likely_score V4)
     """
     from src.features.build_features import build_pre_match_features
     from src.models.score_conversion import most_likely_score
+
+    if feature_fn is None:
+        feature_fn = build_pre_match_features
+    if score_fn is None:
+        score_fn = most_likely_score
 
     sim = copy.deepcopy(state)
 
@@ -295,7 +304,7 @@ def simulate_forward(
         match_id = int(fixture["match_id"])
 
         try:
-            feature_row = build_pre_match_features(
+            feature_row = feature_fn(
                 team_a=team_a,
                 team_b=team_b,
                 match_date=match_date,
@@ -309,7 +318,7 @@ def simulate_forward(
             pred = model.predict(feature_row.fillna(0))
             lambda_a = float(pred[0, 0])
             lambda_b = float(pred[0, 1])
-            goals_a, goals_b = most_likely_score(lambda_a, lambda_b)
+            goals_a, goals_b = score_fn(lambda_a, lambda_b)
         except Exception:
             goals_a, goals_b = 1, 1
 
