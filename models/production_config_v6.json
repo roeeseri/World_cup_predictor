@@ -1,0 +1,73 @@
+{
+  "version": "v6",
+  "feature_cols": [
+    "rank_diff",
+    "elo_diff",
+    "rating_a_before",
+    "rating_b_before",
+    "avg_player_value_diff",
+    "opponent_strength_diff_last5",
+    "weighted_goals_for_diff_last5",
+    "weighted_goals_against_diff_last5",
+    "market_value_rel_mean_diff",
+    "rating_change_diff_last5",
+    "defender_share_diff",
+    "goalkeeper_share_diff",
+    "team_b_days_since_last_match",
+    "team_a_days_since_last_match",
+    "rest_diff",
+    "competition_importance",
+    "tournament_goal_diff_diff",
+    "tournament_points_diff",
+    "team_a_tournament_matches_played",
+    "team_b_tournament_matches_played"
+  ],
+  "target_cols": [
+    "goals_A",
+    "goals_B"
+  ],
+  "trained_on_date": "2026-06-11",
+  "dataset_info": {
+    "n_samples": 21655,
+    "date_min": "2004-01-01",
+    "date_max": "2026-06-08"
+  },
+  "training_params": {
+    "decay_rate": 0.9,
+    "competition_blend": 0.5,
+    "ensemble_weights": {
+      "lgbm": 0.9,
+      "xgb": 0.1
+    },
+    "mirror": "mirror_features_v6 (rest_diff fix)"
+  },
+  "drawband": {
+    "draw_threshold": 0.33,
+    "threshold_b": 0.5,
+    "scale_c": 0.9992361938714952,
+    "rho": -0.3293651939032305
+  },
+  "tuning_folds": [
+    [
+      "World Cup",
+      2014
+    ],
+    [
+      "World Cup",
+      2018
+    ],
+    [
+      "European Championship",
+      2024
+    ],
+    [
+      "Copa America",
+      2024
+    ]
+  ],
+  "holdout": [
+    "World Cup",
+    2022
+  ],
+  "holdout_result": "39.1% exact / 90.6% outcome (see outputs/experiments/v6/V6_REPORT.md)"
+}

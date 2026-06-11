@@ -58,6 +58,34 @@ def most_likely_score_v5(
     return goals_a, goals_b
 
 
+def most_likely_score_v6(
+    lambda_a: float,
+    lambda_b: float,
+    draw_threshold: float = 0.33,
+    threshold_b: float = 0.5,
+    scale_c: float = 0.9992,
+    rho: float = -0.3294,
+) -> tuple[int, int]:
+    """V6 drawband rule: V5 conditional floor, but predict the most likely draw
+    scoreline when the calibrated Dixon-Coles grid puts >= draw_threshold mass
+    on a draw.
+
+    scale_c / rho defaults were fit on the 4 tuning-fold OOF lambdas (WC 2022
+    excluded); production values come from models/production_config_v6.json.
+    WC 2022 holdout: 39.1% exact / 90.6% outcome vs 34.4% / 85.9% for V5.
+    """
+    from src.models.score_grid import dixon_coles_grid
+
+    la_c = max(lambda_a * scale_c, 1e-6)
+    lb_c = max(lambda_b * scale_c, 1e-6)
+    grid = dixon_coles_grid(la_c, lb_c, rho=rho)
+    if float(np.trace(grid)) >= draw_threshold:
+        k = int(np.argmax(np.diag(grid)))
+        return k, k
+    # fallback uses the raw (uncalibrated) lambdas, matching the tuned rule
+    return most_likely_score_v5(lambda_a, lambda_b, threshold_b)
+
+
 def most_likely_score(
     lambda_a: float,
     lambda_b: float,

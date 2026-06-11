@@ -175,6 +175,30 @@ def mirror_features_v5(X):
         return X_m
 
 
+# ── V6 mirror ──────────────────────────────────────────────────────────────────
+# Fixes the V5-prod asymmetry: rest_diff is a signed diff and must be negated on
+# mirror, but it is absent from _DIFF_COLS (V4 list), so V5-prod models trained
+# with mirror_features got inconsistent mirrored rows. V6 trains/predicts with
+# this function instead. V4/V5 behavior is untouched.
+_DIFF_COLS_V6 = _DIFF_COLS + ["rest_diff"]
+# competition_importance is symmetric (same for both teams) — neither negated nor swapped.
+_PAIRED_COLS_V6 = _PAIRED_COLS
+
+
+def mirror_features_v6(X: pd.DataFrame) -> pd.DataFrame:
+    """Team-swap mirror for FEATURE_COLS_V5_PROD (and supersets). DataFrame-only."""
+    if not isinstance(X, pd.DataFrame):
+        raise TypeError("mirror_features_v6 requires a DataFrame (named columns)")
+    X_m = X.copy()
+    for col in _DIFF_COLS_V6:
+        if col in X_m.columns:
+            X_m[col] = -X_m[col]
+    for col_a, col_b in _PAIRED_COLS_V6:
+        if col_a in X_m.columns and col_b in X_m.columns:
+            X_m[col_a], X_m[col_b] = X_m[col_b].copy(), X_m[col_a].copy()
+    return X_m
+
+
 def mirror_features(X):
     """
     Swap team_a and team_b positions in the feature matrix.

@@ -12,7 +12,13 @@ sys.path.insert(0, str(ROOT))
 
 from src.features.feature_columns import FEATURE_COLS, FEATURE_COLS_V5_PROD
 from src.features.build_features import build_pre_match_features, build_pre_match_features_v5
-from src.models.score_conversion import most_likely_score, most_likely_score_v5, top_scores, win_draw_loss_probs
+from src.models.score_conversion import (
+    most_likely_score,
+    most_likely_score_v5,
+    most_likely_score_v6,
+    top_scores,
+    win_draw_loss_probs,
+)
 from src.app.live_tournament_page import show_live_tournament
 from src.app.simulation_page import show_wc_simulation
 from src.state.live_state import derive_rankings_from_elo
@@ -20,6 +26,8 @@ from src.state.live_state import derive_rankings_from_elo
 
 MODEL_PATH_V4 = ROOT / "models" / "production_model_v4.joblib"
 MODEL_PATH_V5 = ROOT / "models" / "production_model_v5.joblib"
+MODEL_PATH_V6 = ROOT / "models" / "production_model_v6.joblib"
+CONFIG_PATH_V6 = ROOT / "models" / "production_config_v6.json"
 MODEL_DATASET_PATH = ROOT / "data" / "processed" / "model_dataset.csv"
 GROUP_FEATURES_PATH = ROOT / "data" / "processed" / "world_cup_2026_group_stage_features.csv"
 MARKET_VALUES_PATH = ROOT / "data" / "processed" / "transfermarkt_market_values_clean.csv"
@@ -36,6 +44,30 @@ def load_model_v4():
 @st.cache_resource
 def load_model_v5():
     return joblib.load(MODEL_PATH_V5)
+
+
+@st.cache_resource
+def load_model_v6():
+    return joblib.load(MODEL_PATH_V6)
+
+
+@st.cache_resource
+def make_v6_score_fn():
+    """Drawband score_fn with calibration params from the V6 config file."""
+    import json
+    from functools import partial
+
+    params = {}
+    if CONFIG_PATH_V6.exists():
+        with open(CONFIG_PATH_V6) as f:
+            db = json.load(f).get("drawband", {})
+        params = {
+            "draw_threshold": db.get("draw_threshold", 0.33),
+            "threshold_b": db.get("threshold_b", 0.5),
+            "scale_c": db.get("scale_c", 0.9992),
+            "rho": db.get("rho", -0.3294),
+        }
+    return partial(most_likely_score_v6, **params)
 
 
 @st.cache_data
@@ -339,11 +371,19 @@ def main():
     st.sidebar.divider()
 
     # Model version selector
-    v5_available = MODEL_PATH_V5.exists()
-    model_options = ["V4 (production)", "V5 (conditional floor)"] if v5_available else ["V4 (production)"]
+    model_options = ["V4 (production)"]
+    if MODEL_PATH_V5.exists():
+        model_options.append("V5 (conditional floor)")
+    if MODEL_PATH_V6.exists():
+        model_options.append("V6 (drawband)")
     model_choice = st.sidebar.radio("Model version", model_options, index=0)
 
-    if model_choice.startswith("V5") and v5_available:
+    if model_choice.startswith("V6"):
+        model = load_model_v6()
+        score_fn = make_v6_score_fn()
+        feature_fn = build_pre_match_features_v5  # V6 uses the same 20 features as V5
+        feature_cols = FEATURE_COLS_V5_PROD
+    elif model_choice.startswith("V5"):
         model = load_model_v5()
         score_fn = most_likely_score_v5
         feature_fn = build_pre_match_features_v5
