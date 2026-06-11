@@ -14,8 +14,40 @@ from src.state.live_state import (
     simulate_forward,
 )
 from src.tournament.group_standings import build_group_standings
-
 UPDATES_CSV = Path("data/raw/world_cup_updates/all_world_cup_2026_updates.csv")
+
+
+def persist_real_result_to_csv(fixture, goals_a: int, goals_b: int) -> None:
+    """Append/update a real World Cup match result into the updates CSV."""
+    UPDATES_CSV.parent.mkdir(parents=True, exist_ok=True)
+
+    row = {
+        "date": fixture["date"],
+        "team_a": fixture["team_a"],
+        "team_b": fixture["team_b"],
+        "goals_a": int(goals_a),
+        "goals_b": int(goals_b),
+        "competition": "FIFA World Cup",
+        "location": fixture.get("location", "neutral"),
+    }
+
+    if UPDATES_CSV.exists():
+        df = pd.read_csv(UPDATES_CSV)
+    else:
+        df = pd.DataFrame(columns=row.keys())
+
+    # remove previous result for the same fixture if exists
+    same_match = (
+        (df["team_a"] == row["team_a"])
+        & (df["team_b"] == row["team_b"])
+        & (df["date"].astype(str) == str(row["date"]))
+    )
+
+    df = df[~same_match].copy()
+    df = pd.concat([df, pd.DataFrame([row])], ignore_index=True)
+
+    df.to_csv(UPDATES_CSV, index=False)
+
 
 ROUND_LABELS = {
     "GROUPS": "Group Stage",
@@ -80,9 +112,31 @@ def _refresh_from_csv() -> None:
 
 
 def _submit_result(match_id: int, goals_a: int, goals_b: int) -> None:
-    st.session_state.true_state = record_match_result(
-        st.session_state.true_state, match_id, goals_a, goals_b
+    state = st.session_state.true_state
+
+    fixture_match = state["fixtures"][
+        state["fixtures"]["match_id"] == int(match_id)
+    ]
+
+    if fixture_match.empty:
+        st.error(f"Could not find fixture with match_id={match_id}")
+        return
+
+    fixture = fixture_match.iloc[0]
+
+    persist_real_result_to_csv(
+        fixture=fixture,
+        goals_a=goals_a,
+        goals_b=goals_b,
     )
+
+    st.session_state.true_state = record_match_result(
+        state,
+        match_id,
+        goals_a,
+        goals_b,
+    )
+
     st.session_state.sim_state = None
 
 
@@ -103,7 +157,7 @@ def _get_prediction(
 ) -> dict | None:
     from src.features.build_features import build_pre_match_features
     from src.features.team_names import normalize_team_name
-    from src.models.score_conversion import most_likely_score, win_draw_loss_probs
+    from src.models.score_conversion import most_likely_score, win_draw_loss_probs, top_scores
 
     if feature_fn is None:
         feature_fn = build_pre_match_features
@@ -128,9 +182,22 @@ def _get_prediction(
         ga, gb = score_fn(la, lb)
         win_a, draw, win_b = win_draw_loss_probs(la, lb)
         return {
-            "lambda_a": la, "lambda_b": lb,
-            "pred_goals_a": ga, "pred_goals_b": gb,
-            "win_a": win_a, "draw": draw, "win_b": win_b,
+            "lambda_a": la,
+            "lambda_b": lb,
+            "pred_goals_a": ga,
+            "pred_goals_b": gb,
+            "win_a": win_a,
+            "draw": draw,
+            "win_b": win_b,
+            "top_scores": [
+                {
+                    "score": f"{a}-{b}",
+                    "team_a_goals": a,
+                    "team_b_goals": b,
+                    "probability_%": round(prob * 100, 2),
+                }
+                for a, b, prob in top_scores(la, lb, n=10)
+            ],
         }
     except Exception as e:
         # Surface the error so it's debuggable from the UI
@@ -195,7 +262,14 @@ def _render_upcoming_match(
                 c1.metric(_team_label(ta), f"{pred['win_a'] * 100:.0f}%")
                 c2.metric("Draw", f"{pred['draw'] * 100:.0f}%")
                 c3.metric(_team_label(tb), f"{pred['win_b'] * 100:.0f}%")
-
+        if pred and "_error" not in pred:
+            with st.expander("📊 Show most likely scorelines"):
+                score_options = pd.DataFrame(pred["top_scores"])
+                st.dataframe(
+                    score_options,
+                    use_container_width=True,
+                    hide_index=True,
+                )
         with st.expander("Enter actual result"):
             fc1, fc2, fc3 = st.columns([2, 1, 2])
             with fc1:
@@ -213,6 +287,7 @@ def _render_upcoming_match(
                 )
             if st.button("✅ Submit result", key=f"submit_{mid}"):
                 _submit_result(mid, int(ga_input), int(gb_input))
+                st.success("Result saved to CSV, ELO updated, and live state refreshed.")
                 st.rerun()
 
 
