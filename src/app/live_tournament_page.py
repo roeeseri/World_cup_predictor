@@ -48,6 +48,23 @@ def persist_real_result_to_csv(fixture, goals_a: int, goals_b: int) -> None:
 
     df.to_csv(UPDATES_CSV, index=False)
 
+def clear_saved_results_csv() -> None:
+    """Clear all saved real World Cup results from the updates CSV."""
+    UPDATES_CSV.parent.mkdir(parents=True, exist_ok=True)
+
+    empty_df = pd.DataFrame(
+        columns=[
+            "date",
+            "team_a",
+            "team_b",
+            "goals_a",
+            "goals_b",
+            "competition",
+            "location",
+        ]
+    )
+
+    empty_df.to_csv(UPDATES_CSV, index=False)
 
 ROUND_LABELS = {
     "GROUPS": "Group Stage",
@@ -90,6 +107,152 @@ def _flag(team: str) -> str:
 
 def _team_label(team: str) -> str:
     return f"{_flag(team)} {team}"
+
+def _format_rank_change(value) -> str:
+    if pd.isna(value):
+        return "–"
+    value = int(value)
+    if value > 0:
+        return f"▲ {value}"
+    if value < 0:
+        return f"▼ {abs(value)}"
+    return "–"
+
+
+def _format_elo_change(value) -> str:
+    if pd.isna(value):
+        return "–"
+    value = float(value)
+    if value > 0:
+        return f"+{value:.1f} ▲"
+    if value < 0:
+        return f"{value:.1f} ▼"
+    return "0.0"
+
+
+def _style_rankings_table(df: pd.DataFrame):
+    def color_rank_change(value):
+        value = str(value)
+        if "▲" in value:
+            return "color: #16a34a; font-weight: 700"
+        if "▼" in value:
+            return "color: #dc2626; font-weight: 700"
+        return "color: #6b7280"
+
+    def color_elo_change(value):
+        value = str(value)
+        if value.startswith("+"):
+            return "color: #16a34a; font-weight: 700"
+        if "▼" in value or value.startswith("-"):
+            return "color: #dc2626; font-weight: 700"
+        return "color: #6b7280"
+
+    return (
+        df.style
+        .map(color_rank_change, subset=["Rank Change"])
+        .map(color_elo_change, subset=["ELO Change"])
+    )
+
+def _world_cup_live_rankings(state: dict) -> pd.DataFrame:
+    """Live World Cup teams ranking vs global Elo table, compared to tournament start."""
+    from src.features.team_names import normalize_team_name
+
+    fixtures = state["fixtures"]
+
+    wc_teams = sorted({
+        normalize_team_name(team)
+        for team in pd.concat([fixtures["team_a"], fixtures["team_b"]]).dropna()
+    })
+
+    hist = state["historical_matches"].copy()
+
+    baseline_hist = hist.copy()
+
+    if "source_file" in baseline_hist.columns:
+        baseline_hist = baseline_hist[baseline_hist["source_file"] != "live_2026"]
+
+    if "tournament_key" in baseline_hist.columns:
+        baseline_hist = baseline_hist[
+            baseline_hist["tournament_key"] != "FIFA World Cup_2026"
+        ]
+
+    start_points = {}
+
+    for _, row in baseline_hist.sort_values("date").iterrows():
+        a = normalize_team_name(row["team_a"])
+        b = normalize_team_name(row["team_b"])
+
+        start_points[a] = float(row["rating_a"])
+        start_points[b] = float(row["rating_b"])
+
+    current_points = start_points.copy()
+
+    for team, points in state["elo_ratings"].items():
+        team_norm = normalize_team_name(team)
+        current_points[team_norm] = float(points)
+
+    # Critical fix:
+    # Override current points for World Cup teams from the latest historical state,
+    # because record_match_result appends canonical live_2026 rows there.
+    for _, row in hist.sort_values("date").iterrows():
+        a = normalize_team_name(row["team_a"])
+        b = normalize_team_name(row["team_b"])
+
+        if a in wc_teams:
+            current_points[a] = float(row["rating_a"])
+        if b in wc_teams:
+            current_points[b] = float(row["rating_b"])
+
+    global_df = pd.DataFrame(
+        [{"team": t, "current_points": p} for t, p in current_points.items()]
+    )
+
+    start_df = pd.DataFrame(
+        [{"team": t, "start_points": p} for t, p in start_points.items()]
+    )
+
+    if global_df.empty:
+        return global_df
+
+    global_df = (
+        global_df
+        .sort_values(["current_points", "team"], ascending=[False, True])
+        .reset_index(drop=True)
+    )
+    global_df["current_global_rank"] = global_df.index + 1
+
+    start_df = (
+        start_df
+        .sort_values(["start_points", "team"], ascending=[False, True])
+        .reset_index(drop=True)
+    )
+    start_df["start_global_rank"] = start_df.index + 1
+
+    result = global_df.merge(
+        start_df[["team", "start_points", "start_global_rank"]],
+        on="team",
+        how="left",
+    )
+
+    result = result[result["team"].isin(wc_teams)].copy()
+
+    result["elo_change"] = result["current_points"] - result["start_points"]
+    result["rank_change"] = (
+        result["start_global_rank"] - result["current_global_rank"]
+    )
+
+    return result[
+        [
+            "current_global_rank",
+            "rank_change",
+            "team",
+            "current_points",
+            "elo_change",
+            "start_global_rank",
+            "start_points",
+        ]
+    ].sort_values("current_global_rank")
+
 
 
 # ---------------------------------------------------------------------------
@@ -426,59 +589,73 @@ def _show_standings(state: dict) -> None:
 
     # Goals per team + ELO table (only meaningful once some games played)
     col_goals, col_elo = st.columns(2)
+    # Goals table
+    st.markdown("### Goals scored per team")
 
-    with col_goals:
-        st.markdown("### Goals scored per team")
-        if completed.empty:
-            st.caption("No goals yet.")
-        else:
-            completed["goals_a"] = completed["goals_a"].astype(int)
-            completed["goals_b"] = completed["goals_b"].astype(int)
-            goals_a = completed.groupby("team_a")["goals_a"].sum().rename("goals")
-            goals_b = completed.groupby("team_b")["goals_b"].sum().rename("goals")
-            team_goals = (
-                pd.concat([goals_a, goals_b])
-                .groupby(level=0).sum()
-                .sort_values(ascending=False)
-                .reset_index()
-            )
-            team_goals.columns = ["team", "goals"]
-            team_goals["team"] = team_goals["team"].apply(_team_label)
-            st.dataframe(team_goals, use_container_width=True, hide_index=True)
+    if completed.empty:
+        st.caption("No goals yet.")
+    else:
+        completed["goals_a"] = completed["goals_a"].astype(int)
+        completed["goals_b"] = completed["goals_b"].astype(int)
 
-    with col_elo:
-        st.markdown("### Current ELO ratings (with tournament change)")
-        hist = state["historical_matches"]
-        # Baseline = last ELO before any WC 2026 live row
-        pre = (
-            hist[hist["tournament_key"] != "FIFA World Cup_2026"]
-            if "tournament_key" in hist.columns
-            else hist[hist["source_file"] != "live_2026"]
-            if "source_file" in hist.columns
-            else hist
+        goals_a = completed.groupby("team_a")["goals_a"].sum().rename("goals")
+        goals_b = completed.groupby("team_b")["goals_b"].sum().rename("goals")
+
+        team_goals = (
+            pd.concat([goals_a, goals_b])
+            .groupby(level=0)
+            .sum()
+            .sort_values(ascending=False)
+            .reset_index()
         )
-        baseline: dict[str, float] = {}
-        for _, row in pre.sort_values("date").iterrows():
-            baseline[row["team_a"]] = float(row["rating_a"])
-            baseline[row["team_b"]] = float(row["rating_b"])
 
-        elo_rows = []
-        for team, current in state["elo_ratings"].items():
-            if team in baseline:
-                delta = current - baseline[team]
-                elo_rows.append({
-                    "team": _team_label(team),
-                    "ELO": round(current, 1),
-                    "Δ tournament": round(delta, 1),
-                })
-        if elo_rows:
-            elo_df = (
-                pd.DataFrame(elo_rows)
-                .sort_values("ELO", ascending=False)  # highest rating first
-                .reset_index(drop=True)
-            )
-            st.dataframe(elo_df, use_container_width=True, hide_index=True)
+        team_goals.columns = ["Team", "Goals"]
+        team_goals["Team"] = team_goals["Team"].apply(_team_label)
 
+        st.dataframe(team_goals, use_container_width=True, hide_index=True)
+
+    st.divider()
+
+    # Full-width live ranking table
+    st.markdown("### 🌍 Live World Cup Rankings")
+
+    ranking_df = _world_cup_live_rankings(state)
+
+    if ranking_df.empty:
+        st.caption("No ranking data available.")
+    else:
+        display = ranking_df.copy()
+
+        display["Rank"] = display["current_global_rank"].astype(int)
+        display["Rank Change"] = display["rank_change"].apply(_format_rank_change)
+        display["Team"] = display["team"].apply(_team_label)
+        display["ELO"] = display["current_points"].round(1)
+        display["ELO Change"] = display["elo_change"].apply(_format_elo_change)
+        display["Start Rank"] = display["start_global_rank"].astype("Int64")
+        display["Start ELO"] = display["start_points"].round(1)
+
+        display = display[
+            [
+                "Rank",
+                "Rank Change",
+                "Team",
+                "ELO",
+                "ELO Change",
+                "Start Rank",
+                "Start ELO",
+            ]
+        ]
+
+        st.dataframe(
+            _style_rankings_table(display),
+            use_container_width=True,
+            hide_index=True,
+            height=720,
+        )
+
+        st.caption(
+            "Rank Change and ELO Change are compared to the start of the tournament."
+        )
 
 # ---------------------------------------------------------------------------
 # Simulate forward tab
@@ -585,15 +762,25 @@ def show_live_tournament(
     # Header bar
     completed_count = int(state["fixtures"]["is_completed"].sum())
     total_count = len(state["fixtures"])
-    hdr_col, btn_col, reset_col = st.columns([4, 1, 1])
+    hdr_col, refresh_col, reset_col, clear_col = st.columns([4, 1, 1, 1])
+
     with hdr_col:
         st.caption(f"{completed_count}/{total_count} group stage matches with real results")
-    with btn_col:
+
+    with refresh_col:
         if st.button("🔄 Refresh from CSV"):
             _refresh_from_csv()
             st.rerun()
+
     with reset_col:
-        if st.button("🗑️ Reset state"):
+        if st.button("🧹 Reset state"):
+            for key in ("true_state", "sim_state"):
+                st.session_state.pop(key, None)
+            st.rerun()
+
+    with clear_col:
+        if st.button("🗑️ Clear results"):
+            clear_saved_results_csv()
             for key in ("true_state", "sim_state"):
                 st.session_state.pop(key, None)
             st.rerun()

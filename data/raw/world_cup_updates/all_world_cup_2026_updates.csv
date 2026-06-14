@@ -1,2 +1,7 @@
-date,team_a,team_b,goals_a,goals_b,competition,location,rating_change_a,rating_change_b,rating_a,rating_b,rank_change_a,rank_change_b,rank_a,rank_b
-2026-06-11 19:00:00+00:00,Mexico,South Africa,2,0,FIFA World Cup,Mexico City Stadium,,,,,,,,
+date,team_a,team_b,goals_a,goals_b,competition,location
+2026-06-11 19:00:00+00:00,Mexico,South Africa,2,0,FIFA World Cup,Mexico City Stadium
+2026-06-12 02:00:00+00:00,South Korea,Czechia,2,1,FIFA World Cup,Guadalajara Stadium
+2026-06-12 19:00:00+00:00,Canada,Bosnia and Herzegovina,1,1,FIFA World Cup,Toronto Stadium
+2026-06-13 01:00:00+00:00,USA,Paraguay,4,1,FIFA World Cup,Los Angeles Stadium
+2026-06-13 19:00:00+00:00,Qatar,Switzerland,1,1,FIFA World Cup,San Francisco Bay Area Stadium
+2026-06-13 22:00:00+00:00,Brazil,Morocco,1,1,FIFA World Cup,New York/New Jersey Stadium
