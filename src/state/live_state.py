@@ -134,6 +134,9 @@ def record_match_result(
     rank_b_before = state["rankings"].get(team_b_canon,
                     state["rankings"].get(team_b, 0))
 
+    stage = str(fixture.get("stage", "GROUPS"))
+    knockout = stage.upper() not in {"GROUPS", "GROUP", "GROUP_STAGE"}
+
     delta_a, delta_b = compute_elo_update(
         rating_a=rating_a_before,
         rating_b=rating_b_before,
@@ -143,6 +146,8 @@ def record_match_result(
         team_a=team_a,
         team_b=team_b,
         location=location,
+        stage=stage,
+        knockout=knockout,
     )
 
     rating_a_after = rating_a_before + delta_a
