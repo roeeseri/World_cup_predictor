@@ -14,7 +14,13 @@ from src.state.live_state import (
     simulate_forward,
 )
 from src.tournament.group_standings import build_group_standings
-UPDATES_CSV = Path("data/raw/world_cup_updates/all_world_cup_2026_updates.csv")
+UPDATES_CSV            = Path("data/raw/world_cup_updates/all_world_cup_2026_updates.csv")
+CALIBRATION_CSV        = Path("data/raw/world_cup_updates/calibration_predictions.csv")
+MODEL_ACCURACY_CSV_V4  = Path("data/raw/world_cup_updates/model_accuracy_v4.csv")
+MODEL_ACCURACY_CSV_V5  = Path("data/raw/world_cup_updates/model_accuracy_v5.csv")
+MODEL_ACCURACY_CSV_V6  = Path("data/raw/world_cup_updates/model_accuracy_v6.csv")
+_MODEL_ACCURACY_COLS   = ["match_id", "team_a", "team_b", "pred_goals_a", "pred_goals_b", "actual_a", "actual_b", "pred_la", "pred_lb"]
+_MODELS_DIR            = Path(__file__).resolve().parents[2] / "models"
 
 
 def persist_real_result_to_csv(fixture, goals_a: int, goals_b: int) -> None:
@@ -49,22 +55,19 @@ def persist_real_result_to_csv(fixture, goals_a: int, goals_b: int) -> None:
     df.to_csv(UPDATES_CSV, index=False)
 
 def clear_saved_results_csv() -> None:
-    """Clear all saved real World Cup results from the updates CSV."""
+    """Clear all saved real World Cup results, calibration data, and model accuracy data."""
+    from src.state.tournament_calibration import clear_calibration_csv
+
     UPDATES_CSV.parent.mkdir(parents=True, exist_ok=True)
 
-    empty_df = pd.DataFrame(
-        columns=[
-            "date",
-            "team_a",
-            "team_b",
-            "goals_a",
-            "goals_b",
-            "competition",
-            "location",
-        ]
-    )
+    pd.DataFrame(
+        columns=["date", "team_a", "team_b", "goals_a", "goals_b", "competition", "location"]
+    ).to_csv(UPDATES_CSV, index=False)
 
-    empty_df.to_csv(UPDATES_CSV, index=False)
+    clear_calibration_csv(CALIBRATION_CSV)
+
+    for acc_csv in (MODEL_ACCURACY_CSV_V4, MODEL_ACCURACY_CSV_V5, MODEL_ACCURACY_CSV_V6):
+        pd.DataFrame(columns=_MODEL_ACCURACY_COLS).to_csv(acc_csv, index=False)
 
 ROUND_LABELS = {
     "GROUPS": "Group Stage",
@@ -256,50 +259,578 @@ def _world_cup_live_rankings(state: dict) -> pd.DataFrame:
 
 
 # ---------------------------------------------------------------------------
+# Model accuracy tracking
+# ---------------------------------------------------------------------------
+
+def _load_all_model_configs() -> list[dict]:
+    """Return configs for every model version that has a joblib file on disk."""
+    import joblib
+    import json
+    from functools import partial
+    from src.features.build_features import build_pre_match_features, build_pre_match_features_v5
+    from src.models.score_conversion import most_likely_score, most_likely_score_v5, most_likely_score_v6
+
+    configs = []
+
+    v4_path = _MODELS_DIR / "production_model_v4.joblib"
+    if v4_path.exists():
+        configs.append({
+            "name": "v4",
+            "model": joblib.load(v4_path),
+            "feature_fn": build_pre_match_features,
+            "score_fn": most_likely_score,
+            "csv": MODEL_ACCURACY_CSV_V4,
+        })
+
+    v5_path = _MODELS_DIR / "production_model_v5.joblib"
+    if v5_path.exists():
+        configs.append({
+            "name": "v5",
+            "model": joblib.load(v5_path),
+            "feature_fn": build_pre_match_features_v5,
+            "score_fn": most_likely_score_v5,
+            "csv": MODEL_ACCURACY_CSV_V5,
+        })
+
+    v6_path = _MODELS_DIR / "production_model_v6.joblib"
+    if v6_path.exists():
+        score_fn_v6 = most_likely_score_v6
+        config_path = _MODELS_DIR / "production_config_v6.json"
+        if config_path.exists():
+            try:
+                with open(config_path, encoding="utf-8") as _f:
+                    _db = json.load(_f).get("drawband", {})
+                score_fn_v6 = partial(
+                    most_likely_score_v6,
+                    draw_threshold=_db.get("draw_threshold", 0.33),
+                    threshold_b=_db.get("threshold_b", 0.5),
+                    scale_c=_db.get("scale_c", 0.9992),
+                    rho=_db.get("rho", -0.3294),
+                )
+            except Exception:
+                pass
+        configs.append({
+            "name": "v6",
+            "model": joblib.load(v6_path),
+            "feature_fn": build_pre_match_features_v5,
+            "score_fn": score_fn_v6,
+            "csv": MODEL_ACCURACY_CSV_V6,
+        })
+
+    return configs
+
+
+def _backfill_model_accuracy(
+    base_historical: pd.DataFrame,
+    fixtures: pd.DataFrame,
+    market_values: pd.DataFrame,
+    position_values: pd.DataFrame,
+) -> None:
+    """
+    Single-pass replay of all completed WC 2026 games, computing predictions
+    for every available model version simultaneously.  Results are saved to
+    per-model CSVs (model_accuracy_v4/v5/v6.csv).
+
+    If all CSVs already contain the right number of rows the function returns
+    immediately without loading any models.
+    """
+    from src.features.team_names import normalize_team_name
+
+    if not UPDATES_CSV.exists():
+        return
+
+    updates = pd.read_csv(UPDATES_CSV)
+    updates["date"] = pd.to_datetime(updates["date"], errors="coerce")
+    updates = (
+        updates.dropna(subset=["goals_a", "goals_b"])
+        .sort_values("date")
+        .reset_index(drop=True)
+    )
+
+    n_completed = len(updates)
+    if n_completed == 0:
+        return
+
+    model_configs = _load_all_model_configs()
+    if not model_configs:
+        return
+
+    def _csv_needs_rebuild(csv_path: Path, n: int) -> bool:
+        if not csv_path.exists():
+            return True
+        try:
+            df = pd.read_csv(csv_path)
+            return len(df) < n or "pred_la" not in df.columns
+        except Exception:
+            return True
+
+    if not any(_csv_needs_rebuild(cfg["csv"], n_completed) for cfg in model_configs):
+        return
+
+    state = initialize_live_state(base_historical, fixtures)
+    model_records: dict[str, list] = {cfg["name"]: [] for cfg in model_configs}
+
+    for _, row in updates.iterrows():
+        fix_df = state["fixtures"]
+        match = fix_df[
+            (fix_df["team_a"] == row["team_a"]) & (fix_df["team_b"] == row["team_b"])
+        ]
+        reversed_order = False
+        if match.empty:
+            match = fix_df[
+                (fix_df["team_a"] == row["team_b"]) & (fix_df["team_b"] == row["team_a"])
+            ]
+            reversed_order = True
+        if match.empty:
+            continue
+
+        fix = match.iloc[0]
+        mid = int(fix["match_id"])
+        actual_a = int(row["goals_b"] if reversed_order else row["goals_a"])
+        actual_b = int(row["goals_a"] if reversed_order else row["goals_b"])
+        ta = normalize_team_name(fix["team_a"])
+        tb = normalize_team_name(fix["team_b"])
+        match_date = pd.to_datetime(fix["date"])
+
+        for cfg in model_configs:
+            try:
+                feat = cfg["feature_fn"](
+                    team_a=ta,
+                    team_b=tb,
+                    match_date=match_date,
+                    team_states=state["team_states"],
+                    historical_matches=state["historical_matches"],
+                    market_values=market_values,
+                    position_values=position_values,
+                    elo_ratings=state["elo_ratings"],
+                    rankings=state["rankings"],
+                )
+                raw_pred = cfg["model"].predict(feat.fillna(0))
+                la = float(raw_pred[0, 0])
+                lb = float(raw_pred[0, 1])
+                pa, pb = cfg["score_fn"](la, lb)
+                model_records[cfg["name"]].append({
+                    "match_id": mid,
+                    "team_a": fix["team_a"],
+                    "team_b": fix["team_b"],
+                    "pred_goals_a": int(pa),
+                    "pred_goals_b": int(pb),
+                    "actual_a": actual_a,
+                    "actual_b": actual_b,
+                    "pred_la": la,
+                    "pred_lb": lb,
+                })
+            except Exception:
+                pass
+
+        try:
+            state = record_match_result(state, mid, actual_a, actual_b)
+        except Exception:
+            pass
+
+    for cfg in model_configs:
+        records = model_records[cfg["name"]]
+        if records:
+            df = pd.DataFrame(records, columns=_MODEL_ACCURACY_COLS)
+            cfg["csv"].parent.mkdir(parents=True, exist_ok=True)
+            df.to_csv(cfg["csv"], index=False)
+
+
+def _compute_accuracy_stats(records: list[dict]) -> dict:
+    total = len(records)
+    if total == 0:
+        return {"total": 0, "exact_correct": 0, "result_correct": 0, "exact_pct": 0.0, "result_pct": 0.0}
+
+    def _res(a, b):
+        return "W" if a > b else ("L" if a < b else "D")
+
+    exact = sum(
+        1 for g in records
+        if int(g["pred_goals_a"]) == int(g["actual_a"]) and int(g["pred_goals_b"]) == int(g["actual_b"])
+    )
+    correct_result = sum(
+        1 for g in records
+        if _res(int(g["pred_goals_a"]), int(g["pred_goals_b"])) == _res(int(g["actual_a"]), int(g["actual_b"]))
+    )
+    return {
+        "total": total,
+        "exact_correct": exact,
+        "result_correct": correct_result,
+        "exact_pct": exact / total * 100,
+        "result_pct": correct_result / total * 100,
+    }
+
+
+def _load_model_accuracy() -> dict[str, dict]:
+    """Load per-model accuracy data from CSVs."""
+    result = {}
+    for label, csv_path in [("V4", MODEL_ACCURACY_CSV_V4), ("V5", MODEL_ACCURACY_CSV_V5), ("V6", MODEL_ACCURACY_CSV_V6)]:
+        if not csv_path.exists():
+            continue
+        try:
+            df = pd.read_csv(csv_path)
+            if df.empty:
+                continue
+            records = df.to_dict("records")
+            result[label] = {"stats": _compute_accuracy_stats(records), "records": records}
+        except Exception:
+            pass
+    return result
+
+
+def _load_accuracy_lookup(model_name: str) -> dict:
+    """Return {match_id: {pred_a, pred_b, pred_la, pred_lb}} for the given model."""
+    csv_map = {"V4": MODEL_ACCURACY_CSV_V4, "V5": MODEL_ACCURACY_CSV_V5, "V6": MODEL_ACCURACY_CSV_V6}
+    csv_path = csv_map.get(model_name.upper())
+    if csv_path is None or not csv_path.exists():
+        return {}
+    try:
+        df = pd.read_csv(csv_path)
+        if df.empty:
+            return {}
+        result = {}
+        for _, row in df.iterrows():
+            mid = int(row["match_id"])
+            result[mid] = {
+                "pred_a": int(row["pred_goals_a"]) if pd.notna(row.get("pred_goals_a")) else None,
+                "pred_b": int(row["pred_goals_b"]) if pd.notna(row.get("pred_goals_b")) else None,
+                "pred_la": float(row["pred_la"]) if "pred_la" in row.index and pd.notna(row.get("pred_la")) else None,
+                "pred_lb": float(row["pred_lb"]) if "pred_lb" in row.index and pd.notna(row.get("pred_lb")) else None,
+            }
+        return result
+    except Exception:
+        return {}
+
+
+def _get_score_fns() -> dict:
+    """Return per-model score functions without loading model weights."""
+    import json
+    from functools import partial
+    from src.models.score_conversion import most_likely_score, most_likely_score_v5, most_likely_score_v6
+
+    score_fn_v6 = most_likely_score_v6
+    config_path = _MODELS_DIR / "production_config_v6.json"
+    if config_path.exists():
+        try:
+            with open(config_path, encoding="utf-8") as _f:
+                _db = json.load(_f).get("drawband", {})
+            score_fn_v6 = partial(
+                most_likely_score_v6,
+                draw_threshold=_db.get("draw_threshold", 0.33),
+                threshold_b=_db.get("threshold_b", 0.5),
+                scale_c=_db.get("scale_c", 0.9992),
+                rho=_db.get("rho", -0.3294),
+            )
+        except Exception:
+            pass
+    return {"V4": most_likely_score, "V5": most_likely_score_v5, "V6": score_fn_v6}
+
+
+# ---------------------------------------------------------------------------
 # Session state helpers
 # ---------------------------------------------------------------------------
 
-def _init_state(historical_matches: pd.DataFrame, fixtures: pd.DataFrame) -> None:
+def _backfill_calibration(
+    base_historical: pd.DataFrame,
+    fixtures: pd.DataFrame,
+    model,
+    market_values: pd.DataFrame,
+    position_values: pd.DataFrame,
+    feature_fn,
+    score_fn=None,
+) -> dict:
+    """
+    Replay every completed WC 2026 game in chronological order, computing the
+    model's pre-match prediction at each step.  This gives accurate calibration
+    data even for games submitted before the calibration system existed.
+
+    The loop mirrors apply_results_from_csv but also runs the model before
+    each record_match_result call, so ELO and form at prediction time are
+    exactly what they were before that game was played.
+    """
+    from src.state.live_state import record_match_result
+    from src.state.tournament_calibration import (
+        add_game, initialize_calibration, load_prior, save_calibration_to_csv,
+    )
+    from src.features.team_names import normalize_team_name
+    from src.features.build_features import build_pre_match_features
+    from src.models.score_conversion import most_likely_score
+
+    _feature_fn = feature_fn or build_pre_match_features
+    _score_fn   = score_fn   or most_likely_score
+
+    if not UPDATES_CSV.exists():
+        prior = load_prior()
+        return initialize_calibration(prior)
+
+    updates = pd.read_csv(UPDATES_CSV)
+    updates["date"] = pd.to_datetime(updates["date"], errors="coerce")
+    updates = (
+        updates
+        .dropna(subset=["goals_a", "goals_b"])
+        .sort_values("date")
+        .reset_index(drop=True)
+    )
+
+    prior = load_prior()
+    calibration = initialize_calibration(prior)
+
+    # Start from a clean slate so pre-match state is accurate at every step
+    state = initialize_live_state(base_historical, fixtures)
+
+    for _, row in updates.iterrows():
+        # Locate the fixture (try both orderings)
+        fix_df = state["fixtures"]
+        match = fix_df[
+            (fix_df["team_a"] == row["team_a"]) & (fix_df["team_b"] == row["team_b"])
+        ]
+        reversed_order = False
+        if match.empty:
+            match = fix_df[
+                (fix_df["team_a"] == row["team_b"]) & (fix_df["team_b"] == row["team_a"])
+            ]
+            reversed_order = True
+        if match.empty:
+            continue
+
+        fix = match.iloc[0]
+        mid = int(fix["match_id"])
+        actual_a = int(row["goals_b"] if reversed_order else row["goals_a"])
+        actual_b = int(row["goals_a"] if reversed_order else row["goals_b"])
+
+        # Compute model prediction BEFORE recording (pre-match state)
+        try:
+            ta = normalize_team_name(fix["team_a"])
+            tb = normalize_team_name(fix["team_b"])
+            feat = _feature_fn(
+                team_a=ta,
+                team_b=tb,
+                match_date=pd.to_datetime(fix["date"]),
+                team_states=state["team_states"],
+                historical_matches=state["historical_matches"],
+                market_values=market_values,
+                position_values=position_values,
+                elo_ratings=state["elo_ratings"],
+                rankings=state["rankings"],
+            )
+            raw_pred = model.predict(feat.fillna(0))
+            la_raw = float(raw_pred[0, 0])
+            lb_raw = float(raw_pred[0, 1])
+            pa, pb = _score_fn(la_raw, lb_raw)
+            calibration = add_game(
+                calibration, mid, la_raw, lb_raw, actual_a, actual_b,
+                pred_goals_a=pa, pred_goals_b=pb,
+            )
+        except Exception:
+            pass  # skip calibration for this game but still advance state
+
+        # Advance state with the actual result
+        try:
+            state = record_match_result(state, mid, actual_a, actual_b)
+        except Exception:
+            pass
+
+    save_calibration_to_csv(calibration, CALIBRATION_CSV)
+    return calibration
+
+
+def _ensure_calibration(
+    state: dict,
+    base_historical: pd.DataFrame,
+    fixtures: pd.DataFrame,
+    model,
+    market_values: pd.DataFrame,
+    position_values: pd.DataFrame,
+    feature_fn,
+    score_fn=None,
+) -> dict:
+    """
+    If the calibration has fewer games than completed fixtures, backfill.
+    Returns the (possibly updated) calibration dict.
+    """
+    from src.state.tournament_calibration import (
+        initialize_calibration, load_prior,
+    )
+
+    completed_count = int(state["fixtures"]["is_completed"].sum())
+    cal_count = len(state.get("calibration", {}).get("games", []))
+
+    if cal_count >= completed_count:
+        return state.get("calibration", initialize_calibration(load_prior()))
+
+    return _backfill_calibration(
+        base_historical, fixtures, model, market_values, position_values,
+        feature_fn, score_fn=score_fn,
+    )
+
+
+def _build_match_predictions(calibration: dict) -> dict:
+    """Build a match_id → {pred_a, pred_b} lookup from calibration games."""
+    return {
+        g["match_id"]: {
+            "pred_a": g.get("pred_goals_a"),
+            "pred_b": g.get("pred_goals_b"),
+            "pred_la": g["pred_la"],
+            "pred_lb": g["pred_lb"],
+        }
+        for g in calibration.get("games", [])
+        if g.get("pred_goals_a") is not None
+    }
+
+
+def _init_state(
+    historical_matches: pd.DataFrame,
+    fixtures: pd.DataFrame,
+    model=None,
+    market_values: pd.DataFrame | None = None,
+    position_values: pd.DataFrame | None = None,
+    feature_fn=None,
+    score_fn=None,
+) -> None:
     if "true_state" not in st.session_state:
+        from src.state.tournament_calibration import (
+            initialize_calibration, load_calibration_from_csv, load_prior,
+        )
         state = initialize_live_state(historical_matches, fixtures)
         state = apply_results_from_csv(state, UPDATES_CSV)
+
+        prior = load_prior()
+        state["calibration"] = initialize_calibration(prior)
+        state["calibration"] = load_calibration_from_csv(state["calibration"], CALIBRATION_CSV)
+
+        if model is not None and market_values is not None and position_values is not None:
+            state["calibration"] = _ensure_calibration(
+                state, historical_matches, fixtures,
+                model, market_values, position_values, feature_fn, score_fn=score_fn,
+            )
+
+        state["match_predictions"] = _build_match_predictions(state["calibration"])
+
+        if market_values is not None and position_values is not None:
+            _backfill_model_accuracy(historical_matches, fixtures, market_values, position_values)
+
         st.session_state.true_state = state
         st.session_state.sim_state = None
+        st.session_state._base_historical = historical_matches
+        st.session_state._base_fixtures = fixtures
 
 
-def _refresh_from_csv() -> None:
-    st.session_state.true_state = apply_results_from_csv(
-        st.session_state.true_state, UPDATES_CSV
+def _refresh_from_csv(
+    model=None,
+    market_values: pd.DataFrame | None = None,
+    position_values: pd.DataFrame | None = None,
+    feature_fn=None,
+    score_fn=None,
+) -> None:
+    from src.state.tournament_calibration import (
+        initialize_calibration, load_calibration_from_csv, load_prior,
     )
+
+    state = apply_results_from_csv(st.session_state.true_state, UPDATES_CSV)
+
+    prior = load_prior()
+    state["calibration"] = initialize_calibration(prior)
+    state["calibration"] = load_calibration_from_csv(state["calibration"], CALIBRATION_CSV)
+
+    if model is not None and market_values is not None and position_values is not None:
+        base_hist = st.session_state.get("_base_historical")
+        base_fix  = st.session_state.get("_base_fixtures")
+        if base_hist is not None and base_fix is not None:
+            state["calibration"] = _ensure_calibration(
+                state, base_hist, base_fix,
+                model, market_values, position_values, feature_fn, score_fn=score_fn,
+            )
+
+    state["match_predictions"] = _build_match_predictions(state["calibration"])
+
+    if market_values is not None and position_values is not None:
+        base_hist2 = st.session_state.get("_base_historical")
+        base_fix2  = st.session_state.get("_base_fixtures")
+        if base_hist2 is not None and base_fix2 is not None:
+            _backfill_model_accuracy(base_hist2, base_fix2, market_values, position_values)
+
+    st.session_state.true_state = state
     st.session_state.sim_state = None
 
 
-def _submit_result(match_id: int, goals_a: int, goals_b: int) -> None:
+def _submit_result(
+    match_id: int,
+    goals_a: int,
+    goals_b: int,
+    model=None,
+    market_values: pd.DataFrame | None = None,
+    position_values: pd.DataFrame | None = None,
+    feature_fn=None,
+    score_fn=None,
+) -> None:
+    from src.state.tournament_calibration import (
+        add_game, save_calibration_to_csv,
+    )
+    from src.features.team_names import normalize_team_name
+    from src.features.build_features import build_pre_match_features
+
     state = st.session_state.true_state
 
-    fixture_match = state["fixtures"][
-        state["fixtures"]["match_id"] == int(match_id)
-    ]
-
+    fixture_match = state["fixtures"][state["fixtures"]["match_id"] == int(match_id)]
     if fixture_match.empty:
         st.error(f"Could not find fixture with match_id={match_id}")
         return
 
     fixture = fixture_match.iloc[0]
 
-    persist_real_result_to_csv(
-        fixture=fixture,
-        goals_a=goals_a,
-        goals_b=goals_b,
-    )
+    from src.models.score_conversion import most_likely_score
 
-    st.session_state.true_state = record_match_result(
-        state,
-        match_id,
-        goals_a,
-        goals_b,
-    )
+    _feature_fn = feature_fn or build_pre_match_features
+    _score_fn   = score_fn   or most_likely_score
 
+    # Compute model prediction BEFORE recording the result (pre-match state).
+    la_raw, lb_raw, pred_a, pred_b = None, None, None, None
+    if model is not None and market_values is not None and position_values is not None:
+        try:
+            ta_canon = normalize_team_name(fixture["team_a"])
+            tb_canon = normalize_team_name(fixture["team_b"])
+            feat = _feature_fn(
+                team_a=ta_canon,
+                team_b=tb_canon,
+                match_date=pd.to_datetime(fixture["date"]),
+                team_states=state["team_states"],
+                historical_matches=state["historical_matches"],
+                market_values=market_values,
+                position_values=position_values,
+                elo_ratings=state["elo_ratings"],
+                rankings=state["rankings"],
+            )
+            raw_pred = model.predict(feat.fillna(0))
+            la_raw = float(raw_pred[0, 0])
+            lb_raw = float(raw_pred[0, 1])
+            pred_a, pred_b = _score_fn(la_raw, lb_raw)
+        except Exception:
+            pass  # calibration skipped for this game if prediction fails
+
+    persist_real_result_to_csv(fixture=fixture, goals_a=goals_a, goals_b=goals_b)
+
+    new_state = record_match_result(state, match_id, goals_a, goals_b)
+
+    if la_raw is not None and lb_raw is not None:
+        new_state["calibration"] = add_game(
+            new_state.get("calibration", state.get("calibration", {})),
+            match_id, la_raw, lb_raw, goals_a, goals_b,
+            pred_goals_a=pred_a, pred_goals_b=pred_b,
+        )
+        save_calibration_to_csv(new_state["calibration"], CALIBRATION_CSV)
+    elif "calibration" in state:
+        new_state["calibration"] = state["calibration"]
+
+    # Update the match_predictions lookup so the completed card shows prediction
+    preds = dict(new_state.get("match_predictions", state.get("match_predictions", {})))
+    if pred_a is not None:
+        preds[int(match_id)] = {
+            "pred_a": pred_a, "pred_b": pred_b,
+            "pred_la": la_raw, "pred_lb": lb_raw,
+        }
+    new_state["match_predictions"] = preds
+
+    st.session_state.true_state = new_state
     st.session_state.sim_state = None
 
 
@@ -317,6 +848,7 @@ def _get_prediction(
     position_values: pd.DataFrame,
     feature_fn=None,
     score_fn=None,
+    use_calibration: bool = True,
 ) -> dict | None:
     from src.features.build_features import build_pre_match_features
     from src.features.team_names import normalize_team_name
@@ -328,6 +860,8 @@ def _get_prediction(
         score_fn = most_likely_score
 
     try:
+        from src.state.tournament_calibration import calibrate_lambdas, calibrate_win_draw_loss
+
         feature_row = feature_fn(
             team_a=normalize_team_name(team_a),
             team_b=normalize_team_name(team_b),
@@ -340,13 +874,27 @@ def _get_prediction(
             rankings=state["rankings"],
         )
         pred = model.predict(feature_row.fillna(0))
-        la = float(pred[0, 0])
-        lb = float(pred[0, 1])
+        la_raw = float(pred[0, 0])
+        lb_raw = float(pred[0, 1])
+
+        # Apply tournament calibration only when enabled
+        calibration = state.get("calibration") if use_calibration else None
+        if calibration is not None:
+            la, lb = calibrate_lambdas(la_raw, lb_raw, calibration)
+        else:
+            la, lb = la_raw, lb_raw
+
         ga, gb = score_fn(la, lb)
         win_a, draw, win_b = win_draw_loss_probs(la, lb)
+
+        if calibration is not None:
+            win_a, draw, win_b = calibrate_win_draw_loss(win_a, draw, win_b, calibration)
+
         return {
-            "lambda_a": la,
-            "lambda_b": lb,
+            "lambda_a": la_raw,   # raw, for storing in calibration on submit
+            "lambda_b": lb_raw,
+            "lambda_a_cal": la,   # calibrated, for display
+            "lambda_b_cal": lb,
             "pred_goals_a": ga,
             "pred_goals_b": gb,
             "win_a": win_a,
@@ -371,7 +919,7 @@ def _get_prediction(
 # Match card rendering
 # ---------------------------------------------------------------------------
 
-def _render_completed_match(fixture: pd.Series) -> None:
+def _render_completed_match(fixture: pd.Series, pred: dict | None = None) -> None:
     ga = int(fixture["goals_a"])
     gb = int(fixture["goals_b"])
     ta, tb = fixture["team_a"], fixture["team_b"]
@@ -384,7 +932,11 @@ def _render_completed_match(fixture: pd.Series) -> None:
     else:
         result = f"**{_team_label(ta)}  {ga} – {gb}  {_team_label(tb)}**  🤝 Draw"
 
-    st.success(f"🕐 {time_str}  |  {result}")
+    pred_str = ""
+    if pred and pred.get("pred_a") is not None and pred.get("pred_b") is not None:
+        pred_str = f"  ·  *Model predicted: {pred['pred_a']}–{pred['pred_b']}*"
+
+    st.success(f"🕐 {time_str}  |  {result}{pred_str}")
 
 
 def _render_upcoming_match(
@@ -395,13 +947,14 @@ def _render_upcoming_match(
     position_values: pd.DataFrame,
     feature_fn=None,
     score_fn=None,
+    use_calibration: bool = True,
 ) -> None:
     ta, tb = fixture["team_a"], fixture["team_b"]
     mid = int(fixture["match_id"])
     match_date = fixture["date"]
     time_str = pd.to_datetime(match_date, utc=True).strftime("%H:%M UTC")
 
-    pred = _get_prediction(model, state, ta, tb, match_date, market_values, position_values, feature_fn=feature_fn, score_fn=score_fn)
+    pred = _get_prediction(model, state, ta, tb, match_date, market_values, position_values, feature_fn=feature_fn, score_fn=score_fn, use_calibration=use_calibration)
 
     with st.container(border=True):
         header_col, prob_col = st.columns([2, 3])
@@ -410,9 +963,11 @@ def _render_upcoming_match(
             st.markdown(f"**🕐 {time_str}**")
             st.markdown(f"{_team_label(ta)}  vs  {_team_label(tb)}")
             if pred and "_error" not in pred:
+                la_cal = pred.get("lambda_a_cal", pred["lambda_a"])
+                lb_cal = pred.get("lambda_b_cal", pred["lambda_b"])
                 st.markdown(
                     f"Model prediction: **{pred['pred_goals_a']} – {pred['pred_goals_b']}**"
-                    f"  *(xG {pred['lambda_a']:.2f} – {pred['lambda_b']:.2f})*"
+                    f"  *(xG {la_cal:.2f} – {lb_cal:.2f})*"
                 )
             elif pred and "_error" in pred:
                 st.caption(f"⚠️ Prediction error: {pred['_error']}")
@@ -449,8 +1004,15 @@ def _render_upcoming_match(
                     key=f"gb_{mid}",
                 )
             if st.button("✅ Submit result", key=f"submit_{mid}"):
-                _submit_result(mid, int(ga_input), int(gb_input))
-                st.success("Result saved to CSV, ELO updated, and live state refreshed.")
+                _submit_result(
+                    mid, int(ga_input), int(gb_input),
+                    model=model,
+                    market_values=market_values,
+                    position_values=position_values,
+                    feature_fn=feature_fn,
+                    score_fn=score_fn,
+                )
+                st.success("Result saved, ELO updated, calibration updated.")
                 st.rerun()
 
 
@@ -465,8 +1027,16 @@ def _show_group_stage(
     position_values: pd.DataFrame,
     feature_fn=None,
     score_fn=None,
+    use_calibration: bool = True,
+    model_name: str = "V4",
 ) -> None:
+    from src.models.score_conversion import most_likely_score
+
     fixtures = state["fixtures"].copy()
+
+    # Load accuracy lookup for the current model (for dynamic completed-match display)
+    accuracy_lookup = _load_accuracy_lookup(model_name)
+    calibration = state.get("calibration") if use_calibration else None
 
     fixtures["_date_label"] = pd.to_datetime(
         fixtures["date"], utc=True
@@ -495,11 +1065,27 @@ def _show_group_stage(
         f"·  Groups: {', '.join(groups_today)}"
     )
 
+    _score_fn = score_fn or most_likely_score
+
     for _, fix in day_fixtures.iterrows():
         if bool(fix.get("is_completed", False)):
-            _render_completed_match(fix)
+            mid = int(fix["match_id"])
+            acc = accuracy_lookup.get(mid)
+            if acc and acc.get("pred_a") is not None:
+                if calibration is not None and acc.get("pred_la") is not None:
+                    from src.state.tournament_calibration import get_factors
+                    fac = get_factors(calibration)
+                    la_cal = float(acc["pred_la"]) * fac["goal_scale"]
+                    lb_cal = float(acc["pred_lb"]) * fac["goal_scale"]
+                    pa, pb = _score_fn(la_cal, lb_cal)
+                    pred_display = {"pred_a": pa, "pred_b": pb}
+                else:
+                    pred_display = {"pred_a": acc["pred_a"], "pred_b": acc["pred_b"]}
+            else:
+                pred_display = state.get("match_predictions", {}).get(mid)
+            _render_completed_match(fix, pred=pred_display)
         else:
-            _render_upcoming_match(fix, model, state, market_values, position_values, feature_fn=feature_fn, score_fn=score_fn)
+            _render_upcoming_match(fix, model, state, market_values, position_values, feature_fn=feature_fn, score_fn=score_fn, use_calibration=use_calibration)
 
     # Day summary
     day_completed = day_fixtures[day_fixtures["is_completed"]]
@@ -740,6 +1326,473 @@ def _show_simulate_forward(
 
 
 # ---------------------------------------------------------------------------
+# Team inspector tab
+# ---------------------------------------------------------------------------
+
+_FEATURE_LABELS: dict[str, str] = {
+    "elo_diff": "ELO difference (A − B)",
+    "rating_a_before": "ELO — Team A",
+    "rating_b_before": "ELO — Team B",
+    "rank_diff": "FIFA rank difference (A − B)",
+    "form_diff_last5": "Form diff last 5 (pts avg)",
+    "weighted_goals_for_diff_last5": "Weighted goals scored diff (last 5)",
+    "weighted_goals_against_diff_last5": "Weighted goals conceded diff (last 5)",
+    "opponent_strength_diff_last5": "Opponent ELO diff (last 5)",
+    "rating_change_diff_last5": "ELO change diff (last 5)",
+    "team_a_matches_played_before": "Career matches played — A",
+    "team_b_matches_played_before": "Career matches played — B",
+    "team_a_days_since_last_match": "Days since last match — A",
+    "team_b_days_since_last_match": "Days since last match — B",
+    "days_since_match_diff": "Rest diff (days, A − B)",
+    "rest_diff": "Rest diff (days, A − B)",
+    "tournament_points_diff": "Tournament points diff (A − B)",
+    "tournament_goal_diff_diff": "Tournament GD diff (A − B)",
+    "team_a_tournament_matches_played": "WC matches played — A",
+    "team_b_tournament_matches_played": "WC matches played — B",
+    "avg_player_value_diff": "Avg player value diff (€M)",
+    "market_value_rel_mean_diff": "Market value vs year mean (diff)",
+    "defender_share_diff": "Defender squad share (diff)",
+    "goalkeeper_share_diff": "GK squad share (diff)",
+    "competition_importance": "Competition importance (K-weight)",
+}
+
+
+def _last_n_games(team_canon: str, historical_matches: pd.DataFrame, n: int = 5) -> pd.DataFrame:
+    """Return the last N games for a team as a display DataFrame."""
+    hist = historical_matches.copy()
+    dates = pd.to_datetime(hist["date"], errors="coerce")
+    if getattr(dates.dt, "tz", None) is not None:
+        dates = dates.dt.tz_localize(None)
+    hist["_date_naive"] = dates
+
+    mask = (hist["team_a"] == team_canon) | (hist["team_b"] == team_canon)
+    team_hist = hist[mask].sort_values("_date_naive").tail(n)
+
+    rows = []
+    for _, row in team_hist.iterrows():
+        is_a = row["team_a"] == team_canon
+        gf = int(row["goals_a"]) if is_a else int(row["goals_b"])
+        ga = int(row["goals_b"]) if is_a else int(row["goals_a"])
+        opponent = row["team_b"] if is_a else row["team_a"]
+        elo_key = "rating_change_a" if is_a else "rating_change_b"
+        elo_change = float(row.get(elo_key, 0) or 0)
+
+        result = "W" if gf > ga else ("L" if gf < ga else "D")
+        result_label = {"W": "✅ W", "D": "🤝 D", "L": "❌ L"}[result]
+
+        rows.append({
+            "Date": pd.to_datetime(row["date"]).strftime("%Y-%m-%d"),
+            "Opponent": opponent,
+            "Score": f"{gf}–{ga}",
+            "Result": result_label,
+            "ELO Δ": f"{elo_change:+.0f}",
+            "Competition": str(row.get("competition", "")),
+        })
+
+    return pd.DataFrame(rows) if rows else pd.DataFrame()
+
+
+def _show_team_inspector(
+    state: dict,
+    market_values: pd.DataFrame,
+    position_values: pd.DataFrame,
+    feature_fn=None,
+) -> None:
+    from src.features.build_features import build_pre_match_features
+    from src.features.team_names import normalize_team_name
+
+    if feature_fn is None:
+        feature_fn = build_pre_match_features
+
+    fixtures = state["fixtures"]
+    all_teams = sorted(set(fixtures["team_a"]) | set(fixtures["team_b"]))
+
+    sel_col, _ = st.columns([2, 3])
+    with sel_col:
+        team = st.selectbox("Select team", all_teams, key="team_inspector_selector")
+
+    if not team:
+        return
+
+    team_canon = normalize_team_name(team)
+
+    st.subheader(f"{_flag(team)} {team}")
+
+    # --- Last 5 games ---
+    st.markdown("#### Last 5 Games")
+
+    games_df = _last_n_games(team_canon, state["historical_matches"])
+    if games_df.empty and team != team_canon:
+        games_df = _last_n_games(team, state["historical_matches"])
+
+    if games_df.empty:
+        st.caption("No match history found.")
+    else:
+        st.dataframe(games_df, use_container_width=True, hide_index=True)
+
+    st.divider()
+
+    # --- Current standing stats ---
+    st.markdown("#### Current Snapshot")
+
+    elo = state["elo_ratings"].get(team_canon, state["elo_ratings"].get(team))
+    rank = state["rankings"].get(team_canon, state["rankings"].get(team))
+    ts = state["team_states"].get(team_canon, state["team_states"].get(team, {}))
+
+    c1, c2, c3, c4, c5, c6 = st.columns(6)
+    c1.metric("ELO", f"{elo:.0f}" if elo is not None else "–")
+    c2.metric("Global Rank", f"#{rank}" if rank is not None else "–")
+    c3.metric("WC Pts", ts.get("points", 0))
+    c4.metric("WC GD", f"{ts.get('goal_diff', 0):+d}")
+    c5.metric("GF", ts.get("goals_for", 0))
+    c6.metric("GA", ts.get("goals_against", 0))
+
+    st.divider()
+
+    # --- Features for next match ---
+    unplayed = fixtures[~fixtures["is_completed"]].sort_values("date")
+    next_fix_rows = unplayed[
+        (unplayed["team_a"] == team) | (unplayed["team_b"] == team)
+    ].head(1)
+
+    if next_fix_rows.empty:
+        st.caption("No upcoming group stage fixture.")
+        return
+
+    fix = next_fix_rows.iloc[0]
+    opponent = fix["team_b"] if fix["team_a"] == team else fix["team_a"]
+    match_date = pd.to_datetime(fix["date"])
+    time_str = match_date.strftime("%b %d, %H:%M UTC")
+
+    ta_canon = normalize_team_name(fix["team_a"])
+    tb_canon = normalize_team_name(fix["team_b"])
+
+    st.markdown(
+        f"#### Features for Next Match: {_team_label(fix['team_a'])} vs {_team_label(fix['team_b'])}"
+        f"  —  {time_str}"
+    )
+    st.caption(
+        f"Features are computed with **{fix['team_a']}** as Team A and "
+        f"**{fix['team_b']}** as Team B (fixture order). "
+        f"Difference features = A − B."
+    )
+
+    try:
+        feat_row = feature_fn(
+            team_a=ta_canon,
+            team_b=tb_canon,
+            match_date=match_date,
+            team_states=state["team_states"],
+            historical_matches=state["historical_matches"],
+            market_values=market_values,
+            position_values=position_values,
+            elo_ratings=state["elo_ratings"],
+            rankings=state["rankings"],
+        )
+
+        feat_records = []
+        for col in feat_row.columns:
+            val = feat_row[col].iloc[0]
+            feat_records.append({
+                "Feature": col,
+                "Description": _FEATURE_LABELS.get(col, ""),
+                "Value": round(float(val), 4) if pd.notna(val) else None,
+            })
+
+        feat_display = pd.DataFrame(feat_records)
+        st.dataframe(feat_display, use_container_width=True, hide_index=True)
+
+    except Exception as e:
+        st.warning(f"Could not compute features: {e}")
+
+
+# ---------------------------------------------------------------------------
+# Calibration status display
+# ---------------------------------------------------------------------------
+
+def _show_calibration_status(state: dict, use_calibration: bool = True) -> None:
+    """Collapsible panel showing current Bayesian calibration factors."""
+    from src.state.tournament_calibration import get_factors
+
+    calibration = state.get("calibration")
+    if calibration is None:
+        return
+
+    f = get_factors(calibration)
+    n = f["n_games"]
+
+    active_icon = "🎯" if use_calibration else "⏸️"
+    active_note = "" if use_calibration else "  *(disabled — predictions use raw model)*"
+    label = (
+        f"{active_icon} Tournament Calibration  —  "
+        f"goal scale **{f['goal_scale']:.3f}** · "
+        f"draw adj **{f['draw_adj']:.3f}** · "
+        f"{n} game{'s' if n != 1 else ''} calibrated"
+        f"{active_note}"
+    )
+
+    with st.expander(label, expanded=False):
+        if not use_calibration:
+            st.warning(
+                "Calibration is **disabled** — predictions are from the raw model without "
+                "tournament adjustments. The calibration data is still being collected and "
+                "will apply again when you re-enable it."
+            )
+        st.caption(
+            "Bayesian adjustments applied to every prediction based on how this "
+            "tournament is unfolding vs what the model expected.  "
+            f"Prior fitted from WC 2006-2022 + Euro/Copa 2024 "
+            f"({f['prior_n']} effective-game weight)."
+        )
+
+        c1, c2, c3, c4 = st.columns(4)
+        c1.metric(
+            "Goal scale",
+            f"{f['goal_scale']:.3f}",
+            help="Multiplier on model λ. >1 = tournament is higher-scoring than model predicts.",
+        )
+        c2.metric(
+            "Draw adjustment",
+            f"{f['draw_adj']:.3f}",
+            help="Multiplier on draw probability. >1 = more draws than model predicts.",
+        )
+        c3.metric(
+            "Games calibrated",
+            n,
+            help="WC 2026 games where model predictions were stored before result submission.",
+        )
+        c4.metric(
+            "Prior weight",
+            f["prior_n"],
+            help="How many historical games the prior counts for. Equal weight with observed at this many WC 2026 games.",
+        )
+
+        st.divider()
+
+        col_goals, col_draws = st.columns(2)
+
+        with col_goals:
+            st.markdown("**Goals / game**")
+            rows_g = [
+                {"": "Prior (historical)", "Avg goals/game": f"{f['prior_goals']:.2f}"},
+                {"": "Model predicted (this WC)", "Avg goals/game": f"{f['pred_goals_per_game']:.2f}" if f["pred_goals_per_game"] is not None else "–"},
+                {"": "Actual (this WC)", "Avg goals/game": f"{f['obs_goals_per_game']:.2f}" if f["obs_goals_per_game"] is not None else "–"},
+            ]
+            st.dataframe(pd.DataFrame(rows_g), use_container_width=True, hide_index=True)
+
+        with col_draws:
+            st.markdown("**Draw rate**")
+            rows_d = [
+                {"": "Prior (historical)", "Draw rate": f"{f['prior_draw_rate']:.1%}"},
+                {"": "Model predicted (this WC)", "Draw rate": f"{f['model_draw_rate']:.1%}"},
+                {"": "Actual (this WC)", "Draw rate": f"{f['obs_draw_rate']:.1%}" if f["obs_draw_rate"] is not None else "–"},
+                {"": "Posterior draw rate", "Draw rate": f"{f['posterior_draw_rate']:.1%}"},
+            ]
+            st.dataframe(pd.DataFrame(rows_d), use_container_width=True, hide_index=True)
+
+        if n < 5:
+            st.info(
+                f"Only {n} game(s) calibrated so far — prior dominates. "
+                "Calibration strengthens as more results are submitted."
+            )
+
+
+# ---------------------------------------------------------------------------
+# Model accuracy tab
+# ---------------------------------------------------------------------------
+
+def _show_model_accuracy(state: dict) -> None:
+    """Show per-model prediction accuracy for all completed WC 2026 matches."""
+    completed = state["fixtures"][state["fixtures"]["is_completed"]]
+    n_completed = int(len(completed))
+
+    if n_completed == 0:
+        st.info("No completed matches yet. Submit results to track model accuracy.")
+        return
+
+    accuracy_data = _load_model_accuracy()
+
+    if not accuracy_data:
+        st.info(
+            "Model accuracy data is being computed in the background. "
+            "Try clicking **🔄 Refresh from CSV** or reload the page."
+        )
+        return
+
+    st.markdown(f"### Prediction Accuracy — {n_completed} match(es) completed")
+    st.caption(
+        "**Exact Score**: the model's predicted integer scoreline matches the actual result exactly.  "
+        "**Correct Result**: the predicted outcome (Win / Draw / Loss) matches the actual outcome."
+    )
+
+    # Calibration factors for the calibrated rows
+    calibration = state.get("calibration")
+    cal_goal_scale = None
+    if calibration is not None:
+        from src.state.tournament_calibration import get_factors
+        fac = get_factors(calibration)
+        cal_goal_scale = fac["goal_scale"]
+
+    score_fns = _get_score_fns()
+
+    def _compute_calibrated_stats(records: list[dict], model_label: str) -> tuple[dict, list[dict]]:
+        """Re-score records using current calibration goal_scale; return (stats, game_rows)."""
+        sfn = score_fns.get(model_label)
+        if sfn is None or cal_goal_scale is None:
+            return None, []
+
+        def _res(a, b):
+            return "W" if a > b else ("L" if a < b else "D")
+
+        cal_records = []
+        for g in records:
+            la = g.get("pred_la")
+            lb = g.get("pred_lb")
+            if la is None or lb is None:
+                continue
+            pa, pb = sfn(float(la) * cal_goal_scale, float(lb) * cal_goal_scale)
+            aa, ab = int(g["actual_a"]), int(g["actual_b"])
+            cal_records.append({
+                "team_a": g["team_a"], "team_b": g["team_b"],
+                "pa": pa, "pb": pb, "aa": aa, "ab": ab,
+                "exact_ok": pa == aa and pb == ab,
+                "result_ok": _res(pa, pb) == _res(aa, ab),
+            })
+
+        total = len(cal_records)
+        if total == 0:
+            return None, []
+
+        exact = sum(1 for r in cal_records if r["exact_ok"])
+        correct = sum(1 for r in cal_records if r["result_ok"])
+        stats = {
+            "total": total, "exact_correct": exact, "result_correct": correct,
+            "exact_pct": exact / total * 100, "result_pct": correct / total * 100,
+        }
+        return stats, cal_records
+
+    # Summary table — calibrated rows first, then uncalibrated
+    summary_rows = []
+    for model_label in ["V4", "V5", "V6"]:
+        if model_label not in accuracy_data:
+            continue
+        records = accuracy_data[model_label]["records"]
+        cal_stats, _ = _compute_calibrated_stats(records, model_label)
+        if cal_stats is not None:
+            s = cal_stats
+            summary_rows.append({
+                "Model": f"{model_label} + calibration",
+                "Games": s["total"],
+                "Exact Score": f"{s['exact_correct']} / {s['total']}",
+                "Exact %": f"{s['exact_pct']:.1f}%",
+                "Correct W/D/L": f"{s['result_correct']} / {s['total']}",
+                "Result %": f"{s['result_pct']:.1f}%",
+            })
+
+    for model_label in ["V4", "V5", "V6"]:
+        if model_label not in accuracy_data:
+            continue
+        s = accuracy_data[model_label]["stats"]
+        summary_rows.append({
+            "Model": model_label,
+            "Games": s["total"],
+            "Exact Score": f"{s['exact_correct']} / {s['total']}",
+            "Exact %": f"{s['exact_pct']:.1f}%",
+            "Correct W/D/L": f"{s['result_correct']} / {s['total']}",
+            "Result %": f"{s['result_pct']:.1f}%",
+        })
+
+    if summary_rows:
+        st.dataframe(pd.DataFrame(summary_rows), use_container_width=True, hide_index=True)
+    else:
+        st.info("No model accuracy data available yet.")
+        return
+
+    st.divider()
+    st.markdown("#### Game by game")
+    st.caption("🟢 Exact score correct · 🟠 Correct W/D/L · _(no color)_ Wrong result")
+
+    def _res(a: int, b: int) -> str:
+        return "W" if a > b else ("L" if a < b else "D")
+
+    # Build per-match-id prediction lookup for all 6 configs
+    pred_lookup: dict[str, dict[int, tuple]] = {}
+    for model_label in ["V4", "V5", "V6"]:
+        if model_label not in accuracy_data:
+            continue
+        records = accuracy_data[model_label]["records"]
+        sfn = score_fns.get(model_label)
+
+        pred_lookup[model_label] = {
+            int(g["match_id"]): (int(g["pred_goals_a"]), int(g["pred_goals_b"]))
+            for g in records
+        }
+
+        if cal_goal_scale is not None and sfn is not None:
+            cal_preds = {}
+            for g in records:
+                la, lb = g.get("pred_la"), g.get("pred_lb")
+                if la is not None and lb is not None:
+                    pa, pb = sfn(float(la) * cal_goal_scale, float(lb) * cal_goal_scale)
+                    cal_preds[int(g["match_id"])] = (pa, pb)
+            pred_lookup[f"{model_label}+cal"] = cal_preds
+
+    # Ordered columns (V4, V4+cal, V5, V5+cal, V6, V6+cal — only those with data)
+    ordered_cols = [c for c in ["V4", "V4+cal", "V5", "V5+cal", "V6", "V6+cal"] if c in pred_lookup]
+
+    # Collect all match IDs in order from the first available model
+    all_match_ids: list[int] = []
+    match_info: dict[int, dict] = {}
+    for model_label in ["V4", "V5", "V6"]:
+        if model_label not in accuracy_data:
+            continue
+        for g in accuracy_data[model_label]["records"]:
+            mid = int(g["match_id"])
+            if mid not in match_info:
+                match_info[mid] = {
+                    "team_a": g["team_a"], "team_b": g["team_b"],
+                    "actual_a": int(g["actual_a"]), "actual_b": int(g["actual_b"]),
+                }
+                all_match_ids.append(mid)
+        break
+
+    rows = []
+    color_rows = []
+    for mid in all_match_ids:
+        info = match_info[mid]
+        aa, ab = info["actual_a"], info["actual_b"]
+        row = {
+            "Match": f"{_flag(info['team_a'])} {info['team_a']} vs {info['team_b']} {_flag(info['team_b'])}",
+            "Actual": f"{aa}–{ab}",
+        }
+        color_row = {"Match": "", "Actual": ""}
+
+        for col_label in ordered_cols:
+            preds = pred_lookup.get(col_label, {})
+            if mid in preds:
+                pa, pb = preds[mid]
+                row[col_label] = f"{pa}–{pb}"
+                if pa == aa and pb == ab:
+                    color_row[col_label] = "background-color: #16a34a; color: white"
+                elif _res(pa, pb) == _res(aa, ab):
+                    color_row[col_label] = "background-color: #fed7aa"
+                else:
+                    color_row[col_label] = ""
+            else:
+                row[col_label] = "–"
+                color_row[col_label] = ""
+
+        rows.append(row)
+        color_rows.append(color_row)
+
+    if rows:
+        df_game = pd.DataFrame(rows)
+        df_color = pd.DataFrame(color_rows)
+        styled = df_game.style.apply(lambda _: df_color, axis=None)
+        st.dataframe(styled, use_container_width=True, hide_index=True)
+
+
+# ---------------------------------------------------------------------------
 # Main entry point
 # ---------------------------------------------------------------------------
 
@@ -751,9 +1804,17 @@ def show_live_tournament(
     position_values: pd.DataFrame,
     score_fn=None,
     feature_fn=None,
+    model_name: str = "V4",
 ) -> None:
     """Render the full Live Tournament page."""
-    _init_state(historical_matches, fixtures)
+    _init_state(
+        historical_matches, fixtures,
+        model=model,
+        market_values=market_values,
+        position_values=position_values,
+        feature_fn=feature_fn,
+        score_fn=score_fn,
+    )
 
     state = st.session_state.true_state
 
@@ -762,14 +1823,32 @@ def show_live_tournament(
     # Header bar
     completed_count = int(state["fixtures"]["is_completed"].sum())
     total_count = len(state["fixtures"])
-    hdr_col, refresh_col, reset_col, clear_col = st.columns([4, 1, 1, 1])
+    hdr_col, cal_col, refresh_col, reset_col, clear_col = st.columns([3, 2, 1, 1, 1])
 
     with hdr_col:
         st.caption(f"{completed_count}/{total_count} group stage matches with real results")
 
+    with cal_col:
+        use_calibration = st.toggle(
+            "🎯 Calibration",
+            value=st.session_state.get("use_calibration", True),
+            key="use_calibration",
+            help=(
+                "When ON: predictions are adjusted using Bayesian calibration from WC 2026 results so far. "
+                "When OFF: raw model output is used directly. "
+                "Calibration data is always collected regardless of this setting."
+            ),
+        )
+
     with refresh_col:
         if st.button("🔄 Refresh from CSV"):
-            _refresh_from_csv()
+            _refresh_from_csv(
+                model=model,
+                market_values=market_values,
+                position_values=position_values,
+                feature_fn=feature_fn,
+                score_fn=score_fn,
+            )
             st.rerun()
 
     with reset_col:
@@ -785,15 +1864,23 @@ def show_live_tournament(
                 st.session_state.pop(key, None)
             st.rerun()
 
-    tab_gs, tab_standings, tab_sim = st.tabs(
-        ["📅 Fixtures by Day", "📊 Group Standings", "🎲 Simulate Forward"]
+    _show_calibration_status(state, use_calibration=use_calibration)
+
+    tab_gs, tab_standings, tab_sim, tab_inspect, tab_accuracy = st.tabs(
+        ["📅 Fixtures by Day", "📊 Group Standings", "🎲 Simulate Forward", "🔍 Team Inspector", "📈 Model Accuracy"]
     )
 
     with tab_gs:
-        _show_group_stage(state, model, market_values, position_values, feature_fn=feature_fn, score_fn=score_fn)
+        _show_group_stage(state, model, market_values, position_values, feature_fn=feature_fn, score_fn=score_fn, use_calibration=use_calibration, model_name=model_name)
 
     with tab_standings:
         _show_standings(state)
 
     with tab_sim:
         _show_simulate_forward(state, model, market_values, position_values, score_fn=score_fn, feature_fn=feature_fn)
+
+    with tab_inspect:
+        _show_team_inspector(state, market_values, position_values, feature_fn=feature_fn)
+
+    with tab_accuracy:
+        _show_model_accuracy(state)

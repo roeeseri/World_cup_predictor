@@ -383,16 +383,19 @@ def main():
         score_fn = make_v6_score_fn()
         feature_fn = build_pre_match_features_v5  # V6 uses the same 20 features as V5
         feature_cols = FEATURE_COLS_V5_PROD
+        model_name = "V6"
     elif model_choice.startswith("V5"):
         model = load_model_v5()
         score_fn = most_likely_score_v5
         feature_fn = build_pre_match_features_v5
         feature_cols = FEATURE_COLS_V5_PROD
+        model_name = "V5"
     else:
         model = load_model_v4()
         score_fn = most_likely_score
         feature_fn = build_pre_match_features
         feature_cols = FEATURE_COLS
+        model_name = "V4"
 
     st.sidebar.write("Features:")
     st.sidebar.code(str(len(feature_cols)))
@@ -410,6 +413,7 @@ def main():
             position_values=position_values,
             score_fn=score_fn,
             feature_fn=feature_fn,
+            model_name=model_name,
         )
 
 
