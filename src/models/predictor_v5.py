@@ -9,21 +9,12 @@ V4 path stays untouched. All v5 logic lives here.
 
 from __future__ import annotations
 
-from pathlib import Path
 from typing import Any
 
 import numpy as np
 import pandas as pd
 
-from src.models.score_grid import (
-    dixon_coles_grid,
-    knockout_grid,
-    make_score_fn,
-    pick_score,
-    win_draw_loss_from_grid,
-    apply_lambda_scale,
-    apply_lambda_affine,
-)
+from src.models.score_grid import dixon_coles_grid, knockout_grid, pick_score, win_draw_loss_from_grid, apply_lambda_scale, apply_lambda_affine
 from src.features.feature_columns import FEATURE_COLS_V5
 
 

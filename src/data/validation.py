@@ -42,6 +42,8 @@ def validate_no_target_columns(df: pd.DataFrame) -> bool:
     forbidden = [
         "goals_a",
         "goals_b",
+        "goals_A",
+        "goals_B",
         "target_goals_a",
         "target_goals_b",
         "target_goal_diff",

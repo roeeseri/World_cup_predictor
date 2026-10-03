@@ -1,3 +1,6 @@
+"""Offline evaluation of already-fitted models. Batch Poisson conversion uses the
+true mode; it does not reproduce every production version's score policy."""
+
 from __future__ import annotations
 
 from typing import Iterable
@@ -5,7 +8,7 @@ from typing import Iterable
 import numpy as np
 import pandas as pd
 
-from ..prediction.score_conversion import convert_expected_goals_to_scores
+from ..models.score_conversion import convert_expected_goals_to_scores
 from .metrics import (
     detect_goal_anomalies,
     exact_score_accuracy,
@@ -60,8 +63,8 @@ def evaluate_predictions(
     """
     Evaluate model predictions across 7 metrics.
     
-    All metrics are anomaly-aware: extreme scorelines (goal_diff > 4) have reduced weight
-    in error calculations. This prevents rare blowouts like 9-0 from dominating evaluation.
+    Error and accuracy metrics downweight extreme scorelines (goal_diff > 4),
+    with metric-specific weights; see metrics.py for each definition.
     
     Args:
         y_true: Actual goals (n, 2) array
@@ -93,7 +96,7 @@ def evaluate_predictions(
 
 def compare_models(models: dict, X_test, y_test, score_method: str = "poisson") -> pd.DataFrame:
     """
-    Train and evaluate multiple models on test data.
+    Evaluate already-fitted models on test data; this function does not train them.
     
     Args:
         models: Dictionary of {name: model_instance}

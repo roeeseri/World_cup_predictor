@@ -1,19 +1,19 @@
-"""V5 evaluation protocol: leak-free fold splits, V5 feature engineering, OOF lambdas, metrics, holdout logging."""
+"""V5 retrospective evaluation protocol: features, OOF lambdas, metrics and holdout logging.
+
+CAUTION: tournament exclusion does not enforce a chronological training cutoff.
+See docs/KNOWN_LIMITATIONS_HE.md before interpreting forecasting accuracy."""
 
 from __future__ import annotations
 
 import json
-import warnings
 from datetime import datetime
 from pathlib import Path
 from typing import Any, Callable
 
 import numpy as np
 import pandas as pd
-from scipy.stats import poisson
 
 from src.models.base import load_model_dataset
-from src.models.weighting import apply_combined_weighting
 
 # ── Fold / holdout constants ───────────────────────────────────────────────────
 DATASET_PATH = "data/processed/updated_model_dataset.csv"

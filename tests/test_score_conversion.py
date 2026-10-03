@@ -1,52 +1,34 @@
+"""Contracts for the current score-conversion API and offline batch adapter."""
 import numpy as np
-
-from src.prediction.score_conversion import (
-    convert_expected_goals_to_scores,
-    most_likely_score,
-    outcome_probabilities,
-    poisson_score_grid,
-    round_expected_goals,
+import pytest
+from src.models.score_conversion import (
+    convert_expected_goals_to_scores, most_likely_score,
+    poisson_score_grid, win_draw_loss_probs,
 )
 
+def test_grid_and_outcome_orientation():
+    grid = poisson_score_grid(2.4, 0.6, max_goals=12)
+    assert grid.shape == (13, 13)
+    assert np.all(grid >= 0)
+    win, draw, loss = win_draw_loss_probs(2.4, 0.6, max_goals=12)
+    assert win > loss
+    assert win + draw + loss == pytest.approx(grid.sum())
+    assert grid.sum() == pytest.approx(1, abs=1e-5)
 
-def test_round_expected_goals():
-    assert round_expected_goals(1.2, 2.7) == (1, 3)
+def test_production_threshold_is_distinct_from_poisson_mode():
+    assert most_likely_score(0.95, 0.4) == (1, 0)
+    assert most_likely_score(0.95, 0.4, threshold=1.0) == (0, 0)
+    assert convert_expected_goals_to_scores([[0.95, 0.4]]).tolist() == [[0, 0]]
 
+def test_batch_rounding_and_empty_input():
+    assert convert_expected_goals_to_scores([[1.2, 2.7]], method="round").tolist() == [[1, 3]]
+    assert convert_expected_goals_to_scores(np.empty((0, 2))).shape == (0, 2)
 
-def test_poisson_grid_properties():
-    grid = poisson_score_grid(1.4, 1.1, max_goals=6)
-    assert grid.shape == (7, 7)
-    assert grid.to_numpy().min() >= 0
-    assert grid.to_numpy().sum() <= 1.0
+@pytest.mark.parametrize("values", [[[np.nan, 1]], [[np.inf, 1]], [[-1, 1]], [1, 2], [[1, 2, 3]]])
+def test_invalid_goals_are_rejected(values):
+    with pytest.raises(ValueError):
+        convert_expected_goals_to_scores(values)
 
-
-def test_most_likely_score_and_outcomes():
-    score = most_likely_score(1.2, 1.0, max_goals=6)
-    assert isinstance(score[0], int)
-    assert isinstance(score[1], int)
-
-    probs = outcome_probabilities(1.2, 1.0, max_goals=6)
-    total = probs["home_win"] + probs["draw"] + probs["away_win"]
-    assert 0.9 <= total <= 1.0
-
-
-def test_convert_expected_goals_to_scores():
-    preds = np.array([[1.2, 0.8], [2.1, 2.0]])
-    rounded = convert_expected_goals_to_scores(preds, method="round")
-    poisson_scores = convert_expected_goals_to_scores(preds, method="poisson", max_goals=6)
-    assert rounded.shape == (2, 2)
-    assert poisson_scores.shape == (2, 2)
-    assert (rounded >= 0).all()
-    assert (poisson_scores >= 0).all()
-
-
-def test_convert_expected_goals_to_scores_handles_non_finite_values():
-    preds = np.array([[np.nan, np.inf], [-np.inf, 1.7]])
-
-    rounded = convert_expected_goals_to_scores(preds, method="round")
-    poisson_scores = convert_expected_goals_to_scores(preds, method="poisson", max_goals=6)
-
-    assert rounded.shape == (2, 2)
-    assert poisson_scores.shape == (2, 2)
-    assert np.isfinite(rounded).all()
-    assert np.isfinite(poisson_scores).all()
+def test_unknown_method_is_rejected():
+    with pytest.raises(ValueError, match="Unknown"):
+        convert_expected_goals_to_scores([[1, 1]], method="typo")

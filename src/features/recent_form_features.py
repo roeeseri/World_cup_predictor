@@ -1,6 +1,5 @@
 """Recent-form and match-activity feature helpers."""
 
-from datetime import datetime
 
 import numpy as np
 import pandas as pd

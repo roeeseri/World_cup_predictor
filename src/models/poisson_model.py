@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import numpy as np
-import pandas as pd
 from sklearn.linear_model import PoissonRegressor
 
 from .base import coerce_goal_array, ensure_non_negative

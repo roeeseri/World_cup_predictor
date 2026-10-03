@@ -4,12 +4,14 @@ from __future__ import annotations
 
 import copy
 
+from src.app.bracket_view import _FLAGS
+
 import pandas as pd
 import streamlit as st
 
 from src.features.build_features import build_pre_match_features
 from src.features.team_names import normalize_team_name
-from src.models.score_conversion import most_likely_score, most_likely_score_v5, win_draw_loss_probs
+from src.models.score_conversion import most_likely_score, win_draw_loss_probs
 from src.state.elo import compute_elo_update
 from src.state.live_state import (
     derive_rankings_from_elo,
@@ -114,29 +116,6 @@ STAGE_LABELS = {
     "FINAL": "Final + 3rd Place",
 }
 
-_FLAGS: dict[str, str] = {
-    "Argentina": "🇦🇷", "Brazil": "🇧🇷", "France": "🇫🇷", "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "Spain": "🇪🇸", "Germany": "🇩🇪", "Portugal": "🇵🇹", "Netherlands": "🇳🇱",
-    "Belgium": "🇧🇪", "Croatia": "🇭🇷", "Uruguay": "🇺🇾", "Mexico": "🇲🇽",
-    "United States": "🇺🇸", "USA": "🇺🇸", "Canada": "🇨🇦", "Japan": "🇯🇵",
-    "South Korea": "🇰🇷", "Korea Republic": "🇰🇷", "Morocco": "🇲🇦",
-    "Senegal": "🇸🇳", "Switzerland": "🇨🇭", "Colombia": "🇨🇴",
-    "Ecuador": "🇪🇨", "Australia": "🇦🇺", "Iran": "🇮🇷", "Qatar": "🇶🇦",
-    "Saudi Arabia": "🇸🇦", "Ghana": "🇬🇭", "Tunisia": "🇹🇳", "Egypt": "🇪🇬",
-    "Turkey": "🇹🇷", "Norway": "🇳🇴", "Sweden": "🇸🇪",
-    "Czechia": "🇨🇿", "Austria": "🇦🇹", "Algeria": "🇩🇿",
-    "Ivory Coast": "🇨🇮", "New Zealand": "🇳🇿", "Panama": "🇵🇦",
-    "Paraguay": "🇵🇾", "South Africa": "🇿🇦", "Cape Verde": "🇨🇻",
-    "Haiti": "🇭🇹", "Jordan": "🇯🇴", "Iraq": "🇮🇶", "Uzbekistan": "🇺🇿",
-    "DR Congo": "🇨🇩", "Bosnia and Herzegovina": "🇧🇦", "Curaçao": "🇨🇼",
-    "Venezuela": "🇻🇪", "Chile": "🇨🇱", "Peru": "🇵🇪", "Bolivia": "🇧🇴",
-    "Costa Rica": "🇨🇷", "Honduras": "🇭🇳", "Jamaica": "🇯🇲",
-    "Nigeria": "🇳🇬", "Cameroon": "🇨🇲", "Mali": "🇲🇱",
-    "Serbia": "🇷🇸", "Poland": "🇵🇱", "Ukraine": "🇺🇦", "Romania": "🇷🇴",
-    "Hungary": "🇭🇺", "Slovakia": "🇸🇰", "Greece": "🇬🇷", "Denmark": "🇩🇰",
-    "Finland": "🇫🇮", "Iceland": "🇮🇸", "Wales": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
-    "Indonesia": "🇮🇩", "Thailand": "🇹🇭",
-}
 
 
 def _flag(team: str) -> str:

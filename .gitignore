@@ -1,9 +1,12 @@
-__pycache__/
 .venv/
-*.pyc
+__pycache__/
+*.py[cod]
+.pytest_cache/
 .ipynb_checkpoints/
+.DS_Store
 .env
-models/saved/
 outputs/
-data/processed/
+tmp/
+data/backups/
 data/interim/
+models/saved/

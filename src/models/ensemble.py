@@ -1,3 +1,5 @@
+"""Combine goal estimates from fitted component models; score selection is separate."""
+
 from __future__ import annotations
 
 import numpy as np

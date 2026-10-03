@@ -105,3 +105,27 @@ def most_likely_score(
     grid = poisson_score_grid(lambda_a, lambda_b, max_goals)
     idx = np.unravel_index(np.argmax(grid), grid.shape)
     return int(idx[0]), int(idx[1])
+
+
+def convert_expected_goals_to_scores(predictions, method: str = "poisson", max_goals: int = 8) -> np.ndarray:
+    """Convert an (n, 2) array for offline evaluation.
+
+    ``poisson`` means the true grid mode, not the V4/V5/V6 decision policies.
+    ``round`` uses NumPy's nearest-even rounding. Invalid lambdas are rejected
+    rather than silently converted into plausible-looking football scores.
+    """
+    values = np.asarray(predictions, dtype=float)
+    if values.ndim != 2 or values.shape[1] != 2:
+        raise ValueError("Expected goals must have shape (n, 2).")
+    if not np.isfinite(values).all() or (values < 0).any():
+        raise ValueError("Expected goals must be finite and non-negative.")
+    if method == "round":
+        return np.rint(values).astype(int)
+    if method != "poisson":
+        raise ValueError(f"Unknown score conversion method: {method}")
+    if not isinstance(max_goals, (int, np.integer)) or max_goals < 0:
+        raise ValueError("max_goals must be a non-negative integer.")
+    return np.asarray([
+        most_likely_score(a, b, max_goals=max_goals, threshold=1.0)
+        for a, b in values
+    ], dtype=int).reshape(-1, 2)

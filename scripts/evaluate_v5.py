@@ -1,5 +1,6 @@
 """
-evaluate_v5.py — Leak-free V5 candidate evaluation on tuning folds.
+evaluate_v5.py — Retrospective V5 candidate evaluation on tuning folds.
+Temporal independence is not guaranteed; see docs/KNOWN_LIMITATIONS_HE.md.
 
 Usage:
     python scripts/evaluate_v5.py [--features v4|v5] [--decay 0.95] [--blend 0.7]
@@ -239,7 +240,7 @@ def run_holdout_evaluation(
 
 
 def main():
-    parser = argparse.ArgumentParser(description="V5 leak-free evaluation on tuning folds")
+    parser = argparse.ArgumentParser(description="V5 retrospective evaluation on tuning folds")
     parser.add_argument("--features", choices=["v4", "v5", "both"], default="both",
                         help="Feature set to evaluate")
     parser.add_argument("--decay", type=float, default=0.0,

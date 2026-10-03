@@ -1,16 +1,10 @@
-pandas
-numpy
-scikit-learn
-scipy
-matplotlib
-plotly
-streamlit
-joblib
-python-dotenv
-playwright
-beautifulsoup4
-requests
-optuna
-seaborn
-xgboost
-lightgbm
+# Verified Python 3.11 application environment
+pandas==3.0.6
+numpy==2.4.6
+scikit-learn==1.9.1
+scipy==1.17.1
+plotly==7.1.0
+streamlit==1.64.0
+joblib==1.6.0
+xgboost==3.2.0
+lightgbm==4.7.0

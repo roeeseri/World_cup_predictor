@@ -1,3 +1,6 @@
+"""Streamlit entry point. main() selects V4 by default and wires model, feature builder
+and score policy to each page. See docs/ARCHITECTURE.md."""
+
 from __future__ import annotations
 
 import sys
@@ -28,8 +31,6 @@ MODEL_PATH_V4 = ROOT / "models" / "production_model_v4.joblib"
 MODEL_PATH_V5 = ROOT / "models" / "production_model_v5.joblib"
 MODEL_PATH_V6 = ROOT / "models" / "production_model_v6.joblib"
 CONFIG_PATH_V6 = ROOT / "models" / "production_config_v6.json"
-MODEL_DATASET_PATH = ROOT / "data" / "processed" / "model_dataset.csv"
-GROUP_FEATURES_PATH = ROOT / "data" / "processed" / "world_cup_2026_group_stage_features.csv"
 MARKET_VALUES_PATH = ROOT / "data" / "processed" / "transfermarkt_market_values_clean.csv"
 POSITION_VALUES_PATH = ROOT / "data" / "processed" / "transfermarkt_position_values_2004_2026.csv"
 FIXTURES_PATH = ROOT / "data" / "raw" / "fixtures" / "world_cup_2026_group_stage.csv"
@@ -71,18 +72,6 @@ def make_v6_score_fn():
 
 
 @st.cache_data
-def load_model_dataset():
-    df = pd.read_csv(MODEL_DATASET_PATH)
-    df["date"] = pd.to_datetime(df["date"])
-    return df
-
-
-@st.cache_data
-def load_2026_group_features():
-    return pd.read_csv(GROUP_FEATURES_PATH)
-
-
-@st.cache_data
 def load_market_values():
     return pd.read_csv(MARKET_VALUES_PATH)
 
@@ -102,15 +91,6 @@ def load_fixtures():
 def load_raw_historical():
     from src.data.load_results import load_historical_results
     return load_historical_results(RAW_DATA_DIR)
-
-
-@st.cache_data
-def run_cached_simulation(_model, model_df, group_features):
-    return simulate_world_cup_2026(
-        model=_model,
-        model_df=model_df,
-        group_features=group_features,
-    )
 
 
 @st.cache_data
@@ -210,137 +190,6 @@ def show_match_predictor(model, raw_historical, market_values, position_values, 
         st.dataframe(X.T.rename(columns={X.index[0]: "value"}), use_container_width=True)
 
 
-def show_world_cup_dashboard(model, model_df, group_features):
-    st.header("🏆 World Cup 2026 Full Simulation")
-
-    results = run_cached_simulation(model, model_df, group_features)
-
-    champion = results["champion"]
-    runner_up = results["runner_up"]
-    third_place = results["third_place"]
-
-    c1, c2, c3 = st.columns(3)
-    c1.metric("Champion", champion)
-    c2.metric("Runner-up", runner_up)
-    c3.metric("Third Place", third_place)
-
-    st.info(
-        "This is a deterministic single-path simulation: each match uses the model's most likely score. "
-        "Later we can add Monte Carlo simulations for title probabilities."
-    )
-
-    tabs = st.tabs([
-        "Group Predictions",
-        "Group Standings",
-        "Round of 32",
-        "Knockout Bracket",
-        "Final Summary",
-        "Model Features",
-    ])
-
-    with tabs[0]:
-        st.subheader("Group Stage Predictions")
-        df = results["group_predictions"].copy()
-        st.dataframe(df, use_container_width=True, hide_index=True)
-
-    with tabs[1]:
-        st.subheader("Group Standings")
-        standings = results["standings"].copy()
-
-        for group in sorted(standings["group"].unique()):
-            st.markdown(f"### {group}")
-            gdf = standings[standings["group"] == group].copy()
-            st.dataframe(
-                gdf[
-                    [
-                        "position",
-                        "team",
-                        "played",
-                        "wins",
-                        "draws",
-                        "losses",
-                        "goals_for",
-                        "goals_against",
-                        "goal_diff",
-                        "points",
-                    ]
-                ],
-                use_container_width=True,
-                hide_index=True,
-            )
-
-    with tabs[2]:
-        st.subheader("Round of 32 Fixtures")
-        st.dataframe(results["r32_fixtures"], use_container_width=True, hide_index=True)
-
-    with tabs[3]:
-        st.subheader("Knockout Results")
-        knockout = results["knockout_results"].copy()
-
-        round_order = ["R32", "R16", "QF", "SF", "THIRD_PLACE", "FINAL"]
-
-        for round_name in round_order:
-            rdf = knockout[knockout["round"] == round_name].copy()
-            if rdf.empty:
-                continue
-
-            title = {
-                "R32": "Round of 32",
-                "R16": "Round of 16",
-                "QF": "Quarter Finals",
-                "SF": "Semi Finals",
-                "THIRD_PLACE": "Third Place Match",
-                "FINAL": "Final",
-            }.get(round_name, round_name)
-
-            st.markdown(f"### {title}")
-            st.dataframe(
-                rdf[
-                    [
-                        "match_slot",
-                        "team_a",
-                        "team_b",
-                        "pred_score",
-                        "lambda_a",
-                        "lambda_b",
-                        "team_a_win_prob",
-                        "draw_prob",
-                        "team_b_win_prob",
-                        "winner",
-                    ]
-                ],
-                use_container_width=True,
-                hide_index=True,
-            )
-
-    with tabs[4]:
-        st.subheader("Tournament Final")
-        final = results["knockout_results"][results["knockout_results"]["round"] == "FINAL"].iloc[0]
-        third = results["knockout_results"][results["knockout_results"]["round"] == "THIRD_PLACE"].iloc[0]
-
-        st.markdown(f"## 🏆 {champion}")
-        st.write(f"Final: **{final['team_a']} {final['pred_score']} {final['team_b']}**")
-        st.write(f"Winner: **{final['winner']}**")
-
-        st.markdown("### Third Place")
-        st.write(f"Third-place match: **{third['team_a']} {third['pred_score']} {third['team_b']}**")
-        st.write(f"Third place: **{third['winner']}**")
-
-    with tabs[5]:
-        st.subheader("Production Feature Columns")
-        st.write(f"Number of features: **{len(FEATURE_COLS)}**")
-        st.dataframe(pd.DataFrame({"feature": FEATURE_COLS}), use_container_width=True, hide_index=True)
-
-        st.subheader("2026 Feature Coverage")
-        missing = [c for c in FEATURE_COLS if c not in group_features.columns]
-        if missing:
-            st.error(f"Missing 2026 features: {missing}")
-        else:
-            st.success("All production features exist in the 2026 fixture dataset.")
-
-        st.dataframe(group_features.head(20), use_container_width=True, hide_index=True)
-
-
 def main():
     st.set_page_config(
         page_title="World Cup Score Predictor",
@@ -351,8 +200,6 @@ def main():
     st.title("⚽ World Cup Score Predictor")
     st.caption("Production model + 2026 tournament simulator")
 
-    model_df = load_model_dataset()
-    group_features = load_2026_group_features()
     market_values = load_market_values()
     position_values = load_position_values()
     fixtures = load_fixtures()
